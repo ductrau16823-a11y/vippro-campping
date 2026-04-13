@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3 dev.db \".tables\")",
+      "Bash(python -c ':*)",
+      "Bash(python db_helpers.py)",
+      "WebFetch(domain:localhost)",
+      "Bash(curl -s http://localhost:3000/)",
+      "Bash(wmic process:*)",
+      "Bash(netstat -ano)",
+      "Bash(sqlite3:*)",
+      "Bash(python dashboard_campaign.py)",
+      "Bash(python dashboard_server.py)",
+      "Bash(python -c \"import webbrowser; webbrowser.open\\('http://localhost:5050'\\)\")",
+      "Bash(taskkill //F //IM python.exe)",
+      "Bash(curl -s http://localhost:5050/api/projects)",
+      "Bash(npx prisma:*)",
+      "Bash(curl -s http://localhost:3000/api/campping-vip)",
+      "Bash(curl:*)",
+      "WebSearch",
+      "Bash(python -c \"import py_compile; py_compile.compile\\('create_ads_account.py', doraise=True\\); print\\('OK'\\)\")",
+      "Bash(gh auth:*)"
+    ]
+  }
+}
