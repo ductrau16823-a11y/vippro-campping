@@ -498,13 +498,15 @@ class CampaignCreator:
 
         # Scan lai — co the can Continue lan 2
         features = scan_page()
-        if "input:campaign_name" not in features and "cb:website_visits" in features:
-            # Co checkbox nhung chua co Campaign name — tick roi Continue
+        self.tracker.log(f"Scan lan 2: {sorted(features)[:6]}")
+
+        if "input:campaign_name" not in features:
+            # Chua co Campaign name — thu tick Website visits roi Continue
             for c in d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox"):
                 try:
                     if c.is_displayed() and "Website visits" in c.text and not is_checkbox_ticked(c):
                         js_click(c)
-                        self.tracker.log("Da tick Website visits")
+                        self.tracker.log("Tick Website visits (lan 2)")
                         time.sleep(1)
                         break
                 except Exception:
@@ -513,47 +515,57 @@ class CampaignCreator:
                 click_button("Agree and continue")
             time.sleep(8)
             check_all()
+            self.tracker.log(f"Sau Continue lan 2: {d.title}")
 
-        # Gio phai co checkbox + Campaign name
-        # Tick Website visits
+        # Scan lan 3 — gio phai co Campaign name
+        features = scan_page()
+        self.tracker.log(f"Scan lan 3: {sorted(features)[:6]}")
+
+        # Tick Website visits (neu chua tick)
         for c in d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox"):
             try:
                 if c.is_displayed() and "Website visits" in c.text and not is_checkbox_ticked(c):
                     js_click(c)
-                    self.tracker.log("Da tick Website visits")
+                    self.tracker.log("Tick Website visits")
                     time.sleep(1)
                     break
             except Exception:
                 pass
 
-        # Page view — TK cu dung conversion-goal-card, TK moi dung radio trong conversion-goal-picker
+        # Page view — TK cu dung conversion-goal-card, TK moi dung radio
         try:
             clicked_pv = False
-            # Thu conversion-goal-card truoc (TK cu)
             for el in d.find_elements(By.XPATH, "//conversion-goal-card[.//span[contains(text(), 'Page view')]]"):
-                if el.is_displayed():
-                    js_click(el)
-                    clicked_pv = True
-                    break
-            # Thu radio button (TK moi — conversion-goal-picker)
+                try:
+                    if el.is_displayed():
+                        js_click(el)
+                        clicked_pv = True
+                        break
+                except Exception:
+                    pass
             if not clicked_pv:
                 for el in d.find_elements(By.XPATH, "//conversion-goal-picker//material-radio[.//span[contains(text(), 'Page view')]] | //material-radio[.//span[contains(text(), 'Page view')]]"):
-                    if el.is_displayed():
-                        js_click(el)
-                        clicked_pv = True
-                        break
-            # Fallback — click bat ky element nao co text Page view
+                    try:
+                        if el.is_displayed():
+                            js_click(el)
+                            clicked_pv = True
+                            break
+                    except Exception:
+                        pass
             if not clicked_pv:
                 for el in d.find_elements(By.XPATH, "//*[contains(text(), 'Page view')]"):
-                    if el.is_displayed():
-                        js_click(el)
-                        clicked_pv = True
-                        break
+                    try:
+                        if el.is_displayed():
+                            js_click(el)
+                            clicked_pv = True
+                            break
+                    except Exception:
+                        pass
             if clicked_pv:
                 self.tracker.log("Da chon Page view")
                 time.sleep(1)
         except Exception:
-            pass
+            self.tracker.log("Khong chon duoc Page view", "warn")
 
         # Campaign name
         try:
@@ -566,10 +578,10 @@ class CampaignCreator:
             self.tracker.log("Khong dien duoc Campaign name", "warn")
         time.sleep(1)
 
-        # Enhanced conversions
-        for cb in d.find_elements(By.XPATH, "//enhanced-conversions-view//mat-checkbox"):
+        # Bo tick Enhanced conversions (co the o vi tri khac tuy TK)
+        for cb in d.find_elements(By.XPATH, "//enhanced-conversions-view//mat-checkbox | //mat-checkbox"):
             try:
-                if cb.is_displayed() and is_checkbox_ticked(cb):
+                if cb.is_displayed() and "enhanced conversions" in cb.text.lower() and is_checkbox_ticked(cb):
                     js_click(cb)
                     self.tracker.log("Da bo tick Enhanced conversions")
                     break
