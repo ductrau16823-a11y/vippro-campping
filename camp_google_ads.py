@@ -318,44 +318,81 @@ class CampaignCreator:
 
         # ==================== MAIN FLOW ====================
 
+        # === BUOC 0: Scan trang hien tai — navigate ve Campaigns neu can ===
+        self.tracker.set_current(step="Buoc 0: Scan trang")
+        check_all()
+        current_url = d.current_url.lower()
+        current_title = d.title.lower()
+        self.tracker.log(f"Trang hien tai: {d.title}")
+
+        # Neu dang o trang khac (verification, billing, signup...) -> navigate ve Campaigns
+        needs_navigate = False
+        if "selectaccount" in current_url:
+            self.tracker.log("Dang o Select Account — bo qua, camp_runner da xu ly")
+        elif any(kw in current_url for kw in ["verification", "billing", "signup/tagging", "policy"]):
+            self.tracker.log("Dang o trang phu — navigate ve Campaigns")
+            needs_navigate = True
+        elif "overview" in current_title or "ads" in current_title:
+            self.tracker.log("Dang o Overview/Ads — san sang")
+        elif "campaign" in current_title:
+            self.tracker.log("Dang o Campaigns — san sang")
+        else:
+            self.tracker.log(f"Trang khong ro: {d.title} — thu navigate ve")
+            needs_navigate = True
+
+        if needs_navigate:
+            cid = self.customer_id.replace("-", "")
+            d.get(f"https://ads.google.com/aw/campaigns?ocid={cid}")
+            time.sleep(10)
+            check_all()
+            self.tracker.log(f"Da navigate ve: {d.title}")
+
         # === BUOC 4-5: Click Create > Campaign ===
         self.tracker.set_current(step="Buoc 4-5: Create > Campaign")
         check_all()
-        try:
-            # Thu nhieu cach tim nut Create / New campaign
-            clicked = False
-            for xpath in [
-                "//material-button[@aria-label='New campaign']",
-                "//button[@aria-label='New campaign']",
-                "//material-fab-menu//material-fab",
-                "//uber-create//material-fab",
-                "//material-fab",
-            ]:
-                try:
-                    el = d.find_element(By.XPATH, xpath)
-                    if el.is_displayed():
-                        action_click(el)
-                        clicked = True
-                        self.tracker.log(f"Click {xpath}")
-                        time.sleep(3)
-                        # Neu la fab, can chon Campaign trong menu
-                        if "fab" in xpath:
-                            for mi in d.find_elements(By.XPATH, "//material-select-item"):
-                                if mi.is_displayed() and "Campaign" in mi.text:
-                                    js_click(mi)
-                                    time.sleep(3)
-                                    break
-                        break
-                except Exception:
-                    pass
-            if not clicked:
-                self.tracker.log("Khong tim thay nut Create!", "error")
-                return False
-            time.sleep(5)
-            self.tracker.log("Da click Create > Campaign", "success")
-        except Exception:
+        time.sleep(3)
+
+        # Thu nhieu cach tim nut Create / New campaign
+        clicked = False
+        for xpath in [
+            "//material-button[@aria-label='New campaign']",
+            "//button[@aria-label='New campaign']",
+            "//material-fab-menu//material-fab",
+            "//uber-create//material-fab",
+            "//material-fab",
+        ]:
+            try:
+                el = d.find_element(By.XPATH, xpath)
+                if el.is_displayed():
+                    action_click(el)
+                    clicked = True
+                    self.tracker.log(f"Click {xpath}")
+                    time.sleep(3)
+                    # Neu la fab, can chon Campaign trong menu
+                    if "fab" in xpath:
+                        for mi in d.find_elements(By.XPATH, "//material-select-item"):
+                            if mi.is_displayed() and "Campaign" in mi.text:
+                                js_click(mi)
+                                time.sleep(3)
+                                break
+                    break
+            except Exception:
+                pass
+
+        if not clicked:
+            self.tracker.log("Khong tim thay nut Create — thu navigate truc tiep", "warn")
+            cid = self.customer_id.replace("-", "")
+            d.get(f"https://ads.google.com/aw/campaigns/new?ocid={cid}")
+            time.sleep(10)
+            check_all()
+            clicked = True
+
+        if not clicked:
             self.tracker.log("Khong tim thay nut Create!", "error")
             return False
+
+        time.sleep(5)
+        self.tracker.log("Da click Create > Campaign", "success")
 
         # Doi trang New campaign load
         try:
