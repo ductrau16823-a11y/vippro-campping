@@ -18,9 +18,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 
 # ===== CONFIG =====
-PORT = "62030"
-ACCOUNT_ID = "686-725-3911"
-CAMP_INDEX = 3  # Camp thu 3 ComfiLife
+PORT = "58405"
+ACCOUNT_ID = "850-949-4993"
+CAMP_INDEX = 1  # Camp dau tien tren TK moi
 
 # Lay config tu DB
 res = requests.get("http://localhost:3000/api/campping-vip", timeout=5)
@@ -468,10 +468,19 @@ try:
 
     # Buoc 23: Publish
     print("\n[23] Publish")
-    for w in range(6):
+    for w in range(10):
         chk()
         if find_btn("Publish campaign"): log("Tim thay Publish!"); break
-        log(f"Doi... ({(w+1)*10}s)"); time.sleep(10)
+        # Scan — 2FA co the reset ve Budget/Keywords/Settings
+        has_budget = any(r.is_displayed() and "Set custom budget" in r.text for r in D.find_elements(By.TAG_NAME, "material-radio"))
+        has_kw = any(ta.is_displayed() for ta in D.find_elements(By.XPATH, '//textarea[contains(@aria-label,"keyword")]'))
+        has_settings = any(c.is_displayed() and "search-checkbox" in (c.get_attribute("class") or "") for c in D.find_elements(By.XPATH, "//material-checkbox"))
+        if has_budget or has_kw or has_settings:
+            page_name = "Budget" if has_budget else ("Keywords" if has_kw else "Settings")
+            log(f"Dang o {page_name} (2FA reset) — Next...")
+            click_btn("Next"); time.sleep(10 if has_budget else 8); chk()
+            continue
+        log(f"Doi... ({(w+1)*5}s)"); time.sleep(5)
     # Click
     for att in range(3):
         chk()

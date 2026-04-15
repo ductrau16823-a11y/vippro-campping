@@ -413,12 +413,14 @@ def run_single_account(acc, config):
             return
         time.sleep(3)
 
-        # Check TK: suspended / needs_setup / ok
+        # Check TK: suspended thi skip, needs_setup thi van thu chay (dang test)
         account_db_id = acc.get("dbId")
         tk_status = check_account_status(driver, profile_name, account_id, account_db_id)
-        if tk_status != "ok":
-            log(f"[{profile_name}] TK {account_id} status={tk_status} — SKIP!", "warn")
+        if tk_status == "suspended":
+            log(f"[{profile_name}] TK {account_id} BI SUSPENDED — SKIP!", "error")
             return
+        if tk_status == "needs_setup":
+            log(f"[{profile_name}] TK {account_id} chua setup xong — van thu chay...", "warn")
 
         log(f"[{profile_name}] TK {account_id} — bat dau len camp", "success")
 

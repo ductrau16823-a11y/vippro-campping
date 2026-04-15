@@ -842,9 +842,10 @@ class CampaignCreator:
         # === BUOC 23: Publish ===
         self.tracker.set_current(step="Buoc 23: Publish")
 
-        # Doi nut Publish (toi da 60s)
-        for wait_round in range(6):
+        # Doi nut Publish — neu 2FA reset trang thi scan lai va Next cho den Review
+        for wait_round in range(10):
             check_all()
+            # Tim nut Publish
             found = False
             for b in d.find_elements(By.XPATH, "//material-button | //button"):
                 try:
@@ -855,8 +856,33 @@ class CampaignCreator:
                     pass
             if found:
                 break
-            self.tracker.log(f"Doi Publish... ({(wait_round + 1) * 10}s)")
-            time.sleep(10)
+
+            # Chua thay Publish — scan xem dang o dau
+            features_now = scan_page()
+            if "radio:custom_budget" in features_now or "input:budget" in features_now:
+                # Dang o Budget (2FA reset) — Next de sang Review
+                self.tracker.log("Dang o Budget (2FA reset) — Next...")
+                click_button("Next")
+                time.sleep(15)
+                check_all()
+                continue
+            elif "ta:keywords" in features_now or "input:final_url" in features_now:
+                # Dang o Keywords (2FA reset xa hon) — Next
+                self.tracker.log("Dang o Keywords (2FA reset) — Next...")
+                click_button("Next")
+                time.sleep(10)
+                check_all()
+                continue
+            elif "cb:search_partners" in features_now or "cb:display_network" in features_now:
+                # Dang o Settings — Next
+                self.tracker.log("Dang o Settings (2FA reset) — Next...")
+                click_button("Next")
+                time.sleep(10)
+                check_all()
+                continue
+
+            self.tracker.log(f"Doi Publish... ({(wait_round + 1) * 5}s)")
+            time.sleep(5)
 
         # Click Publish (retry 3 lan)
         for attempt in range(3):
