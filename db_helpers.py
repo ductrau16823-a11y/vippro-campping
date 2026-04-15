@@ -36,7 +36,7 @@ def _connect():
 # =====================================================================
 
 def get_verified_accounts():
-    """Lay danh sach AdsAccount (status=verified) kem thong tin Profile + Gmail.
+    """Lay danh sach AdsAccount co the len camp (verified + paused) kem thong tin Profile + Gmail.
 
     Return: list of dict {
         accountId, ads_status, profileId,
@@ -59,7 +59,7 @@ def get_verified_accounts():
             FROM AdsAccount a
             JOIN Profile p ON a.profileId = p.id
             LEFT JOIN Gmail g ON p.gmailId = g.id
-            WHERE a.status = 'verified'
+            WHERE a.status IN ('verified', 'paused')
             ORDER BY a.createdAt
         """)
         return [dict(row) for row in cur.fetchall()]
