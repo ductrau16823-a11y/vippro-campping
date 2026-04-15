@@ -54,16 +54,30 @@ def update_account_status(account_db_id, new_status, notes=None):
         log(f"Loi update DB: {e}", "error")
 
 
-def check_needs_setup(driver, profile_name):
-    """Check xem TK Ads con dang o trang setup hay da vao duoc dashboard.
+def check_account_status(driver, profile_name, account_id, account_db_id=None):
+    """Check trang thai TK Ads — xem co suspended, needs setup, hay OK.
 
-    Return: True neu can setup (chua hoan thanh), False neu OK.
+    Return: "ok" | "suspended" | "needs_setup"
     """
     try:
         page_source = driver.page_source.lower()
         current_url = driver.current_url.lower()
 
-        # Cac dau hieu TK chua setup xong
+        # TK bi suspended — KHONG len camp, update DB de sau khang
+        suspended_indicators = [
+            "your account is suspended",
+            "account suspended",
+            "this account has been suspended",
+            "account is currently suspended",
+        ]
+        for indicator in suspended_indicators:
+            if indicator in page_source:
+                log(f"[{profile_name}] TK {account_id} BI SUSPENDED — skip!", "error")
+                if account_db_id:
+                    update_account_status(account_db_id, "suspended", "Account is suspended")
+                return "suspended"
+
+        # TK chua setup xong
         setup_indicators = [
             "complete your account setup",
             "finish setting up",
@@ -76,15 +90,16 @@ def check_needs_setup(driver, profile_name):
             "/aw/billing/setup",
             "verify your business",
         ]
-
         for indicator in setup_indicators:
             if indicator in page_source or indicator in current_url:
-                log(f"[{profile_name}] TK chua setup xong: tim thay '{indicator}'", "warn")
-                return True
+                log(f"[{profile_name}] TK {account_id} chua setup xong: '{indicator}'", "warn")
+                if account_db_id:
+                    update_account_status(account_db_id, "needs_setup", f"Tim thay: {indicator}")
+                return "needs_setup"
 
-        return False
+        return "ok"
     except Exception:
-        return False
+        return "ok"
 
 # Thread-safe log
 _log_lock = threading.Lock()
@@ -398,12 +413,11 @@ def run_single_account(acc, config):
             return
         time.sleep(3)
 
-        # Check setup — TK chua setup xong thi SKIP, khong len camp
-        if check_needs_setup(driver, profile_name):
-            log(f"[{profile_name}] TK {account_id} chua setup xong — SKIP, khong len camp!", "warn")
-            account_db_id = acc.get("dbId")
-            if account_db_id:
-                update_account_status(account_db_id, "needs_setup", "TK chua setup xong (billing/verify)")
+        # Check TK: suspended / needs_setup / ok
+        account_db_id = acc.get("dbId")
+        tk_status = check_account_status(driver, profile_name, account_id, account_db_id)
+        if tk_status != "ok":
+            log(f"[{profile_name}] TK {account_id} status={tk_status} — SKIP!", "warn")
             return
 
         log(f"[{profile_name}] TK {account_id} — bat dau len camp", "success")

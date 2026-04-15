@@ -60,6 +60,7 @@ def get_verified_accounts():
             JOIN Profile p ON a.profileId = p.id
             LEFT JOIN Gmail g ON p.gmailId = g.id
             WHERE a.status IN ('verified', 'paused')
+            AND a.status NOT IN ('suspended', 'needs_setup', 'failed')
             ORDER BY a.createdAt
         """)
         return [dict(row) for row in cur.fetchall()]
