@@ -20,7 +20,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 # ===== CONFIG =====
 PORT = "62030"
 ACCOUNT_ID = "686-725-3911"
-CAMP_INDEX = 2  # Camp thu 2 ComfiLife
+CAMP_INDEX = 3  # Camp thu 3 ComfiLife
 
 # Lay config tu DB
 res = requests.get("http://localhost:3000/api/campping-vip", timeout=5)
@@ -422,8 +422,24 @@ try:
             if f < len(vis): ct(vis[f], desc); f += 1; time.sleep(0.5)
         log(f"{f}/{len(CFG['descriptions'])} descriptions")
     except Exception as e: log(f"LOI desc: {e}")
-    # Next
+    # Next — 2FA hay nhay ra o buoc nay
     chk(); click_btn("Next"); time.sleep(10); chk()
+
+    # Sau 2FA co the bi reset ve Budget — scan lai
+    # Neu van o trang keywords (co textarea keywords) thi Next lai
+    for retry_21 in range(3):
+        has_budget_radio = any(r.is_displayed() and "Set custom budget" in r.text for r in D.find_elements(By.TAG_NAME, "material-radio"))
+        has_publish = find_btn("Publish campaign") is not None
+        has_kw = any(ta.is_displayed() for ta in D.find_elements(By.XPATH, '//textarea[contains(@aria-label,"keyword")]'))
+        if has_budget_radio or has_publish:
+            break  # Da o Budget hoac Review — OK
+        if has_kw:
+            log(f"Van o Keywords (2FA reset?) — Next lai ({retry_21+1})")
+            click_btn("Next"); time.sleep(10); chk()
+            continue
+        # Khong biet o dau — thu Next
+        click_btn("Next"); time.sleep(8); chk()
+        break
 
     # Buoc 22: Budget
     print("\n[22] Budget")
@@ -467,12 +483,33 @@ try:
         if "New campaign" not in D.title and "Search campaign" not in D.title: break
         log(f"Van Review (lan {att+1})"); time.sleep(5)
 
-    # Dong Google Tag
+    # === SAU PUBLISH: Policy Review + Google Tag ===
     time.sleep(5)
-    try:
-        cb = D.find_element(By.XPATH, "//material-button[@aria-label='Close']")
-        if cb.is_displayed(): ac(cb); log("Dong Google Tag"); time.sleep(3)
-    except: pass
+    chk()
+
+    # Policy Review: "Your campaign is published, but it can't run yet" -> Next
+    for _ in range(3):
+        if "policy" in D.current_url.lower() or "can't run" in D.page_source[:5000]:
+            log("Trang Policy Review — an Next")
+            click_btn("Next")
+            time.sleep(5)
+            chk()
+        else:
+            break
+
+    # Google Tag: /aw/signup/tagging -> Close (X)
+    time.sleep(3)
+    if "tagging" in D.current_url.lower() or "signup" in D.current_url.lower():
+        try:
+            cb = D.find_element(By.XPATH, "//material-button[@aria-label='Close']")
+            if cb.is_displayed(): ac(cb); log("Dong Google Tag"); time.sleep(3)
+        except: pass
+    else:
+        # Thu dong Close neu co
+        try:
+            cb = D.find_element(By.XPATH, "//material-button[@aria-label='Close']")
+            if cb.is_displayed(): ac(cb); log("Dong trang post-publish"); time.sleep(3)
+        except: pass
 
     print(f"\n{'='*50}")
     print(f"HOAN THANH! Title: {D.title}")

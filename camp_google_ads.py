@@ -735,14 +735,26 @@ class CampaignCreator:
         time.sleep(10)
         check_all()
 
-        # Sau 2FA co the bi reset ve Budget — scan lai xem dang o dau
-        features_after_21 = scan_page()
-        if "radio:custom_budget" in features_after_21 or "input:budget" in features_after_21:
-            self.tracker.log("Dang o trang Budget (co the do 2FA reset)", "warn")
-        elif "btn:publish" in features_after_21:
-            self.tracker.log("Da o trang Review — skip Budget")
-            # Nhay thang xuong Publish
-            pass  # Se xu ly o buoc 23 ben duoi
+        # Sau 2FA co the bi reset — scan lai xem dang o dau
+        for retry_after_21 in range(3):
+            features_after_21 = scan_page()
+            if "radio:custom_budget" in features_after_21 or "input:budget" in features_after_21:
+                self.tracker.log("Dang o trang Budget", "warn")
+                break
+            elif "btn:publish" in features_after_21:
+                self.tracker.log("Da o trang Review — skip Budget")
+                break
+            elif "ta:keywords" in features_after_21 or "input:final_url" in features_after_21:
+                self.tracker.log(f"Van o Keywords (2FA reset?) — Next lai ({retry_after_21 + 1})", "warn")
+                click_button("Next")
+                time.sleep(10)
+                check_all()
+                continue
+            else:
+                click_button("Next")
+                time.sleep(8)
+                check_all()
+                break
 
         # === BUOC 22: Budget ===
         self.tracker.set_current(step="Buoc 22: Budget")
@@ -830,8 +842,22 @@ class CampaignCreator:
             self.tracker.log(f"Van o trang Review (lan {attempt + 1})", "warn")
             time.sleep(5)
 
-        # Dong Google Tag
+        # === SAU PUBLISH: Policy Review + Google Tag ===
         time.sleep(5)
+        check_all()
+
+        # Policy Review: "Your campaign is published, but it can't run yet" -> Next
+        for _ in range(3):
+            if "policy" in d.current_url.lower() or "can't run" in (d.page_source[:5000] if d.page_source else ""):
+                self.tracker.log("Trang Policy Review — an Next")
+                click_button("Next")
+                time.sleep(5)
+                check_all()
+            else:
+                break
+
+        # Google Tag: /aw/signup/tagging -> Close (X)
+        time.sleep(3)
         try:
             close_btn = d.find_element(By.XPATH, "//material-button[@aria-label='Close']")
             if close_btn.is_displayed():
