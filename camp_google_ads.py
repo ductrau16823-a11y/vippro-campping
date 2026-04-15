@@ -275,6 +275,13 @@ class CampaignCreator:
                                 self.tracker.log("[POPUP] Leave")
                                 time.sleep(3)
                                 break
+                    elif "Fix errors" in dialog.text and "Discard" in dialog.text:
+                        for b in dialog.find_elements(By.XPATH, ".//material-button | .//button"):
+                            if b.is_displayed() and b.text.strip() == "Fix errors":
+                                action_click(b)
+                                self.tracker.log("[POPUP] Fix errors — quay lai sua loi")
+                                time.sleep(5)
+                                break
                 except Exception:
                     pass
 
@@ -842,9 +849,11 @@ class CampaignCreator:
         # === BUOC 23: Publish ===
         self.tracker.set_current(step="Buoc 23: Publish")
 
-        # Doi nut Publish — neu 2FA reset trang thi scan lai va Next cho den Review
-        for wait_round in range(10):
+        # Doi nut Publish — neu 2FA reset hoac Fix errors, scan lai va xu ly
+        budget = campaign_config.get("budget", "5")
+        for wait_round in range(12):
             check_all()
+
             # Tim nut Publish
             found = False
             for b in d.find_elements(By.XPATH, "//material-button | //button"):
@@ -859,23 +868,43 @@ class CampaignCreator:
 
             # Chua thay Publish — scan xem dang o dau
             features_now = scan_page()
+
             if "radio:custom_budget" in features_now or "input:budget" in features_now:
-                # Dang o Budget (2FA reset) — Next de sang Review
-                self.tracker.log("Dang o Budget (2FA reset) — Next...")
+                # Dang o Budget — dien lai budget neu trong roi Next
+                self.tracker.log("Dang o Budget — check + Next...")
+                try:
+                    bi = d.find_element(By.XPATH, "//input[contains(@aria-label, 'budget') or contains(@aria-label, 'Budget')]")
+                    if bi.is_displayed():
+                        val = bi.get_attribute("value") or ""
+                        if not val or val == "0":
+                            clear_and_type(bi, budget)
+                            self.tracker.log(f"Dien lai budget: ${budget}")
+                except Exception:
+                    pass
                 click_button("Next")
                 time.sleep(15)
                 check_all()
                 continue
-            elif "ta:keywords" in features_now or "input:final_url" in features_now:
-                # Dang o Keywords (2FA reset xa hon) — Next
-                self.tracker.log("Dang o Keywords (2FA reset) — Next...")
+
+            elif "ta:keywords" in features_now or "input:final_url" in features_now or "input:headlines" in features_now:
+                # Dang o Keywords/Ads — Next (data van con)
+                self.tracker.log("Dang o Keywords/Ads — Next...")
                 click_button("Next")
                 time.sleep(10)
                 check_all()
                 continue
+
             elif "cb:search_partners" in features_now or "cb:display_network" in features_now:
                 # Dang o Settings — Next
-                self.tracker.log("Dang o Settings (2FA reset) — Next...")
+                self.tracker.log("Dang o Settings — Next...")
+                click_button("Next")
+                time.sleep(10)
+                check_all()
+                continue
+
+            elif "section:bidding" in features_now:
+                # Dang o Bidding — Next
+                self.tracker.log("Dang o Bidding — Next...")
                 click_button("Next")
                 time.sleep(10)
                 check_all()
