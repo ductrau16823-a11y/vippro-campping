@@ -946,9 +946,14 @@ class CampaignCreator:
             self.tracker.log(f"Doi Publish... ({(wait_round + 1) * 5}s)")
             time.sleep(5)
 
-        # Click Publish (retry 3 lan)
-        for attempt in range(3):
+        # Click Publish (retry 5 lan — xu ly Fix errors dialog neu co)
+        for attempt in range(5):
+            # QUAN TRONG: check dialog Fix errors TRUOC khi click Publish
+            # Dialog de len Publish button nen phai dong dialog truoc
             check_all()
+
+            # Tim va click Publish
+            pub_clicked = False
             for b in d.find_elements(By.XPATH, "//material-button | //button"):
                 try:
                     if b.is_displayed() and "Publish campaign" in b.text:
@@ -956,10 +961,16 @@ class CampaignCreator:
                         time.sleep(1)
                         action_click(b)
                         self.tracker.log(f"Da click Publish! (lan {attempt + 1})", "success")
+                        pub_clicked = True
                         time.sleep(10)
                         break
                 except Exception:
                     pass
+
+            if not pub_clicked:
+                # Khong tim thay Publish — co the dialog che, thu Next
+                click_button("Next")
+                time.sleep(10)
 
             check_all()
             if "New campaign" not in d.title and "Search campaign" not in d.title:
