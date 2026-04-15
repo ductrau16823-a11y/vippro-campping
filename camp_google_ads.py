@@ -526,14 +526,32 @@ class CampaignCreator:
             except Exception:
                 pass
 
-        # Page view
+        # Page view — TK cu dung conversion-goal-card, TK moi dung radio trong conversion-goal-picker
         try:
-            for el in d.find_elements(By.XPATH, "//conversion-goal-card[.//span[contains(text(), 'Page view')]] | //*[contains(text(), 'Page view')]"):
+            clicked_pv = False
+            # Thu conversion-goal-card truoc (TK cu)
+            for el in d.find_elements(By.XPATH, "//conversion-goal-card[.//span[contains(text(), 'Page view')]]"):
                 if el.is_displayed():
                     js_click(el)
-                    self.tracker.log("Da chon Page view")
-                    time.sleep(1)
+                    clicked_pv = True
                     break
+            # Thu radio button (TK moi — conversion-goal-picker)
+            if not clicked_pv:
+                for el in d.find_elements(By.XPATH, "//conversion-goal-picker//material-radio[.//span[contains(text(), 'Page view')]] | //material-radio[.//span[contains(text(), 'Page view')]]"):
+                    if el.is_displayed():
+                        js_click(el)
+                        clicked_pv = True
+                        break
+            # Fallback — click bat ky element nao co text Page view
+            if not clicked_pv:
+                for el in d.find_elements(By.XPATH, "//*[contains(text(), 'Page view')]"):
+                    if el.is_displayed():
+                        js_click(el)
+                        clicked_pv = True
+                        break
+            if clicked_pv:
+                self.tracker.log("Da chon Page view")
+                time.sleep(1)
         except Exception:
             pass
 
