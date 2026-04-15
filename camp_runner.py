@@ -354,9 +354,26 @@ def run_single_account(acc, config):
 
     try:
         log(f"[{profile_name}] Dang mo GenLogin profile {resolved_id}...")
-        start_result = start_profile(resolved_id)
-        debugger_addr = get_debugger_address(start_result)
-        browser_ver = get_browser_version(start_result)
+        # Check profile da running chua — neu roi thi lay port luon
+        debugger_addr = None
+        browser_ver = None
+        try:
+            running_res = requests.get(f"http://localhost:55550/backend/profiles/running", timeout=5)
+            for rp in running_res.json().get("data", []):
+                if str(rp.get("id")) == str(resolved_id):
+                    port = rp.get("port")
+                    if port:
+                        debugger_addr = f"127.0.0.1:{port}"
+                        browser_ver = rp.get("browser_version")
+                        log(f"[{profile_name}] Profile da mo san, port {port}")
+                    break
+        except Exception:
+            pass
+
+        if not debugger_addr:
+            start_result = start_profile(resolved_id)
+            debugger_addr = get_debugger_address(start_result)
+            browser_ver = get_browser_version(start_result)
 
         if not debugger_addr:
             raise Exception(f"Khong lay duoc debugger address tu profile {resolved_id}")
@@ -405,8 +422,9 @@ def run_single_account(acc, config):
             "name": config.get("name", "Campaign"),
             "goal": "traffic",
             "type": (config.get("campaignType") or "search").lower(),
-            "budget": config.get("budget", "5"),
+            "budget": str(config.get("budget") or "5"),
             "bidding": _map_bidding(config.get("bidding", "")),
+            "cpc": str(config.get("cpc") or ""),
             "adgroup_name": f"AG_{config.get('name', 'Group')}",
             "keywords": [k.strip() for k in (config.get("adsKey") or "").split("|") if k.strip()],
             "final_url": config.get("link1", ""),
@@ -420,9 +438,20 @@ def run_single_account(acc, config):
             "gender": config.get("gender", ""),
         }
 
-        log(f"[{profile_name}] Dang tao campaign: {campaign_config['name']}")
+        # Dem so camp da co tren TK nay de danh so (viltrox 1, viltrox 2...)
+        camp_index = 1
         try:
-            success = creator.run_campaign_flow(campaign_config, skip_navigate=True)
+            from api_helpers import fetch_ads_account_by_id
+            acc_detail = fetch_ads_account_by_id(account_id)
+            if acc_detail:
+                existing_count = acc_detail.get("_count", {}).get("campaigns", 0)
+                camp_index = existing_count + 1
+        except Exception:
+            pass
+
+        log(f"[{profile_name}] Dang tao campaign: {campaign_config['name']} (#{camp_index})")
+        try:
+            success = creator.run_campaign_flow(campaign_config, skip_navigate=True, camp_index=camp_index)
             if success:
                 log(f"[{profile_name}] Campaign '{campaign_config['name']}' DA PUBLISH THANH CONG!", "success")
             else:
