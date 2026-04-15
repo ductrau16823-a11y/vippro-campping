@@ -50,7 +50,7 @@ STATUS_FILE = "status.json"
 # ============================================================
 ADS_HOME_URL = "https://ads.google.com/"
 ADS_CAMPAIGNS_URL_TEMPLATE = "https://ads.google.com/aw/campaigns?ocid={customer_id}"
-ADS_NEW_CAMPAIGN_URL_TEMPLATE = "https://ads.google.com/aw/campaigns/new?ocid={customer_id}"
+ADS_NEW_CAMPAIGN_URL_TEMPLATE = "https://ads.google.com/aw/campaigns/new"
 
 # ============================================================
 # NAVIGATION SELECTORS
@@ -69,21 +69,25 @@ SEL_ACCOUNT_ID = ("xpath", ".//span[contains(@class, 'account-id')]")
 SEL_NEW_CAMPAIGN_BTN = ("xpath", "//material-button[contains(@aria-label, 'New campaign') or contains(@aria-label, 'campaign')]")
 SEL_NEW_CAMPAIGN_PLUS = ("xpath", "//material-fab[contains(@class, 'new-entity')]")
 
-# Campaign goal selection
-SEL_GOAL_SALES = ("xpath", "//div[contains(@class, 'goal-card')]//span[contains(text(), 'Sales')]")
-SEL_GOAL_LEADS = ("xpath", "//div[contains(@class, 'goal-card')]//span[contains(text(), 'Leads')]")
-SEL_GOAL_TRAFFIC = ("xpath", "//div[contains(@class, 'goal-card')]//span[contains(text(), 'Website traffic')]")
-SEL_GOAL_AWARENESS = ("xpath", "//div[contains(@class, 'goal-card')]//span[contains(text(), 'Awareness')]")
-SEL_GOAL_WITHOUT = ("xpath", "//div[contains(@class, 'goal-card')]//span[contains(text(), 'without a goal')]")
+# Campaign goal selection (Google Ads 2026 — class: unified-goals-card)
+SEL_GOAL_SALES = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and contains(text(), 'Sales')]")
+SEL_GOAL_LEADS = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and contains(text(), 'Leads')]")
+SEL_GOAL_TRAFFIC = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and contains(text(), 'Website traffic')]")
+SEL_GOAL_AWARENESS = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and contains(text(), 'Awareness')]")
+SEL_GOAL_WITHOUT = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and contains(text(), 'without guidance')]")
 
-# Campaign type selection
-SEL_TYPE_SEARCH = ("xpath", "//div[contains(@class, 'campaign-type')]//span[contains(text(), 'Search')]")
-SEL_TYPE_DISPLAY = ("xpath", "//div[contains(@class, 'campaign-type')]//span[contains(text(), 'Display')]")
-SEL_TYPE_PERFORMANCE_MAX = ("xpath", "//div[contains(@class, 'campaign-type')]//span[contains(text(), 'Performance Max')]")
+# Campaign type selection (Google Ads 2026 — same class as goals)
+SEL_TYPE_SEARCH = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and text()='Search']")
+SEL_TYPE_DISPLAY = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and text()='Display']")
+SEL_TYPE_VIDEO = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and text()='Video']")
+SEL_TYPE_SHOPPING = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and text()='Shopping']")
+SEL_TYPE_APP = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and contains(text(), 'App promotion')]")
+SEL_TYPE_PERFORMANCE_MAX = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and text()='Performance Max']")
+SEL_TYPE_DEMAND_GEN = ("xpath", "//span[contains(@class, 'unified-goals-card-title') and text()='Demand Gen']")
 
-# Continue / Next buttons
-SEL_CONTINUE_BTN = ("xpath", "//material-button[contains(@class, 'continue') or .//span[contains(text(), 'Continue')]]")
-SEL_NEXT_BTN = ("xpath", "//material-button[.//span[contains(text(), 'Next')]]")
+# Continue / Next buttons (Google Ads 2026)
+SEL_CONTINUE_BTN = ("xpath", "//button[contains(text(), 'Continue')]")
+SEL_NEXT_BTN = ("xpath", "//button[contains(text(), 'Next')] | //material-button[.//span[contains(text(), 'Next')]]")
 
 # ============================================================
 # BUDGET & BIDDING SELECTORS
