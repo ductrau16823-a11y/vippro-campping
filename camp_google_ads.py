@@ -332,17 +332,50 @@ class CampaignCreator:
         current_title = d.title.lower()
         self.tracker.log(f"Trang hien tai: {d.title}")
 
-        # Neu dang o trang khac (verification, billing, signup...) -> navigate ve Campaigns
+        # Xu ly trang hien tai truoc khi bat dau
         needs_navigate = False
+
+        # Sign in / Account Chooser — can login lai
+        if "sign in" in current_title or "accounts.google.com" in current_url:
+            self.tracker.log("Dang o trang Sign in — can login lai!")
+            # Thu click vao email trong account chooser
+            try:
+                for el in d.find_elements(By.XPATH, "//div[@data-identifier]"):
+                    if el.is_displayed():
+                        action_click(el)
+                        self.tracker.log(f"Click account {el.get_attribute('data-identifier')}")
+                        time.sleep(8)
+                        break
+            except Exception:
+                pass
+            # Sau login co the can chon TK Ads
+            if "selectaccount" in d.current_url:
+                cid = self.customer_id
+                for item in d.find_elements(By.CSS_SELECTOR, "material-list-item"):
+                    if cid in item.text and "Setup in progress" not in item.text:
+                        item.click()
+                        self.tracker.log(f"Chon TK {cid}")
+                        time.sleep(10)
+                        break
+            # Doi trang load
+            time.sleep(5)
+            current_url = d.current_url.lower()
+            current_title = d.title.lower()
+
         if "selectaccount" in current_url:
-            self.tracker.log("Dang o Select Account — bo qua, camp_runner da xu ly")
+            self.tracker.log("Dang o Select Account — chon TK...")
+            cid = self.customer_id
+            for item in d.find_elements(By.CSS_SELECTOR, "material-list-item"):
+                if cid in item.text and "Setup in progress" not in item.text:
+                    item.click()
+                    self.tracker.log(f"Chon TK {cid}")
+                    time.sleep(10)
+                    break
         elif any(kw in current_url for kw in ["verification", "billing", "signup/tagging", "policy"]):
             self.tracker.log("Dang o trang phu — navigate ve Campaigns")
             needs_navigate = True
-        elif "overview" in current_title or "ads" in current_title:
-            self.tracker.log("Dang o Overview/Ads — san sang")
-        elif "campaign" in current_title:
-            self.tracker.log("Dang o Campaigns — san sang")
+        elif "overview" in current_title or "campaigns" in current_title:
+            self.tracker.log("Dang o Overview/Campaigns — san sang")
         else:
             self.tracker.log(f"Trang khong ro: {d.title} — thu navigate ve")
             needs_navigate = True
