@@ -55,9 +55,10 @@ def update_account_status(account_db_id, new_status, notes=None):
 
 
 def check_account_status(driver, profile_name, account_id, account_db_id=None):
-    """Check trang thai TK Ads — xem co suspended, needs setup, hay OK.
+    """Check trang thai TK Ads — xem co suspended hay OK.
+    Neu gap trang billing/setup thi reload lai thay vi skip.
 
-    Return: "ok" | "suspended" | "needs_setup"
+    Return: "ok" | "suspended"
     """
     try:
         page_source = driver.page_source.lower()
@@ -77,7 +78,7 @@ def check_account_status(driver, profile_name, account_id, account_db_id=None):
                     update_account_status(account_db_id, "suspended", "Account is suspended")
                 return "suspended"
 
-        # TK chua setup xong
+        # TK gap trang billing/setup — reload lai trang Campaigns
         setup_indicators = [
             "complete your account setup",
             "finish setting up",
@@ -92,10 +93,21 @@ def check_account_status(driver, profile_name, account_id, account_db_id=None):
         ]
         for indicator in setup_indicators:
             if indicator in page_source or indicator in current_url:
-                log(f"[{profile_name}] TK {account_id} chua setup xong: '{indicator}'", "warn")
-                if account_db_id:
-                    update_account_status(account_db_id, "needs_setup", f"Tim thay: {indicator}")
-                return "needs_setup"
+                log(f"[{profile_name}] Gap trang '{indicator}' — reload lai...", "warn")
+                # Navigate lai ve Campaigns
+                cid = account_id.replace("-", "")
+                driver.get(f"https://ads.google.com/aw/campaigns?ocid={cid}")
+                time.sleep(10)
+                # Check lai — neu van bi thi thu 1 lan nua
+                new_url = driver.current_url.lower()
+                new_source = driver.page_source[:3000].lower()
+                still_setup = any(ind in new_source or ind in new_url for ind in setup_indicators)
+                if still_setup:
+                    log(f"[{profile_name}] Van gap setup sau reload — thu lan nua...", "warn")
+                    driver.get(f"https://ads.google.com/aw/campaigns?ocid={cid}")
+                    time.sleep(10)
+                log(f"[{profile_name}] Da reload — Title: {driver.title}")
+                return "ok"
 
         return "ok"
     except Exception:
