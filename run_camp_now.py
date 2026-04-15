@@ -20,7 +20,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 # ===== CONFIG =====
 PORT = "62030"
 ACCOUNT_ID = "686-725-3911"
-CAMP_INDEX = 3  # Camp thu 3 tren TK nay
+CAMP_INDEX = 4  # Camp thu 4 tren TK nay
 
 # Lay config tu DB
 res = requests.get("http://localhost:3000/api/campping-vip", timeout=5)

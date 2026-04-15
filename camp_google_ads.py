@@ -316,25 +316,36 @@ class CampaignCreator:
         self.tracker.set_current(step="Buoc 4-5: Create > Campaign")
         check_all()
         try:
-            # Thu New campaign truoc
-            new_btns = d.find_elements(By.XPATH, "//material-button[@aria-label='New campaign']")
+            # Thu nhieu cach tim nut Create / New campaign
             clicked = False
-            for nb in new_btns:
-                if nb.is_displayed():
-                    action_click(nb)
-                    clicked = True
-                    time.sleep(5)
-                    break
+            for xpath in [
+                "//material-button[@aria-label='New campaign']",
+                "//button[@aria-label='New campaign']",
+                "//material-fab-menu//material-fab",
+                "//uber-create//material-fab",
+                "//material-fab",
+            ]:
+                try:
+                    el = d.find_element(By.XPATH, xpath)
+                    if el.is_displayed():
+                        action_click(el)
+                        clicked = True
+                        self.tracker.log(f"Click {xpath}")
+                        time.sleep(3)
+                        # Neu la fab, can chon Campaign trong menu
+                        if "fab" in xpath:
+                            for mi in d.find_elements(By.XPATH, "//material-select-item"):
+                                if mi.is_displayed() and "Campaign" in mi.text:
+                                    js_click(mi)
+                                    time.sleep(3)
+                                    break
+                        break
+                except Exception:
+                    pass
             if not clicked:
-                fab = WebDriverWait(d, 10).until(
-                    EC.element_to_be_clickable((By.XPATH, "//uber-create//material-fab | //material-fab"))
-                )
-                js_click(fab)
-                time.sleep(2)
-                WebDriverWait(d, 10).until(
-                    EC.element_to_be_clickable((By.XPATH, "//material-select-item[@aria-label='Campaign'] | //material-select-item[.//span[contains(text(), 'Campaign')]]"))
-                ).click()
-                time.sleep(5)
+                self.tracker.log("Khong tim thay nut Create!", "error")
+                return False
+            time.sleep(5)
             self.tracker.log("Da click Create > Campaign", "success")
         except Exception:
             self.tracker.log("Khong tim thay nut Create!", "error")
