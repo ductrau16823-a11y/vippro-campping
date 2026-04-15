@@ -470,16 +470,29 @@ class CampaignCreator:
             self.tracker.log(f"Skip {camp_type} — co the da chon san", "warn")
 
         # === BUOC 8-11: Website visits + Campaign name ===
-        # Continue co the phai an 2 lan de hien checkbox + input
+        # TK moi: tat ca hien tren 1 trang, co Enhanced conversions, nut Agree and continue
+        # TK cu: can an Continue 2 lan de hien checkbox + input
         self.tracker.set_current(step="Buoc 8-11: Goals + Campaign name")
         check_all()
         time.sleep(3)
+
+        # Bo tick Enhanced conversions (TK moi mac dinh tick)
+        for cb in d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox"):
+            try:
+                if cb.is_displayed() and "enhanced conversions" in cb.text.lower() and is_checkbox_ticked(cb):
+                    js_click(cb)
+                    self.tracker.log("Da bo tick Enhanced conversions")
+                    time.sleep(1)
+                    break
+            except Exception:
+                pass
 
         # Scan xem co checkbox + input chua
         features = scan_page()
         if "cb:website_visits" not in features and "input:campaign_name" not in features:
             self.tracker.log("Chua thay checkbox/input — an Continue...", "warn")
-            click_button("Continue")
+            if not click_button("Continue"):
+                click_button("Agree and continue")
             time.sleep(8)
             check_all()
 
@@ -496,7 +509,8 @@ class CampaignCreator:
                         break
                 except Exception:
                     pass
-            click_button("Continue")
+            if not click_button("Continue"):
+                click_button("Agree and continue")
             time.sleep(8)
             check_all()
 
@@ -544,10 +558,11 @@ class CampaignCreator:
             except Exception:
                 pass
 
-        # === BUOC 13: Continue ===
+        # === BUOC 13: Continue / Agree and continue ===
         self.tracker.set_current(step="Buoc 13: Continue")
         check_all()
-        click_button("Continue")
+        if not click_button("Continue"):
+            click_button("Agree and continue")
         time.sleep(8)
         check_all()
 
