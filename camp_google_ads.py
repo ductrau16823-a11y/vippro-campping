@@ -305,10 +305,16 @@ class CampaignCreator:
             return False
 
         def check_all():
-            """Check 2FA + popup + draft truoc moi buoc."""
-            handle_2fa()
+            """Check 2FA + popup + draft truoc moi buoc.
+            Sau 2FA, Google co the reset ve trang truoc — can xu ly."""
+            had_2fa = handle_2fa()
             handle_popups()
             handle_draft()
+            if had_2fa:
+                # 2FA co the reset trang — doi them va check lai
+                time.sleep(5)
+                handle_popups()
+                handle_draft()
 
         # ==================== MAIN FLOW ====================
 
@@ -723,11 +729,20 @@ class CampaignCreator:
             except Exception as e:
                 self.tracker.log(f"Loi descriptions: {e}", "warn")
 
-        # Next
+        # Next — check 2FA truoc vi hay nhay ra o buoc 21
         check_all()
         click_button("Next")
         time.sleep(10)
         check_all()
+
+        # Sau 2FA co the bi reset ve Budget — scan lai xem dang o dau
+        features_after_21 = scan_page()
+        if "radio:custom_budget" in features_after_21 or "input:budget" in features_after_21:
+            self.tracker.log("Dang o trang Budget (co the do 2FA reset)", "warn")
+        elif "btn:publish" in features_after_21:
+            self.tracker.log("Da o trang Review — skip Budget")
+            # Nhay thang xuong Publish
+            pass  # Se xu ly o buoc 23 ben duoi
 
         # === BUOC 22: Budget ===
         self.tracker.set_current(step="Buoc 22: Budget")

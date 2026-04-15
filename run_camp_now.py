@@ -20,13 +20,13 @@ from selenium.webdriver.common.action_chains import ActionChains
 # ===== CONFIG =====
 PORT = "62030"
 ACCOUNT_ID = "686-725-3911"
-CAMP_INDEX = 5  # Camp thu 5 tren TK nay
+CAMP_INDEX = 2  # Camp thu 2 ComfiLife
 
 # Lay config tu DB
 res = requests.get("http://localhost:3000/api/campping-vip", timeout=5)
 P = None
 for p in res.json().get("data", []):
-    if p["name"] == "viltrox":
+    if p["name"] == "ComfiLife":
         P = p
         break
 if not P:
