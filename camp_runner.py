@@ -24,7 +24,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests
 from genlogin_api import start_profile, stop_profile, get_debugger_address, connect_selenium, get_browser_version, resolve_profile_id
 from db_helpers import _connect
-from camp_google_ads import CampaignCreator
+from camp_google_ads_v4 import CampaignCreator
 from status_tracker import StatusTracker
 
 DASHBOARD_API = "http://localhost:3000/api"
