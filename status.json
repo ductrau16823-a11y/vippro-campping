@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-04-17T11:11:44.442409",
-  "updated_at": "2026-04-17T11:12:41.517529",
+  "started_at": "2026-04-17T14:29:36.570082",
+  "updated_at": "2026-04-17T14:30:32.441476",
   "status": "running",
   "total_accounts": 0,
   "processed_accounts": 0,
@@ -10,94 +10,99 @@
   "results": [],
   "logs": [
     {
-      "time": "11:11:44",
+      "time": "14:29:36",
       "level": "info",
       "message": "=== Bat dau tao campaign: ComfiLife (#1) ==="
     },
     {
-      "time": "11:11:44",
+      "time": "14:29:36",
       "level": "info",
       "message": "Trang hien tai: Google Ads - Sign in"
     },
     {
-      "time": "11:11:44",
+      "time": "14:29:36",
       "level": "warn",
       "message": "[NAV] skip_navigate=True nhung dang o login — do_navigate()"
     },
     {
-      "time": "11:11:44",
+      "time": "14:29:36",
       "level": "info",
       "message": "[NAV] Trang: Google Ads - Sign in (lan 1)"
     },
     {
-      "time": "11:11:44",
+      "time": "14:29:36",
       "level": "info",
       "message": "[NAV] Account Chooser..."
     },
     {
-      "time": "11:11:45",
+      "time": "14:29:37",
       "level": "info",
       "message": "[NAV] Click MiladCecile797@gmail.com"
     },
     {
-      "time": "11:11:50",
+      "time": "14:29:42",
       "level": "info",
       "message": "[NAV] Trang: Google Ads (lan 2)"
     },
     {
-      "time": "11:11:50",
+      "time": "14:29:42",
       "level": "info",
       "message": "[NAV] Select Account..."
     },
     {
-      "time": "11:12:00",
+      "time": "14:29:52",
       "level": "info",
       "message": "[NAV] Chon TK 835-303-6407"
     },
     {
-      "time": "11:12:10",
+      "time": "14:30:02",
       "level": "info",
       "message": "[NAV] Trang: Campaigns - 835-303-6407 - Google Ads (lan 3)"
     },
     {
-      "time": "11:12:10",
+      "time": "14:30:02",
       "level": "success",
       "message": "[NAV] San sang!"
     },
     {
-      "time": "11:12:14",
+      "time": "14:30:06",
       "level": "info",
       "message": "Click //material-fab-menu//material-fab"
     },
     {
-      "time": "11:12:25",
+      "time": "14:30:17",
       "level": "success",
       "message": "Da click Create > Campaign"
     },
     {
-      "time": "11:12:32",
+      "time": "14:30:23",
       "level": "info",
-      "message": "[SCAN #1] ['btn:continue', 'card:no_objective']"
+      "message": "[#1] obj=False type=False visits=False pv=False name=False"
     },
     {
-      "time": "11:12:32",
+      "time": "14:30:24",
       "level": "success",
       "message": "Chon without guidance"
     },
     {
-      "time": "11:12:34",
-      "level": "info",
-      "message": "[SCAN] Continue..."
-    },
-    {
-      "time": "11:12:41",
-      "level": "info",
-      "message": "[SCAN #2] ['btn:continue', 'card:no_objective', 'card:search']"
-    },
-    {
-      "time": "11:12:41",
+      "time": "14:30:26",
       "level": "success",
       "message": "Chon SEARCH"
+    },
+    {
+      "time": "14:30:28",
+      "level": "success",
+      "message": "Tick Website visits"
+    },
+    {
+      "time": "14:30:31",
+      "level": "success",
+      "message": "Click Page view"
+    },
+    {
+      "time": "14:30:32",
+      "level": "info",
+      "message": "Continue..."
     }
   ]
 }

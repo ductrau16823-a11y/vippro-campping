@@ -73,7 +73,13 @@
       "Bash(python -c \"import ast; ast.parse\\(open\\('camp_google_ads_v3.py', encoding='utf-8'\\).read\\(\\)\\); print\\('OK syntax'\\)\")",
       "Bash(find . -name \"entries.json\" -exec grep -l \"camp_google_ads_v2\" {} \\\\;)",
       "Bash(cmd.exe /c 'dir /A:H /B C:\\\\$Recycle.Bin 2>NUL')",
-      "Bash(cmd.exe /c 'dir /A /B C:\\\\$Recycle.Bin\\\\S-1-5-21-2596608907-3229819193-277026171-1000 2>NUL | findstr /I camp')"
+      "Bash(cmd.exe /c 'dir /A /B C:\\\\$Recycle.Bin\\\\S-1-5-21-2596608907-3229819193-277026171-1000 2>NUL | findstr /I camp')",
+      "Bash(schtasks.exe *)",
+      "Bash(cmd.exe *)",
+      "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Create /TN \"VipproAutoPush\" /TR \"\\\\\"C:\\\\\\\\Users\\\\\\\\Admin\\\\\\\\Documents\\\\\\\\vippro campping\\\\\\\\auto_push.bat\\\\\"\" /SC DAILY /ST 00:00 /F)",
+      "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Query /TN \"VipproAutoPush\" /V /FO LIST)",
+      "Bash(MSYS_NO_PATHCONV=1 cmd.exe /c auto_push.bat)",
+      "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Run /TN \"VipproAutoPush\")"
     ]
   }
 }

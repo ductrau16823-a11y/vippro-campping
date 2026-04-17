@@ -94,6 +94,39 @@ class CampaignCreator:
                 time.sleep(1)
             return False
 
+        def click_by_text(text, exact=False):
+            """Tim element bat ky chua text roi click — linh hoat cho card/radio/checkbox."""
+            text_lc = text.lower()
+            xpaths = [
+                f"//*[normalize-space(text())='{text}']",
+                f"//*[@role='radio' or @role='checkbox' or @role='button'][contains(., \"{text}\")]",
+                f"//conversion-goal-card[.//*[contains(., \"{text}\")]]//button[@role='radio']",
+                f"//conversion-goal-card[.//*[contains(., \"{text}\")]]",
+                f"//mat-checkbox[contains(., \"{text}\")] | //material-checkbox[contains(., \"{text}\")]",
+                f"//*[contains(normalize-space(.), \"{text}\")]",
+            ]
+            for xp in xpaths:
+                try:
+                    for el in d.find_elements(By.XPATH, xp):
+                        try:
+                            if not el.is_displayed():
+                                continue
+                            el_text = (el.text or "").strip()
+                            if exact and el_text.lower() != text_lc:
+                                continue
+                            d.execute_script("arguments[0].scrollIntoView({block:'center'})", el)
+                            time.sleep(0.3)
+                            try:
+                                el.click()
+                            except Exception:
+                                js_click(el)
+                            return True
+                        except Exception:
+                            continue
+                except Exception:
+                    continue
+            return False
+
         def is_checkbox_ticked(cb_element):
             """Check checkbox dang tick hay chua — bang icon text."""
             return "check_box_outline_blank" not in cb_element.text
@@ -581,27 +614,27 @@ class CampaignCreator:
 
             # --- Page view ---
             if not done_pv:
-                for xp in PV_XPATHS:
-                    if done_pv:
-                        break
-                    for el in d.find_elements(By.XPATH, xp):
-                        try:
-                            if not el.is_displayed():
-                                continue
-                            d.execute_script("arguments[0].scrollIntoView({block: 'center'})", el)
-                            time.sleep(0.3)
-                            js_click(el)
-                            time.sleep(1)
-                            checked = el.get_attribute("aria-checked")
-                            if checked == "true" or "selected" in (el.get_attribute("class") or ""):
-                                done_pv = True
-                                self.tracker.log("Chon Page view", "success")
-                                break
-                            done_pv = True
-                            self.tracker.log("Click Page view", "success")
+                if click_by_text("Page view"):
+                    done_pv = True
+                    self.tracker.log("Click Page view", "success")
+                    time.sleep(1)
+                else:
+                    for xp in PV_XPATHS:
+                        if done_pv:
                             break
-                        except Exception:
-                            pass
+                        for el in d.find_elements(By.XPATH, xp):
+                            try:
+                                if not el.is_displayed():
+                                    continue
+                                d.execute_script("arguments[0].scrollIntoView({block: 'center'})", el)
+                                time.sleep(0.3)
+                                js_click(el)
+                                done_pv = True
+                                self.tracker.log("Click Page view (xpath)", "success")
+                                time.sleep(1)
+                                break
+                            except Exception:
+                                pass
 
             # --- Xong? ---
             if done_name and (done_pv or attempt >= 4):
