@@ -5,7 +5,10 @@ Chay: python dashboard_server.py  -> mo http://localhost:5050
 
 import json
 import os
+import re
 import sys
+import subprocess
+import threading
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse
 import webbrowser
@@ -17,6 +20,129 @@ from db_helpers import (
 )
 
 PORT = 5050
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+STEP_CONFIG_PATH = os.path.join(BASE_DIR, "step_config.json")
+CAMP_V4_PATH = os.path.join(BASE_DIR, "camp_google_ads_v4.py")
+
+# ========== STEP HELPERS ==========
+
+def load_step_config():
+    try:
+        with open(STEP_CONFIG_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+def save_step_config(data):
+    with open(STEP_CONFIG_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+def parse_step_code():
+    """Parse camp_google_ads_v4.py, trich xuat code tung handler."""
+    try:
+        with open(CAMP_V4_PATH, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+    except Exception:
+        return {}
+
+    handlers = {}
+    # Tim cac function handler: def handle_xxx(): hoac def do_navigate():
+    pattern = re.compile(r'^        def (handle_\w+|do_navigate)\(')
+    i = 0
+    while i < len(lines):
+        m = pattern.match(lines[i])
+        if m:
+            func_name = m.group(1)
+            start = i
+            i += 1
+            # Tim het function: dong tiep theo co indent <= 8 spaces (khong phai noi dung function)
+            while i < len(lines):
+                line = lines[i]
+                if line.strip() == "":
+                    i += 1
+                    continue
+                # Neu dong bat dau voi 8 spaces + khong phai space (cung level voi def)
+                # hoac it hon 8 spaces -> het function
+                stripped = line.rstrip('\n')
+                if stripped and not stripped.startswith("         "):
+                    # Check neu la def moi cung level
+                    if pattern.match(line) or re.match(r'^        \S', line):
+                        break
+                i += 1
+            end = i
+            code = "".join(lines[start:end])
+            # Map func name -> step id
+            step_id = func_name.replace("handle_", "").replace("do_navigate", "navigate")
+            if step_id == "publish":
+                step_id = "review_publish"
+            handlers[step_id] = {
+                "func_name": func_name,
+                "code": code,
+                "start_line": start + 1,
+                "end_line": end
+            }
+        else:
+            i += 1
+    return handlers
+
+def save_step_code(step_id, new_code):
+    """Ghi lai code cua 1 step vao camp_google_ads_v4.py."""
+    handlers = parse_step_code()
+    if step_id not in handlers:
+        return {"ok": False, "error": f"Step '{step_id}' khong tim thay trong code"}
+
+    info = handlers[step_id]
+    start = info["start_line"] - 1  # 0-indexed
+    end = info["end_line"]
+
+    try:
+        with open(CAMP_V4_PATH, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+
+        # Thay the code cu bang code moi
+        if not new_code.endswith("\n"):
+            new_code += "\n"
+        new_lines = lines[:start] + [new_code] + lines[end:]
+
+        with open(CAMP_V4_PATH, "w", encoding="utf-8") as f:
+            f.writelines(new_lines)
+        return {"ok": True}
+    except Exception as e:
+        return {"ok": False, "error": str(e)}
+
+# Store chay step log
+_step_logs = {}
+
+def run_step_async(step_id, config, ws_port):
+    """Chay step_runner.py trong background."""
+    import uuid
+    run_id = str(uuid.uuid4())[:8]
+    _step_logs[run_id] = {"status": "running", "logs": []}
+
+    def _run():
+        try:
+            cmd = [
+                sys.executable, "-X", "utf8",
+                os.path.join(BASE_DIR, "step_runner.py"),
+                "--step", step_id,
+                "--ws-port", str(ws_port),
+                "--config", json.dumps(config, ensure_ascii=False),
+            ]
+            proc = subprocess.Popen(
+                cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                encoding="utf-8", errors="replace"
+            )
+            for line in proc.stdout:
+                _step_logs[run_id]["logs"].append(line.rstrip())
+            proc.wait()
+            _step_logs[run_id]["status"] = "done" if proc.returncode == 0 else "error"
+        except Exception as e:
+            _step_logs[run_id]["logs"].append(f"[ERROR] {e}")
+            _step_logs[run_id]["status"] = "error"
+
+    t = threading.Thread(target=_run, daemon=True)
+    t.start()
+    return run_id
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -24,6 +150,8 @@ class Handler(BaseHTTPRequestHandler):
         path = urlparse(self.path).path
         if path in ("/", "/dashboard"):
             self._serve_html()
+        elif path == "/steps":
+            self._serve_steps_html()
         elif path == "/api/projects":
             self._json_response(get_all_projects())
         elif path == "/api/summary":
@@ -31,6 +159,14 @@ class Handler(BaseHTTPRequestHandler):
         elif path.startswith("/api/campaigns/"):
             project_id = path.split("/")[-1]
             self._json_response(get_campaigns_by_project(project_id))
+        elif path == "/api/step-config":
+            self._json_response(load_step_config())
+        elif path == "/api/step-code":
+            self._json_response(parse_step_code())
+        elif path.startswith("/api/step-log/"):
+            run_id = path.split("/")[-1]
+            log = _step_logs.get(run_id, {"status": "not_found", "logs": []})
+            self._json_response(log)
         else:
             self.send_error(404)
 
@@ -62,6 +198,23 @@ class Handler(BaseHTTPRequestHandler):
             project_id = path.split("/")[-2]
             delete_project(project_id)
             self._json_response({"ok": True})
+        elif path == "/api/step-config":
+            save_step_config(body)
+            self._json_response({"ok": True})
+        elif path == "/api/step-code":
+            step_id = body.get("step_id", "")
+            code = body.get("code", "")
+            result = save_step_code(step_id, code)
+            self._json_response(result)
+        elif path == "/api/run-step":
+            step_id = body.get("step_id", "")
+            config = body.get("config", {})
+            ws_port = body.get("ws_port", "")
+            if not step_id or not ws_port:
+                self._json_response({"ok": False, "error": "Thieu step_id hoac ws_port"})
+            else:
+                run_id = run_step_async(step_id, config, ws_port)
+                self._json_response({"ok": True, "run_id": run_id})
         else:
             self.send_error(404)
 
@@ -83,6 +236,15 @@ class Handler(BaseHTTPRequestHandler):
 
     def _serve_html(self):
         html = DASHBOARD_HTML
+        body = html.encode("utf-8")
+        self.send_response(200)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", len(body))
+        self.end_headers()
+        self.wfile.write(body)
+
+    def _serve_steps_html(self):
+        html = STEPS_HTML
         body = html.encode("utf-8")
         self.send_response(200)
         self.send_header("Content-Type", "text/html; charset=utf-8")
@@ -258,6 +420,7 @@ tbody tr{transition:background .15s}tbody tr:hover{background:var(--hover)}
         <h1><span>Vippro</span> Campaign</h1>
     </div>
     <div class="header-actions">
+        <a href="/steps" style="background:transparent;border:1px solid var(--bdr2);color:var(--t2);padding:7px 14px;border-radius:8px;font-size:12px;text-decoration:none;font-weight:500;transition:all .2s;display:flex;align-items:center;gap:5px" onmouseover="this.style.borderColor='var(--acc)';this.style.color='var(--acc)'" onmouseout="this.style.borderColor='var(--bdr2)';this.style.color='var(--t2)'">&#9881; Step Manager</a>
         <div class="dropdown" id="dd-proj">
             <button class="dd-btn" onclick="toggleDD('dd-proj')"><span id="dd-proj-label">Du an</span><span class="arr">&#9660;</span></button>
             <div class="dd-menu" id="dd-proj-menu"></div>
@@ -728,8 +891,498 @@ loadAll();
 </html>"""
 
 
+STEPS_HTML = r"""<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Step Manager — Vippro Campaign</title>
+<style>
+:root {
+    --bg:#0b1120;--card:#131c31;--alt:#1a2540;--hover:#1e2d4a;
+    --input:#0f172a;--bdr:#1e3050;--bdr2:#2a3f5f;
+    --t1:#e8edf5;--t2:#8899b4;--t3:#5a6b85;
+    --acc:#3b82f6;--acc2:#60a5fa;--glow:rgba(59,130,246,.12);
+    --yel:#eab308;--grn:#22c55e;--red:#ef4444;--cyn:#06b6d4;
+    --org:#f97316;--pur:#a78bfa;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--t1);min-height:100vh}
+
+.header{background:linear-gradient(135deg,#0f1729,#162040);border-bottom:1px solid var(--bdr);padding:14px 28px;display:flex;align-items:center;gap:14px}
+.logo{width:36px;height:36px;background:linear-gradient(135deg,var(--acc),#8b5cf6);border-radius:10px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:16px;color:#fff}
+.header h1{font-size:17px;font-weight:700} .header h1 span{color:var(--acc)}
+.back-btn{margin-left:auto;background:transparent;border:1px solid var(--bdr2);color:var(--t2);padding:7px 16px;border-radius:8px;cursor:pointer;font-size:12px;text-decoration:none;transition:all .2s}
+.back-btn:hover{border-color:var(--acc);color:var(--acc)}
+
+.content{display:grid;grid-template-columns:320px 1fr;gap:0;height:calc(100vh - 65px)}
+
+/* Sidebar */
+.sidebar{background:var(--card);border-right:1px solid var(--bdr);overflow-y:auto;padding:14px}
+.sidebar-title{font-size:11px;color:var(--t3);text-transform:uppercase;letter-spacing:1px;font-weight:700;margin-bottom:10px;padding:0 8px}
+.ws-box{background:var(--alt);border:1px solid var(--bdr);border-radius:10px;padding:10px 12px;margin-bottom:14px}
+.ws-box label{font-size:10px;color:var(--t3);text-transform:uppercase;letter-spacing:.5px;font-weight:600;display:block;margin-bottom:4px}
+.ws-box input{width:100%;background:var(--input);border:1px solid var(--bdr);color:var(--t1);padding:7px 10px;border-radius:6px;font-size:13px;outline:none;font-family:'JetBrains Mono','Fira Code',monospace}
+.ws-box input:focus{border-color:var(--acc)}
+.ws-hint{font-size:10px;color:var(--t3);margin-top:4px}
+
+.step-item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;cursor:pointer;transition:all .15s;border:1px solid transparent;margin-bottom:4px}
+.step-item:hover{background:var(--hover);border-color:var(--bdr)}
+.step-item.active{background:var(--glow);border-color:var(--acc)}
+.step-num{width:28px;height:28px;border-radius:8px;background:var(--alt);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:12px;color:var(--t2);flex-shrink:0;border:1px solid var(--bdr)}
+.step-item.active .step-num{background:var(--acc);color:#fff;border-color:var(--acc)}
+.step-item.done .step-num{background:var(--grn);color:#fff;border-color:var(--grn)}
+.step-info{flex:1;overflow:hidden}
+.step-name{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.step-desc{font-size:10px;color:var(--t3);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.step-badge{font-size:9px;padding:2px 7px;border-radius:10px;font-weight:600;white-space:nowrap}
+.step-badge.on{background:rgba(34,197,94,.1);color:var(--grn)}
+.step-badge.off{background:rgba(239,68,68,.1);color:var(--red)}
+
+/* Main panel */
+.main{overflow-y:auto;padding:20px 28px}
+.panel-empty{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;color:var(--t3);font-size:14px;gap:8px}
+.panel-empty .big{font-size:40px;opacity:.3}
+
+.panel-header{display:flex;align-items:center;gap:14px;margin-bottom:20px}
+.panel-header h2{font-size:18px;font-weight:700;flex:1}
+.run-btn{background:var(--grn);color:#fff;border:none;padding:9px 24px;border-radius:8px;font-size:13px;font-weight:700;cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:6px}
+.run-btn:hover{background:#16a34a;transform:translateY(-1px)}
+.run-btn:disabled{opacity:.5;cursor:not-allowed;transform:none}
+.run-btn .spinner{display:none;width:14px;height:14px;border:2px solid rgba(255,255,255,.3);border-top-color:#fff;border-radius:50%;animation:spin .6s linear infinite}
+.run-btn.loading .spinner{display:inline-block}
+.run-btn.loading .play-icon{display:none}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Tabs */
+.tabs{display:flex;gap:0;margin-bottom:16px;border-bottom:1px solid var(--bdr)}
+.tab{padding:10px 20px;font-size:13px;font-weight:600;color:var(--t3);cursor:pointer;border-bottom:2px solid transparent;transition:all .2s}
+.tab:hover{color:var(--t2)}
+.tab.active{color:var(--acc);border-bottom-color:var(--acc)}
+
+.tab-panel{display:none}
+.tab-panel.active{display:block}
+
+/* Config form */
+.cfg-section{background:var(--card);border:1px solid var(--bdr);border-radius:12px;padding:16px 20px;margin-bottom:12px}
+.cfg-title{font-size:11px;color:var(--t3);text-transform:uppercase;letter-spacing:.8px;font-weight:700;margin-bottom:10px}
+.cfg-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;margin-bottom:8px}
+.cfg-field{display:flex;flex-direction:column;gap:4px}
+.cfg-field label{font-size:10px;color:var(--t3);text-transform:uppercase;letter-spacing:.4px;font-weight:600}
+.cfg-field input,.cfg-field textarea,.cfg-field select{background:var(--input);border:1px solid var(--bdr);color:var(--t1);padding:8px 12px;border-radius:8px;font-size:12px;outline:none;transition:border .2s;font-family:'JetBrains Mono','Fira Code',monospace}
+.cfg-field input:focus,.cfg-field textarea:focus{border-color:var(--acc)}
+.cfg-field textarea{resize:vertical;min-height:60px}
+.cfg-save{margin-top:12px}
+
+/* Code editor */
+.code-wrap{position:relative}
+.code-editor{width:100%;min-height:400px;background:var(--input);border:1px solid var(--bdr);color:#e2e8f0;padding:16px;border-radius:10px;font-family:'JetBrains Mono','Fira Code','Cascadia Code',monospace;font-size:12px;line-height:1.7;tab-size:4;outline:none;resize:vertical;white-space:pre;overflow-x:auto}
+.code-editor:focus{border-color:var(--acc)}
+.code-info{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+.code-info span{font-size:11px;color:var(--t3)}
+.code-info .fname{color:var(--cyn);font-family:'JetBrains Mono',monospace;font-weight:600}
+.code-info .lines{color:var(--org)}
+
+/* Log panel */
+.log-box{background:#0a0e1a;border:1px solid var(--bdr);border-radius:10px;margin-top:16px;overflow:hidden}
+.log-header{display:flex;align-items:center;gap:8px;padding:10px 16px;background:var(--alt);border-bottom:1px solid var(--bdr);font-size:11px;color:var(--t3);font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+.log-header .dot{width:6px;height:6px;border-radius:50%;background:var(--t3)}
+.log-header .dot.running{background:var(--grn);animation:pulse 1s infinite}
+.log-header .dot.error{background:var(--red)}
+.log-header .dot.done{background:var(--grn)}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.log-content{padding:12px 16px;max-height:300px;overflow-y:auto;font-family:'JetBrains Mono',monospace;font-size:11px;line-height:1.6;color:var(--t2)}
+.log-content .log-line{padding:1px 0}
+.log-content .log-line.err{color:var(--red)}
+.log-content .log-line.ok{color:var(--grn)}
+.log-content .log-line.warn{color:var(--yel)}
+
+.btn{padding:8px 18px;border-radius:8px;border:none;font-size:12px;font-weight:600;cursor:pointer;transition:all .2s}
+.btn-primary{background:var(--acc);color:#fff}.btn-primary:hover{background:var(--acc2)}
+.btn-ghost{background:transparent;border:1px solid var(--bdr2);color:var(--t2)}.btn-ghost:hover{border-color:var(--acc);color:var(--acc)}
+.btn-danger{background:transparent;border:1px solid var(--red);color:var(--red)}.btn-danger:hover{background:rgba(239,68,68,.1)}
+
+.toast{position:fixed;bottom:24px;right:24px;background:#166534;color:#4ade80;padding:12px 20px;border-radius:10px;font-size:13px;font-weight:600;box-shadow:0 8px 30px rgba(0,0,0,.4);transform:translateY(80px);opacity:0;transition:all .3s;z-index:999}
+.toast.show{transform:translateY(0);opacity:1}
+.toast.err{background:#7f1d1d;color:#fca5a5}
+</style>
+</head>
+<body>
+
+<div class="header">
+    <div class="logo">V</div>
+    <h1><span>Step</span> Manager</h1>
+    <a href="/dashboard" class="back-btn">&#8592; Dashboard</a>
+</div>
+
+<div class="content">
+    <div class="sidebar">
+        <div class="ws-box">
+            <label>WebSocket Debug Port</label>
+            <input id="ws-port" type="text" placeholder="VD: 12345" value="">
+            <div class="ws-hint">Port cua GenLogin profile dang mo</div>
+        </div>
+        <div class="sidebar-title">Cac buoc len camp</div>
+        <div id="step-list"></div>
+    </div>
+
+    <div class="main" id="main-panel">
+        <div class="panel-empty" id="empty-panel">
+            <div class="big">&#9881;</div>
+            <div>Chon 1 buoc ben trai de chinh sua hoac chay</div>
+        </div>
+        <div id="step-panel" style="display:none">
+            <div class="panel-header">
+                <h2 id="panel-title">—</h2>
+                <button class="run-btn" id="run-btn" onclick="runStep()">
+                    <span class="play-icon">&#9654;</span>
+                    <span class="spinner"></span>
+                    Chay buoc nay
+                </button>
+            </div>
+            <div class="tabs">
+                <div class="tab active" onclick="switchTab('config',this)">Config</div>
+                <div class="tab" onclick="switchTab('code',this)">Code Editor</div>
+                <div class="tab" onclick="switchTab('log',this)">Log</div>
+            </div>
+
+            <!-- TAB: Config -->
+            <div class="tab-panel active" id="tab-config">
+                <div id="cfg-form"></div>
+                <div class="cfg-save">
+                    <button class="btn btn-primary" onclick="saveConfig()">Luu Config</button>
+                    <button class="btn btn-ghost" onclick="resetConfig()" style="margin-left:8px">Reset</button>
+                </div>
+            </div>
+
+            <!-- TAB: Code Editor -->
+            <div class="tab-panel" id="tab-code">
+                <div class="code-info">
+                    <span>Function: <span class="fname" id="code-fname">—</span></span>
+                    <span>Line: <span class="lines" id="code-lines">—</span></span>
+                </div>
+                <div class="code-wrap">
+                    <textarea class="code-editor" id="code-editor" spellcheck="false"></textarea>
+                </div>
+                <div style="margin-top:12px;display:flex;gap:8px">
+                    <button class="btn btn-primary" onclick="saveCode()">Luu Code</button>
+                    <button class="btn btn-ghost" onclick="reloadCode()">Reload</button>
+                </div>
+            </div>
+
+            <!-- TAB: Log -->
+            <div class="tab-panel" id="tab-log">
+                <div class="log-box">
+                    <div class="log-header">
+                        <span class="dot" id="log-dot"></span>
+                        <span id="log-status">Chua chay</span>
+                    </div>
+                    <div class="log-content" id="log-content">
+                        <div class="log-line" style="color:var(--t3)">Nhan "Chay buoc nay" de bat dau...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+let STEPS_CONFIG = {};
+let STEPS_CODE = {};
+let CURRENT_STEP = null;
+let CURRENT_RUN_ID = null;
+let POLL_TIMER = null;
+
+const STEP_ORDER = [
+    'goal_selection','campaign_type','goals_and_name','bidding',
+    'campaign_settings','keywords_ads','budget','review_publish'
+];
+
+async function api(url, method, body) {
+    const o = {method: method || 'GET', headers: {'Content-Type': 'application/json'}};
+    if (body) o.body = JSON.stringify(body);
+    return (await fetch(url, o)).json();
+}
+
+function toast(msg, isErr) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.className = 'toast show' + (isErr ? ' err' : '');
+    setTimeout(() => t.className = 'toast', 2500);
+}
+
+function esc(s) {
+    if (!s) return '';
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ========== LOAD DATA ==========
+
+async function loadAll() {
+    STEPS_CONFIG = await api('/api/step-config');
+    STEPS_CODE = await api('/api/step-code');
+    renderStepList();
+    if (CURRENT_STEP) selectStep(CURRENT_STEP);
+}
+
+function renderStepList() {
+    let h = '';
+    STEP_ORDER.forEach((id, i) => {
+        const cfg = STEPS_CONFIG[id] || {};
+        const isActive = CURRENT_STEP === id;
+        const enabled = cfg.enabled !== false;
+        h += `<div class="step-item ${isActive?'active':''}" onclick="selectStep('${id}')" data-step="${id}">
+            <div class="step-num">${cfg.order || (i+4)}</div>
+            <div class="step-info">
+                <div class="step-name">${esc(cfg.name || id)}</div>
+                <div class="step-desc">${esc(cfg.description || '')}</div>
+            </div>
+            <span class="step-badge ${enabled?'on':'off'}">${enabled?'ON':'OFF'}</span>
+        </div>`;
+    });
+    document.getElementById('step-list').innerHTML = h;
+}
+
+// ========== SELECT STEP ==========
+
+function selectStep(id) {
+    CURRENT_STEP = id;
+    document.getElementById('empty-panel').style.display = 'none';
+    document.getElementById('step-panel').style.display = '';
+
+    // Highlight sidebar
+    document.querySelectorAll('.step-item').forEach(el => {
+        el.classList.toggle('active', el.dataset.step === id);
+    });
+
+    const cfg = STEPS_CONFIG[id] || {};
+    const code = STEPS_CODE[id] || {};
+
+    document.getElementById('panel-title').textContent = cfg.name || id;
+
+    // Render config form
+    renderConfigForm(id, cfg.config || {});
+
+    // Render code
+    document.getElementById('code-fname').textContent = code.func_name || '—';
+    document.getElementById('code-lines').textContent = code.start_line ? `${code.start_line}-${code.end_line}` : '—';
+    document.getElementById('code-editor').value = code.code || '# Khong tim thay code';
+}
+
+function renderConfigForm(stepId, config) {
+    let h = '<div class="cfg-section"><div class="cfg-title">Tham so co the chinh sua</div><div class="cfg-row">';
+    const keys = Object.keys(config);
+    if (!keys.length) {
+        h += '<div style="color:var(--t3);font-size:12px;padding:8px">Buoc nay khong co config</div>';
+    }
+    keys.forEach(key => {
+        const val = config[key];
+        const isArray = Array.isArray(val);
+        const isLong = typeof val === 'string' && (val.length > 60 || val.includes('//'));
+        if (isArray) {
+            h += `<div class="cfg-field" style="grid-column:1/-1">
+                <label>${esc(key)}</label>
+                <textarea id="cfg-${key}" rows="${Math.min(val.length+1,8)}">${esc(val.join('\n'))}</textarea>
+            </div>`;
+        } else if (isLong) {
+            h += `<div class="cfg-field" style="grid-column:1/-1">
+                <label>${esc(key)}</label>
+                <textarea id="cfg-${key}" rows="2">${esc(String(val))}</textarea>
+            </div>`;
+        } else if (typeof val === 'boolean') {
+            h += `<div class="cfg-field">
+                <label>${esc(key)}</label>
+                <select id="cfg-${key}">
+                    <option value="true" ${val?'selected':''}>true</option>
+                    <option value="false" ${!val?'selected':''}>false</option>
+                </select>
+            </div>`;
+        } else if (typeof val === 'number') {
+            h += `<div class="cfg-field">
+                <label>${esc(key)}</label>
+                <input id="cfg-${key}" type="number" value="${val}">
+            </div>`;
+        } else {
+            h += `<div class="cfg-field">
+                <label>${esc(key)}</label>
+                <input id="cfg-${key}" type="text" value="${esc(String(val))}">
+            </div>`;
+        }
+    });
+    h += '</div></div>';
+    document.getElementById('cfg-form').innerHTML = h;
+}
+
+// ========== SAVE CONFIG ==========
+
+async function saveConfig() {
+    if (!CURRENT_STEP) return;
+    const cfg = STEPS_CONFIG[CURRENT_STEP] || {};
+    const oldConfig = cfg.config || {};
+    const newConfig = {};
+
+    Object.keys(oldConfig).forEach(key => {
+        const el = document.getElementById('cfg-' + key);
+        if (!el) { newConfig[key] = oldConfig[key]; return; }
+        const origVal = oldConfig[key];
+
+        if (Array.isArray(origVal)) {
+            newConfig[key] = el.value.split('\n').map(x => x.trim()).filter(x => x);
+        } else if (typeof origVal === 'boolean') {
+            newConfig[key] = el.value === 'true';
+        } else if (typeof origVal === 'number') {
+            newConfig[key] = Number(el.value) || 0;
+        } else {
+            newConfig[key] = el.value;
+        }
+    });
+
+    STEPS_CONFIG[CURRENT_STEP].config = newConfig;
+    await api('/api/step-config', 'POST', STEPS_CONFIG);
+    toast('Da luu config!');
+}
+
+function resetConfig() {
+    if (!CURRENT_STEP) return;
+    const cfg = STEPS_CONFIG[CURRENT_STEP] || {};
+    renderConfigForm(CURRENT_STEP, cfg.config || {});
+    toast('Da reset config');
+}
+
+// ========== SAVE CODE ==========
+
+async function saveCode() {
+    if (!CURRENT_STEP) return;
+    const code = document.getElementById('code-editor').value;
+    const res = await api('/api/step-code', 'POST', {step_id: CURRENT_STEP, code: code});
+    if (res.ok) {
+        toast('Da luu code vao camp_google_ads_v4.py!');
+        STEPS_CODE = await api('/api/step-code');
+    } else {
+        toast('Loi: ' + (res.error || 'Unknown'), true);
+    }
+}
+
+async function reloadCode() {
+    STEPS_CODE = await api('/api/step-code');
+    if (CURRENT_STEP) {
+        const code = STEPS_CODE[CURRENT_STEP] || {};
+        document.getElementById('code-editor').value = code.code || '';
+        document.getElementById('code-fname').textContent = code.func_name || '—';
+        document.getElementById('code-lines').textContent = code.start_line ? `${code.start_line}-${code.end_line}` : '—';
+    }
+    toast('Da reload code');
+}
+
+// ========== RUN STEP ==========
+
+async function runStep() {
+    if (!CURRENT_STEP) return;
+    const wsPort = document.getElementById('ws-port').value.trim();
+    if (!wsPort) {
+        toast('Nhap WebSocket Debug Port truoc!', true);
+        return;
+    }
+
+    const btn = document.getElementById('run-btn');
+    btn.classList.add('loading');
+    btn.disabled = true;
+
+    // Chuyen sang tab log
+    switchTab('log', document.querySelector('.tab:last-child'));
+
+    // Clear log
+    document.getElementById('log-content').innerHTML = '<div class="log-line">Dang chay buoc: ' + esc(CURRENT_STEP) + '...</div>';
+    document.getElementById('log-dot').className = 'dot running';
+    document.getElementById('log-status').textContent = 'Dang chay...';
+
+    const cfg = STEPS_CONFIG[CURRENT_STEP] || {};
+    const res = await api('/api/run-step', 'POST', {
+        step_id: CURRENT_STEP,
+        ws_port: wsPort,
+        config: cfg.config || {}
+    });
+
+    if (res.ok) {
+        CURRENT_RUN_ID = res.run_id;
+        pollLog();
+    } else {
+        toast('Loi: ' + (res.error || 'Unknown'), true);
+        btn.classList.remove('loading');
+        btn.disabled = false;
+    }
+}
+
+function pollLog() {
+    if (!CURRENT_RUN_ID) return;
+    if (POLL_TIMER) clearInterval(POLL_TIMER);
+
+    POLL_TIMER = setInterval(async () => {
+        const log = await api('/api/step-log/' + CURRENT_RUN_ID);
+        const container = document.getElementById('log-content');
+
+        let h = '';
+        (log.logs || []).forEach(line => {
+            let cls = '';
+            if (line.includes('[ERROR]') || line.includes('LOI') || line.includes('error')) cls = 'err';
+            else if (line.includes('success') || line.includes('OK') || line.includes('THANH CONG')) cls = 'ok';
+            else if (line.includes('warn') || line.includes('Skip')) cls = 'warn';
+            h += '<div class="log-line ' + cls + '">' + esc(line) + '</div>';
+        });
+        container.innerHTML = h || '<div class="log-line" style="color:var(--t3)">Dang cho output...</div>';
+        container.scrollTop = container.scrollHeight;
+
+        if (log.status === 'done' || log.status === 'error') {
+            clearInterval(POLL_TIMER);
+            POLL_TIMER = null;
+            document.getElementById('log-dot').className = 'dot ' + log.status;
+            document.getElementById('log-status').textContent = log.status === 'done' ? 'Hoan thanh' : 'Loi';
+            document.getElementById('run-btn').classList.remove('loading');
+            document.getElementById('run-btn').disabled = false;
+            if (log.status === 'done') toast('Buoc hoan thanh!');
+            else toast('Buoc bi loi!', true);
+        }
+    }, 1000);
+}
+
+// ========== TABS ==========
+
+function switchTab(name, el) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    if (el) el.classList.add('active');
+    const panel = document.getElementById('tab-' + name);
+    if (panel) panel.classList.add('active');
+}
+
+// ========== TAB KEY IN CODE EDITOR ==========
+
+document.addEventListener('DOMContentLoaded', () => {
+    const editor = document.getElementById('code-editor');
+    editor.addEventListener('keydown', function(e) {
+        if (e.key === 'Tab') {
+            e.preventDefault();
+            const start = this.selectionStart;
+            const end = this.selectionEnd;
+            this.value = this.value.substring(0, start) + '    ' + this.value.substring(end);
+            this.selectionStart = this.selectionEnd = start + 4;
+        }
+    });
+});
+
+// ========== INIT ==========
+
+loadAll();
+</script>
+</body>
+</html>"""
+
+
 if __name__ == "__main__":
     print(f"Starting dashboard at http://localhost:{PORT}")
+    print(f"Step Manager at http://localhost:{PORT}/steps")
     webbrowser.open(f"http://localhost:{PORT}")
     server = HTTPServer(("127.0.0.1", PORT), Handler)
     try:

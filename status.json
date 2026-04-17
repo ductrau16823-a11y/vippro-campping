@@ -1,0 +1,103 @@
+{
+  "started_at": "2026-04-17T11:11:44.442409",
+  "updated_at": "2026-04-17T11:12:41.517529",
+  "status": "running",
+  "total_accounts": 0,
+  "processed_accounts": 0,
+  "total_campaigns_created": 0,
+  "current_account": null,
+  "current_step": "Buoc 6-13: Setup campaign",
+  "results": [],
+  "logs": [
+    {
+      "time": "11:11:44",
+      "level": "info",
+      "message": "=== Bat dau tao campaign: ComfiLife (#1) ==="
+    },
+    {
+      "time": "11:11:44",
+      "level": "info",
+      "message": "Trang hien tai: Google Ads - Sign in"
+    },
+    {
+      "time": "11:11:44",
+      "level": "warn",
+      "message": "[NAV] skip_navigate=True nhung dang o login — do_navigate()"
+    },
+    {
+      "time": "11:11:44",
+      "level": "info",
+      "message": "[NAV] Trang: Google Ads - Sign in (lan 1)"
+    },
+    {
+      "time": "11:11:44",
+      "level": "info",
+      "message": "[NAV] Account Chooser..."
+    },
+    {
+      "time": "11:11:45",
+      "level": "info",
+      "message": "[NAV] Click MiladCecile797@gmail.com"
+    },
+    {
+      "time": "11:11:50",
+      "level": "info",
+      "message": "[NAV] Trang: Google Ads (lan 2)"
+    },
+    {
+      "time": "11:11:50",
+      "level": "info",
+      "message": "[NAV] Select Account..."
+    },
+    {
+      "time": "11:12:00",
+      "level": "info",
+      "message": "[NAV] Chon TK 835-303-6407"
+    },
+    {
+      "time": "11:12:10",
+      "level": "info",
+      "message": "[NAV] Trang: Campaigns - 835-303-6407 - Google Ads (lan 3)"
+    },
+    {
+      "time": "11:12:10",
+      "level": "success",
+      "message": "[NAV] San sang!"
+    },
+    {
+      "time": "11:12:14",
+      "level": "info",
+      "message": "Click //material-fab-menu//material-fab"
+    },
+    {
+      "time": "11:12:25",
+      "level": "success",
+      "message": "Da click Create > Campaign"
+    },
+    {
+      "time": "11:12:32",
+      "level": "info",
+      "message": "[SCAN #1] ['btn:continue', 'card:no_objective']"
+    },
+    {
+      "time": "11:12:32",
+      "level": "success",
+      "message": "Chon without guidance"
+    },
+    {
+      "time": "11:12:34",
+      "level": "info",
+      "message": "[SCAN] Continue..."
+    },
+    {
+      "time": "11:12:41",
+      "level": "info",
+      "message": "[SCAN #2] ['btn:continue', 'card:no_objective', 'card:search']"
+    },
+    {
+      "time": "11:12:41",
+      "level": "success",
+      "message": "Chon SEARCH"
+    }
+  ]
+}
