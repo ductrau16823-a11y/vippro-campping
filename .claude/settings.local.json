@@ -79,7 +79,9 @@
       "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Create /TN \"VipproAutoPush\" /TR \"\\\\\"C:\\\\\\\\Users\\\\\\\\Admin\\\\\\\\Documents\\\\\\\\vippro campping\\\\\\\\auto_push.bat\\\\\"\" /SC DAILY /ST 00:00 /F)",
       "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Query /TN \"VipproAutoPush\" /V /FO LIST)",
       "Bash(MSYS_NO_PATHCONV=1 cmd.exe /c auto_push.bat)",
-      "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Run /TN \"VipproAutoPush\")"
+      "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Run /TN \"VipproAutoPush\")",
+      "Bash(echo \"test change\")",
+      "Bash(touch auto_push.bat)"
     ]
   }
 }
