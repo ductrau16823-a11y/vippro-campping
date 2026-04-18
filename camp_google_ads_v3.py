@@ -1357,55 +1357,47 @@ class CampaignCreator:
                 except Exception as e:
                     self.tracker.log(f"[14] Loi tick CPC checkbox: {e}", "warn")
 
-                # Dien CPC trong max-bid-container
+                # Dien CPC bang JS — tranh Selenium hang tren section iteration
                 try:
-                    filled = False
-                    sections = d.find_elements(By.XPATH, "//div[contains(@class, 'max-bid-container')] | //section[.//span[contains(text(), 'Maximum CPC')]]")
-                    self.tracker.log(f"[14] Tim thay {len(sections)} max-bid section")
-                    for s in sections:
-                        try:
-                            if not s.is_displayed():
-                                continue
-                            for inp in s.find_elements(By.XPATH, ".//input"):
-                                if inp.is_displayed():
-                                    # Skip neu input da co gia tri CPC dung
-                                    try:
-                                        cur_val = (inp.get_attribute("value") or "").strip()
-                                        if cur_val and (cur_val == cpc or cur_val.replace("$", "").strip() == str(cpc).strip()):
-                                            self.tracker.log(f"[14] CPC da dien san ({cur_val}) — skip", "success")
-                                            filled = True
-                                            break
-                                    except Exception:
-                                        pass
-                                    clear_and_type(inp, cpc)
-                                    self.tracker.log(f"[14] Da dien CPC: {cpc}", "success")
-                                    filled = True
-                                    break
-                            if filled:
-                                break
-                        except Exception as e:
-                            self.tracker.log(f"[14] Loi dien CPC section: {e}", "warn")
-                    if not filled:
-                        # Fallback: dien vao input gan cum chu "Maximum CPC"
-                        for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
-                            try:
-                                if inp.is_displayed() and inp.is_enabled():
-                                    parent_text = ""
-                                    try:
-                                        parent_text = inp.find_element(By.XPATH, "./ancestor::*[position()<=5]").text.lower()
-                                    except Exception:
-                                        pass
-                                    if "cpc" in parent_text or "maximum" in parent_text:
-                                        clear_and_type(inp, cpc)
-                                        self.tracker.log(f"[14] Da dien CPC (fallback): {cpc}", "success")
-                                        filled = True
-                                        break
-                            except Exception:
-                                pass
-                        if not filled:
-                            self.tracker.log("[14] KHONG dien duoc CPC", "error")
+                    import threading
+                    js_fill = r"""
+                    var cpc = arguments[0];
+                    var inputs = document.querySelectorAll('input');
+                    for (var i = 0; i < inputs.length; i++) {
+                        var inp = inputs[i];
+                        var r = inp.getBoundingClientRect();
+                        if (r.width < 5 || r.height < 5) continue;
+                        var p = inp.closest('material-input, div.max-bid-container, section') || inp.parentElement;
+                        var t = ((p && p.innerText) || '').toLowerCase();
+                        if (t.indexOf('cpc') < 0 && t.indexOf('maximum') < 0) continue;
+                        var cur = (inp.value || '').replace('$','').trim();
+                        if (cur === String(cpc).trim()) return 'skip:' + cur;
+                        inp.focus();
+                        try { inp.value = ''; inp.dispatchEvent(new Event('input', {bubbles: true})); } catch(e) {}
+                        inp.value = String(cpc);
+                        inp.dispatchEvent(new Event('input', {bubbles: true}));
+                        inp.dispatchEvent(new Event('change', {bubbles: true}));
+                        return 'ok';
+                    }
+                    return 'fail';
+                    """
+                    result = [None]
+                    def _fill():
+                        try: result[0] = d.execute_script(js_fill, str(cpc))
+                        except Exception as e: result[0] = f"err:{e}"
+                    tf = threading.Thread(target=_fill, daemon=True)
+                    tf.start()
+                    tf.join(timeout=10.0)
+                    if tf.is_alive():
+                        self.tracker.log("[14] JS fill CPC TIMEOUT 10s — tiep tuc flow", "warn")
+                    elif result[0] == 'ok':
+                        self.tracker.log(f"[14] Da dien CPC (JS): {cpc}", "success")
+                    elif result[0] and result[0].startswith('skip'):
+                        self.tracker.log(f"[14] CPC da dien san — skip", "success")
+                    else:
+                        self.tracker.log(f"[14] JS fill CPC fail ({result[0]}) — tiep tuc flow", "warn")
                 except Exception as e:
-                    self.tracker.log(f"[14] Loi dien CPC: {e}", "warn")
+                    self.tracker.log(f"[14] Loi JS fill CPC: {e}", "warn")
 
             # Verify truoc khi di tiep
             run_verify("bidding")
