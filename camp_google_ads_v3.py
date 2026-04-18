@@ -1410,13 +1410,10 @@ class CampaignCreator:
             # Verify truoc khi di tiep
             run_verify("bidding")
 
-            # Next de sang Campaign Settings — CHI khi khong phai single-step mode
-            if not _single_step:
-                click_button("Next")
-                time.sleep(5)
-                check_all()
-            else:
-                self.tracker.log("Single-step mode: KHONG click Next sau Bidding", "warn")
+            # Next de sang Campaign Settings — luon click de flow tiep tuc
+            click_button("Next")
+            time.sleep(5)
+            check_all()
             break
         else:
             self.tracker.log("[SKIP] Buoc 14: Bidding (start_step)", "warn")
