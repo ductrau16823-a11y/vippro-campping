@@ -188,39 +188,6 @@ class CampaignCreator:
                 return True
             return False
 
-        def click_by_text(text, exact=False):
-            """Tim element bat ky chua text roi click — linh hoat cho card/radio/checkbox."""
-            text_lc = text.lower()
-            xpaths = [
-                f"//*[normalize-space(text())='{text}']",
-                f"//*[@role='radio' or @role='checkbox' or @role='button'][contains(., \"{text}\")]",
-                f"//conversion-goal-card[.//*[contains(., \"{text}\")]]//button[@role='radio']",
-                f"//conversion-goal-card[.//*[contains(., \"{text}\")]]",
-                f"//mat-checkbox[contains(., \"{text}\")] | //material-checkbox[contains(., \"{text}\")]",
-                f"//*[contains(normalize-space(.), \"{text}\")]",
-            ]
-            for xp in xpaths:
-                try:
-                    for el in d.find_elements(By.XPATH, xp):
-                        try:
-                            if not el.is_displayed():
-                                continue
-                            el_text = (el.text or "").strip()
-                            if exact and el_text.lower() != text_lc:
-                                continue
-                            d.execute_script("arguments[0].scrollIntoView({block:'center', behavior:'smooth'})", el)
-                            time.sleep(0.7)
-                            try:
-                                el.click()
-                            except Exception:
-                                js_click(el)
-                            return True
-                        except Exception:
-                            continue
-                except Exception:
-                    continue
-            return False
-
         def is_checkbox_ticked(cb_element):
             """Check checkbox dang tick hay chua — bang icon text."""
             return "check_box_outline_blank" not in cb_element.text
