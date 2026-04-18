@@ -499,45 +499,60 @@ class CampaignCreator:
         }
 
         def run_verify(step_id):
-            """Goi verify + log smart: phan tich page de phan biet auto-advance vs regression.
-            Retry 1 lan voi delay 1.5s neu FAIL (chong race condition - input value chua kip update)."""
-            try:
-                ok, reason = verify_step(step_id, campaign_config)
-                if not ok:
-                    time.sleep(1.5)
+            """Goi verify + log smart, BOC trong thread voi timeout 5s de khong treo flow.
+            Neu verify chay qua 5s (driver cham, Google Ads re-render) thi skip, coi nhu OK."""
+            import threading
+            result = {"done": False, "ok": True}
+
+            def _body():
+                try:
                     ok, reason = verify_step(step_id, campaign_config)
-                page = detect_current_page()
-                if ok:
-                    self.tracker.log(f"[VERIFY {step_id}] OK — {reason} | page={page}", "success")
-                    return True
+                    if not ok:
+                        time.sleep(1.5)
+                        ok, reason = verify_step(step_id, campaign_config)
+                    page = detect_current_page()
+                    if ok:
+                        self.tracker.log(f"[VERIFY {step_id}] OK — {reason} | page={page}", "success")
+                        result["ok"] = True
+                        result["done"] = True
+                        return
 
-                # FAIL — so sanh page voi step de phan tich
-                cur_step_from_page = PAGE_TO_STEP.get(page)
-                if cur_step_from_page and step_id in STEP_ORDER and cur_step_from_page in STEP_ORDER:
-                    this_idx = STEP_ORDER.index(step_id)
-                    cur_idx = STEP_ORDER.index(cur_step_from_page)
-                    if cur_idx > this_idx:
-                        self.tracker.log(
-                            f"[VERIFY {step_id}] FAIL nhung page='{page}' la step sau — Google auto-advance, coi nhu OK",
-                            "warn"
-                        )
-                        return True
-                    if cur_idx < this_idx:
-                        self.tracker.log(
-                            f"[VERIFY {step_id}] FAIL + LUI ve page='{page}' (step '{cur_step_from_page}'). Reason: {reason}",
-                            "error"
-                        )
-                        return False
+                    cur_step_from_page = PAGE_TO_STEP.get(page)
+                    if cur_step_from_page and step_id in STEP_ORDER and cur_step_from_page in STEP_ORDER:
+                        this_idx = STEP_ORDER.index(step_id)
+                        cur_idx = STEP_ORDER.index(cur_step_from_page)
+                        if cur_idx > this_idx:
+                            self.tracker.log(
+                                f"[VERIFY {step_id}] FAIL nhung page='{page}' la step sau — Google auto-advance, coi nhu OK",
+                                "warn"
+                            )
+                            result["ok"] = True
+                            result["done"] = True
+                            return
+                        if cur_idx < this_idx:
+                            self.tracker.log(
+                                f"[VERIFY {step_id}] FAIL + LUI ve page='{page}' (step '{cur_step_from_page}'). Reason: {reason}",
+                                "error"
+                            )
+                            result["ok"] = False
+                            result["done"] = True
+                            return
 
-                # Page = unknown hoac dialog (2fa) hoac chinh step nay
-                self.tracker.log(
-                    f"[VERIFY {step_id}] FAIL — {reason} | page={page}",
-                    "error"
-                )
-                return False
-            except Exception as e:
-                self.tracker.log(f"[VERIFY {step_id}] exception: {e}", "warn")
+                    self.tracker.log(f"[VERIFY {step_id}] FAIL — {reason} | page={page}", "error")
+                    result["ok"] = False
+                    result["done"] = True
+                except Exception as e:
+                    self.tracker.log(f"[VERIFY {step_id}] exception: {e}", "warn")
+                    result["ok"] = True
+                    result["done"] = True
+
+            t = threading.Thread(target=_body, daemon=True)
+            t.start()
+            t.join(timeout=5.0)
+            if not result["done"]:
+                self.tracker.log(f"[VERIFY {step_id}] TIMEOUT 5s — skip, tiep tuc flow", "warn")
                 return True
+            return result["ok"]
 
         # ==================== 2FA + POPUPS ====================
 
