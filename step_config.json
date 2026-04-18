@@ -1,0 +1,96 @@
+{
+  "goal_selection": {
+    "name": "Goal Selection",
+    "order": 4,
+    "enabled": true,
+    "description": "Chon muc tieu campaign (Page view / Website visits)",
+    "config": {
+      "objective": "Website traffic",
+      "goal": "page_view",
+      "enhanced_conversions": false
+    }
+  },
+  "campaign_type": {
+    "name": "Campaign Type",
+    "order": 5,
+    "enabled": true,
+    "description": "Chon loai campaign (Search / Display / Video)",
+    "config": {
+      "type": "SEARCH"
+    }
+  },
+  "goals_and_name": {
+    "name": "Goals & Name",
+    "order": 6,
+    "enabled": true,
+    "description": "Tick Website visits + dien Campaign name",
+    "config": {
+      "name": "viltrox",
+      "website_visits": true
+    }
+  },
+  "bidding": {
+    "name": "Bidding",
+    "order": 7,
+    "enabled": true,
+    "description": "Chon chien luoc gia thau + CPC",
+    "config": {
+      "bidding": "maximize_clicks",
+      "cpc": "0.5"
+    }
+  },
+  "campaign_settings": {
+    "name": "Campaign Settings",
+    "order": 8,
+    "enabled": true,
+    "description": "Locations, Languages, Networks, Audience",
+    "config": {
+      "target_locations": ["United States", "Australia", "Canada", "Germany", "France", "Italy", "Austria"],
+      "exclude_locations": ["Viet Nam", "California, USA"],
+      "devices": ["Di dong", "May tinh"],
+      "age_ranges": ["18-24", "25-34", "35-44", "45-54", "55-64"],
+      "gender": "Tat ca",
+      "disable_search_partners": true,
+      "disable_display_network": true
+    }
+  },
+  "keywords_ads": {
+    "name": "Keywords & Ads",
+    "order": 9,
+    "enabled": true,
+    "description": "Dien keywords + Final URL + Headlines + Descriptions",
+    "config": {
+      "adgroup_name": "AG_viltrox",
+      "keywords": ["[viltrox]"],
+      "final_url": "https://viltrox.com/?ref=hjpqijqc",
+      "headlines": [
+        "{Keyword:Viltrox}", "Viltrox Camera Lens", "Collection: Camera Lenses",
+        "Viltrox Store", "Viltrox Official Store", "Viltrox.com",
+        "Viltrox", "Official Store", "Sign Up Now"
+      ],
+      "descriptions": [
+        "Now Viltrox has Four camera lenses covered in the lens lineup",
+        "This is Viltrox official online flagship store preliminarily based on US and EU areas."
+      ]
+    }
+  },
+  "budget": {
+    "name": "Budget",
+    "order": 10,
+    "enabled": true,
+    "description": "Dien ngan sach hang ngay",
+    "config": {
+      "budget": "1"
+    }
+  },
+  "review_publish": {
+    "name": "Review & Publish",
+    "order": 11,
+    "enabled": true,
+    "description": "Check errors + Publish campaign",
+    "config": {
+      "auto_publish": true,
+      "fix_errors": true
+    }
+  }
+}

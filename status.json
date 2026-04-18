@@ -1,0 +1,188 @@
+{
+  "started_at": "2026-04-18T14:46:47.138277",
+  "updated_at": "2026-04-18T14:49:58.410076",
+  "status": "running",
+  "total_accounts": 0,
+  "processed_accounts": 0,
+  "total_campaigns_created": 0,
+  "current_account": null,
+  "current_step": "Buoc 23: Publish",
+  "results": [],
+  "logs": [
+    {
+      "time": "14:46:47",
+      "level": "info",
+      "message": "=== Bat dau tao campaign: ComfiLife (#1) ==="
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[RESUME] start_step=publish (SINGLE STEP mode — khong nhay trang)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 0: Navigate (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 4-5: Create > Campaign (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 6-13: Setup campaign (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 14: Bidding (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 15: Campaign Settings (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 16: Locations (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 17: Languages (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 18-20: Next/Skip (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 21: Keywords + Ads (start_step)"
+    },
+    {
+      "time": "14:46:47",
+      "level": "warn",
+      "message": "[SKIP] Buoc 22: Budget (start_step)"
+    },
+    {
+      "time": "14:46:48",
+      "level": "info",
+      "message": "Dang o Budget — check + Next..."
+    },
+    {
+      "time": "14:47:01",
+      "level": "info",
+      "message": "Doi Publish... (10s)"
+    },
+    {
+      "time": "14:47:07",
+      "level": "info",
+      "message": "Doi Publish... (15s)"
+    },
+    {
+      "time": "14:47:13",
+      "level": "info",
+      "message": "Doi Publish... (20s)"
+    },
+    {
+      "time": "14:47:20",
+      "level": "info",
+      "message": "Doi Publish... (25s)"
+    },
+    {
+      "time": "14:47:26",
+      "level": "info",
+      "message": "Doi Publish... (30s)"
+    },
+    {
+      "time": "14:47:33",
+      "level": "info",
+      "message": "Doi Publish... (35s)"
+    },
+    {
+      "time": "14:47:39",
+      "level": "info",
+      "message": "Doi Publish... (40s)"
+    },
+    {
+      "time": "14:47:46",
+      "level": "info",
+      "message": "Doi Publish... (45s)"
+    },
+    {
+      "time": "14:47:53",
+      "level": "info",
+      "message": "Doi Publish... (50s)"
+    },
+    {
+      "time": "14:47:58",
+      "level": "warn",
+      "message": "[2FA] Gap popup xac thuc..."
+    },
+    {
+      "time": "14:48:00",
+      "level": "info",
+      "message": "[2FA] Click Try again"
+    },
+    {
+      "time": "14:48:07",
+      "level": "info",
+      "message": "[2FA] pierrebourbigot928@gmail.com -> 442287"
+    },
+    {
+      "time": "14:48:09",
+      "level": "info",
+      "message": "[2FA] OK!"
+    },
+    {
+      "time": "14:48:14",
+      "level": "info",
+      "message": "[2FA] Da giai lan #1, kiem tra them..."
+    },
+    {
+      "time": "14:48:24",
+      "level": "success",
+      "message": "[2FA-DONE] Dang o: https://ads.google.com/aw/campaigns/new/search/draft?campaignId=281498744034696&ocid=8163992111&cmpnInfo=%7B%221%22%3A1% | title: Search campaign - 373-251-9645 - Google Ads"
+    },
+    {
+      "time": "14:48:26",
+      "level": "info",
+      "message": "Doi Publish... (55s)"
+    },
+    {
+      "time": "14:48:32",
+      "level": "info",
+      "message": "Doi Publish... (60s)"
+    },
+    {
+      "time": "14:48:54",
+      "level": "warn",
+      "message": "Van o trang Review (lan 1)"
+    },
+    {
+      "time": "14:49:20",
+      "level": "warn",
+      "message": "Van o trang Review (lan 2)"
+    },
+    {
+      "time": "14:49:28",
+      "level": "success",
+      "message": "Da click Publish! (lan 3)"
+    },
+    {
+      "time": "14:49:50",
+      "level": "info",
+      "message": "Da dong Google Tag"
+    },
+    {
+      "time": "14:49:58",
+      "level": "error",
+      "message": "Publish KHONG xac nhan duoc (URL: https://ads.google.com/aw/overview?ocid=8163992111&euid=1131246667&__u=6515855283&uscid=8163992111&__c=4205157239&authus, title: Overview - 373-251-9645 - Google Ads) — khong update DB"
+    }
+  ]
+}
