@@ -208,8 +208,8 @@ class CampaignCreator:
                             el_text = (el.text or "").strip()
                             if exact and el_text.lower() != text_lc:
                                 continue
-                            d.execute_script("arguments[0].scrollIntoView({block:'center'})", el)
-                            time.sleep(0.3)
+                            d.execute_script("arguments[0].scrollIntoView({block:'center', behavior:'smooth'})", el)
+                            time.sleep(0.7)
                             try:
                                 el.click()
                             except Exception:
@@ -231,6 +231,313 @@ class CampaignCreator:
                 return any(el.is_displayed() for el in d.find_elements(By.XPATH, xpath))
             except Exception:
                 return False
+
+        # ==================== PAGE DETECTOR + STEP VERIFIER ====================
+
+        def detect_current_page():
+            """Scan URL + key elements, return page name.
+            Return: 'bidding' | 'settings' | 'locations' | 'languages' | 'keywords_ads'
+                  | 'budget' | 'review' | 'published' | '2fa' | 'unknown'
+            """
+            # 2FA dialog dang mo
+            try:
+                for dlg in d.find_elements(By.XPATH, "//material-dialog"):
+                    if dlg.is_displayed() and "Confirm" in (dlg.text or ""):
+                        return "2fa"
+            except Exception:
+                pass
+
+            # Published URL sign
+            try:
+                cur_url = (d.current_url or "").lower()
+                if "/campaigns" in cur_url and "/new" not in cur_url:
+                    return "published"
+                if "signup/tagging" in cur_url or "policy" in cur_url:
+                    return "published"
+            except Exception:
+                pass
+
+            # Review page — co button "Publish campaign"
+            try:
+                for b in d.find_elements(By.XPATH, "//material-button | //button"):
+                    if b.is_displayed() and "Publish campaign" in (b.text or ""):
+                        return "review"
+            except Exception:
+                pass
+
+            # Bidding page — dropdown "What do you want to focus on?" or text "Maximize clicks"/"Change bid strategy"
+            if on_page(
+                "//material-dropdown-select//dropdown-button[contains(., 'Conversions') or contains(., 'Clicks') or contains(., 'Conversion value')] | "
+                "//*[contains(normalize-space(.), 'Change bid strategy')] | "
+                "//*[contains(normalize-space(.), 'What do you want to focus on')]"
+            ):
+                return "bidding"
+
+            # Budget page
+            if on_page(
+                "//material-radio[contains(., 'Set custom budget')] | "
+                "//input[contains(@aria-label, 'budget') or contains(@aria-label, 'Budget')]"
+            ):
+                return "budget"
+
+            # Keywords/Ads page
+            if on_page(
+                "//textarea[contains(@aria-label, 'keyword')] | "
+                "//input[@aria-label='Final URL'] | "
+                "//section[contains(@class, 'headline')]//input"
+            ):
+                return "keywords_ads"
+
+            # Campaign Settings page (consolidated: Networks + Locations + Languages)
+            has_networks = on_page(
+                "//material-checkbox[contains(@class, 'search-checkbox')] | "
+                "//material-checkbox[contains(@class, 'display-checkbox')] | "
+                "//*[contains(normalize-space(.), 'Google Search Partners')] | "
+                "//*[contains(normalize-space(.), 'Google Display Network')]"
+            )
+            has_locations = on_page(
+                "//*[contains(normalize-space(.), 'Enter another location')] | "
+                "//material-radio[contains(., 'All countries and territories')]"
+            )
+            has_languages = on_page(
+                "//material-chip[contains(., 'English')] | "
+                "//*[contains(normalize-space(.), 'Select the languages')]"
+            )
+            if has_networks:
+                return "settings"
+            if has_locations:
+                return "locations"
+            if has_languages:
+                return "languages"
+
+            return "unknown"
+
+        def verify_step(step_id, campaign_config=None):
+            """Verify step da lam xong chua. Return (ok: bool, reason: str)."""
+            cfg = campaign_config or {}
+            try:
+                if step_id == "navigate":
+                    cur_url = (d.current_url or "").lower()
+                    if "ads.google.com" in cur_url:
+                        return True, "navigate OK"
+                    return False, f"URL sai: {cur_url[:80]}"
+
+                if step_id == "create":
+                    # Da vao trang New campaign
+                    if "new" in (d.current_url or "").lower() or "New campaign" in (d.title or ""):
+                        return True, "create OK"
+                    # Hoac tim thay card objective
+                    if on_page("//*[@data-value='No objective'] | //*[contains(normalize-space(.), 'objective')]"):
+                        return True, "create OK (objective card)"
+                    return False, "chua vao trang New campaign"
+
+                if step_id == "setup":
+                    # Campaign name da dien + Page view da tick
+                    name = cfg.get("name", "")
+                    if name:
+                        name_ok = False
+                        for inp in d.find_elements(By.XPATH, "//input[@aria-label='Campaign name']"):
+                            try:
+                                if inp.is_displayed():
+                                    val = (inp.get_attribute("value") or "").strip()
+                                    if val:
+                                        name_ok = True
+                                        break
+                            except Exception:
+                                pass
+                        # Neu da qua trang setup -> khong tim thay input -> coi nhu qua
+                        if not name_ok and on_page("//input[@aria-label='Campaign name']"):
+                            return False, "Campaign name rong"
+                    return True, "setup OK (or passed)"
+
+                if step_id == "bidding":
+                    # Dropdown hien "Clicks" (neu expected)
+                    bidding = (cfg.get("bidding") or "").lower()
+                    cpc = cfg.get("cpc", "")
+                    if "click" in bidding:
+                        # Tim dropdown-button co text "Clicks"
+                        found_clicks = False
+                        for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
+                            try:
+                                if db.is_displayed() and "Clicks" in (db.text or ""):
+                                    found_clicks = True
+                                    break
+                            except Exception:
+                                pass
+                        # Page cung co the o text view 'Maximize clicks' (sau khi da chon Clicks)
+                        if not found_clicks:
+                            page_txt = (d.page_source[:20000] or "").lower()
+                            if "maximize clicks" in page_txt:
+                                found_clicks = True
+                        if not found_clicks:
+                            return False, "dropdown Clicks chua set"
+                    # CPC input (neu co)
+                    if cpc:
+                        cpc_ok = False
+                        for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
+                            try:
+                                if inp.is_displayed():
+                                    val = (inp.get_attribute("value") or "").strip()
+                                    if val and (val == str(cpc) or val.replace("$", "").strip() == str(cpc).strip()):
+                                        cpc_ok = True
+                                        break
+                            except Exception:
+                                pass
+                        if not cpc_ok:
+                            return False, f"CPC chua dien = {cpc}"
+                    return True, "bidding OK"
+
+                if step_id == "settings":
+                    # Ca 2 checkbox Network phai unchecked
+                    for cls_name, label in [("search-checkbox", "Search Partners"), ("display-checkbox", "Display Network")]:
+                        for c in d.find_elements(By.XPATH, f"//material-checkbox[contains(@class, '{cls_name}')]"):
+                            try:
+                                if c.is_displayed() and is_checkbox_ticked(c):
+                                    return False, f"{label} van tick"
+                            except Exception:
+                                pass
+                    return True, "settings OK"
+
+                if step_id == "locations":
+                    target_locs = cfg.get("target_locations") or []
+                    if not target_locs:
+                        return True, "locations skip (no target)"
+                    # Co chip Targeted hoac text "Targeted:"
+                    if on_page("//*[contains(normalize-space(.), 'Targeted:')] | //material-chip[contains(., 'Targeted')]"):
+                        return True, "locations OK"
+                    return False, "chua co target locations"
+
+                if step_id == "languages":
+                    # Khong con chip "English"
+                    for chip in d.find_elements(By.XPATH, "//material-chip[contains(., 'English')]"):
+                        try:
+                            if chip.is_displayed():
+                                return False, "English chip van con"
+                        except Exception:
+                            pass
+                    return True, "languages OK"
+
+                if step_id == "keywords_ads":
+                    # Final URL co value
+                    final_url = cfg.get("final_url", "")
+                    if final_url:
+                        url_ok = False
+                        for inp in d.find_elements(By.XPATH, "//input[@aria-label='Final URL']"):
+                            try:
+                                if inp.is_displayed():
+                                    val = (inp.get_attribute("value") or "").strip()
+                                    if val:
+                                        url_ok = True
+                                        break
+                            except Exception:
+                                pass
+                        if not url_ok:
+                            return False, "Final URL rong"
+                    # It nhat 1 headline co text
+                    headlines = cfg.get("headlines") or []
+                    if headlines:
+                        hl_count = 0
+                        for inp in d.find_elements(By.XPATH, '//section[contains(@class, "headline")]//input'):
+                            try:
+                                if inp.is_displayed() and (inp.get_attribute("value") or "").strip():
+                                    hl_count += 1
+                            except Exception:
+                                pass
+                        if hl_count < 3:
+                            return False, f"headlines chi co {hl_count}/{len(headlines)}"
+                    return True, "keywords_ads OK"
+
+                if step_id == "next_skip":
+                    # Sau Next/Skip phai den duoc trang keywords_ads hoac xa hon
+                    page = detect_current_page()
+                    if page in ("keywords_ads", "budget", "review", "published"):
+                        return True, f"next_skip OK (page={page})"
+                    return False, f"Van ket o page={page}"
+
+                if step_id == "budget":
+                    budget = cfg.get("budget", "")
+                    if not budget:
+                        return True, "budget skip (no value)"
+                    for inp in d.find_elements(By.XPATH, "//input[contains(@aria-label, 'budget') or contains(@aria-label, 'Budget')]"):
+                        try:
+                            if inp.is_displayed():
+                                val = (inp.get_attribute("value") or "").strip()
+                                if val and (val == str(budget) or val.replace(",", "").replace(".00", "") == str(budget)):
+                                    return True, f"budget OK ({val})"
+                        except Exception:
+                            pass
+                    return False, f"budget chua dien = {budget}"
+
+                if step_id == "publish":
+                    cur_url = (d.current_url or "").lower()
+                    cur_title = (d.title or "").lower()
+                    if "/campaigns" in cur_url and "/new" not in cur_url:
+                        return True, "publish OK (URL /campaigns)"
+                    if "published" in cur_title or "signup/tagging" in cur_url or "policy" in cur_url:
+                        return True, "publish OK (title/URL)"
+                    # Neu van o Review -> chua publish
+                    if detect_current_page() == "review":
+                        return False, "van o Review — chua publish"
+                    return True, "publish (unknown — assume OK)"
+
+                return True, f"no verify rule for '{step_id}'"
+            except Exception as e:
+                return True, f"verify error (ignore): {e}"
+
+        # Map step -> page expected sau khi step xong (de phan tich auto-advance/regression)
+        STEP_ORDER = ["navigate", "create", "setup", "bidding", "settings",
+                      "locations", "languages", "next_skip", "keywords_ads", "budget", "publish"]
+        PAGE_TO_STEP = {
+            "bidding": "bidding",
+            "settings": "settings",
+            "locations": "locations",
+            "languages": "languages",
+            "keywords_ads": "keywords_ads",
+            "budget": "budget",
+            "review": "publish",
+            "published": "publish",
+        }
+
+        def run_verify(step_id):
+            """Goi verify + log smart: phan tich page de phan biet auto-advance vs regression.
+            Retry 1 lan voi delay 1.5s neu FAIL (chong race condition - input value chua kip update)."""
+            try:
+                ok, reason = verify_step(step_id, campaign_config)
+                if not ok:
+                    time.sleep(1.5)
+                    ok, reason = verify_step(step_id, campaign_config)
+                page = detect_current_page()
+                if ok:
+                    self.tracker.log(f"[VERIFY {step_id}] OK — {reason} | page={page}", "success")
+                    return True
+
+                # FAIL — so sanh page voi step de phan tich
+                cur_step_from_page = PAGE_TO_STEP.get(page)
+                if cur_step_from_page and step_id in STEP_ORDER and cur_step_from_page in STEP_ORDER:
+                    this_idx = STEP_ORDER.index(step_id)
+                    cur_idx = STEP_ORDER.index(cur_step_from_page)
+                    if cur_idx > this_idx:
+                        self.tracker.log(
+                            f"[VERIFY {step_id}] FAIL nhung page='{page}' la step sau — Google auto-advance, coi nhu OK",
+                            "warn"
+                        )
+                        return True
+                    if cur_idx < this_idx:
+                        self.tracker.log(
+                            f"[VERIFY {step_id}] FAIL + LUI ve page='{page}' (step '{cur_step_from_page}'). Reason: {reason}",
+                            "error"
+                        )
+                        return False
+
+                # Page = unknown hoac dialog (2fa) hoac chinh step nay
+                self.tracker.log(
+                    f"[VERIFY {step_id}] FAIL — {reason} | page={page}",
+                    "error"
+                )
+                return False
+            except Exception as e:
+                self.tracker.log(f"[VERIFY {step_id}] exception: {e}", "warn")
+                return True
 
         # ==================== 2FA + POPUPS ====================
 
@@ -610,6 +917,7 @@ class CampaignCreator:
         # === BUOC 0: Navigate ===
         while _run("navigate"):
             self.tracker.set_current(step="Buoc 0: Navigate")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             self.tracker.log(f"Trang hien tai: {d.title}")
 
             if skip_navigate:
@@ -639,6 +947,7 @@ class CampaignCreator:
                     return False
             except Exception as e:
                 self.tracker.log(f"[WARN] check_account_status loi: {e}", "warn")
+            run_verify("navigate")
             break
         else:
             self.tracker.log("[SKIP] Buoc 0: Navigate (start_step)", "warn")
@@ -648,6 +957,7 @@ class CampaignCreator:
         # === BUOC 4-5: Click Create > Campaign ===
         while _run("create"):
             self.tracker.set_current(step="Buoc 4-5: Create > Campaign")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             check_all()
             time.sleep(3)
 
@@ -699,6 +1009,7 @@ class CampaignCreator:
                 pass
             time.sleep(3)
             check_all()
+            run_verify("create")
             break
         else:
             self.tracker.log("[SKIP] Buoc 4-5: Create > Campaign (start_step)", "warn")
@@ -706,6 +1017,7 @@ class CampaignCreator:
         # === BUOC 6-13: Setup campaign — thu tung action truc tiep, khong scan ===
         while _run("setup"):
             self.tracker.set_current(step="Buoc 6-13: Setup campaign")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             time.sleep(3)
 
             camp_type = campaign_config.get("type", "search").upper()
@@ -838,8 +1150,8 @@ class CampaignCreator:
                                     try:
                                         if not el.is_displayed():
                                             continue
-                                        d.execute_script("arguments[0].scrollIntoView({block:'center'})", el)
-                                        time.sleep(0.2)
+                                        d.execute_script("arguments[0].scrollIntoView({block:'center', behavior:'smooth'})", el)
+                                        time.sleep(0.7)
                                         try:
                                             el.click()
                                         except Exception:
@@ -860,8 +1172,8 @@ class CampaignCreator:
                                 try:
                                     if not el.is_displayed():
                                         continue
-                                    d.execute_script("arguments[0].scrollIntoView({block: 'center'})", el)
-                                    time.sleep(0.2)
+                                    d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", el)
+                                    time.sleep(0.7)
                                     js_click(el)
                                     done_pv = True
                                     self.tracker.log("Click Page view (xpath)", "success")
@@ -885,6 +1197,7 @@ class CampaignCreator:
                 time.sleep(5)
                 check_all()
                 check_login()
+            run_verify("setup")
             break
         else:
             self.tracker.log("[SKIP] Buoc 6-13: Setup campaign (start_step)", "warn")
@@ -892,6 +1205,7 @@ class CampaignCreator:
         # === BUOC 14: Bidding ===
         while _run("bidding"):
             self.tracker.set_current(step="Buoc 14: Bidding")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             self.tracker.log(">>> VAO BUOC 14: Bidding")
             check_all()
             time.sleep(3)
@@ -933,10 +1247,10 @@ class CampaignCreator:
                                     try:
                                         # Scroll vao view TRUOC khi check displayed
                                         try:
-                                            d.execute_script("arguments[0].scrollIntoView({block: 'center'})", el)
+                                            d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", el)
                                         except Exception:
                                             pass
-                                        time.sleep(0.2)
+                                        time.sleep(0.7)
                                         is_vis = el.is_displayed()
                                         el_text = (el.text or "")[:80]
                                         self.tracker.log(f"[14]   el text='{el_text}' vis={is_vis}")
@@ -1111,6 +1425,9 @@ class CampaignCreator:
                 except Exception as e:
                     self.tracker.log(f"[14] Loi dien CPC: {e}", "warn")
 
+            # Verify truoc khi di tiep
+            run_verify("bidding")
+
             # Next de sang Campaign Settings — CHI khi khong phai single-step mode
             if not _single_step:
                 click_button("Next")
@@ -1125,56 +1442,86 @@ class CampaignCreator:
         # === BUOC 15: Campaign Settings (Networks) ===
         while _run("settings"):
             self.tracker.set_current(step="Buoc 15: Campaign Settings")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             check_all()
+            time.sleep(2)  # Doi trang Settings render hoan toan
 
             # Bo tick Search Partners + Display Network — match theo text label
-            # Fallback: thu class cu truoc, neu khong thay thi match label text
+            # QUAN TRONG: Google auto-save sau moi click, phai doi save xong roi moi click tiep
+            # neu khong se bi loi "Changes failed to save" va click sau bi mat
             NETWORK_LABELS = [
                 ("search-checkbox", "Google Search Partners"),
                 ("display-checkbox", "Google Display Network"),
             ]
-            for cls_name, label in NETWORK_LABELS:
-                unchecked = False
+
+            def find_network_cb(cls_name, label):
+                """Tim lai checkbox moi lan — stale reference neu DOM reload."""
                 # Thu 1: class cu
                 for c in d.find_elements(By.XPATH, f"//material-checkbox[contains(@class, '{cls_name}')]"):
                     try:
-                        if c.is_displayed() and is_checkbox_ticked(c):
-                            js_click(c)
-                            self.tracker.log(f"Da bo tick: {label} (class)", "success")
-                            time.sleep(0.5)
-                            unchecked = True
-                            break
+                        if c.is_displayed():
+                            return c
                     except Exception:
                         pass
-                if unchecked:
-                    continue
-                # Thu 2: text label — tim material-checkbox co ancestor chua text label
+                # Thu 2: text label
                 try:
-                    xpath_text = (
+                    cbs = d.find_elements(
+                        By.XPATH,
                         f"//material-checkbox[ancestor::*[self::div or self::section or self::networks-step][1]"
                         f"[.//*[contains(normalize-space(.), '{label}')]]]"
                     )
-                    cbs = d.find_elements(By.XPATH, xpath_text)
-                    # Fallback them: xpath don gian hon
                     if not cbs:
                         cbs = d.find_elements(
                             By.XPATH,
                             f"//*[contains(normalize-space(.), '{label}')]/ancestor-or-self::*[1]//material-checkbox"
                         )
                     for c in cbs:
-                        try:
-                            if c.is_displayed() and is_checkbox_ticked(c):
-                                js_click(c)
-                                self.tracker.log(f"Da bo tick: {label} (text)", "success")
-                                time.sleep(0.5)
-                                unchecked = True
-                                break
-                        except Exception:
-                            pass
+                        if c.is_displayed():
+                            return c
                 except Exception:
                     pass
+                return None
+
+            for cls_name, label in NETWORK_LABELS:
+                unchecked = False
+                for attempt in range(3):
+                    c = find_network_cb(cls_name, label)
+                    if c is None:
+                        self.tracker.log(f"Khong tim thay checkbox '{label}'", "warn")
+                        break
+                    try:
+                        if not is_checkbox_ticked(c):
+                            self.tracker.log(f"'{label}' DA unchecked san — skip", "success")
+                            unchecked = True
+                            break
+                    except Exception:
+                        pass
+                    try:
+                        d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", c)
+                        time.sleep(0.7)
+                        js_click(c)
+                        self.tracker.log(f"Da bo tick: {label} (lan {attempt + 1})", "success")
+                    except Exception as e:
+                        self.tracker.log(f"Loi click '{label}': {e}", "warn")
+                        time.sleep(1)
+                        continue
+                    # QUAN TRONG: Doi 2s cho Google auto-save xong
+                    time.sleep(2)
+                    # Verify: tim lai checkbox va check state
+                    try:
+                        c2 = find_network_cb(cls_name, label)
+                        if c2 is None or not is_checkbox_ticked(c2):
+                            self.tracker.log(f"Verified: '{label}' da unchecked", "success")
+                            unchecked = True
+                            break
+                        else:
+                            self.tracker.log(f"'{label}' VAN tick — retry (lan {attempt + 1})", "warn")
+                    except Exception:
+                        unchecked = True
+                        break
                 if not unchecked:
-                    self.tracker.log(f"Khong tim thay checkbox '{label}' hoac da unchecked", "warn")
+                    self.tracker.log(f"KHONG bo tich duoc '{label}' sau 3 lan", "error")
+            run_verify("settings")
             break
         else:
             self.tracker.log("[SKIP] Buoc 15: Campaign Settings (start_step)", "warn")
@@ -1182,6 +1529,7 @@ class CampaignCreator:
         # === BUOC 16: Locations ===
         while _run("locations"):
             self.tracker.set_current(step="Buoc 16: Locations")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             check_all()
             target_locs = campaign_config.get("target_locations", [])
             exclude_locs = campaign_config.get("exclude_locations", [])
@@ -1261,6 +1609,7 @@ class CampaignCreator:
                                 break
                     except Exception:
                         pass
+            run_verify("locations")
             break
         else:
             self.tracker.log("[SKIP] Buoc 16: Locations (start_step)", "warn")
@@ -1268,6 +1617,7 @@ class CampaignCreator:
         # === BUOC 17: Xoa English -> All languages ===
         while _run("languages"):
             self.tracker.set_current(step="Buoc 17: Languages")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             removed = False
             # Nhieu selector fallback — Google co the doi attribute
             xpaths = [
@@ -1293,6 +1643,7 @@ class CampaignCreator:
                     pass
             if not removed:
                 self.tracker.log("Khong tim thay nut X cua English chip", "warn")
+            run_verify("languages")
             break
         else:
             self.tracker.log("[SKIP] Buoc 17: Languages (start_step)", "warn")
@@ -1301,11 +1652,13 @@ class CampaignCreator:
         while _run("next_skip"):
             for step_name, btn_text in [("Buoc 18: Next", "Next"), ("Buoc 19: Skip AI Max", "Next"), ("Buoc 20: Skip keyword gen", "Skip")]:
                 self.tracker.set_current(step=step_name)
+                time.sleep(1.2)  # buffer cho DOM on dinh
                 check_all()
                 if not click_button(btn_text):
                     click_button("Next")
                 time.sleep(8)
                 check_all()
+            run_verify("next_skip")
             break
         else:
             self.tracker.log("[SKIP] Buoc 18-20: Next/Skip (start_step)", "warn")
@@ -1313,6 +1666,7 @@ class CampaignCreator:
         # === BUOC 21: Keywords + Ads ===
         while _run("keywords_ads"):
             self.tracker.set_current(step="Buoc 21: Keywords + Ads")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             check_all()
             time.sleep(3)
 
@@ -1388,8 +1742,8 @@ class CampaignCreator:
                                 break
                         if filled < len(inps):
                             inp = inps[filled]
-                            d.execute_script("arguments[0].scrollIntoView({block: 'center'})", inp)
-                            time.sleep(0.5)
+                            d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", inp)
+                            time.sleep(0.8)
                             try:
                                 d.find_element(By.TAG_NAME, "body").click()
                                 time.sleep(0.3)
@@ -1484,6 +1838,7 @@ class CampaignCreator:
                     time.sleep(8)
                     check_all()
                     break
+            run_verify("keywords_ads")
             break
         else:
             self.tracker.log("[SKIP] Buoc 21: Keywords + Ads (start_step)", "warn")
@@ -1491,6 +1846,7 @@ class CampaignCreator:
         # === BUOC 22: Budget ===
         while _run("budget"):
             self.tracker.set_current(step="Buoc 22: Budget")
+            time.sleep(1.2)  # buffer cho DOM on dinh
             check_all()
             time.sleep(3)
             budget = campaign_config.get("budget", "5")
@@ -1499,8 +1855,8 @@ class CampaignCreator:
             for r in d.find_elements(By.TAG_NAME, "material-radio"):
                 try:
                     if r.is_displayed() and "Set custom budget" in r.text:
-                        d.execute_script("arguments[0].scrollIntoView({block: 'center'})", r)
-                        time.sleep(0.3)
+                        d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", r)
+                        time.sleep(0.7)
                         action_click(r)
                         time.sleep(0.5)
                         break
@@ -1533,8 +1889,8 @@ class CampaignCreator:
                 try:
                     for el in d.find_elements(By.XPATH, xp):
                         if el.is_displayed():
-                            d.execute_script("arguments[0].scrollIntoView({block: 'center'})", el)
-                            time.sleep(0.5)
+                            d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", el)
+                            time.sleep(0.8)
                             clear_and_type(el, budget)
                             self.tracker.log(f"Da dien budget: ${budget}", "success")
                             budget_filled = True
@@ -1566,6 +1922,9 @@ class CampaignCreator:
                 except Exception:
                     break
 
+            # Verify truoc khi di tiep
+            run_verify("budget")
+
             # Next -> Review — CHI khi khong phai single-step mode
             check_all()
             if not _single_step:
@@ -1581,6 +1940,7 @@ class CampaignCreator:
         # === BUOC 23 + SAU PUBLISH: Publish + post-handling ===
         if _run("publish"):
             self.tracker.set_current(step="Buoc 23: Publish")
+            time.sleep(1.2)  # buffer cho DOM on dinh
 
             # Doi nut Publish — neu 2FA reset hoac Fix errors, scan lai va xu ly
             budget = campaign_config.get("budget", "5")
@@ -1664,7 +2024,7 @@ class CampaignCreator:
                         if b.get_attribute("aria-disabled") == "true" or not b.is_enabled():
                             self.tracker.log(f"Publish dang disabled — skip (lan {attempt + 1})", "warn")
                             continue
-                        d.execute_script("arguments[0].scrollIntoView({block: 'center'})", b)
+                        d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", b)
                         time.sleep(1)
                         action_click(b)
                         self.tracker.log(f"Da click Publish! (lan {attempt + 1})", "success")
@@ -1759,6 +2119,7 @@ class CampaignCreator:
 
             # Verify publish thanh cong truoc khi upsert DB
             time.sleep(3)
+            run_verify("publish")
             cur_url = d.current_url.lower()
             cur_title = (d.title or "").lower()
             publish_ok = False
