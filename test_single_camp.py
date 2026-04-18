@@ -17,12 +17,12 @@ except Exception:
 
 from genlogin_api import start_profile, get_debugger_address, get_browser_version, connect_selenium
 from camp_runner import handle_post_navigate, check_account_status
-from camp_google_ads_v3 import CampaignCreator
+from camp_google_ads_v4 import CampaignCreator
 from status_tracker import StatusTracker
 
 # === CONFIG ===
 GENLOGIN_ID = "25892790"    # Đức 14/4/26_008
-ACCOUNT_ID = "544-689-3084"
+ACCOUNT_ID = "835-303-6407"
 GMAIL_EMAIL = "MiladCecile797@gmail.com"
 PROFILE_ID = "cmnybntnm0073k0k56ida1txd"
 PROFILE_NAME = "Đức 14/4/26_008"

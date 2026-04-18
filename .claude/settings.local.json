@@ -81,7 +81,21 @@
       "Bash(MSYS_NO_PATHCONV=1 cmd.exe /c auto_push.bat)",
       "Bash(MSYS2_ARG_CONV_EXCL=\"*\" schtasks.exe /Run /TN \"VipproAutoPush\")",
       "Bash(echo \"test change\")",
-      "Bash(touch auto_push.bat)"
+      "Bash(touch auto_push.bat)",
+      "Bash(python test_click_pageview.py)",
+      "Bash(python -c \"from api_helpers import fetch_ads_account_by_id; import json; r = fetch_ads_account_by_id\\('835-303-6407'\\); print\\(json.dumps\\(r, indent=2, default=str\\) if r else 'NOT FOUND'\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('camp_google_ads_v3.py'\\).read\\(\\)\\); print\\('OK syntax'\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('camp_google_ads_v3.py', encoding='utf-8'\\).read\\(\\)\\); ast.parse\\(open\\('camp_runner.py', encoding='utf-8'\\).read\\(\\)\\); print\\('OK ca 2 file'\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('camp_google_ads_v4.py', encoding='utf-8'\\).read\\(\\)\\); print\\('OK syntax valid'\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('camp_runner.py', encoding='utf-8'\\).read\\(\\)\\); print\\('camp_runner.py syntax OK'\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('camp_google_ads_v4.py', encoding='utf-8'\\).read\\(\\)\\); print\\('OK'\\)\")",
+      "Bash(tee test_v4.log)",
+      "Bash(awk 'NR>=347 && NR<=500' camp_runner.py)",
+      "Bash(python -c \"import streamlit; print\\('streamlit:', streamlit.__version__\\)\")",
+      "Bash(python -c \"from camp_steps import helpers; from camp_steps import step_00_navigate, step_01_create, step_02_objective, step_03_type_search, step_04_goals_name, step_05_bidding, step_06_networks, step_07_locations, step_08_languages, step_09_next_skip_ai, step_10_keywords_ads, step_11_budget, step_12_publish; print\\('All step modules imported OK'\\)\")",
+      "Bash(python -c \"from camp_steps.driver_session import open_driver, close_driver; print\\('driver_session OK'\\)\")",
+      "Bash(python -X utf8 step_runner.py --step unknown_step --ws-port 12345)",
+      "Bash(python -c \"import step_runner; print\\('step_runner OK'\\)\")"
     ]
   }
 }

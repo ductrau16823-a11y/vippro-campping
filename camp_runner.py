@@ -64,6 +64,24 @@ def check_account_status(driver, profile_name, account_id, account_db_id=None):
         page_source = driver.page_source.lower()
         current_url = driver.current_url.lower()
 
+        # Neu da vao duoc trang Campaigns -> coi nhu OK, khong reload
+        # Banner "Verify your payment information" tren dau trang KHONG phai ly do reload
+        if "/aw/campaigns" in current_url:
+            # Van check suspended
+            suspended_indicators = [
+                "your account is suspended",
+                "account suspended",
+                "this account has been suspended",
+                "account is currently suspended",
+            ]
+            for indicator in suspended_indicators:
+                if indicator in page_source:
+                    log(f"[{profile_name}] TK {account_id} BI SUSPENDED — skip!", "error")
+                    if account_db_id:
+                        update_account_status(account_db_id, "suspended", "Account is suspended")
+                    return "suspended"
+            return "ok"
+
         # TK bi suspended — KHONG len camp, update DB de sau khang
         suspended_indicators = [
             "your account is suspended",
@@ -96,7 +114,7 @@ def check_account_status(driver, profile_name, account_id, account_db_id=None):
                 log(f"[{profile_name}] Gap trang '{indicator}' — reload lai...", "warn")
                 # Navigate lai ve Campaigns
                 cid = account_id.replace("-", "")
-                driver.get(f"https://ads.google.com/aw/campaigns?ocid={cid}")
+                driver.get(f"https://ads.google.com/aw/campaigns?__e={cid}")
                 time.sleep(10)
                 # Check lai — neu van bi thi thu 1 lan nua
                 new_url = driver.current_url.lower()
@@ -104,7 +122,7 @@ def check_account_status(driver, profile_name, account_id, account_db_id=None):
                 still_setup = any(ind in new_source or ind in new_url for ind in setup_indicators)
                 if still_setup:
                     log(f"[{profile_name}] Van gap setup sau reload — thu lan nua...", "warn")
-                    driver.get(f"https://ads.google.com/aw/campaigns?ocid={cid}")
+                    driver.get(f"https://ads.google.com/aw/campaigns?__e={cid}")
                     time.sleep(10)
                 log(f"[{profile_name}] Da reload — Title: {driver.title}")
                 return "ok"
@@ -219,7 +237,7 @@ def handle_ads_account_selector(driver, account_id, profile_name):
     log(f"[{profile_name}] Gap trang chon TK Ads, dang tim {account_id}...")
 
     try:
-        items = WebDriverWait(driver, 10).until(
+        items = WebDriverWait(driver, 20).until(
             lambda d: d.find_elements(By.CSS_SELECTOR, "material-list-item")
         )
 
@@ -230,8 +248,8 @@ def handle_ads_account_selector(driver, account_id, profile_name):
                     log(f"[{profile_name}] TK {account_id} co 'Setup in progress' — SKIP", "warn")
                     return False
                 item.click()
-                log(f"[{profile_name}] Da click chon TK {account_id}", "success")
-                time.sleep(8)
+                log(f"[{profile_name}] Da click chon TK {account_id}, cho trang load...", "success")
+                time.sleep(15)
                 return True
 
         log(f"[{profile_name}] Khong tim thay TK {account_id} tren trang!", "error")
@@ -351,8 +369,24 @@ def handle_post_navigate(driver, gmail_email, profile_id, profile_name, account_
         time.sleep(3)
 
     # Buoc 2: Check Google Ads Account Selector (chon TK Ads cu the)
-    if "/selectaccount" in driver.current_url:
-        return handle_ads_account_selector(driver, account_id, profile_name)
+    # Retry toi 3 lan: sau khi chon TK, Google co the quay lai Account Chooser (chon Gmail) lan nua
+    for _ in range(3):
+        if "/selectaccount" in driver.current_url:
+            ok = handle_ads_account_selector(driver, account_id, profile_name)
+            if not ok:
+                return False
+            time.sleep(5)
+            # Sau khi chon TK, check xem co quay ve Account Chooser / login khong
+            if handle_account_chooser(driver, gmail_email, profile_name):
+                time.sleep(3)
+                handle_gmail_login(driver, gmail_email, profile_id, profile_name)
+                time.sleep(3)
+                continue  # loop lai de chon TK lan nua
+            return True
+        # Neu khong phai trang selectaccount -> da vao duoc TK
+        if "ads.google.com" in driver.current_url and "/selectaccount" not in driver.current_url:
+            return True
+        time.sleep(3)
 
     return True
 
@@ -410,7 +444,7 @@ def run_single_account(acc, config):
         log(f"[{profile_name}] Da ket noi Selenium!", "success")
 
         # Navigate vao TK Ads
-        ads_url = f"https://ads.google.com/aw/campaigns?ocid={account_id.replace('-', '')}"
+        ads_url = f"https://ads.google.com/aw/campaigns?__e={account_id.replace('-', '')}"
         log(f"[{profile_name}] Dang vao: {ads_url}")
         driver.get(ads_url)
         time.sleep(5)
