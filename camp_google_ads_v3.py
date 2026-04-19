@@ -15,7 +15,6 @@ Bai hoc thuc te (2026-04-15):
 
 import sys
 import time
-import traceback
 
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -167,7 +166,6 @@ class CampaignCreator:
 
         # Determine start index tu start_step
         _start_idx = 0
-        _single_step = False  # Luon False: continue_camp chay tu start_step den het, khong skip
         if start_step:
             if start_step in CampaignCreator.STEP_ORDER:
                 _start_idx = CampaignCreator.STEP_ORDER.index(start_step)
@@ -433,192 +431,6 @@ class CampaignCreator:
                 return "keywords_ads"
 
             return "unknown"
-
-        def verify_step(step_id, campaign_config=None):
-            """Verify step da lam xong chua. Return (ok: bool, reason: str)."""
-            cfg = campaign_config or {}
-            try:
-                if step_id == "navigate":
-                    cur_url = (d.current_url or "").lower()
-                    if "ads.google.com" in cur_url:
-                        return True, "navigate OK"
-                    return False, f"URL sai: {cur_url[:80]}"
-
-                if step_id == "create":
-                    # Da vao trang New campaign
-                    if "new" in (d.current_url or "").lower() or "New campaign" in (d.title or ""):
-                        return True, "create OK"
-                    # Hoac tim thay card objective
-                    if on_page("//*[@data-value='No objective'] | //*[contains(normalize-space(.), 'objective')]"):
-                        return True, "create OK (objective card)"
-                    return False, "chua vao trang New campaign"
-
-                if step_id == "setup":
-                    # Campaign name da dien + Page view da tick
-                    name = cfg.get("name", "")
-                    if name:
-                        name_ok = False
-                        for inp in d.find_elements(By.XPATH, "//input[@aria-label='Campaign name']"):
-                            try:
-                                if inp.is_displayed():
-                                    val = (inp.get_attribute("value") or "").strip()
-                                    if val:
-                                        name_ok = True
-                                        break
-                            except Exception:
-                                pass
-                        # Neu da qua trang setup -> khong tim thay input -> coi nhu qua
-                        if not name_ok and on_page("//input[@aria-label='Campaign name']"):
-                            return False, "Campaign name rong"
-                    return True, "setup OK (or passed)"
-
-                if step_id == "bidding":
-                    # Dropdown hien "Clicks" (neu expected)
-                    bidding = (cfg.get("bidding") or "").lower()
-                    cpc = cfg.get("cpc", "")
-                    if "click" in bidding:
-                        # Tim dropdown-button co text "Clicks"
-                        found_clicks = False
-                        for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
-                            try:
-                                if db.is_displayed() and "Clicks" in (db.text or ""):
-                                    found_clicks = True
-                                    break
-                            except Exception:
-                                pass
-                        # Page cung co the o text view 'Maximize clicks' (sau khi da chon Clicks)
-                        if not found_clicks:
-                            page_txt = (d.page_source[:20000] or "").lower()
-                            if "maximize clicks" in page_txt:
-                                found_clicks = True
-                        if not found_clicks:
-                            return False, "dropdown Clicks chua set"
-                    # CPC input (neu co)
-                    if cpc:
-                        cpc_ok = False
-                        for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
-                            try:
-                                if inp.is_displayed():
-                                    val = (inp.get_attribute("value") or "").strip()
-                                    if val and (val == str(cpc) or val.replace("$", "").strip() == str(cpc).strip()):
-                                        cpc_ok = True
-                                        break
-                            except Exception:
-                                pass
-                        if not cpc_ok:
-                            return False, f"CPC chua dien = {cpc}"
-                    return True, "bidding OK"
-
-                if step_id == "settings":
-                    # Ca 2 checkbox Network phai unchecked
-                    for cls_name, label in [("search-checkbox", "Search Partners"), ("display-checkbox", "Display Network")]:
-                        for c in d.find_elements(By.XPATH, f"//material-checkbox[contains(@class, '{cls_name}')]"):
-                            try:
-                                if c.is_displayed() and is_checkbox_ticked(c):
-                                    return False, f"{label} van tick"
-                            except Exception:
-                                pass
-                    return True, "settings OK"
-
-                if step_id == "locations":
-                    target_locs = cfg.get("target_locations") or []
-                    if not target_locs:
-                        return True, "locations skip (no target)"
-                    # Co chip Targeted hoac text "Targeted:"
-                    if on_page("//*[contains(normalize-space(.), 'Targeted:')] | //material-chip[contains(., 'Targeted')]"):
-                        return True, "locations OK"
-                    return False, "chua co target locations"
-
-                if step_id == "languages":
-                    # Khong con chip "English"
-                    for chip in d.find_elements(By.XPATH, "//material-chip[contains(., 'English')]"):
-                        try:
-                            if chip.is_displayed():
-                                return False, "English chip van con"
-                        except Exception:
-                            pass
-                    return True, "languages OK"
-
-                if step_id == "keywords_ads":
-                    # Final URL co value
-                    final_url = cfg.get("final_url", "")
-                    if final_url:
-                        url_ok = False
-                        for inp in d.find_elements(By.XPATH, "//input[@aria-label='Final URL']"):
-                            try:
-                                if inp.is_displayed():
-                                    val = (inp.get_attribute("value") or "").strip()
-                                    if val:
-                                        url_ok = True
-                                        break
-                            except Exception:
-                                pass
-                        if not url_ok:
-                            return False, "Final URL rong"
-                    # It nhat 1 headline co text
-                    headlines = cfg.get("headlines") or []
-                    if headlines:
-                        hl_count = 0
-                        for inp in d.find_elements(By.XPATH, '//section[contains(@class, "headline")]//input'):
-                            try:
-                                if inp.is_displayed() and (inp.get_attribute("value") or "").strip():
-                                    hl_count += 1
-                            except Exception:
-                                pass
-                        if hl_count < 3:
-                            return False, f"headlines chi co {hl_count}/{len(headlines)}"
-                    return True, "keywords_ads OK"
-
-                if step_id == "next_skip":
-                    # Sau Next/Skip phai den duoc trang keywords_ads hoac xa hon
-                    page = detect_current_page()
-                    if page in ("keywords_ads", "budget", "review", "published"):
-                        return True, f"next_skip OK (page={page})"
-                    return False, f"Van ket o page={page}"
-
-                if step_id == "budget":
-                    budget = cfg.get("budget", "")
-                    if not budget:
-                        return True, "budget skip (no value)"
-                    for inp in d.find_elements(By.XPATH, "//input[contains(@aria-label, 'budget') or contains(@aria-label, 'Budget')]"):
-                        try:
-                            if inp.is_displayed():
-                                val = (inp.get_attribute("value") or "").strip()
-                                if val and (val == str(budget) or val.replace(",", "").replace(".00", "") == str(budget)):
-                                    return True, f"budget OK ({val})"
-                        except Exception:
-                            pass
-                    return False, f"budget chua dien = {budget}"
-
-                if step_id == "publish":
-                    cur_url = (d.current_url or "").lower()
-                    cur_title = (d.title or "").lower()
-                    if "/campaigns" in cur_url and "/new" not in cur_url:
-                        return True, "publish OK (URL /campaigns)"
-                    if "published" in cur_title or "signup/tagging" in cur_url or "policy" in cur_url:
-                        return True, "publish OK (title/URL)"
-                    # Neu van o Review -> chua publish
-                    if detect_current_page() == "review":
-                        return False, "van o Review — chua publish"
-                    return True, "publish (unknown — assume OK)"
-
-                return True, f"no verify rule for '{step_id}'"
-            except Exception as e:
-                return True, f"verify error (ignore): {e}"
-
-        # Map step -> page expected sau khi step xong (de phan tich auto-advance/regression)
-        STEP_ORDER = ["navigate", "create", "setup", "bidding", "settings",
-                      "locations", "languages", "next_skip", "keywords_ads", "budget", "publish"]
-        PAGE_TO_STEP = {
-            "bidding": "bidding",
-            "settings": "settings",
-            "locations": "locations",
-            "languages": "languages",
-            "keywords_ads": "keywords_ads",
-            "budget": "budget",
-            "review": "publish",
-            "published": "publish",
-        }
 
         def run_verify(step_id):
             """Log page hien tai, luon tra True — khong block flow."""
@@ -1308,323 +1120,50 @@ class CampaignCreator:
         else:
             self.tracker.log("[SKIP] Buoc 6-13: Setup campaign (start_step)", "warn")
 
-        # === BUOC 14: Bidding ===
+        # === BUOC 14: Bidding === (logic v1, ngan gon)
         while _run("bidding"):
             self.tracker.set_current(step="Buoc 14: Bidding")
-            time.sleep(1.2)  # buffer cho DOM on dinh
             self.tracker.log(">>> VAO BUOC 14: Bidding")
             check_all()
             time.sleep(3)
             bidding = campaign_config.get("bidding", "maximize_clicks")
             cpc = campaign_config.get("cpc", "")
-            self.tracker.log(f"[14] bidding='{bidding}' cpc='{cpc}'")
-
-            # Scan trang thai hien tai truoc khi lam
-            page_txt_lower = (d.page_source[:30000] or "").lower()
-            has_change_link = "change bid strategy" in page_txt_lower
-            dropdown_els = d.find_elements(
-                By.XPATH,
-                "//material-dropdown-select//dropdown-button[contains(., 'Conversions') or contains(., 'Clicks') or contains(., 'Conversion value')]"
-            )
-            has_dropdown = any(e.is_displayed() for e in dropdown_els if e)
-            self.tracker.log(f"[14] state: has_change_link={has_change_link} has_dropdown={has_dropdown}")
-
-            # === PRE-CHECK: Neu UI da dung (Clicks + CPC dung) -> skip actions, click Next luon ===
-            # Tranh trigger auto-save khi state da OK tu draft truoc.
-            bidding_already_ok = False
-            try:
-                dropdown_txt = ""
-                for db in dropdown_els:
-                    try:
-                        if db.is_displayed():
-                            dropdown_txt = (db.text or "").strip()
-                            break
-                    except Exception:
-                        pass
-                cpc_already_ok = True
-                if cpc:
-                    cpc_already_ok = False
-                    for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
-                        try:
-                            if inp.is_displayed():
-                                cur_val = (inp.get_attribute("value") or "").strip().replace("$", "").strip()
-                                if cur_val == str(cpc).strip():
-                                    cpc_already_ok = True
-                                    break
-                        except Exception:
-                            pass
-                dropdown_ok = ("click" not in bidding.lower()) or ("Clicks" in dropdown_txt)
-                if dropdown_ok and cpc_already_ok:
-                    bidding_already_ok = True
-                    self.tracker.log(f"[14] PRE-CHECK: UI DA DUNG (dropdown='{dropdown_txt[:20]}' cpc_ok={cpc_already_ok}) — skip actions", "success")
-            except Exception as _e:
-                self.tracker.log(f"[14] PRE-CHECK loi: {_e}", "warn")
-
-            if bidding_already_ok:
-                # Skip toan bo dropdown/tick/fill — chi click Next
-                self.tracker.log("[14] Skip actions, click Next luon", "info")
-                click_button("Next")
-                time.sleep(4)
-                check_all()
-                run_verify("bidding")
-                break
 
             if "click" in bidding.lower():
-                # Neu trang dang o che do text "Maximize clicks" (khong co dropdown) + co link Change bid strategy
-                # -> BAT BUOC click Change bid strategy de chuyen ve form 'What do you want to focus on?' co dropdown
                 try:
-                    if has_change_link:
-                        self.tracker.log("[14] Phat hien 'Change bid strategy' — click de mo form (B: luon click neu co link)")
-                        change_xpaths = [
-                            "//a[contains(normalize-space(.), 'Change bid strategy')]",
-                            "//*[@role='link'][contains(normalize-space(.), 'Change bid strategy')]",
-                            "//button[contains(normalize-space(.), 'Change bid strategy')]",
-                            "//span[contains(normalize-space(.), 'Change bid strategy')]/ancestor::a",
-                            "//span[contains(normalize-space(.), 'Change bid strategy')]/ancestor::button",
-                            "//*[contains(normalize-space(.), 'Change bid strategy')][self::a or self::button or @role='link' or @role='button']",
-                            "//*[contains(normalize-space(text()), 'Change bid strategy')]",
-                        ]
-                        changed = False
-                        for xp in change_xpaths:
-                            try:
-                                els = d.find_elements(By.XPATH, xp)
-                                self.tracker.log(f"[14] xp '{xp[:55]}' -> {len(els)} el")
-                                for el in els:
-                                    try:
-                                        # Scroll vao view TRUOC khi check displayed
-                                        try:
-                                            d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", el)
-                                        except Exception:
-                                            pass
-                                        time.sleep(0.7)
-                                        is_vis = el.is_displayed()
-                                        el_text = (el.text or "")[:80]
-                                        self.tracker.log(f"[14]   el text='{el_text}' vis={is_vis}")
-                                        # Thu click du is_displayed hay khong (mot so link bi CSS an nhung van click duoc qua JS)
-                                        for click_method in ("action", "js"):
-                                            try:
-                                                if click_method == "action":
-                                                    action_click(el)
-                                                else:
-                                                    d.execute_script("arguments[0].click()", el)
-                                                self.tracker.log(f"[14] Da click 'Change bid strategy' ({click_method})", "success")
-                                                changed = True
-                                                time.sleep(1.5)
-                                                break
-                                            except Exception as ce:
-                                                self.tracker.log(f"[14]   click {click_method} fail: {ce}", "warn")
-                                        if changed:
-                                            break
-                                    except Exception as ee:
-                                        self.tracker.log(f"[14]   loi check el: {ee}", "warn")
-                                if changed:
-                                    break
-                            except Exception as xe:
-                                self.tracker.log(f"[14] loi xpath: {xe}", "warn")
-                        if not changed:
-                            self.tracker.log("[14] Khong click duoc 'Change bid strategy'", "error")
-                        else:
-                            # Sau khi click Change bid strategy — re-check dropdown
-                            time.sleep(1)
-                            new_dd = d.find_elements(
-                                By.XPATH,
-                                "//material-dropdown-select//dropdown-button[contains(., 'Conversions') or contains(., 'Clicks') or contains(., 'Conversion value')]"
-                            )
-                            self.tracker.log(f"[14] Sau click: dropdown={len(new_dd)} el")
-                except Exception as e:
-                    self.tracker.log(f"[14] Loi check 'Change bid strategy': {e}", "warn")
-
-                # Mo dropdown bang dropdown-button (KHONG click text Conversions truc tiep)
-                clicked_dropdown = False
-                selectors = [
-                    "//material-dropdown-select//dropdown-button",
-                    "//dropdown-button[contains(., 'Conversions') or contains(., 'Clicks') or contains(., 'Conversion value')]",
-                    "//*[@role='button'][contains(., 'Conversions') or contains(., 'Clicks')]",
-                ]
-                for xp in selectors:
-                    try:
-                        dbs = d.find_elements(By.XPATH, xp)
-                        self.tracker.log(f"[14] Selector '{xp[:60]}' -> {len(dbs)} element")
-                        for db in dbs:
-                            try:
-                                if not db.is_displayed():
-                                    continue
-                                txt = (db.text or "").strip()
-                                self.tracker.log(f"[14] dropdown text: '{txt[:60]}'")
-                                if "Conversions" in txt or "Clicks" in txt or "Conversion value" in txt:
-                                    action_click(db)
-                                    self.tracker.log("[14] Da click dropdown", "success")
-                                    time.sleep(0.7)
-                                    clicked_dropdown = True
-                                    break
-                            except Exception as e:
-                                self.tracker.log(f"[14] Loi check dropdown: {e}", "warn")
-                        if clicked_dropdown:
+                    dbs = d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button")
+                    for db in dbs:
+                        if db.is_displayed() and ("Conversions" in db.text or "Clicks" in db.text):
+                            action_click(db)
+                            time.sleep(2)
                             break
-                    except Exception as e:
-                        self.tracker.log(f"[14] Loi find dropdown: {e}", "warn")
+                    for item in d.find_elements(By.XPATH, "//material-select-dropdown-item"):
+                        if item.is_displayed() and item.text.strip() == "Clicks":
+                            js_click(item)
+                            self.tracker.log("Da chon Clicks bidding", "success")
+                            time.sleep(2)
+                            break
+                except Exception:
+                    self.tracker.log("Khong doi duoc bidding", "warn")
 
-                if not clicked_dropdown:
-                    self.tracker.log("[14] KHONG tim thay dropdown bidding!", "error")
-
-                # Chon Clicks — thu Selenium native click truoc, verify UI doi thanh 'Clicks'
-                if clicked_dropdown:
-                    picked = False
-                    try:
-                        items = d.find_elements(By.XPATH, "//material-select-dropdown-item | //*[@role='option']")
-                        self.tracker.log(f"[14] Tim thay {len(items)} dropdown-item")
-                        for item in items:
-                            try:
-                                if item.is_displayed() and item.text.strip() == "Clicks":
-                                    # Try Selenium native (material cần real click để trigger listener)
-                                    try:
-                                        item.click()
-                                    except Exception:
-                                        try:
-                                            action_click(item)
-                                        except Exception:
-                                            js_click(item)
-                                    time.sleep(1.5)
-                                    # Verify dropdown text da doi thanh 'Clicks'
-                                    new_txt = ""
-                                    try:
-                                        for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
-                                            if db.is_displayed():
-                                                new_txt = (db.text or "").strip()
-                                                break
-                                    except Exception:
-                                        pass
-                                    if "Clicks" in new_txt:
-                                        self.tracker.log(f"[14] Da chon Clicks bidding (UI='{new_txt[:30]}')", "success")
-                                        picked = True
-                                        break
-                                    else:
-                                        self.tracker.log(f"[14] Click chua lam UI doi (UI='{new_txt[:30]}') — retry ActionChains", "warn")
-                                        try:
-                                            ActionChains(d).move_to_element(item).pause(0.3).click().perform()
-                                            time.sleep(1.5)
-                                        except Exception:
-                                            pass
-                                        for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
-                                            if db.is_displayed() and "Clicks" in (db.text or ""):
-                                                self.tracker.log("[14] Da chon Clicks bidding (retry)", "success")
-                                                picked = True
-                                                break
-                                        if picked:
-                                            break
-                            except Exception as e:
-                                self.tracker.log(f"[14] Loi check item: {e}", "warn")
-                        if not picked:
-                            self.tracker.log("[14] KHONG chon duoc 'Clicks' (UI khong doi)!", "error")
-                    except Exception as e:
-                        self.tracker.log(f"[14] Loi list dropdown-item: {e}", "warn")
-
-            # Tick checkbox max CPC + dien CPC (neu co) — tuyen tinh, KHONG nested thread.
-            # wait_dom_idle da gay treo vi poll execute_script trong khi Selenium session bi
-            # lock boi auto-save. Neu click Next bi treo -> throw -> camp_runner watchdog retry.
             if cpc:
                 try:
-                    ticked = False
-                    checkboxes = d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox")
-                    self.tracker.log(f"[14] Tim thay {len(checkboxes)} checkbox")
-                    for c in checkboxes:
-                        try:
-                            if c.is_displayed() and "maximum cost per click" in (c.text or "").lower():
-                                already_ticked = False
-                                try:
-                                    aria_checked = (c.get_attribute("aria-checked") or "").lower()
-                                    cls = (c.get_attribute("class") or "").lower()
-                                    if aria_checked == "true" or "is-checked" in cls or "checked" in cls:
-                                        already_ticked = True
-                                except Exception:
-                                    pass
-                                if already_ticked:
-                                    self.tracker.log("[14] Checkbox max CPC DA tick san — skip", "success")
-                                else:
-                                    # Selenium native click de trigger material listener
-                                    try:
-                                        c.click()
-                                    except Exception:
-                                        js_click(c)
-                                    self.tracker.log("[14] Da tick checkbox max CPC", "success")
-                                    time.sleep(1)
-                                ticked = True
-                                break
-                        except Exception as e:
-                            self.tracker.log(f"[14] Loi check checkbox CPC: {e}", "warn")
-                    if not ticked:
-                        self.tracker.log("[14] KHONG tim thay checkbox max CPC", "warn")
-                except Exception as e:
-                    self.tracker.log(f"[14] Loi tick CPC checkbox: {e}", "warn")
-
-                # Dien CPC trong max-bid-container
-                try:
-                    filled = False
-                    sections = d.find_elements(By.XPATH, "//div[contains(@class, 'max-bid-container')] | //section[.//span[contains(text(), 'Maximum CPC')]]")
-                    self.tracker.log(f"[14] Tim thay {len(sections)} max-bid section")
-                    for s in sections:
-                        try:
-                            if not s.is_displayed():
-                                continue
+                    for c in d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox"):
+                        if c.is_displayed() and "maximum cost per click" in c.text.lower():
+                            js_click(c)
+                            time.sleep(1)
+                            break
+                    for s in d.find_elements(By.XPATH, "//div[contains(@class, 'max-bid-container')] | //section[.//span[contains(text(), 'Maximum CPC')]]"):
+                        if s.is_displayed():
                             for inp in s.find_elements(By.XPATH, ".//input"):
                                 if inp.is_displayed():
-                                    try:
-                                        cur_val = (inp.get_attribute("value") or "").strip()
-                                        if cur_val and (cur_val == cpc or cur_val.replace("$", "").strip() == str(cpc).strip()):
-                                            self.tracker.log(f"[14] CPC da dien san ({cur_val}) — skip", "success")
-                                            filled = True
-                                            break
-                                    except Exception:
-                                        pass
-                                    js_fill_input(inp, cpc)
-                                    self.tracker.log(f"[14] Da dien CPC: {cpc} (JS-fill)", "success")
-                                    filled = True
+                                    clear_and_type(inp, cpc)
+                                    self.tracker.log(f"Da dien CPC: {cpc}", "success")
                                     break
-                            if filled:
-                                break
-                        except Exception as e:
-                            self.tracker.log(f"[14] Loi dien CPC section: {e}", "warn")
-                    if not filled:
-                        for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
-                            try:
-                                if inp.is_displayed() and inp.is_enabled():
-                                    parent_text = ""
-                                    try:
-                                        parent_text = inp.find_element(By.XPATH, "./ancestor::*[position()<=5]").text.lower()
-                                    except Exception:
-                                        pass
-                                    if "cpc" in parent_text or "maximum" in parent_text:
-                                        js_fill_input(inp, cpc)
-                                        self.tracker.log(f"[14] Da dien CPC (fallback, JS-fill): {cpc}", "success")
-                                        filled = True
-                                        break
-                            except Exception:
-                                pass
-                        if not filled:
-                            self.tracker.log("[14] KHONG dien duoc CPC", "error")
-                except Exception as e:
-                    self.tracker.log(f"[14] Loi dien CPC: {e}", "warn")
+                            break
+                except Exception:
+                    self.tracker.log("Khong dien duoc CPC", "warn")
 
-            # Buffer 2s sau fill CPC cho material binding ngam gia tri, roi click Next.
-            time.sleep(2)
-            self.tracker.log("[14] Click Next de sang settings...", "info")
-            # Bao click_button trong daemon thread timeout 20s — tranh hang
-            # sau fill CPC (Chrome auto-save lam find_elements trong click_button treo).
-            _next_done = {"flag": False}
-            def _click_next_safe():
-                try:
-                    click_button("Next")
-                    _next_done["flag"] = True
-                except Exception as _ce:
-                    self.tracker.log(f"[14] click Next exception: {_ce}", "warn")
-            import threading as _t14b
-            _thr = _t14b.Thread(target=_click_next_safe, daemon=True)
-            _thr.start()
-            _thr.join(timeout=20)
-            if not _next_done["flag"]:
-                self.tracker.log("[14] click Next TREO >20s — continue, camp_runner se retry neu can", "error")
-            time.sleep(4)
-            check_all()
             run_verify("bidding")
             break
         else:
@@ -1634,9 +1173,11 @@ class CampaignCreator:
         while _run("settings"):
             self.tracker.set_current(step="Buoc 15: Campaign Settings")
             self.tracker.log(">>> VAO BUOC 15: Campaign Settings", "info")
-            time.sleep(1.2)  # buffer cho DOM on dinh
+            # Click Next tu Bidding sang Settings (logic v1)
             check_all()
-            time.sleep(2)  # Doi trang Settings render hoan toan
+            click_button("Next")
+            time.sleep(8)
+            check_all()
 
             # Bo tick Search Partners + Display Network — match theo text label
             # QUAN TRONG: Google auto-save sau moi click, phai doi save xong roi moi click tiep
@@ -2124,14 +1665,11 @@ class CampaignCreator:
             # Verify truoc khi di tiep
             run_verify("budget")
 
-            # Next -> Review — CHI khi khong phai single-step mode
+            # Next -> Review
             check_all()
-            if not _single_step:
-                click_button("Next")
-                time.sleep(8)
-                check_all()
-            else:
-                self.tracker.log("Single-step mode: KHONG click Next sau Budget", "warn")
+            click_button("Next")
+            time.sleep(8)
+            check_all()
             break
         else:
             self.tracker.log("[SKIP] Buoc 22: Budget (start_step)", "warn")

@@ -11,20 +11,65 @@ import argparse
 import time
 import traceback
 import threading
-from datetime import datetime
+import atexit
+import signal
 
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 except Exception:
     pass
 
+# === ATEXIT + SIGNAL HANDLER: log ly do process thoat ===
+_last_exit_info = {"reason": "normal_exit", "exc": None}
+
+def _atexit_log():
+    try:
+        print(f"[ATEXIT] Process thoat: reason={_last_exit_info['reason']} exc={_last_exit_info['exc']}", flush=True)
+        # Flush status.json cuoi cung
+        try:
+            from status_tracker import StatusTracker as _ST
+            _t = _ST()
+            _t.log(f"[ATEXIT] Process thoat: {_last_exit_info['reason']} | {_last_exit_info['exc']}", "error" if _last_exit_info['exc'] else "info")
+        except Exception:
+            pass
+    except Exception:
+        pass
+
+atexit.register(_atexit_log)
+
+def _signal_handler(sig, frame):
+    _last_exit_info["reason"] = f"signal_{sig}"
+    try:
+        print(f"[SIGNAL] Nhan signal {sig} — thoat", flush=True)
+    except Exception:
+        pass
+    sys.exit(1)
+
+try:
+    signal.signal(signal.SIGTERM, _signal_handler)
+    signal.signal(signal.SIGINT, _signal_handler)
+    if hasattr(signal, "SIGBREAK"):
+        signal.signal(signal.SIGBREAK, _signal_handler)
+except Exception:
+    pass
+
+# Hook exception khong bat duoc (unhandled exception o main thread)
+def _excepthook(exc_type, exc, tb):
+    _last_exit_info["reason"] = "unhandled_exception"
+    _last_exit_info["exc"] = f"{exc_type.__name__}: {exc}"
+    try:
+        traceback.print_exception(exc_type, exc, tb)
+    except Exception:
+        pass
+
+sys.excepthook = _excepthook
+
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 import requests
-from genlogin_api import start_profile, stop_profile, get_debugger_address, connect_selenium, get_browser_version, resolve_profile_id
+from genlogin_api import start_profile, get_debugger_address, connect_selenium, get_browser_version, resolve_profile_id
 from db_helpers import _connect
 from camp_google_ads_v3 import CampaignCreator
 from status_tracker import StatusTracker
@@ -523,9 +568,22 @@ def run_single_account(acc, config):
                 log(f"[{profile_name}] Campaign '{campaign_config['name']}' DA PUBLISH THANH CONG!", "success")
             else:
                 log(f"[{profile_name}] Campaign '{campaign_config['name']}' THAT BAI", "error")
-        except Exception as e:
-            log(f"[{profile_name}] Campaign '{campaign_config['name']}' LOI: {e}", "error")
-            traceback.print_exc()
+        except BaseException as e:
+            # BaseException -> bat ca SystemExit/KeyboardInterrupt/GeneratorExit de lo nguyen nhan chet ngam
+            tb_str = traceback.format_exc()
+            log(f"[{profile_name}] Campaign '{campaign_config['name']}' LOI: {type(e).__name__}: {e}", "error")
+            for ln in tb_str.splitlines():
+                log(f"[TRACE] {ln}", "error")
+            try:
+                tracker.log(f"[CRITICAL] run_campaign_flow raised {type(e).__name__}: {e}", "error")
+                for ln in tb_str.splitlines():
+                    tracker.log(f"[TRACE] {ln}", "error")
+            except Exception:
+                pass
+            try:
+                sys.stdout.flush()
+            except Exception:
+                pass
 
         with _progress_lock:
             _success_count += 1
