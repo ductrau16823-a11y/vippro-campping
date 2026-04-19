@@ -1506,6 +1506,7 @@ class CampaignCreator:
         # === BUOC 15: Campaign Settings (Networks) ===
         while _run("settings"):
             self.tracker.set_current(step="Buoc 15: Campaign Settings")
+            self.tracker.log(">>> VAO BUOC 15: Campaign Settings", "info")
             time.sleep(1.2)  # buffer cho DOM on dinh
             check_all()
             time.sleep(2)  # Doi trang Settings render hoan toan
@@ -1563,7 +1564,14 @@ class CampaignCreator:
                     try:
                         d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", c)
                         time.sleep(0.7)
-                        js_click(c)
+                        # Selenium native click truoc de trigger material listener
+                        try:
+                            c.click()
+                        except Exception:
+                            try:
+                                action_click(c)
+                            except Exception:
+                                js_click(c)
                         self.tracker.log(f"Da bo tick: {label} (lan {attempt + 1})", "success")
                     except Exception as e:
                         self.tracker.log(f"Loi click '{label}': {e}", "warn")
