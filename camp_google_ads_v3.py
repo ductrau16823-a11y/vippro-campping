@@ -1120,51 +1120,67 @@ class CampaignCreator:
         else:
             self.tracker.log("[SKIP] Buoc 6-13: Setup campaign (start_step)", "warn")
 
-        # === BUOC 14: Bidding === (logic v1, ngan gon)
+        # === BUOC 14: Bidding ===
         while _run("bidding"):
             self.tracker.set_current(step="Buoc 14: Bidding")
             self.tracker.log(">>> VAO BUOC 14: Bidding")
-            check_all()
-            time.sleep(3)
+            time.sleep(2)
             bidding = campaign_config.get("bidding", "maximize_clicks")
             cpc = campaign_config.get("cpc", "")
 
-            if "click" in bidding.lower():
-                try:
-                    dbs = d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button")
-                    for db in dbs:
-                        if db.is_displayed() and ("Conversions" in db.text or "Clicks" in db.text):
-                            action_click(db)
-                            time.sleep(2)
-                            break
-                    for item in d.find_elements(By.XPATH, "//material-select-dropdown-item"):
-                        if item.is_displayed() and item.text.strip() == "Clicks":
-                            js_click(item)
-                            self.tracker.log("Da chon Clicks bidding", "success")
-                            time.sleep(2)
-                            break
-                except Exception:
-                    self.tracker.log("Khong doi duoc bidding", "warn")
+            # 1. Click dropdown
+            for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
+                if db.is_displayed():
+                    action_click(db)
+                    self.tracker.log("[14] Da click dropdown", "success")
+                    break
+            time.sleep(1)
 
+            # 2. Chon 'Clicks'
+            for item in d.find_elements(By.XPATH, "//material-select-dropdown-item | //*[@role='option']"):
+                try:
+                    if item.is_displayed() and item.text.strip() == "Clicks":
+                        item.click()
+                        self.tracker.log("[14] Da chon Clicks", "success")
+                        break
+                except Exception:
+                    pass
+            time.sleep(2)
+
+            # 3. Tick checkbox 'maximum cost per click' (neu co CPC)
             if cpc:
-                try:
-                    for c in d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox"):
-                        if c.is_displayed() and "maximum cost per click" in c.text.lower():
-                            js_click(c)
-                            time.sleep(1)
+                for c in d.find_elements(By.XPATH, "//material-checkbox"):
+                    try:
+                        if c.is_displayed() and "maximum cost per click" in (c.text or "").lower():
+                            if not is_checkbox_ticked(c):
+                                c.click()
+                                self.tracker.log("[14] Da tick max CPC", "success")
                             break
-                    for s in d.find_elements(By.XPATH, "//div[contains(@class, 'max-bid-container')] | //section[.//span[contains(text(), 'Maximum CPC')]]"):
-                        if s.is_displayed():
-                            for inp in s.find_elements(By.XPATH, ".//input"):
-                                if inp.is_displayed():
-                                    clear_and_type(inp, cpc)
-                                    self.tracker.log(f"Da dien CPC: {cpc}", "success")
-                                    break
-                            break
-                except Exception:
-                    self.tracker.log("Khong dien duoc CPC", "warn")
+                    except Exception:
+                        pass
+                time.sleep(1)
 
-            run_verify("bidding")
+                # 4. Dien CPC
+                for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
+                    try:
+                        if inp.is_displayed() and inp.is_enabled():
+                            parent_txt = ""
+                            try:
+                                parent_txt = inp.find_element(By.XPATH, "./ancestor::*[position()<=5]").text.lower()
+                            except Exception:
+                                pass
+                            if "cpc" in parent_txt or "maximum" in parent_txt:
+                                js_fill_input(inp, cpc)
+                                self.tracker.log(f"[14] Da dien CPC: {cpc}", "success")
+                                break
+                    except Exception:
+                        pass
+
+            # 5. Click Next
+            time.sleep(2)
+            click_button("Next")
+            self.tracker.log("[14] Da click Next", "success")
+            time.sleep(4)
             break
         else:
             self.tracker.log("[SKIP] Buoc 14: Bidding (start_step)", "warn")
@@ -1173,95 +1189,19 @@ class CampaignCreator:
         while _run("settings"):
             self.tracker.set_current(step="Buoc 15: Campaign Settings")
             self.tracker.log(">>> VAO BUOC 15: Campaign Settings", "info")
-            # Click Next tu Bidding sang Settings (logic v1)
-            check_all()
-            click_button("Next")
-            time.sleep(8)
-            check_all()
+            time.sleep(2)
 
-            # Bo tick Search Partners + Display Network — match theo text label
-            # QUAN TRONG: Google auto-save sau moi click, phai doi save xong roi moi click tiep
-            # neu khong se bi loi "Changes failed to save" va click sau bi mat
-            NETWORK_LABELS = [
-                ("search-checkbox", "Google Search Partners"),
-                ("display-checkbox", "Google Display Network"),
-            ]
-
-            def find_network_cb(cls_name, label):
-                """Tim lai checkbox moi lan — stale reference neu DOM reload."""
-                # Thu 1: class cu
+            # Bo tick Search Partners + Display Network
+            for cls_name in ("search-checkbox", "display-checkbox"):
                 for c in d.find_elements(By.XPATH, f"//material-checkbox[contains(@class, '{cls_name}')]"):
                     try:
-                        if c.is_displayed():
-                            return c
-                    except Exception:
-                        pass
-                # Thu 2: text label
-                try:
-                    cbs = d.find_elements(
-                        By.XPATH,
-                        f"//material-checkbox[ancestor::*[self::div or self::section or self::networks-step][1]"
-                        f"[.//*[contains(normalize-space(.), '{label}')]]]"
-                    )
-                    if not cbs:
-                        cbs = d.find_elements(
-                            By.XPATH,
-                            f"//*[contains(normalize-space(.), '{label}')]/ancestor-or-self::*[1]//material-checkbox"
-                        )
-                    for c in cbs:
-                        if c.is_displayed():
-                            return c
-                except Exception:
-                    pass
-                return None
-
-            for cls_name, label in NETWORK_LABELS:
-                unchecked = False
-                for attempt in range(3):
-                    c = find_network_cb(cls_name, label)
-                    if c is None:
-                        self.tracker.log(f"Khong tim thay checkbox '{label}'", "warn")
-                        break
-                    try:
-                        if not is_checkbox_ticked(c):
-                            self.tracker.log(f"'{label}' DA unchecked san — skip", "success")
-                            unchecked = True
-                            break
-                    except Exception:
-                        pass
-                    try:
-                        d.execute_script("arguments[0].scrollIntoView({block: 'center', behavior: 'smooth'})", c)
-                        time.sleep(0.7)
-                        # Selenium native click truoc de trigger material listener
-                        try:
+                        if c.is_displayed() and is_checkbox_ticked(c):
                             c.click()
-                        except Exception:
-                            try:
-                                action_click(c)
-                            except Exception:
-                                js_click(c)
-                        self.tracker.log(f"Da bo tick: {label} (lan {attempt + 1})", "success")
-                    except Exception as e:
-                        self.tracker.log(f"Loi click '{label}': {e}", "warn")
-                        time.sleep(1)
-                        continue
-                    # QUAN TRONG: Doi 2s cho Google auto-save xong
-                    time.sleep(2)
-                    # Verify: tim lai checkbox va check state
-                    try:
-                        c2 = find_network_cb(cls_name, label)
-                        if c2 is None or not is_checkbox_ticked(c2):
-                            self.tracker.log(f"Verified: '{label}' da unchecked", "success")
-                            unchecked = True
-                            break
-                        else:
-                            self.tracker.log(f"'{label}' VAN tick — retry (lan {attempt + 1})", "warn")
-                    except Exception:
-                        unchecked = True
+                            self.tracker.log(f"[15] Da bo tick {cls_name}", "success")
+                            time.sleep(1.5)
                         break
-                if not unchecked:
-                    self.tracker.log(f"KHONG bo tich duoc '{label}' sau 3 lan", "error")
-            run_verify("settings")
+                    except Exception:
+                        pass
             break
         else:
             self.tracker.log("[SKIP] Buoc 15: Campaign Settings (start_step)", "warn")
