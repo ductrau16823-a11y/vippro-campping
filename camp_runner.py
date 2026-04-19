@@ -510,15 +510,50 @@ def run_single_account(acc, config):
             pass
 
         log(f"[{profile_name}] Dang tao campaign: {campaign_config['name']} (#{camp_index})")
-        try:
-            success = creator.run_campaign_flow(campaign_config, skip_navigate=True, camp_index=camp_index)
-            if success:
-                log(f"[{profile_name}] Campaign '{campaign_config['name']}' DA PUBLISH THANH CONG!", "success")
-            else:
-                log(f"[{profile_name}] Campaign '{campaign_config['name']}' THAT BAI", "error")
-        except Exception as e:
-            log(f"[{profile_name}] Loi tao campaign: {e}", "error")
-            traceback.print_exc()
+        # AUTO-RETRY: neu flow loi hoac tra ve False, tu detect vi tri va resume toi da 2 lan.
+        # Tracking step_last_failed de tranh infinite loop khi dung 1 buoc loi lien tiep.
+        max_attempts = 3
+        step_last_failed = None
+        retry_count = 0
+        resume_step = None  # None = chay tu dau (navigate)
+
+        for attempt in range(1, max_attempts + 1):
+            try:
+                success = creator.run_campaign_flow(
+                    campaign_config,
+                    skip_navigate=True,
+                    camp_index=camp_index,
+                    start_step=resume_step,
+                )
+                if success:
+                    log(f"[{profile_name}] Campaign '{campaign_config['name']}' DA PUBLISH THANH CONG!", "success")
+                    break
+                log(f"[{profile_name}] Flow tra ve False (lan {attempt}/{max_attempts})", "warn")
+            except Exception as e:
+                log(f"[{profile_name}] Loi tao campaign lan {attempt}/{max_attempts}: {e}", "error")
+                traceback.print_exc()
+
+            # Con luot retry — detect vi tri hien tai de resume
+            if attempt >= max_attempts:
+                log(f"[{profile_name}] Campaign '{campaign_config['name']}' THAT BAI sau {max_attempts} lan", "error")
+                break
+            try:
+                detected = CampaignCreator.detect_current_step(driver)
+            except Exception as de:
+                log(f"[{profile_name}] detect_current_step loi: {de} — stop retry", "error")
+                break
+            if detected == "done":
+                log(f"[{profile_name}] Detected 'done' — camp da publish, stop retry", "success")
+                break
+            # Neu ket tai cung 1 buoc 2 lan lien tiep -> stop
+            if detected == step_last_failed:
+                log(f"[{profile_name}] Van ket o buoc '{detected}' — stop retry", "error")
+                break
+            step_last_failed = detected
+            resume_step = detected
+            retry_count += 1
+            log(f"[{profile_name}] [AUTO-RETRY {retry_count}] Resume tu buoc: {detected}", "warn")
+            time.sleep(3)
 
         with _progress_lock:
             _success_count += 1

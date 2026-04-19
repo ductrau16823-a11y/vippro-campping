@@ -51,6 +51,93 @@ class CampaignCreator:
         "publish",       # Buoc 23 + post
     ]
 
+    @staticmethod
+    def detect_current_step(driver):
+        """Auto-detect buoc hien tai dua tren URL + DOM elements.
+        Return step_id trong STEP_ORDER, hoac 'done' neu da publish xong, hoac 'navigate' neu khong xac dinh.
+
+        Thu tu check: tu buoc xa nhat (publish) lui dan — bat buoc xa nhat anh da di duoc.
+        """
+        from selenium.webdriver.common.by import By
+
+        def has(xp):
+            try:
+                return any(e.is_displayed() for e in driver.find_elements(By.XPATH, xp))
+            except Exception:
+                return False
+
+        try:
+            cur_url = (driver.current_url or "").lower()
+        except Exception:
+            cur_url = ""
+        try:
+            cur_title = (driver.title or "").lower()
+        except Exception:
+            cur_title = ""
+
+        # 1. Da publish xong — URL /campaigns khong kem /new
+        if ("/campaigns" in cur_url and "/new" not in cur_url) or "signup/tagging" in cur_url:
+            return "done"
+        if "published" in cur_title:
+            return "done"
+
+        # 2. Review page (truoc publish)
+        if has("//material-button[contains(., 'Publish campaign')] | //button[contains(., 'Publish campaign')]"):
+            return "publish"
+
+        # 3. Budget page
+        if has("//material-radio[contains(., 'Set custom budget')] | "
+               "//input[contains(@aria-label, 'budget') or contains(@aria-label, 'Budget')]"):
+            return "budget"
+
+        # 4. Keywords/Ads page
+        if has("//textarea[contains(@aria-label, 'keyword')] | "
+               "//input[@aria-label='Final URL'] | "
+               "//section[contains(@class, 'headline')]//input"):
+            return "keywords_ads"
+
+        # 5. Languages page (chip English hien ro)
+        if has("//material-chip[contains(., 'English')] | "
+               "//*[contains(normalize-space(.), 'Select the languages')]"):
+            return "languages"
+
+        # 6. Locations page
+        if has("//*[contains(normalize-space(.), 'Enter another location')] | "
+               "//material-radio[contains(., 'All countries and territories')]"):
+            return "locations"
+
+        # 7. Settings page (Networks)
+        if has("//material-checkbox[contains(@class, 'search-checkbox')] | "
+               "//material-checkbox[contains(@class, 'display-checkbox')] | "
+               "//*[contains(normalize-space(.), 'Google Search Partners')] | "
+               "//*[contains(normalize-space(.), 'Google Display Network')]"):
+            return "settings"
+
+        # 8. Bidding page
+        if has("//material-dropdown-select//dropdown-button[contains(., 'Conversions') or contains(., 'Clicks') or contains(., 'Conversion value')] | "
+               "//*[contains(normalize-space(.), 'Change bid strategy')] | "
+               "//*[contains(normalize-space(.), 'What do you want to focus on')]"):
+            return "bidding"
+
+        # 9. Setup page (Campaign name / Website visits / Page view)
+        if has("//input[@aria-label='Campaign name'] | "
+               "//*[contains(normalize-space(.), 'Website visits')] | "
+               "//*[contains(normalize-space(.), 'What results do you want')]"):
+            return "setup"
+
+        # 10. Create / Objective picker
+        if ("/new" in cur_url) or has("//*[@data-value='No objective'] | "
+                                       "//*[contains(normalize-space(.), 'Choose your objective')] | "
+                                       "//*[contains(normalize-space(.), 'Start from scratch')]"):
+            return "create"
+
+        # 11. Da vao ads.google.com nhung chua bam Create
+        if "ads.google.com" in cur_url:
+            return "create"
+
+        # Default: chay tu dau
+        return "navigate"
+
     def run_campaign_flow(self, campaign_config, skip_navigate=False, camp_index=1, start_step=None):
         """Chay toan bo flow tao 1 campaign.
 
@@ -129,6 +216,39 @@ class CampaignCreator:
                 "arguments[0].dispatchEvent(new Event('change', {bubbles: true}));",
                 el, value,
             )
+
+        def js_fill_input(el, value):
+            """A: JS-fill cho input — KHONG trigger send_keys auto-save async (tranh treo sau fill CPC).
+            Set .value qua native setter + dispatch input/change/blur de material binding cap nhat."""
+            d.execute_script(
+                "var el = arguments[0], v = String(arguments[1]);"
+                "var proto = Object.getPrototypeOf(el);"
+                "var setter = Object.getOwnPropertyDescriptor(proto, 'value') && Object.getOwnPropertyDescriptor(proto, 'value').set;"
+                "if (setter) { setter.call(el, v); } else { el.value = v; }"
+                "el.dispatchEvent(new Event('input', {bubbles: true}));"
+                "el.dispatchEvent(new Event('change', {bubbles: true}));"
+                "el.dispatchEvent(new Event('blur', {bubbles: true}));",
+                el, value,
+            )
+
+        def wait_dom_idle(max_wait=5, label=""):
+            """B: Cho DOM on dinh sau action co auto-save — tranh lenh Selenium ke tiep treo.
+            Poll readyState=='complete' VA khong co element 'Saving' dang hien. Toi da max_wait giay."""
+            deadline = time.time() + max_wait
+            while time.time() < deadline:
+                try:
+                    ready = d.execute_script("return document.readyState") == "complete"
+                    saving = d.execute_script(
+                        "return !!document.querySelector('[aria-label*=\"Saving\"], [aria-label*=\"saving\"], .saving-indicator')"
+                    )
+                    if ready and not saving:
+                        return True
+                except Exception:
+                    pass
+                time.sleep(0.3)
+            if label:
+                self.tracker.log(f"[wait_dom_idle] timeout {max_wait}s ({label})", "warn")
+            return False
 
         def click_button(text, timeout=10):
             """Tim va click button theo text chinh xac — uu tien button enable.
@@ -1409,94 +1529,115 @@ class CampaignCreator:
                     except Exception as e:
                         self.tracker.log(f"[14] Loi list dropdown-item: {e}", "warn")
 
-            if cpc:
-                # Tick checkbox max CPC — CHI tick neu chua tick (neu click vao checkbox da tick se untick)
-                try:
-                    ticked = False
-                    checkboxes = d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox")
-                    self.tracker.log(f"[14] Tim thay {len(checkboxes)} checkbox")
-                    for c in checkboxes:
-                        try:
-                            if c.is_displayed() and "maximum cost per click" in (c.text or "").lower():
-                                # Check trang thai tick hien tai
-                                already_ticked = False
-                                try:
-                                    aria_checked = (c.get_attribute("aria-checked") or "").lower()
-                                    cls = (c.get_attribute("class") or "").lower()
-                                    if aria_checked == "true" or "is-checked" in cls or "checked" in cls:
-                                        already_ticked = True
-                                except Exception:
-                                    pass
-                                if already_ticked:
-                                    self.tracker.log("[14] Checkbox max CPC DA tick san — skip", "success")
-                                else:
-                                    js_click(c)
-                                    self.tracker.log("[14] Da tick checkbox max CPC", "success")
-                                    time.sleep(0.3)
-                                ticked = True
-                                break
-                        except Exception as e:
-                            self.tracker.log(f"[14] Loi check checkbox CPC: {e}", "warn")
-                    if not ticked:
-                        self.tracker.log("[14] KHONG tim thay checkbox max CPC", "warn")
-                except Exception as e:
-                    self.tracker.log(f"[14] Loi tick CPC checkbox: {e}", "warn")
+            # C: Bao block [tick checkbox + fill CPC + click Next] trong daemon thread
+            # voi timeout 60s. Neu Chrome busy auto-save lam Selenium treo -> thread khong xong
+            # -> force click Next de qua buoc 15, tranh treo vo han.
+            cpc_next_done = {"flag": False}
 
-                # Dien CPC trong max-bid-container
+            def _cpc_next_block():
                 try:
-                    filled = False
-                    sections = d.find_elements(By.XPATH, "//div[contains(@class, 'max-bid-container')] | //section[.//span[contains(text(), 'Maximum CPC')]]")
-                    self.tracker.log(f"[14] Tim thay {len(sections)} max-bid section")
-                    for s in sections:
+                    if cpc:
+                        # Tick checkbox max CPC — CHI tick neu chua tick
                         try:
-                            if not s.is_displayed():
-                                continue
-                            for inp in s.find_elements(By.XPATH, ".//input"):
-                                if inp.is_displayed():
-                                    # Skip neu input da co gia tri CPC dung
-                                    try:
-                                        cur_val = (inp.get_attribute("value") or "").strip()
-                                        if cur_val and (cur_val == cpc or cur_val.replace("$", "").strip() == str(cpc).strip()):
-                                            self.tracker.log(f"[14] CPC da dien san ({cur_val}) — skip", "success")
+                            ticked = False
+                            checkboxes = d.find_elements(By.XPATH, "//mat-checkbox | //material-checkbox")
+                            self.tracker.log(f"[14] Tim thay {len(checkboxes)} checkbox")
+                            for c in checkboxes:
+                                try:
+                                    if c.is_displayed() and "maximum cost per click" in (c.text or "").lower():
+                                        already_ticked = False
+                                        try:
+                                            aria_checked = (c.get_attribute("aria-checked") or "").lower()
+                                            cls = (c.get_attribute("class") or "").lower()
+                                            if aria_checked == "true" or "is-checked" in cls or "checked" in cls:
+                                                already_ticked = True
+                                        except Exception:
+                                            pass
+                                        if already_ticked:
+                                            self.tracker.log("[14] Checkbox max CPC DA tick san — skip", "success")
+                                        else:
+                                            js_click(c)
+                                            self.tracker.log("[14] Da tick checkbox max CPC", "success")
+                                            # B: Cho auto-save xong sau tick
+                                            wait_dom_idle(5, "sau tick checkbox CPC")
+                                        ticked = True
+                                        break
+                                except Exception as e:
+                                    self.tracker.log(f"[14] Loi check checkbox CPC: {e}", "warn")
+                            if not ticked:
+                                self.tracker.log("[14] KHONG tim thay checkbox max CPC", "warn")
+                        except Exception as e:
+                            self.tracker.log(f"[14] Loi tick CPC checkbox: {e}", "warn")
+
+                        # Dien CPC trong max-bid-container
+                        try:
+                            filled = False
+                            sections = d.find_elements(By.XPATH, "//div[contains(@class, 'max-bid-container')] | //section[.//span[contains(text(), 'Maximum CPC')]]")
+                            self.tracker.log(f"[14] Tim thay {len(sections)} max-bid section")
+                            for s in sections:
+                                try:
+                                    if not s.is_displayed():
+                                        continue
+                                    for inp in s.find_elements(By.XPATH, ".//input"):
+                                        if inp.is_displayed():
+                                            try:
+                                                cur_val = (inp.get_attribute("value") or "").strip()
+                                                if cur_val and (cur_val == cpc or cur_val.replace("$", "").strip() == str(cpc).strip()):
+                                                    self.tracker.log(f"[14] CPC da dien san ({cur_val}) — skip", "success")
+                                                    filled = True
+                                                    break
+                                            except Exception:
+                                                pass
+                                            # A: JS-fill thay send_keys — tranh trigger auto-save async
+                                            js_fill_input(inp, cpc)
+                                            self.tracker.log(f"[14] Da dien CPC: {cpc} (JS-fill)", "success")
                                             filled = True
                                             break
-                                    except Exception:
-                                        pass
-                                    clear_and_type(inp, cpc)
-                                    self.tracker.log(f"[14] Da dien CPC: {cpc}", "success")
-                                    filled = True
-                                    break
-                            if filled:
-                                break
-                        except Exception as e:
-                            self.tracker.log(f"[14] Loi dien CPC section: {e}", "warn")
-                    if not filled:
-                        # Fallback: dien vao input gan cum chu "Maximum CPC"
-                        for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
-                            try:
-                                if inp.is_displayed() and inp.is_enabled():
-                                    parent_text = ""
-                                    try:
-                                        parent_text = inp.find_element(By.XPATH, "./ancestor::*[position()<=5]").text.lower()
-                                    except Exception:
-                                        pass
-                                    if "cpc" in parent_text or "maximum" in parent_text:
-                                        clear_and_type(inp, cpc)
-                                        self.tracker.log(f"[14] Da dien CPC (fallback): {cpc}", "success")
-                                        filled = True
+                                    if filled:
                                         break
-                            except Exception:
-                                pass
-                        if not filled:
-                            self.tracker.log("[14] KHONG dien duoc CPC", "error")
-                except Exception as e:
-                    self.tracker.log(f"[14] Loi dien CPC: {e}", "warn")
+                                except Exception as e:
+                                    self.tracker.log(f"[14] Loi dien CPC section: {e}", "warn")
+                            if not filled:
+                                for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
+                                    try:
+                                        if inp.is_displayed() and inp.is_enabled():
+                                            parent_text = ""
+                                            try:
+                                                parent_text = inp.find_element(By.XPATH, "./ancestor::*[position()<=5]").text.lower()
+                                            except Exception:
+                                                pass
+                                            if "cpc" in parent_text or "maximum" in parent_text:
+                                                js_fill_input(inp, cpc)
+                                                self.tracker.log(f"[14] Da dien CPC (fallback, JS-fill): {cpc}", "success")
+                                                filled = True
+                                                break
+                                    except Exception:
+                                        pass
+                                if not filled:
+                                    self.tracker.log("[14] KHONG dien duoc CPC", "error")
+                        except Exception as e:
+                            self.tracker.log(f"[14] Loi dien CPC: {e}", "warn")
 
-            # Click Next TRUOC verify — UI da san sang (Clicks + CPC), tranh hang
-            # sau send_keys khi Google Ads auto-save async. Verify co timeout 5s,
-            # hang cung khong chet flow.
-            click_button("Next")
-            time.sleep(5)
+                    # B: Cho auto-save xong sau fill CPC truoc khi click Next
+                    wait_dom_idle(5, "sau fill CPC, truoc click Next")
+                    click_button("Next")
+                    time.sleep(5)
+                    cpc_next_done["flag"] = True
+                except Exception as _te:
+                    self.tracker.log(f"[14] Exception CPC+Next thread: {_te}", "error")
+
+            import threading as _t14mod
+            _t14 = _t14mod.Thread(target=_cpc_next_block, daemon=True)
+            _t14.start()
+            _t14.join(timeout=60)
+            if not cpc_next_done["flag"]:
+                self.tracker.log("[14] CPC+Next block KHONG xong sau 60s — force click Next", "error")
+                try:
+                    click_button("Next")
+                    time.sleep(3)
+                except Exception as _fe:
+                    self.tracker.log(f"[14] Force Next fail: {_fe}", "error")
+
             check_all()
             run_verify("bidding")
             break
@@ -2196,8 +2337,10 @@ class CampaignCreator:
             cur_title = (d.title or "").lower()
             publish_ok = False
 
-            # Dau hieu thanh cong: URL sang /campaigns (khong phai /new), hoac banner/dialog "published"
+            # Dau hieu thanh cong: URL sang /campaigns (khong phai /new), /overview, hoac banner/dialog "published"
             if "/aw/campaigns" in cur_url and "/new" not in cur_url:
+                publish_ok = True
+            elif "/aw/overview" in cur_url:
                 publish_ok = True
             elif "published" in cur_title or "policy" in cur_url or "signup/tagging" in cur_url:
                 publish_ok = True

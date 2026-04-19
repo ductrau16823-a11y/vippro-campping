@@ -99,7 +99,7 @@ def run(config, start_step):
     log(f"=== TIEP TUC CAMP ===")
     log(f"PROFILE: {profile_name}")
     log(f"TK_ADS: {account_id}")
-    log(f"START_STEP: {start_step}")
+    log(f"START_STEP: {start_step or '(auto-detect)'}")
 
     if not genlogin_id:
         log(f"Profile '{profile_name}' khong co GenLogin ID!", "error")
@@ -114,6 +114,15 @@ def run(config, start_step):
         # Khong navigate — assume browser dang o trang camp
         log(f"[{profile_name}] URL hien tai: {driver.current_url[:120]}")
         log(f"[{profile_name}] Title hien tai: {driver.title[:80]}")
+
+        # AUTO-DETECT start_step neu user khong truyen
+        if not start_step:
+            detected = CampaignCreator.detect_current_step(driver)
+            if detected == "done":
+                log(f"[{profile_name}] Trang da o campaigns list — camp cu da publish xong, khong can resume", "success")
+                return
+            log(f"[{profile_name}] [AUTO-DETECT] Phat hien dang o buoc: {detected}", "success")
+            start_step = detected
 
         tracker = StatusTracker()
         account_data = {
@@ -166,8 +175,8 @@ def run(config, start_step):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True, help="JSON config (cung format voi camp_runner)")
-    parser.add_argument("--start-step", required=True,
-                        help="Buoc bat dau: navigate|create|setup|bidding|settings|locations|languages|next_skip|keywords_ads|budget|publish")
+    parser.add_argument("--start-step", required=False, default=None,
+                        help="Buoc bat dau (bo trong de auto-detect): navigate|create|setup|bidding|settings|locations|languages|next_skip|keywords_ads|budget|publish")
     args = parser.parse_args()
 
     try:
