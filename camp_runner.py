@@ -5,11 +5,13 @@ Usage: python -X utf8 camp_runner.py --config '{"accounts":[...],...}'
 """
 
 import sys
+import os
 import json
 import argparse
 import time
 import traceback
 import threading
+from datetime import datetime
 
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -28,6 +30,10 @@ from camp_google_ads_v3 import CampaignCreator
 from status_tracker import StatusTracker
 
 DASHBOARD_API = "http://localhost:3000/api"
+
+# Timeout toan flow run_campaign_flow (giay). Camp binh thuong 3-5 phut — cho 8p de du margin.
+FLOW_TIMEOUT_S = 480
+SCREENSHOT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logs", "screenshots")
 
 
 def _map_bidding(bidding_vn):
@@ -391,6 +397,68 @@ def handle_post_navigate(driver, gmail_email, profile_id, profile_name, account_
     return True
 
 
+def _dump_failure(driver, account_id, step_label, profile_name, extra_tag=""):
+    """Dump screenshot + HTML khi flow fail de debug. Khong throw neu loi.
+    Luu vao logs/screenshots/{account_id}_{step}_{timestamp}.(png|html)"""
+    try:
+        os.makedirs(SCREENSHOT_DIR, exist_ok=True)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        safe_acc = str(account_id).replace("-", "").replace("/", "_")
+        safe_step = str(step_label or "unknown").replace(" ", "_")
+        tag = f"_{extra_tag}" if extra_tag else ""
+        base = os.path.join(SCREENSHOT_DIR, f"{safe_acc}_{safe_step}{tag}_{ts}")
+        try:
+            driver.save_screenshot(base + ".png")
+            log(f"[{profile_name}] Screenshot luu: {base}.png", "warn")
+        except Exception as se:
+            log(f"[{profile_name}] Loi save screenshot: {se}", "warn")
+        try:
+            with open(base + ".html", "w", encoding="utf-8") as f:
+                f.write(driver.page_source or "")
+            log(f"[{profile_name}] HTML dump luu: {base}.html", "warn")
+        except Exception as he:
+            log(f"[{profile_name}] Loi dump HTML: {he}", "warn")
+        try:
+            with open(base + ".url.txt", "w", encoding="utf-8") as f:
+                f.write(f"URL: {driver.current_url}\nTITLE: {driver.title}\n")
+        except Exception:
+            pass
+    except Exception as e:
+        log(f"[{profile_name}] _dump_failure loi tong: {e}", "warn")
+
+
+def _run_flow_with_timeout(creator, campaign_config, camp_index, resume_step, timeout_s, profile_name):
+    """WATCHDOG: chay run_campaign_flow trong daemon thread voi timeout.
+    Neu hang qua timeout_s -> return ('timeout', None). Neu xong -> return ('ok', success_bool).
+    Neu throw -> return ('error', exception).
+    Thread van chay tiep neu timeout (Python khong force-kill duoc), nhung caller se
+    detect + resume, va thread cu cuoi cung se chet khi driver bi tac dong (refresh/navigate).
+    """
+    result = {"status": None, "value": None}
+
+    def _worker():
+        try:
+            ok = creator.run_campaign_flow(
+                campaign_config,
+                skip_navigate=True,
+                camp_index=camp_index,
+                start_step=resume_step,
+            )
+            result["status"] = "ok"
+            result["value"] = ok
+        except Exception as e:
+            result["status"] = "error"
+            result["value"] = e
+
+    t = threading.Thread(target=_worker, daemon=True)
+    t.start()
+    t.join(timeout=timeout_s)
+    if t.is_alive():
+        log(f"[{profile_name}] [WATCHDOG] Flow KHONG xong sau {timeout_s}s — coi nhu timeout", "error")
+        return ("timeout", None)
+    return (result["status"] or "error", result["value"])
+
+
 def run_single_account(acc, config):
     """Chạy 1 TK trong 1 thread riêng."""
     global _success_count
@@ -510,37 +578,52 @@ def run_single_account(acc, config):
             pass
 
         log(f"[{profile_name}] Dang tao campaign: {campaign_config['name']} (#{camp_index})")
-        # AUTO-RETRY: neu flow loi hoac tra ve False, tu detect vi tri va resume toi da 2 lan.
-        # Tracking step_last_failed de tranh infinite loop khi dung 1 buoc loi lien tiep.
+        # AUTO-RETRY + WATCHDOG: moi lan chay bi bao trong timeout FLOW_TIMEOUT_S.
+        # Neu throw / return False / timeout -> detect vi tri + resume. Toi da 3 lan.
+        # Screenshot + HTML dump moi lan fail de debug.
         max_attempts = 3
         step_last_failed = None
         retry_count = 0
         resume_step = None  # None = chay tu dau (navigate)
 
         for attempt in range(1, max_attempts + 1):
+            status, value = _run_flow_with_timeout(
+                creator, campaign_config, camp_index, resume_step,
+                FLOW_TIMEOUT_S, profile_name,
+            )
+            if status == "ok" and value:
+                log(f"[{profile_name}] Campaign '{campaign_config['name']}' DA PUBLISH THANH CONG!", "success")
+                break
+            # Xac dinh reason + dump failure
+            if status == "timeout":
+                fail_reason = f"TIMEOUT {FLOW_TIMEOUT_S}s (lan {attempt}/{max_attempts})"
+                log(f"[{profile_name}] {fail_reason}", "error")
+            elif status == "error":
+                fail_reason = f"EXCEPTION lan {attempt}/{max_attempts}: {value}"
+                log(f"[{profile_name}] {fail_reason}", "error")
+                try:
+                    if isinstance(value, BaseException):
+                        traceback.print_exception(type(value), value, value.__traceback__)
+                except Exception:
+                    pass
+            else:
+                fail_reason = f"Flow tra ve False (lan {attempt}/{max_attempts})"
+                log(f"[{profile_name}] {fail_reason}", "warn")
+
+            # Dump screenshot + HTML tai vi tri fail de debug
             try:
-                success = creator.run_campaign_flow(
-                    campaign_config,
-                    skip_navigate=True,
-                    camp_index=camp_index,
-                    start_step=resume_step,
-                )
-                if success:
-                    log(f"[{profile_name}] Campaign '{campaign_config['name']}' DA PUBLISH THANH CONG!", "success")
-                    break
-                log(f"[{profile_name}] Flow tra ve False (lan {attempt}/{max_attempts})", "warn")
-            except Exception as e:
-                log(f"[{profile_name}] Loi tao campaign lan {attempt}/{max_attempts}: {e}", "error")
-                traceback.print_exc()
+                detected_for_dump = CampaignCreator.detect_current_step(driver)
+            except Exception:
+                detected_for_dump = "detect_fail"
+            _dump_failure(driver, account_id, detected_for_dump, profile_name, extra_tag=f"attempt{attempt}")
 
             # Con luot retry — detect vi tri hien tai de resume
             if attempt >= max_attempts:
                 log(f"[{profile_name}] Campaign '{campaign_config['name']}' THAT BAI sau {max_attempts} lan", "error")
                 break
-            try:
-                detected = CampaignCreator.detect_current_step(driver)
-            except Exception as de:
-                log(f"[{profile_name}] detect_current_step loi: {de} — stop retry", "error")
+            detected = detected_for_dump
+            if detected == "detect_fail":
+                log(f"[{profile_name}] detect_current_step loi — stop retry", "error")
                 break
             if detected == "done":
                 log(f"[{profile_name}] Detected 'done' — camp da publish, stop retry", "success")
@@ -549,6 +632,14 @@ def run_single_account(acc, config):
             if detected == step_last_failed:
                 log(f"[{profile_name}] Van ket o buoc '{detected}' — stop retry", "error")
                 break
+            # Neu watchdog timeout: refresh de ngat thread cu dang hang (con driver van lock)
+            if status == "timeout":
+                try:
+                    log(f"[{profile_name}] Refresh trang de ngat thread cu dang hang...", "warn")
+                    driver.refresh()
+                    time.sleep(5)
+                except Exception as re:
+                    log(f"[{profile_name}] Refresh loi: {re}", "warn")
             step_last_failed = detected
             resume_step = detected
             retry_count += 1
