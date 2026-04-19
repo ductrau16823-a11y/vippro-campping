@@ -352,8 +352,9 @@ class CampaignCreator:
 
         def detect_current_page():
             """Scan URL + key elements, return page name.
-            Return: 'bidding' | 'settings' | 'locations' | 'languages' | 'keywords_ads'
-                  | 'budget' | 'review' | 'published' | '2fa' | 'unknown'
+            Return: 'bidding' | 'settings' | 'locations' | 'languages' | 'ai_max'
+                  | 'keyword_gen' | 'keywords_ads' | 'budget' | 'review'
+                  | 'published' | '2fa' | 'unknown'
             """
             # 2FA dialog dang mo
             try:
@@ -363,12 +364,12 @@ class CampaignCreator:
             except Exception:
                 pass
 
-            # Published URL sign
+            # Published URL sign — chi match khi KHONG con trong flow /aw/new
             try:
                 cur_url = (d.current_url or "").lower()
                 if "/campaigns" in cur_url and "/new" not in cur_url:
                     return "published"
-                if "signup/tagging" in cur_url or "policy" in cur_url:
+                if "signup/tagging" in cur_url or "/policy" in cur_url:
                     return "published"
             except Exception:
                 pass
@@ -396,35 +397,52 @@ class CampaignCreator:
             ):
                 return "budget"
 
-            # Keywords/Ads page
-            if on_page(
-                "//textarea[contains(@aria-label, 'keyword')] | "
-                "//input[@aria-label='Final URL'] | "
-                "//section[contains(@class, 'headline')]//input"
-            ):
-                return "keywords_ads"
-
             # Campaign Settings page (consolidated: Networks + Locations + Languages)
+            # QUAN TRONG: check truoc keywords_ads, ai_max, keyword_gen — vi cac trang do
+            # khong co Networks checkbox nhung settings co the share mot vai xpath
             has_networks = on_page(
                 "//material-checkbox[contains(@class, 'search-checkbox')] | "
                 "//material-checkbox[contains(@class, 'display-checkbox')] | "
                 "//*[contains(normalize-space(.), 'Google Search Partners')] | "
                 "//*[contains(normalize-space(.), 'Google Display Network')]"
             )
+            if has_networks:
+                return "settings"
             has_locations = on_page(
                 "//*[contains(normalize-space(.), 'Enter another location')] | "
                 "//material-radio[contains(., 'All countries and territories')]"
             )
+            if has_locations:
+                return "locations"
             has_languages = on_page(
                 "//material-chip[contains(., 'English')] | "
                 "//*[contains(normalize-space(.), 'Select the languages')]"
             )
-            if has_networks:
-                return "settings"
-            if has_locations:
-                return "locations"
             if has_languages:
                 return "languages"
+
+            # AI Max for Search campaigns — trang skip (heading-based)
+            if on_page(
+                "//*[contains(normalize-space(.), 'AI Max for Search')] | "
+                "//h1[contains(normalize-space(.), 'AI Max')] | "
+                "//h2[contains(normalize-space(.), 'AI Max')]"
+            ):
+                return "ai_max"
+
+            # Keyword and asset generation — trang skip (co nut 'Skip')
+            if on_page(
+                "//*[contains(normalize-space(.), 'Keyword and asset generation')] | "
+                "//*[contains(normalize-space(.), 'keyword and asset')]"
+            ):
+                return "keyword_gen"
+
+            # Keywords/Ads page — check sau ai_max/keyword_gen de tranh false positive
+            if on_page(
+                "//textarea[contains(@aria-label, 'keyword')] | "
+                "//input[@aria-label='Final URL'] | "
+                "//section[contains(@class, 'headline')]//input"
+            ):
+                return "keywords_ads"
 
             return "unknown"
 
