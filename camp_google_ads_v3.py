@@ -1492,13 +1492,13 @@ class CampaignCreator:
                 except Exception as e:
                     self.tracker.log(f"[14] Loi dien CPC: {e}", "warn")
 
-            # Verify truoc khi di tiep
-            run_verify("bidding")
-
-            # Next de sang Campaign Settings — luon click de flow tiep tuc
+            # Click Next TRUOC verify — UI da san sang (Clicks + CPC), tranh hang
+            # sau send_keys khi Google Ads auto-save async. Verify co timeout 5s,
+            # hang cung khong chet flow.
             click_button("Next")
             time.sleep(5)
             check_all()
+            run_verify("bidding")
             break
         else:
             self.tracker.log("[SKIP] Buoc 14: Bidding (start_step)", "warn")
