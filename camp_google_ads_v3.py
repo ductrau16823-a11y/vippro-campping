@@ -73,22 +73,18 @@ class CampaignCreator:
 
         # Determine start index tu start_step
         _start_idx = 0
-        _single_step = False  # True = chi chay 1 step duoc chon, KHONG click Next chuyen trang
+        _single_step = False  # Luon False: continue_camp chay tu start_step den het, khong skip
         if start_step:
             if start_step in CampaignCreator.STEP_ORDER:
                 _start_idx = CampaignCreator.STEP_ORDER.index(start_step)
-                _single_step = True
-                self.tracker.log(f"[RESUME] start_step={start_step} (SINGLE STEP mode — khong nhay trang)", "warn")
+                self.tracker.log(f"[RESUME] start_step={start_step} — chay tu buoc nay den het", "warn")
             else:
                 self.tracker.log(f"[RESUME] start_step='{start_step}' khong hop le — chay tu dau", "warn")
 
         def _run(step_id):
-            """Single mode: True chi khi step_id == start_step.
-            Full mode: True khi step_id nam tu _start_idx tro di."""
+            """True khi step_id nam tu _start_idx tro di (khong skip cac buoc sau)."""
             try:
                 idx = CampaignCreator.STEP_ORDER.index(step_id)
-                if _single_step:
-                    return idx == _start_idx
                 return idx >= _start_idx
             except ValueError:
                 return True
