@@ -1079,15 +1079,40 @@ class CampaignCreator:
                     except Exception:
                         pass
 
-                # --- Enhanced conversions: bo tick ---
+                # --- Enhanced conversions: bo tick (TK moi chua co camp) ---
                 for cb in d.find_elements(By.XPATH,
                         "//enhanced-conversions-view//mat-checkbox | //material-checkbox | //mat-checkbox"):
                     try:
-                        if cb.is_displayed() and "enhanced conversions" in cb.text.lower() and is_checkbox_ticked(cb):
-                            js_click(cb)
-                            self.tracker.log("Bo tick Enhanced conversions", "success")
-                            time.sleep(0.3)
+                        if not cb.is_displayed():
+                            continue
+                        if "enhanced conversions" not in cb.text.lower():
+                            continue
+                        if not is_checkbox_ticked(cb):
+                            self.tracker.log("Enhanced conversions da bo tick san — skip")
                             break
+                        # Thu Selenium native truoc de trigger material listener
+                        try:
+                            cb.click()
+                        except Exception:
+                            try:
+                                action_click(cb)
+                            except Exception:
+                                js_click(cb)
+                        time.sleep(0.7)
+                        # Verify da bo tick
+                        if not is_checkbox_ticked(cb):
+                            self.tracker.log("Bo tick Enhanced conversions", "success")
+                        else:
+                            try:
+                                js_click(cb)
+                                time.sleep(0.5)
+                            except Exception:
+                                pass
+                            if not is_checkbox_ticked(cb):
+                                self.tracker.log("Bo tick Enhanced conversions (JS fallback)", "success")
+                            else:
+                                self.tracker.log("KHONG bo duoc tick Enhanced conversions", "warn")
+                        break
                     except Exception:
                         pass
 
