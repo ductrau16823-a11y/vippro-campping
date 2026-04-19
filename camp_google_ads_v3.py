@@ -268,14 +268,22 @@ class CampaignCreator:
                         pass
                 target = enabled_match or any_match
                 if target is not None:
-                    action_click(target)
+                    self.tracker.log(f"[CB] action_click '{text}'...", "info")
+                    try:
+                        action_click(target)
+                        self.tracker.log(f"[CB] action_click '{text}' DONE", "info")
+                    except Exception as _e_ac:
+                        self.tracker.log(f"[CB] action_click '{text}' LOI: {_e_ac}", "warn")
                     # Sau click: doi 1.5s -> check 2FA loop (Next/Save hay trigger Confirm)
                     time.sleep(1.5)
                     try:
+                        self.tracker.log(f"[CB] handle_2fa sau click '{text}'...", "info")
                         if handle_2fa():
+                            self.tracker.log(f"[CB] 2fa xong, handle_popups...", "info")
                             handle_popups()
-                    except Exception:
-                        pass
+                        self.tracker.log(f"[CB] handle_2fa sau '{text}' DONE", "info")
+                    except Exception as _e_2fa:
+                        self.tracker.log(f"[CB] handle_2fa LOI: {_e_2fa}", "warn")
                     return True
                 time.sleep(1)
             return False
@@ -861,9 +869,13 @@ class CampaignCreator:
         def check_all():
             """Check 2FA + popup + draft truoc moi buoc.
             Sau 2FA, log trang hien tai de biet dang o dau."""
+            self.tracker.log("[CA] handle_2fa...", "info")
             had_2fa = handle_2fa()
+            self.tracker.log("[CA] handle_popups...", "info")
             handle_popups()
+            self.tracker.log("[CA] handle_draft...", "info")
             handle_draft()
+            self.tracker.log("[CA] DONE", "info")
             if had_2fa:
                 # Sau 2FA — Google co the reset trang. Log URL + title de biet dang o dau.
                 time.sleep(5)
