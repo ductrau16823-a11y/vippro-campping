@@ -1,188 +1,138 @@
 {
-  "started_at": "2026-04-18T14:46:47.138277",
-  "updated_at": "2026-04-18T14:49:58.410076",
+  "started_at": "2026-04-18T18:12:34.707154",
+  "updated_at": "2026-04-18T18:13:40.915894",
   "status": "running",
   "total_accounts": 0,
   "processed_accounts": 0,
   "total_campaigns_created": 0,
   "current_account": null,
-  "current_step": "Buoc 23: Publish",
+  "current_step": "Buoc 14: Bidding",
   "results": [],
   "logs": [
     {
-      "time": "14:46:47",
+      "time": "18:12:34",
       "level": "info",
       "message": "=== Bat dau tao campaign: ComfiLife (#1) ==="
     },
     {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[RESUME] start_step=publish (SINGLE STEP mode — khong nhay trang)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 0: Navigate (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 4-5: Create > Campaign (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 6-13: Setup campaign (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 14: Bidding (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 15: Campaign Settings (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 16: Locations (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 17: Languages (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 18-20: Next/Skip (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 21: Keywords + Ads (start_step)"
-    },
-    {
-      "time": "14:46:47",
-      "level": "warn",
-      "message": "[SKIP] Buoc 22: Budget (start_step)"
-    },
-    {
-      "time": "14:46:48",
+      "time": "18:12:35",
       "level": "info",
-      "message": "Dang o Budget — check + Next..."
+      "message": "Trang hien tai: Campaigns - 325-451-5325 - Google Ads"
     },
     {
-      "time": "14:47:01",
-      "level": "info",
-      "message": "Doi Publish... (10s)"
-    },
-    {
-      "time": "14:47:07",
-      "level": "info",
-      "message": "Doi Publish... (15s)"
-    },
-    {
-      "time": "14:47:13",
-      "level": "info",
-      "message": "Doi Publish... (20s)"
-    },
-    {
-      "time": "14:47:20",
-      "level": "info",
-      "message": "Doi Publish... (25s)"
-    },
-    {
-      "time": "14:47:26",
-      "level": "info",
-      "message": "Doi Publish... (30s)"
-    },
-    {
-      "time": "14:47:33",
-      "level": "info",
-      "message": "Doi Publish... (35s)"
-    },
-    {
-      "time": "14:47:39",
-      "level": "info",
-      "message": "Doi Publish... (40s)"
-    },
-    {
-      "time": "14:47:46",
-      "level": "info",
-      "message": "Doi Publish... (45s)"
-    },
-    {
-      "time": "14:47:53",
-      "level": "info",
-      "message": "Doi Publish... (50s)"
-    },
-    {
-      "time": "14:47:58",
-      "level": "warn",
-      "message": "[2FA] Gap popup xac thuc..."
-    },
-    {
-      "time": "14:48:00",
-      "level": "info",
-      "message": "[2FA] Click Try again"
-    },
-    {
-      "time": "14:48:07",
-      "level": "info",
-      "message": "[2FA] pierrebourbigot928@gmail.com -> 442287"
-    },
-    {
-      "time": "14:48:09",
-      "level": "info",
-      "message": "[2FA] OK!"
-    },
-    {
-      "time": "14:48:14",
-      "level": "info",
-      "message": "[2FA] Da giai lan #1, kiem tra them..."
-    },
-    {
-      "time": "14:48:24",
+      "time": "18:12:35",
       "level": "success",
-      "message": "[2FA-DONE] Dang o: https://ads.google.com/aw/campaigns/new/search/draft?campaignId=281498744034696&ocid=8163992111&cmpnInfo=%7B%221%22%3A1% | title: Search campaign - 373-251-9645 - Google Ads"
+      "message": "[NAV] Da o trang Ads"
     },
     {
-      "time": "14:48:26",
-      "level": "info",
-      "message": "Doi Publish... (55s)"
-    },
-    {
-      "time": "14:48:32",
-      "level": "info",
-      "message": "Doi Publish... (60s)"
-    },
-    {
-      "time": "14:48:54",
-      "level": "warn",
-      "message": "Van o trang Review (lan 1)"
-    },
-    {
-      "time": "14:49:20",
-      "level": "warn",
-      "message": "Van o trang Review (lan 2)"
-    },
-    {
-      "time": "14:49:28",
+      "time": "18:12:36",
       "level": "success",
-      "message": "Da click Publish! (lan 3)"
+      "message": "[VERIFY navigate] OK — navigate OK | page=published"
     },
     {
-      "time": "14:49:50",
+      "time": "18:12:41",
       "level": "info",
-      "message": "Da dong Google Tag"
+      "message": "Click //material-fab-menu//material-fab"
     },
     {
-      "time": "14:49:58",
-      "level": "error",
-      "message": "Publish KHONG xac nhan duoc (URL: https://ads.google.com/aw/overview?ocid=8163992111&euid=1131246667&__u=6515855283&uscid=8163992111&__c=4205157239&authus, title: Overview - 373-251-9645 - Google Ads) — khong update DB"
+      "time": "18:12:53",
+      "level": "success",
+      "message": "Da click Create > Campaign"
+    },
+    {
+      "time": "18:12:57",
+      "level": "success",
+      "message": "[VERIFY create] OK — create OK | page=settings"
+    },
+    {
+      "time": "18:13:02",
+      "level": "info",
+      "message": "[#1] obj=False type=False visits=False pv=False name=False"
+    },
+    {
+      "time": "18:13:02",
+      "level": "success",
+      "message": "Chon without guidance"
+    },
+    {
+      "time": "18:13:02",
+      "level": "success",
+      "message": "Chon SEARCH"
+    },
+    {
+      "time": "18:13:03",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "18:13:04",
+      "level": "info",
+      "message": "Click 'Continue'"
+    },
+    {
+      "time": "18:13:10",
+      "level": "info",
+      "message": "[#2] obj=True type=True visits=False pv=False name=False"
+    },
+    {
+      "time": "18:13:10",
+      "level": "success",
+      "message": "Tick Website visits"
+    },
+    {
+      "time": "18:13:11",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "18:13:12",
+      "level": "info",
+      "message": "Click 'Continue'"
+    },
+    {
+      "time": "18:13:17",
+      "level": "info",
+      "message": "[#3] obj=True type=True visits=True pv=False name=False"
+    },
+    {
+      "time": "18:13:18",
+      "level": "success",
+      "message": "Dien Campaign name: ComfiLife"
+    },
+    {
+      "time": "18:13:19",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "18:13:20",
+      "level": "info",
+      "message": "Click 'Continue'"
+    },
+    {
+      "time": "18:13:26",
+      "level": "info",
+      "message": "[#4] obj=True type=True visits=True pv=False name=True"
+    },
+    {
+      "time": "18:13:27",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "18:13:33",
+      "level": "info",
+      "message": "[#5] obj=True type=True visits=True pv=False name=True"
+    },
+    {
+      "time": "18:13:33",
+      "level": "info",
+      "message": "Xong! obj=True type=True visits=True pv=False name=True"
+    },
+    {
+      "time": "18:13:40",
+      "level": "success",
+      "message": "[VERIFY setup] OK — setup OK (or passed) | page=bidding"
     }
   ]
 }
