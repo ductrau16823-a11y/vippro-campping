@@ -142,13 +142,13 @@ def run(config, start_step):
             "gender": config.get("gender", ""),
         }
 
-        log(f"[{profile_name}] Chay full flow camp '{campaign_config['name']}' (bo qua --start-step='{start_step}')")
+        log(f"[{profile_name}] Resume camp '{campaign_config['name']}' tu buoc '{start_step}'")
         try:
             success = creator.run_campaign_flow(
                 campaign_config,
-                skip_navigate=False,
+                skip_navigate=True,
                 camp_index=1,
-                start_step=None,
+                start_step=start_step,
             )
             if success:
                 log(f"[{profile_name}] Camp '{campaign_config['name']}' DA HOAN THANH!", "success")
