@@ -1332,24 +1332,55 @@ class CampaignCreator:
                 if not clicked_dropdown:
                     self.tracker.log("[14] KHONG tim thay dropdown bidding!", "error")
 
-                # Chon Clicks
+                # Chon Clicks — thu Selenium native click truoc, verify UI doi thanh 'Clicks'
                 if clicked_dropdown:
                     picked = False
                     try:
-                        items = d.find_elements(By.XPATH, "//material-select-dropdown-item")
+                        items = d.find_elements(By.XPATH, "//material-select-dropdown-item | //*[@role='option']")
                         self.tracker.log(f"[14] Tim thay {len(items)} dropdown-item")
                         for item in items:
                             try:
                                 if item.is_displayed() and item.text.strip() == "Clicks":
-                                    js_click(item)
-                                    self.tracker.log("[14] Da chon Clicks bidding", "success")
-                                    time.sleep(0.5)
-                                    picked = True
-                                    break
+                                    # Try Selenium native (material cần real click để trigger listener)
+                                    try:
+                                        item.click()
+                                    except Exception:
+                                        try:
+                                            action_click(item)
+                                        except Exception:
+                                            js_click(item)
+                                    time.sleep(1.5)
+                                    # Verify dropdown text da doi thanh 'Clicks'
+                                    new_txt = ""
+                                    try:
+                                        for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
+                                            if db.is_displayed():
+                                                new_txt = (db.text or "").strip()
+                                                break
+                                    except Exception:
+                                        pass
+                                    if "Clicks" in new_txt:
+                                        self.tracker.log(f"[14] Da chon Clicks bidding (UI='{new_txt[:30]}')", "success")
+                                        picked = True
+                                        break
+                                    else:
+                                        self.tracker.log(f"[14] Click chua lam UI doi (UI='{new_txt[:30]}') — retry ActionChains", "warn")
+                                        try:
+                                            ActionChains(d).move_to_element(item).pause(0.3).click().perform()
+                                            time.sleep(1.5)
+                                        except Exception:
+                                            pass
+                                        for db in d.find_elements(By.XPATH, "//material-dropdown-select//dropdown-button"):
+                                            if db.is_displayed() and "Clicks" in (db.text or ""):
+                                                self.tracker.log("[14] Da chon Clicks bidding (retry)", "success")
+                                                picked = True
+                                                break
+                                        if picked:
+                                            break
                             except Exception as e:
                                 self.tracker.log(f"[14] Loi check item: {e}", "warn")
                         if not picked:
-                            self.tracker.log("[14] KHONG tim thay item 'Clicks'!", "error")
+                            self.tracker.log("[14] KHONG chon duoc 'Clicks' (UI khong doi)!", "error")
                     except Exception as e:
                         self.tracker.log(f"[14] Loi list dropdown-item: {e}", "warn")
 
