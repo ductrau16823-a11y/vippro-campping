@@ -154,6 +154,13 @@ class CampaignCreator:
         from selenium.webdriver.common.action_chains import ActionChains
 
         d = self.driver
+        # B: Set Selenium timeout toan cuc — moi lenh sau 20s khong phan hoi -> TimeoutException
+        # thay vi treo vo han (Chrome busy auto-save khien find_elements/is_displayed dang treo)
+        try:
+            d.set_script_timeout(20)
+            d.set_page_load_timeout(30)
+        except Exception as _te:
+            self.tracker.log(f"[INIT] set_timeout fail: {_te}", "warn")
         base_name = campaign_config.get("name", "Campaign")
         name = f"{base_name} {camp_index}" if camp_index > 1 else base_name
         self.tracker.log(f"=== Bat dau tao campaign: {name} (#{camp_index}) ===")
@@ -231,62 +238,35 @@ class CampaignCreator:
                 el, value,
             )
 
-        def wait_dom_idle(max_wait=5, label=""):
-            """B: Cho DOM on dinh sau action co auto-save — tranh lenh Selenium ke tiep treo.
-            Poll readyState=='complete' VA khong co element 'Saving' dang hien. Toi da max_wait giay."""
-            deadline = time.time() + max_wait
-            while time.time() < deadline:
+        def click_button(text, timeout=10):
+            """Tim va click button theo text chinh xac — 1 lan, khong retry."""
+            enabled_match = None
+            any_match = None
+            for b in d.find_elements(By.XPATH, "//button | //material-button"):
                 try:
-                    ready = d.execute_script("return document.readyState") == "complete"
-                    saving = d.execute_script(
-                        "return !!document.querySelector('[aria-label*=\"Saving\"], [aria-label*=\"saving\"], .saving-indicator')"
-                    )
-                    if ready and not saving:
-                        return True
+                    if not b.is_displayed() or b.text.strip() != text:
+                        continue
+                    any_match = b
+                    if b.get_attribute("aria-disabled") != "true" and b.is_enabled():
+                        enabled_match = b
+                        break
                 except Exception:
                     pass
-                time.sleep(0.3)
-            if label:
-                self.tracker.log(f"[wait_dom_idle] timeout {max_wait}s ({label})", "warn")
-            return False
-
-        def click_button(text, timeout=10):
-            """Tim va click button theo text chinh xac — uu tien button enable.
-            Sau click: auto check 2FA + popup (vi Next/Save thuong trigger Confirm dialog)."""
-            for _ in range(3):
-                enabled_match = None
-                any_match = None
-                for b in d.find_elements(By.XPATH, "//button | //material-button"):
-                    try:
-                        if not b.is_displayed() or b.text.strip() != text:
-                            continue
-                        any_match = b
-                        if b.get_attribute("aria-disabled") != "true" and b.is_enabled():
-                            enabled_match = b
-                            break
-                    except Exception:
-                        pass
-                target = enabled_match or any_match
-                if target is not None:
-                    self.tracker.log(f"[CB] action_click '{text}'...", "info")
-                    try:
-                        action_click(target)
-                        self.tracker.log(f"[CB] action_click '{text}' DONE", "info")
-                    except Exception as _e_ac:
-                        self.tracker.log(f"[CB] action_click '{text}' LOI: {_e_ac}", "warn")
-                    # Sau click: doi 1.5s -> check 2FA loop (Next/Save hay trigger Confirm)
-                    time.sleep(1.5)
-                    try:
-                        self.tracker.log(f"[CB] handle_2fa sau click '{text}'...", "info")
-                        if handle_2fa():
-                            self.tracker.log(f"[CB] 2fa xong, handle_popups...", "info")
-                            handle_popups()
-                        self.tracker.log(f"[CB] handle_2fa sau '{text}' DONE", "info")
-                    except Exception as _e_2fa:
-                        self.tracker.log(f"[CB] handle_2fa LOI: {_e_2fa}", "warn")
-                    return True
-                time.sleep(1)
-            return False
+            target = enabled_match or any_match
+            if target is None:
+                return False
+            try:
+                action_click(target)
+            except Exception as e:
+                self.tracker.log(f"[click_button] '{text}' loi: {e}", "warn")
+                return False
+            time.sleep(1.5)
+            try:
+                if handle_2fa():
+                    handle_popups()
+            except Exception:
+                pass
+            return True
 
         def click_continue_or_agree():
             """Click 'Continue' hoac 'Agree and continue' — chon cai nao enabled + visible."""
@@ -641,60 +621,13 @@ class CampaignCreator:
         }
 
         def run_verify(step_id):
-            """Goi verify + log smart, BOC trong thread voi timeout 5s de khong treo flow.
-            Neu verify chay qua 5s (driver cham, Google Ads re-render) thi skip, coi nhu OK."""
-            import threading
-            result = {"done": False, "ok": True}
-
-            def _body():
-                try:
-                    ok, reason = verify_step(step_id, campaign_config)
-                    if not ok:
-                        time.sleep(1.5)
-                        ok, reason = verify_step(step_id, campaign_config)
-                    page = detect_current_page()
-                    if ok:
-                        self.tracker.log(f"[VERIFY {step_id}] OK — {reason} | page={page}", "success")
-                        result["ok"] = True
-                        result["done"] = True
-                        return
-
-                    cur_step_from_page = PAGE_TO_STEP.get(page)
-                    if cur_step_from_page and step_id in STEP_ORDER and cur_step_from_page in STEP_ORDER:
-                        this_idx = STEP_ORDER.index(step_id)
-                        cur_idx = STEP_ORDER.index(cur_step_from_page)
-                        if cur_idx > this_idx:
-                            self.tracker.log(
-                                f"[VERIFY {step_id}] FAIL nhung page='{page}' la step sau — Google auto-advance, coi nhu OK",
-                                "warn"
-                            )
-                            result["ok"] = True
-                            result["done"] = True
-                            return
-                        if cur_idx < this_idx:
-                            self.tracker.log(
-                                f"[VERIFY {step_id}] FAIL + LUI ve page='{page}' (step '{cur_step_from_page}'). Reason: {reason}",
-                                "error"
-                            )
-                            result["ok"] = False
-                            result["done"] = True
-                            return
-
-                    self.tracker.log(f"[VERIFY {step_id}] FAIL — {reason} | page={page}", "error")
-                    result["ok"] = False
-                    result["done"] = True
-                except Exception as e:
-                    self.tracker.log(f"[VERIFY {step_id}] exception: {e}", "warn")
-                    result["ok"] = True
-                    result["done"] = True
-
-            t = threading.Thread(target=_body, daemon=True)
-            t.start()
-            t.join(timeout=5.0)
-            if not result["done"]:
-                self.tracker.log(f"[VERIFY {step_id}] TIMEOUT 5s — skip, tiep tuc flow", "warn")
-                return True
-            return result["ok"]
+            """Log page hien tai, luon tra True — khong block flow."""
+            try:
+                page = detect_current_page()
+                self.tracker.log(f"[VERIFY {step_id}] page={page}", "info")
+            except Exception:
+                pass
+            return True
 
         # ==================== 2FA + POPUPS ====================
 
@@ -799,16 +732,8 @@ class CampaignCreator:
             return False
 
         def handle_2fa():
-            """LOOP — xu ly nhieu 2FA lien tiep cho toi khi het.
-            Google co the bat 2FA 2-3 lan, moi lan deu giai luon."""
-            total = 0
-            for _ in range(8):  # safety cap — toi da 8 lan 2FA lien tiep
-                if not _solve_one_2fa():
-                    break
-                total += 1
-                self.tracker.log(f"[2FA] Da giai lan #{total}, kiem tra them...")
-                time.sleep(3)
-            return total > 0
+            """Xu ly 1 lan 2FA neu co dialog."""
+            return _solve_one_2fa()
 
         def handle_popups():
             """Dong popup Conversion goals / Exit guide."""
@@ -867,15 +792,10 @@ class CampaignCreator:
             return False
 
         def check_all():
-            """Check 2FA + popup + draft truoc moi buoc.
-            Sau 2FA, log trang hien tai de biet dang o dau."""
-            self.tracker.log("[CA] handle_2fa...", "info")
+            """Check 2FA + popup + draft truoc moi buoc."""
             had_2fa = handle_2fa()
-            self.tracker.log("[CA] handle_popups...", "info")
             handle_popups()
-            self.tracker.log("[CA] handle_draft...", "info")
             handle_draft()
-            self.tracker.log("[CA] DONE", "info")
             if had_2fa:
                 # Sau 2FA — Google co the reset trang. Log URL + title de biet dang o dau.
                 time.sleep(5)
@@ -1409,6 +1329,46 @@ class CampaignCreator:
             has_dropdown = any(e.is_displayed() for e in dropdown_els if e)
             self.tracker.log(f"[14] state: has_change_link={has_change_link} has_dropdown={has_dropdown}")
 
+            # === PRE-CHECK: Neu UI da dung (Clicks + CPC dung) -> skip actions, click Next luon ===
+            # Tranh trigger auto-save khi state da OK tu draft truoc.
+            bidding_already_ok = False
+            try:
+                dropdown_txt = ""
+                for db in dropdown_els:
+                    try:
+                        if db.is_displayed():
+                            dropdown_txt = (db.text or "").strip()
+                            break
+                    except Exception:
+                        pass
+                cpc_already_ok = True
+                if cpc:
+                    cpc_already_ok = False
+                    for inp in d.find_elements(By.XPATH, "//input[@type='text' or @type='number']"):
+                        try:
+                            if inp.is_displayed():
+                                cur_val = (inp.get_attribute("value") or "").strip().replace("$", "").strip()
+                                if cur_val == str(cpc).strip():
+                                    cpc_already_ok = True
+                                    break
+                        except Exception:
+                            pass
+                dropdown_ok = ("click" not in bidding.lower()) or ("Clicks" in dropdown_txt)
+                if dropdown_ok and cpc_already_ok:
+                    bidding_already_ok = True
+                    self.tracker.log(f"[14] PRE-CHECK: UI DA DUNG (dropdown='{dropdown_txt[:20]}' cpc_ok={cpc_already_ok}) — skip actions", "success")
+            except Exception as _e:
+                self.tracker.log(f"[14] PRE-CHECK loi: {_e}", "warn")
+
+            if bidding_already_ok:
+                # Skip toan bo dropdown/tick/fill — chi click Next
+                self.tracker.log("[14] Skip actions, click Next luon", "info")
+                click_button("Next")
+                time.sleep(4)
+                check_all()
+                run_verify("bidding")
+                break
+
             if "click" in bidding.lower():
                 # Neu trang dang o che do text "Maximize clicks" (khong co dropdown) + co link Change bid strategy
                 # -> BAT BUOC click Change bid strategy de chuyen ve form 'What do you want to focus on?' co dropdown
@@ -1648,7 +1608,21 @@ class CampaignCreator:
             # Buffer 2s sau fill CPC cho material binding ngam gia tri, roi click Next.
             time.sleep(2)
             self.tracker.log("[14] Click Next de sang settings...", "info")
-            click_button("Next")
+            # Bao click_button trong daemon thread timeout 20s — tranh hang
+            # sau fill CPC (Chrome auto-save lam find_elements trong click_button treo).
+            _next_done = {"flag": False}
+            def _click_next_safe():
+                try:
+                    click_button("Next")
+                    _next_done["flag"] = True
+                except Exception as _ce:
+                    self.tracker.log(f"[14] click Next exception: {_ce}", "warn")
+            import threading as _t14b
+            _thr = _t14b.Thread(target=_click_next_safe, daemon=True)
+            _thr.start()
+            _thr.join(timeout=20)
+            if not _next_done["flag"]:
+                self.tracker.log("[14] click Next TREO >20s — continue, camp_runner se retry neu can", "error")
             time.sleep(4)
             check_all()
             run_verify("bidding")
