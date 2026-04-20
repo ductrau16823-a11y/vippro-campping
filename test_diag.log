@@ -1,0 +1,17 @@
+=== TEST CAMP: Đức vp 10/4/2026_004 / 366-323-3848 ===
+
+[1] Profile 25881735 da mo san, port 57596
+[OK] Debugger: 127.0.0.1:57596
+[OK] Da ket noi Selenium! Title: Google Ads
+
+[2] Navigate: https://ads.google.com/aw/campaigns?ocid=3663233848
+[OK] Title: Google Ads - Sign in
+
+[3] Handle login + chon TK...
+[INFO] [Đức vp 10/4/2026_004] Gap trang Account Chooser, dang chon gmail...
+[OK] [Đức vp 10/4/2026_004] Da click chon rivaheber739@gmail.com
+[INFO] [Đức vp 10/4/2026_004] Gap trang chon TK Ads, dang tim 366-323-3848...
+[WARN] [Đức vp 10/4/2026_004] TK 366-323-3848 co 'Setup in progress' — SKIP
+[ERROR] Khong vao duoc TK 366-323-3848!
+[ATEXIT] Process thoat: reason=normal_exit exc=None
+  [ ] [ATEXIT] Process thoat: normal_exit | None

@@ -1,0 +1,197 @@
+=== TEST CAMP: Đức 14/4/26_009 / 631-919-4935 ===
+
+[1] Profile 25892791 da mo san, port 61742
+[OK] Debugger: 127.0.0.1:61742
+[OK] Da ket noi Selenium! Title: Campaigns - 631-919-4935 - Google Ads
+
+[2] Navigate: https://ads.google.com/aw/campaigns?ocid=6319194935
+[OK] Title: Google Ads - Sign in
+
+[3] Handle login + chon TK...
+[INFO] [Đức 14/4/26_009] Gap trang Account Chooser, dang chon gmail...
+[OK] [Đức 14/4/26_009] Da click chon ritterhorstl89@gmail.com
+[INFO] [Đức 14/4/26_009] Gap trang chon TK Ads, dang tim 631-919-4935...
+[OK] [Đức 14/4/26_009] Da click chon TK 631-919-4935, cho trang load...
+Exception in thread Thread-26 (_body):
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\threading.py", line 1081, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\threading.py", line 1023, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Documents\vippro campping\camp_google_ads_v3.py", line 726, in _body
+    handle_popups()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\Documents\vippro campping\camp_google_ads_v3.py", line 665, in handle_popups
+    for dialog in d.find_elements(By.XPATH, "//material-dialog"):
+                  ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 847, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.159)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd77dd3
+	0xd77e14
+	0xb81db0
+	0xb608d3
+	0xbf50fb
+	0xc0b0d9
+	0xbee7d6
+	0xbc0049
+	0xbc0e04
+	0xfd6924
+	0xfd1bf7
+	0xfef5a0
+	0xd90f58
+	0xd9891d
+	0xd80648
+	0xd80812
+	0xd6a21a
+	0x76bcfcc9
+	0x77c37c6e
+	0x77c37c3e
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Documents\vippro campping\test_single_camp.py", line 129, in main
+    result = creator.run_campaign_flow(CAMPAIGN_CONFIG, skip_navigate=True, camp_index=1)
+  File "C:\Users\Admin\Documents\vippro campping\camp_google_ads_v3.py", line 1767, in run_campaign_flow
+    check_login()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Admin\Documents\vippro campping\camp_google_ads_v3.py", line 751, in check_login
+    cur_url = d.current_url.lower()
+              ^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 556, in current_url
+    return self.execute(Command.GET_CURRENT_URL)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.159)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd77dd3
+	0xd77e14
+	0xb81db0
+	0xb608d3
+	0xbf50fb
+	0xc0b0d9
+	0xbee7d6
+	0xbc0049
+	0xbc0e04
+	0xfd6924
+	0xfd1bf7
+	0xfef5a0
+	0xd90f58
+	0xd9891d
+	0xd80648
+	0xd80812
+	0xd6a21a
+	0x76bcfcc9
+	0x77c37c6e
+	0x77c37c3e
+
+
+[4] Check TK status...
+[INFO] TK status: ok
+
+[5] Bat dau tao campaign viltrox...
+  [ ] === Bat dau tao campaign: viltrox (#1) ===
+  [ ] Trang hien tai: Campaigns - 631-919-4935 - Google Ads
+  [+] [NAV] Da o trang Ads
+  [ ] [VERIFY navigate] page=published
+  [ ] Click //material-fab-menu//material-fab
+  [+] Da click Create > Campaign
+  [ ] [VERIFY create] page=settings
+  [ ] [#1] obj=False type=False visits=False pv=False name=False
+  [+] Chon without guidance
+  [+] Chon SEARCH
+  [ ] Continue...
+  [ ] Click 'Continue'
+  [ ] [#2] obj=True type=True visits=False pv=False name=False
+  [+] Tick Website visits
+  [ ] Continue...
+  [ ] Click 'Continue'
+  [ ] [#3] obj=True type=True visits=True pv=False name=False
+  [+] Dien Campaign name: viltrox
+  [ ] Continue...
+  [ ] Click 'Continue'
+  [ ] [#4] obj=True type=True visits=True pv=False name=True
+  [ ] Continue...
+  [ ] [#5] obj=True type=True visits=True pv=False name=True
+  [ ] Xong! obj=True type=True visits=True pv=False name=True
+  [ ] [VERIFY setup] page=bidding
+  [ ] >>> VAO BUOC 14: Bidding
+  [ ] [14] bidding='maximize_clicks' cpc='0.5'
+  [+] [14] Da chon Clicks bidding
+  [+] [14] Tick max CPC OK
+  [+] [14] Da dien CPC: 0.5
+  [+] [14] Da click Next
+  [ ] >>> VAO BUOC 15: Campaign Settings
+  [+] [15] Da bo tick search-checkbox
+  [+] [15] Da bo tick display-checkbox
+  [+] [15] Bo tick Search Partners (text)
+  [+] [15] Bo tick Display Network (text)
+  [+] Da target 7 locations
+  [+] Da exclude 2 locations
+  [+] Da save locations
+  [ ] [VERIFY locations] page=bidding
+  [+] Da xoa English -> All languages (selector: //div[@aria-label='English remove']...)
+  [ ] [VERIFY languages] page=bidding
+  [ ] [VERIFY next_skip] page=bidding
+  [+] Da dien 1 keywords
+  [+] Da dien Final URL
+  [+] Da dien 9/9 headlines
+  [+] Da dien 2/2 descriptions
+  [?] Dang o trang Budget
+  [ ] [VERIFY keywords_ads] page=bidding
+  [?] Khong tim thay budget input
+  [ ] [VERIFY budget] page=bidding
+  [?] [2FA] Gap popup xac thuc...
+  [ ] [2FA] Click Try again
+  [ ] [2FA] ritterhorstl89@gmail.com -> 136725
+  [ ] [2FA] OK!
+  [?] [CHECK_ALL] TIMEOUT 15s — skip, tiep tuc flow
+
+=== LOI: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=145.0.7632.159)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd77dd3
+	0xd77e14
+	0xb81db0
+	0xb608d3
+	0xbf50fb
+	0xc0b0d9
+	0xbee7d6
+	0xbc0049
+	0xbc0e04
+	0xfd6924
+	0xfd1bf7
+	0xfef5a0
+	0xd90f58
+	0xd9891d
+	0xd80648
+	0xd80812
+	0xd6a21a
+	0x76bcfcc9
+	0x77c37c6e
+	0x77c37c3e
+ ===
+
+[DONE] Browser van mo — anh check thu cong.
+[ATEXIT] Process thoat: reason=normal_exit exc=None
+  [ ] [ATEXIT] Process thoat: normal_exit | None

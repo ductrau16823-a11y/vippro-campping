@@ -1,12 +1,503 @@
 {
-  "started_at": null,
-  "updated_at": null,
-  "status": "idle",
+  "started_at": "2026-04-20T15:14:46.590089",
+  "updated_at": "2026-04-20T15:23:08.260696",
+  "status": "running",
   "total_accounts": 0,
   "processed_accounts": 0,
   "total_campaigns_created": 0,
   "current_account": null,
-  "current_step": null,
+  "current_step": "Buoc 23: Publish",
   "results": [],
-  "logs": []
+  "logs": [
+    {
+      "time": "15:14:46",
+      "level": "info",
+      "message": "=== Bat dau tao campaign: ComfiLife 1 (#1) ==="
+    },
+    {
+      "time": "15:14:47",
+      "level": "info",
+      "message": "Trang hien tai: Campaigns - 325-451-5325 - Google Ads"
+    },
+    {
+      "time": "15:14:47",
+      "level": "success",
+      "message": "[NAV] Da o trang Ads"
+    },
+    {
+      "time": "15:14:48",
+      "level": "info",
+      "message": "[VERIFY navigate] page=published"
+    },
+    {
+      "time": "15:14:53",
+      "level": "info",
+      "message": "Click //material-fab-menu//material-fab"
+    },
+    {
+      "time": "15:15:04",
+      "level": "success",
+      "message": "Da click Create > Campaign"
+    },
+    {
+      "time": "15:15:09",
+      "level": "info",
+      "message": "[VERIFY create] page=settings"
+    },
+    {
+      "time": "15:15:13",
+      "level": "info",
+      "message": "[#1] obj=False type=False visits=False pv=False name=False"
+    },
+    {
+      "time": "15:15:13",
+      "level": "success",
+      "message": "Chon without guidance"
+    },
+    {
+      "time": "15:15:14",
+      "level": "success",
+      "message": "Chon SEARCH"
+    },
+    {
+      "time": "15:15:15",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "15:15:16",
+      "level": "info",
+      "message": "Click 'Continue'"
+    },
+    {
+      "time": "15:15:21",
+      "level": "info",
+      "message": "[#2] obj=True type=True visits=False pv=False name=False"
+    },
+    {
+      "time": "15:15:21",
+      "level": "success",
+      "message": "Tick Website visits"
+    },
+    {
+      "time": "15:15:22",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "15:15:23",
+      "level": "info",
+      "message": "Click 'Continue'"
+    },
+    {
+      "time": "15:15:28",
+      "level": "info",
+      "message": "[#3] obj=True type=True visits=True pv=False name=False"
+    },
+    {
+      "time": "15:15:30",
+      "level": "success",
+      "message": "Dien Campaign name: ComfiLife 1"
+    },
+    {
+      "time": "15:15:30",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "15:15:31",
+      "level": "info",
+      "message": "Click 'Continue'"
+    },
+    {
+      "time": "15:15:37",
+      "level": "info",
+      "message": "[DRAFT] Gap dialog draft..."
+    },
+    {
+      "time": "15:15:37",
+      "level": "info",
+      "message": "[DRAFT] Start new"
+    },
+    {
+      "time": "15:15:41",
+      "level": "info",
+      "message": "[#4] obj=True type=True visits=True pv=False name=True"
+    },
+    {
+      "time": "15:15:41",
+      "level": "info",
+      "message": "Continue..."
+    },
+    {
+      "time": "15:15:48",
+      "level": "info",
+      "message": "[#5] obj=True type=True visits=True pv=False name=True"
+    },
+    {
+      "time": "15:15:48",
+      "level": "info",
+      "message": "Xong! obj=True type=True visits=True pv=False name=True"
+    },
+    {
+      "time": "15:15:56",
+      "level": "info",
+      "message": "[VERIFY setup] page=bidding"
+    },
+    {
+      "time": "15:15:56",
+      "level": "info",
+      "message": ">>> VAO BUOC 14: Bidding"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] bidding='maximize_clicks' cpc='0.5'"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//a[normalize-space(.)='Change bid strategy']...' tim thay 0 element"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//material-button[normalize-space(.)='Change bid s...' tim thay 0 element"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//button[normalize-space(.)='Change bid strategy']...' tim thay 0 element"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//*[@role='link' and normalize-space(.)='Change bi...' tim thay 0 element"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//span[normalize-space(.)='Change bid strategy']...' tim thay 0 element"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//a[contains(normalize-space(.), 'Change bid strat...' tim thay 0 element"
+    },
+    {
+      "time": "15:15:58",
+      "level": "info",
+      "message": "[14] XPath '//material-button[contains(normalize-space(.), 'Ch...' tim thay 0 element"
+    },
+    {
+      "time": "15:16:01",
+      "level": "success",
+      "message": "[14] Da chon Clicks bidding"
+    },
+    {
+      "time": "15:16:02",
+      "level": "success",
+      "message": "[14] Tick max CPC OK"
+    },
+    {
+      "time": "15:16:05",
+      "level": "success",
+      "message": "[14] Da dien CPC: 0.5"
+    },
+    {
+      "time": "15:16:09",
+      "level": "success",
+      "message": "[14] Da click Next"
+    },
+    {
+      "time": "15:16:13",
+      "level": "info",
+      "message": ">>> VAO BUOC 15: Campaign Settings"
+    },
+    {
+      "time": "15:16:16",
+      "level": "success",
+      "message": "[15] Da bo tick search-checkbox"
+    },
+    {
+      "time": "15:16:17",
+      "level": "success",
+      "message": "[15] Da bo tick display-checkbox"
+    },
+    {
+      "time": "15:16:18",
+      "level": "success",
+      "message": "[15] Bo tick Search Partners (text)"
+    },
+    {
+      "time": "15:16:18",
+      "level": "success",
+      "message": "[15] Bo tick Display Network (text)"
+    },
+    {
+      "time": "15:16:33",
+      "level": "success",
+      "message": "Da target 1 locations"
+    },
+    {
+      "time": "15:16:44",
+      "level": "success",
+      "message": "Da exclude 1 locations"
+    },
+    {
+      "time": "15:16:46",
+      "level": "success",
+      "message": "Da save locations"
+    },
+    {
+      "time": "15:16:52",
+      "level": "info",
+      "message": "[VERIFY locations] page=bidding"
+    },
+    {
+      "time": "15:16:53",
+      "level": "success",
+      "message": "Da xoa English -> All languages (selector: //div[@aria-label='English remove']...)"
+    },
+    {
+      "time": "15:16:56",
+      "level": "info",
+      "message": "[VERIFY languages] page=bidding"
+    },
+    {
+      "time": "15:17:41",
+      "level": "info",
+      "message": "[VERIFY next_skip] page=bidding"
+    },
+    {
+      "time": "15:17:47",
+      "level": "success",
+      "message": "Da dien 1 keywords"
+    },
+    {
+      "time": "15:17:49",
+      "level": "success",
+      "message": "Da dien Final URL"
+    },
+    {
+      "time": "15:18:31",
+      "level": "success",
+      "message": "Da dien 10/10 headlines"
+    },
+    {
+      "time": "15:18:45",
+      "level": "success",
+      "message": "Da dien 4/4 descriptions"
+    },
+    {
+      "time": "15:19:02",
+      "level": "warn",
+      "message": "Dang o trang Budget"
+    },
+    {
+      "time": "15:19:03",
+      "level": "info",
+      "message": "[VERIFY keywords_ads] page=bidding"
+    },
+    {
+      "time": "15:19:12",
+      "level": "success",
+      "message": "[22] Click Set custom qua material-radio"
+    },
+    {
+      "time": "15:19:42",
+      "level": "warn",
+      "message": "[22] Khong tim thay budget input sau 30s -> retry click Set custom"
+    },
+    {
+      "time": "15:19:47",
+      "level": "success",
+      "message": "[22] Click Set custom qua material-radio"
+    },
+    {
+      "time": "15:20:07",
+      "level": "warn",
+      "message": "Khong tim thay budget input (sau retry)"
+    },
+    {
+      "time": "15:20:09",
+      "level": "info",
+      "message": "[VERIFY budget] page=bidding"
+    },
+    {
+      "time": "15:20:14",
+      "level": "success",
+      "message": "[22] Da roi trang Budget (lan 1)"
+    },
+    {
+      "time": "15:20:16",
+      "level": "info",
+      "message": "Doi Publish... (5s)"
+    },
+    {
+      "time": "15:20:23",
+      "level": "info",
+      "message": "Doi Publish... (10s)"
+    },
+    {
+      "time": "15:20:29",
+      "level": "info",
+      "message": "Doi Publish... (15s)"
+    },
+    {
+      "time": "15:20:35",
+      "level": "info",
+      "message": "Doi Publish... (20s)"
+    },
+    {
+      "time": "15:20:42",
+      "level": "info",
+      "message": "Doi Publish... (25s)"
+    },
+    {
+      "time": "15:20:48",
+      "level": "info",
+      "message": "Doi Publish... (30s)"
+    },
+    {
+      "time": "15:20:54",
+      "level": "info",
+      "message": "Doi Publish... (35s)"
+    },
+    {
+      "time": "15:21:00",
+      "level": "info",
+      "message": "Doi Publish... (40s)"
+    },
+    {
+      "time": "15:21:07",
+      "level": "info",
+      "message": "Doi Publish... (45s)"
+    },
+    {
+      "time": "15:21:13",
+      "level": "info",
+      "message": "Doi Publish... (50s)"
+    },
+    {
+      "time": "15:21:19",
+      "level": "info",
+      "message": "Doi Publish... (55s)"
+    },
+    {
+      "time": "15:21:26",
+      "level": "info",
+      "message": "Doi Publish... (60s)"
+    },
+    {
+      "time": "15:21:31",
+      "level": "info",
+      "message": "[REVIEW] Scan trang Review tim loi..."
+    },
+    {
+      "time": "15:22:07",
+      "level": "info",
+      "message": "[REVIEW] name_dup=True networks='' bidding='Bidding\nBidding\nMaximize clicks\nCustomer acquisiti'"
+    },
+    {
+      "time": "15:22:08",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 2"
+    },
+    {
+      "time": "15:22:13",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 3"
+    },
+    {
+      "time": "15:22:17",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 4"
+    },
+    {
+      "time": "15:22:21",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 5"
+    },
+    {
+      "time": "15:22:25",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 6"
+    },
+    {
+      "time": "15:22:30",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 7"
+    },
+    {
+      "time": "15:22:34",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 8"
+    },
+    {
+      "time": "15:22:38",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 9"
+    },
+    {
+      "time": "15:22:43",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 10"
+    },
+    {
+      "time": "15:22:47",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 11"
+    },
+    {
+      "time": "15:22:51",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 12"
+    },
+    {
+      "time": "15:22:55",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 13"
+    },
+    {
+      "time": "15:23:00",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 14"
+    },
+    {
+      "time": "15:23:04",
+      "level": "info",
+      "message": "[REVIEW] Doi name: ComfiLife 15"
+    },
+    {
+      "time": "15:23:07",
+      "level": "success",
+      "message": "[REVIEW] Name OK: ComfiLife 15"
+    },
+    {
+      "time": "15:23:07",
+      "level": "warn",
+      "message": "[REVIEW] Red error: Review"
+    },
+    {
+      "time": "15:23:07",
+      "level": "warn",
+      "message": "[REVIEW] Red error: A campaign with this name already exists"
+    },
+    {
+      "time": "15:23:07",
+      "level": "warn",
+      "message": "[REVIEW] Red error: Languages\nAll languages\nerror\nItem not found"
+    },
+    {
+      "time": "15:23:07",
+      "level": "warn",
+      "message": "[REVIEW] Red error: error\nItem not found"
+    },
+    {
+      "time": "15:23:08",
+      "level": "warn",
+      "message": "[PUBLISH] Khong tim thay Publish enabled (lan 1) — thu Next"
+    }
+  ]
 }

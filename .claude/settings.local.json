@@ -95,7 +95,36 @@
       "Bash(python -c \"from camp_steps import helpers; from camp_steps import step_00_navigate, step_01_create, step_02_objective, step_03_type_search, step_04_goals_name, step_05_bidding, step_06_networks, step_07_locations, step_08_languages, step_09_next_skip_ai, step_10_keywords_ads, step_11_budget, step_12_publish; print\\('All step modules imported OK'\\)\")",
       "Bash(python -c \"from camp_steps.driver_session import open_driver, close_driver; print\\('driver_session OK'\\)\")",
       "Bash(python -X utf8 step_runner.py --step unknown_step --ws-port 12345)",
-      "Bash(python -c \"import step_runner; print\\('step_runner OK'\\)\")"
+      "Bash(python -c \"import step_runner; print\\('step_runner OK'\\)\")",
+      "Bash(python -m py_compile camp_google_ads_v3.py)",
+      "Bash(python -m py_compile continue_camp.py)",
+      "Bash(python -m py_compile camp_runner.py)",
+      "Bash(awk *)",
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d, indent=2, ensure_ascii=False\\)[:1500]\\)\")",
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); accs=d if isinstance\\(d,list\\) else d.get\\('data',d.get\\('accounts',[]\\)\\); [print\\(f\\\\\"{a.get\\('accountId'\\)} | {a.get\\('profile',{}\\).get\\('name'\\)} | pid={a.get\\('profile',{}\\).get\\('id'\\)} | gid={a.get\\('profile',{}\\).get\\('genloginId'\\)} | gmail={a.get\\('profile',{}\\).get\\('gmail',{}\\).get\\('email'\\) if isinstance\\(a.get\\('profile',{}\\).get\\('gmail'\\),dict\\) else a.get\\('profile',{}\\).get\\('gmail'\\)} | camps={a.get\\('_count',{}\\).get\\('campaigns',0\\)}\\\\\"\\) for a in accs if a.get\\('profile',{}\\).get\\('genloginId'\\) == '25877141']\")",
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); accs=d if isinstance\\(d,list\\) else d.get\\('data',d.get\\('accounts',[]\\)\\); print\\(f'TOTAL: {len\\(accs\\)}'\\); [print\\(f\\\\\"{a.get\\('accountId'\\)} | {a.get\\('profile',{}\\).get\\('name'\\)} | gid={a.get\\('profile',{}\\).get\\('genloginId'\\)} | status={a.get\\('status'\\)} | camps={a.get\\('_count',{}\\).get\\('campaigns',0\\)}\\\\\"\\) for a in accs if '10/4/2026_002' in a.get\\('profile',{}\\).get\\('name',''\\)]\")",
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); ids=[str\\(p.get\\('id'\\)\\) for p in d.get\\('data',[]\\)]; print\\('Running gids:', ids\\)\")",
+      "Read(//tmp/**)",
+      "Read(//c/tmp/**)",
+      "Bash(python -c \"import py_compile; py_compile.compile\\(r'c:\\\\Users\\\\Admin\\\\Documents\\\\vippro campping\\\\camp_google_ads_v3.py', doraise=True\\); print\\('OK'\\)\")",
+      "Bash(tee test_009.log)",
+      "Bash(tasklist)",
+      "Bash(tasklist.exe /FI \"IMAGENAME eq python.exe\")",
+      "Bash(powershell -Command \"Get-Process python -ErrorAction SilentlyContinue | Select-Object Id,StartTime\")",
+      "Bash(tee test_009_v2.log)",
+      "Bash(tee test_009_v3.log)",
+      "Bash(tee logs/test_buoc17_fix.log)",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-25:]]\")",
+      "Bash(tee logs/test_buoc22_fix.log)",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-40:]]\")",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\), 'status:', d.get\\('status'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-15:]]\")",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\), 'status:', d.get\\('status'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-10:]]\")",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\), 'status:', d.get\\('status'\\), 'updated:', d.get\\('updated_at'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-25:]]\")",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\), 'status:', d.get\\('status'\\), 'updated:', d.get\\('updated_at'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-20:]]\")",
+      "Bash(python -c \"import json, sys; d = json.load\\(sys.stdin\\); print\\('step:', d.get\\('current_step'\\), 'status:', d.get\\('status'\\), 'updated:', d.get\\('updated_at'\\)\\); [print\\(l['time'], l['level'], l['message']\\) for l in d.get\\('logs', []\\)[-30:]]\")"
+    ],
+    "additionalDirectories": [
+      "\\tmp"
     ]
   }
 }
