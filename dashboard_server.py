@@ -22,7 +22,7 @@ from db_helpers import (
 PORT = 5050
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STEP_CONFIG_PATH = os.path.join(BASE_DIR, "step_config.json")
-CAMP_V4_PATH = os.path.join(BASE_DIR, "camp_google_ads_v4.py")
+CAMP_V4_PATH = os.path.join(BASE_DIR, "camp_google_ads_v3.py")
 
 # ========== STEP HELPERS ==========
 

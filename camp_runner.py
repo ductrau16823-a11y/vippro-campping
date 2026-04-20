@@ -89,6 +89,22 @@ def _map_bidding(bidding_vn):
     return mapping.get(bidding_vn, "maximize_clicks")
 
 
+def _is_window_closed(err_text):
+    """True neu exception la do browser/window/session dong."""
+    if not err_text:
+        return False
+    s = str(err_text).lower()
+    return (
+        "no such window" in s
+        or "target window already closed" in s
+        or "web view not found" in s
+        or "invalid session id" in s
+        or "chrome not reachable" in s
+        or "disconnected: not connected to devtools" in s
+        or "session deleted" in s
+    )
+
+
 def update_account_status(account_db_id, new_status, notes=None):
     """Update status TK Ads tren DB qua API."""
     try:
@@ -569,13 +585,31 @@ def run_single_account(acc, config):
             else:
                 log(f"[{profile_name}] Campaign '{campaign_config['name']}' THAT BAI", "error")
         except BaseException as e:
-            # BaseException -> bat ca SystemExit/KeyboardInterrupt/GeneratorExit de lo nguyen nhan chet ngam
+            err_text = f"{type(e).__name__}: {e}"
+            # Window/session dong giua chung — skip TK graceful, khong log trace
+            if _is_window_closed(err_text):
+                log(f"[{profile_name}] [WINDOW-CLOSED] Browser dong giua luc chay camp — skip TK {account_id}", "warn")
+                try:
+                    tracker.log(f"[WINDOW-CLOSED] Session ket thuc — skip TK {account_id}", "warn")
+                except Exception:
+                    pass
+                account_db_id = acc.get("dbId")
+                if account_db_id:
+                    try:
+                        update_account_status(account_db_id, "needs_setup", "Browser/window dong giua luc chay camp")
+                    except Exception:
+                        pass
+                with _progress_lock:
+                    _success_count += 1
+                    log(f"TIEN_DO: {_success_count}/{_total_count}")
+                return
+            # Loi khac — log full trace
             tb_str = traceback.format_exc()
-            log(f"[{profile_name}] Campaign '{campaign_config['name']}' LOI: {type(e).__name__}: {e}", "error")
+            log(f"[{profile_name}] Campaign '{campaign_config['name']}' LOI: {err_text}", "error")
             for ln in tb_str.splitlines():
                 log(f"[TRACE] {ln}", "error")
             try:
-                tracker.log(f"[CRITICAL] run_campaign_flow raised {type(e).__name__}: {e}", "error")
+                tracker.log(f"[CRITICAL] run_campaign_flow raised {err_text}", "error")
                 for ln in tb_str.splitlines():
                     tracker.log(f"[TRACE] {ln}", "error")
             except Exception:
@@ -590,6 +624,16 @@ def run_single_account(acc, config):
             log(f"TIEN_DO: {_success_count}/{_total_count}")
 
     except Exception as e:
+        err_text = f"{type(e).__name__}: {e}"
+        if _is_window_closed(err_text):
+            log(f"[{profile_name}] [WINDOW-CLOSED] Browser dong trong qua trinh setup — skip TK {account_id}", "warn")
+            account_db_id = acc.get("dbId")
+            if account_db_id:
+                try:
+                    update_account_status(account_db_id, "needs_setup", "Browser/window dong trong qua trinh setup")
+                except Exception:
+                    pass
+            return
         log(f"[{profile_name}] Loi TK {account_id}: {e}", "error")
         traceback.print_exc()
 
@@ -620,24 +664,46 @@ def run(config):
 
     log(f"So profile can mo: {len(profile_groups)}")
 
-    # Chạy mỗi profile group trong 1 thread
-    threads = []
-    for gid, accs in profile_groups.items():
-        # Trong 1 profile, chạy tuần tự các TK (vì dùng chung 1 browser)
-        def run_profile_group(accs_list=accs):
+    def run_profile_group_safe(accs_list, gid):
+        """Wrap run_profile_group voi try/except de log loi thay vi chet ngam."""
+        try:
             for acc in accs_list:
-                run_single_account(acc, config)
+                try:
+                    run_single_account(acc, config)
+                except BaseException as _e:
+                    tb = traceback.format_exc()
+                    log(f"[{gid}] LOI run_single_account: {type(_e).__name__}: {_e}", "error")
+                    for ln in tb.splitlines():
+                        log(f"[TRACE] {ln}", "error")
                 if len(accs_list) > 1:
-                    time.sleep(2)  # delay giữa các TK cùng profile
+                    time.sleep(2)  # delay giua cac TK cung profile
+        except BaseException as _e:
+            tb = traceback.format_exc()
+            log(f"[{gid}] LOI profile_group: {type(_e).__name__}: {_e}", "error")
+            for ln in tb.splitlines():
+                log(f"[TRACE] {ln}", "error")
 
-        t = threading.Thread(target=run_profile_group, daemon=True)
-        threads.append(t)
-        t.start()
-        time.sleep(1)  # delay giữa các profile để GenLogin không bị quá tải
+    # Neu chi 1 profile -> chay tuan tu (tranh threading issues)
+    if len(profile_groups) == 1:
+        gid, accs = next(iter(profile_groups.items()))
+        log(f"[SINGLE] 1 profile -> chay tuan tu khong thread")
+        run_profile_group_safe(accs, gid)
+    else:
+        # Nhieu profile -> song song, daemon=False de khong bi kill neu main thoat
+        threads = []
+        for gid, accs in profile_groups.items():
+            t = threading.Thread(
+                target=run_profile_group_safe,
+                args=(accs, gid),
+                daemon=False,
+            )
+            threads.append(t)
+            t.start()
+            time.sleep(1)  # delay giua cac profile de GenLogin khong qua tai
 
-    # Đợi tất cả threads hoàn thành
-    for t in threads:
-        t.join(timeout=120)  # max 2 phút mỗi thread
+        # Doi tat ca threads hoan thanh — khong timeout
+        for t in threads:
+            t.join()
 
     log(f"\n{'='*50}")
     log(f"HOAN THANH: {_success_count}/{_total_count} TK da mo thanh cong", "success")

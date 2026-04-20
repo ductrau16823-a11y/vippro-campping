@@ -17,15 +17,15 @@ except Exception:
 
 from genlogin_api import start_profile, get_debugger_address, get_browser_version, connect_selenium
 from camp_runner import handle_post_navigate, check_account_status
-from camp_google_ads_v4 import CampaignCreator
+from camp_google_ads_v3 import CampaignCreator
 from status_tracker import StatusTracker
 
 # === CONFIG ===
-GENLOGIN_ID = "25892790"    # Đức 14/4/26_008
-ACCOUNT_ID = "835-303-6407"
-GMAIL_EMAIL = "MiladCecile797@gmail.com"
-PROFILE_ID = "cmnybntnm0073k0k56ida1txd"
-PROFILE_NAME = "Đức 14/4/26_008"
+GENLOGIN_ID = "25892791"    # Đức 14/4/26_009
+ACCOUNT_ID = "631-919-4935"
+GMAIL_EMAIL = "RitterHorstl89@gmail.com"
+PROFILE_ID = "cmnybntno0075k0k5kg7zduxb"
+PROFILE_NAME = "Đức 14/4/26_009"
 
 # Campaign config tu project viltrox
 CAMPAIGN_CONFIG = {
@@ -61,15 +61,31 @@ def main():
     print(f"=== TEST CAMP: {PROFILE_NAME} / {ACCOUNT_ID} ===")
     print()
 
-    # 1. Connect GenLogin profile
-    print(f"[1] Start profile {GENLOGIN_ID}...")
-    start_result = start_profile(GENLOGIN_ID)
-    debugger_addr = get_debugger_address(start_result)
-    browser_ver = get_browser_version(start_result)
+    # 1. Connect GenLogin profile — check profile da running chua truoc khi start
+    import requests as _rq
+    debugger_addr = None
+    browser_ver = None
+    try:
+        running_res = _rq.get("http://localhost:55550/backend/profiles/running", timeout=5)
+        for rp in running_res.json().get("data", []):
+            if str(rp.get("id")) == str(GENLOGIN_ID):
+                port = rp.get("port")
+                if port:
+                    debugger_addr = f"127.0.0.1:{port}"
+                    browser_ver = rp.get("browser_version")
+                    print(f"[1] Profile {GENLOGIN_ID} da mo san, port {port}")
+                break
+    except Exception as _e:
+        print(f"[WARN] Khong check duoc running profiles: {_e}")
+
+    if not debugger_addr:
+        print(f"[1] Start profile {GENLOGIN_ID}...")
+        start_result = start_profile(GENLOGIN_ID)
+        debugger_addr = get_debugger_address(start_result)
+        browser_ver = get_browser_version(start_result)
 
     if not debugger_addr:
         print(f"[ERROR] Khong lay duoc debugger address!")
-        print(f"Start result: {start_result}")
         return
 
     print(f"[OK] Debugger: {debugger_addr}")
