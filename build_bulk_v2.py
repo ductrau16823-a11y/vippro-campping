@@ -115,6 +115,42 @@ def normalize_list(val):
     return []
 
 
+MAX_NAME_WORDS = 6
+
+
+def sanitize_name(raw):
+    """Cat ten camp truoc '/', '|', '-' phan mo ta dau tien, gioi han 6 tu, strip ky tu dac biet cuoi."""
+    if not raw:
+        return raw
+    # Cat tai dau phan cach dau tien
+    for sep in ('/', '|', ' - ', ' — '):
+        if sep in raw:
+            raw = raw.split(sep)[0].strip()
+            break
+    words = raw.split()
+    if len(words) > MAX_NAME_WORDS:
+        words = words[:MAX_NAME_WORDS]
+    name = ' '.join(words).strip()
+    # Strip ky tu rac cuoi (dau cach, comma, pipe, ampersand, hash, hash number...)
+    return name.rstrip(' ,|&#:.-').strip()
+
+
+def sanitize_project(p):
+    """Neu ten camp bi cat, replace ten GOC trong moi field text (kw/headline/desc) bang ten RUT GON."""
+    orig = p.get('name', '')
+    new = sanitize_name(orig)
+    if new == orig:
+        return p
+    p['name'] = new
+    for key in ('adsKey', 'headlines', 'descriptions'):
+        val = p.get(key)
+        if isinstance(val, list):
+            p[key] = [str(x).replace(orig, new) for x in val]
+        elif isinstance(val, str):
+            p[key] = val.replace(orig, new)
+    return p
+
+
 def classify_keyword(kw):
     kw = kw.strip()
     if kw.startswith('"') and kw.endswith('"'):
@@ -358,6 +394,18 @@ def main():
     data = json.loads(in_path.read_text(encoding='utf-8'))
     if args.limit > 0:
         data = data[:args.limit]
+
+    # Sanitize: rut gon ten camp co '/' hoac qua dai, replace trong moi field
+    renamed = []
+    for p in data:
+        before = p.get('name', '')
+        sanitize_project(p)
+        if p.get('name') != before:
+            renamed.append((before, p['name']))
+    if renamed:
+        print(f"Renamed {len(renamed)} camp(s):")
+        for b, a in renamed:
+            print(f"  {b!r} -> {a!r}")
 
     out = Path(args.out_dir)
     out.mkdir(parents=True, exist_ok=True)

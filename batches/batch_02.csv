@@ -1,7 +1,7 @@
 ﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
 Campaign,Add,Paused,Waterdrop United Kingdom,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,metalkitor,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Pop Collector / Magasin Funko Pop / Loungefly / Soda,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Pop Collector,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,MagicJohn,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,AIMEILI Gel Polish,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Santa Barbara Chocolate,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -21,7 +21,7 @@ Campaign,Add,Paused,Synergeefitness,Search,Google search,10,Daily,Maximize click
 Campaign,Add,Paused,PUCKIPUPPY BIKES,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,metalkitor,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Pop Collector,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,MagicJohn,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -59,16 +59,16 @@ Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon code metalkitor,Phrase matc
 Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon code for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Promo code for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Pop Collector / Magasin Funko Pop / Loungefly / Soda coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Pop Collector / Magasin Funko Pop / Loungefly / Soda coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Pop Collector / Magasin Funko Pop / Loungefly / Soda promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Pop Collector / Magasin Funko Pop / Loungefly / Soda promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Promo code Pop Collector / Magasin Funko Pop / Loungefly / Soda,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Coupon Pop Collector / Magasin Funko Pop / Loungefly / Soda,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Coupon code Pop Collector / Magasin Funko Pop / Loungefly / Soda,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Coupon code for Pop Collector / Magasin Funko Pop / Loungefly / Soda,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Coupon for Pop Collector / Magasin Funko Pop / Loungefly / Soda,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,Enabled,Promo code for Pop Collector / Magasin Funko Pop / Loungefly / Soda,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Promo code Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon code Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon code for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Promo code for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -241,7 +241,7 @@ Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Coupon for PUCKIPUPPY BIKES,
 Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Promo code for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Waterdrop United Kingdom coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Waterdrop United Kingdom. Limited Offer!,55% Off Waterdrop United Kingdom Coupons & Promo Codes 2025,Apply these Waterdrop United Kingdom Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons,,,,
 Ad,Add,,metalkitor,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,metalkitor Coupon Code,Best metalkitor Coupons,Top metalkitor Coupons,Get 55% Off metalkitor,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with metalkitor coupon. All coupons verified,"With This Exclusive metalkitor Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special metalkitor Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam metalkitor. Limited Offer!,https://nymbuscommerce.com/visit/23418/metalkitor-coupons,,,,
-Ad,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,55% Off Pop Collector / Magasin Funko Pop / Loungefly / Soda Coupons & Promo Codes 2025,Save big with verified coupons. Updated daily for the best deals.,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,,,,
+Ad,Add,,Pop Collector,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pop Collector Coupon Code,Best Pop Collector Coupons,Top Pop Collector Coupons,Get 55% Off Pop Collector,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pop Collector coupon. All coupons verified,"With This Exclusive Pop Collector Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pop Collector Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pop Collector. Limited Offer!,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,,,,
 Ad,Add,,MagicJohn,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MagicJohn Coupon Code,Best MagicJohn Coupons,Top MagicJohn Coupons,Get 55% Off MagicJohn,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MagicJohn coupon. All coupons verified,"With This Exclusive MagicJohn Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MagicJohn Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MagicJohn. Limited Offer!,https://nymbuscommerce.com/visit/23418/magicjohn-coupons,,,,
 Ad,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,AIMEILI Gel Polish Coupon Code,Top AIMEILI Gel Polish Coupons,Get 55% Off AIMEILI Gel Polish,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,Save 55% Off on all products with AIMEILI Gel Polish coupon. All coupons verified,"With This Exclusive AIMEILI Gel Polish Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special AIMEILI Gel Polish Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam AIMEILI Gel Polish. Limited Offer!,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons,,,,
 Ad,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Santa Barbara Chocolate coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Santa Barbara Chocolate Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Santa Barbara Chocolate. Limited Offer!,55% Off Santa Barbara Chocolate Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons,,,,
@@ -265,9 +265,9 @@ Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with A
 Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons&2,Create new,Campaign,All Blog,
@@ -327,10 +327,10 @@ Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,
 Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Pop Collector / Magasin Funko Pop / Loungefly / Soda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

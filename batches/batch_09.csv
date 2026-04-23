@@ -18,7 +18,7 @@ Campaign,Add,Paused,carpuride,Search,Google search,10,Daily,Maximize clicks,en,2
 Campaign,Add,Paused,Flower and Twig Nursery,Search,Google search,10,Daily,Maximize clicks,en,2036;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,GK HAIR EUROPE,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,GK Hair USA,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Friendship Lamps - Powered by Filimin,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Friendship Lamps,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Paddlepro.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Cowderry,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -38,7 +38,7 @@ Ad group,Add,,carpuride,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,GK Hair USA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Friendship Lamps,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -229,16 +229,16 @@ Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon code GK Hair USA,Phrase ma
 Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon code for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Promo code for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Friendship Lamps - Powered by Filimin coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Friendship Lamps - Powered by Filimin coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Friendship Lamps - Powered by Filimin promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Friendship Lamps - Powered by Filimin promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Promo code Friendship Lamps - Powered by Filimin,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Coupon Friendship Lamps - Powered by Filimin,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Coupon code Friendship Lamps - Powered by Filimin,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Coupon code for Friendship Lamps - Powered by Filimin,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Coupon for Friendship Lamps - Powered by Filimin,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,Enabled,Promo code for Friendship Lamps - Powered by Filimin,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Promo code Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon code Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon code for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Promo code for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad,Add,,Paddlepro.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Paddlepro.com Coupon Code,Best Paddlepro.com Coupons,Top Paddlepro.com Coupons,Get 55% Off Paddlepro.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Paddlepro.com coupon. All coupons verified,"With This Exclusive Paddlepro.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Paddlepro.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Paddlepro.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons,,,,
 Ad,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,BOMBOFFICIAL Coupon Code,Best BOMBOFFICIAL Coupons,Top BOMBOFFICIAL Coupons,Get 55% Off BOMBOFFICIAL,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with BOMBOFFICIAL coupon. All coupons verified,"With This Exclusive BOMBOFFICIAL Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special BOMBOFFICIAL Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam BOMBOFFICIAL. Limited Offer!,https://nymbuscommerce.com/visit/23418/bombofficial-coupons,,,,
 Ad,Add,,Cowderry,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Cowderry Coupon Code,Best Cowderry Coupons,Top Cowderry Coupons,Get 55% Off Cowderry,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Cowderry coupon. All coupons verified,"With This Exclusive Cowderry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Cowderry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Cowderry. Limited Offer!,https://nymbuscommerce.com/visit/23418/cowderry-coupons,,,,
@@ -258,7 +258,7 @@ Ad,Add,,carpuride,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,carpuride Coupon 
 Ad,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Flower and Twig Nursery coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Flower and Twig Nursery Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Flower and Twig Nursery. Limited Offer!,55% Off Flower and Twig Nursery Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons,,,,
 Ad,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GK HAIR EUROPE Coupon Code,Best GK HAIR EUROPE Coupons,Top GK HAIR EUROPE Coupons,Get 55% Off GK HAIR EUROPE,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GK HAIR EUROPE coupon. All coupons verified,"With This Exclusive GK HAIR EUROPE Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GK HAIR EUROPE Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GK HAIR EUROPE. Limited Offer!,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons,,,,
 Ad,Add,,GK Hair USA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GK Hair USA Coupon Code,Best GK Hair USA Coupons,Top GK Hair USA Coupons,Get 55% Off GK Hair USA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GK Hair USA coupon. All coupons verified,"With This Exclusive GK Hair USA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GK Hair USA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GK Hair USA. Limited Offer!,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons,,,,
-Ad,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,55% Off Friendship Lamps - Powered by Filimin Coupons & Promo Codes 2025,Save big with verified coupons. Updated daily for the best deals.,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,,,,
+Ad,Add,,Friendship Lamps,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Friendship Lamps Coupon Code,Best Friendship Lamps Coupons,Top Friendship Lamps Coupons,Get 55% Off Friendship Lamps,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Friendship Lamps coupon. All coupons verified,"With This Exclusive Friendship Lamps Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Friendship Lamps Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Friendship Lamps. Limited Offer!,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,,,,
 Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons&2,Create new,Campaign,All Blog,
@@ -316,9 +316,9 @@ Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog co
 Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&2,Create new,Campaign,All Blog,
 Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
@@ -395,7 +395,7 @@ Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,
 Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Friendship Lamps - Powered by Filimin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

@@ -17,7 +17,7 @@ Campaign,Add,Paused,rarjsm,Search,Google search,10,Daily,Maximize clicks,en,2840
 Campaign,Add,Paused,OrganoLinen,Search,Google search,10,Daily,Maximize clicks,en,2840;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Pizzello,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Scott Hawaii,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,KOCF.com - Car Parts,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,KOCF.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Miss Mary's Mix,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Ausomstore,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,happyrunsports,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -37,7 +37,7 @@ Ad group,Add,,rarjsm,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,OrganoLinen,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Pizzello,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Scott Hawaii,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,KOCF.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Miss Mary's Mix,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -219,16 +219,16 @@ Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon code Scott Hawaii,Phrase 
 Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon code for Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon for Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Promo code for Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Promo code KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon code KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon code for KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon for KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Promo code for KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,KOCF.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,KOCF.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,KOCF.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,KOCF.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,Promo code KOCF.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,Coupon KOCF.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,Coupon code KOCF.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,Coupon code for KOCF.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,Coupon for KOCF.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com,,,,,,,,,AG-1,,Enabled,Promo code for KOCF.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -257,7 +257,7 @@ Ad,Add,,rarjsm,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,rarjsm Coupon Code,B
 Ad,Add,,OrganoLinen,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,OrganoLinen Coupon Code,Best OrganoLinen Coupons,Top OrganoLinen Coupons,Get 55% Off OrganoLinen,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with OrganoLinen coupon. All coupons verified,"With This Exclusive OrganoLinen Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special OrganoLinen Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam OrganoLinen. Limited Offer!,https://nymbuscommerce.com/visit/23418/organolinen-coupons,,,,
 Ad,Add,,Pizzello,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pizzello Coupon Code,Best Pizzello Coupons,Top Pizzello Coupons,Get 55% Off Pizzello,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pizzello coupon. All coupons verified,"With This Exclusive Pizzello Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pizzello Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pizzello. Limited Offer!,https://nymbuscommerce.com/visit/23418/pizzello-coupons,,,,
 Ad,Add,,Scott Hawaii,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Scott Hawaii Coupon Code,Best Scott Hawaii Coupons,Top Scott Hawaii Coupons,Get 55% Off Scott Hawaii,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Scott Hawaii coupon. All coupons verified,"With This Exclusive Scott Hawaii Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Scott Hawaii Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Scott Hawaii. Limited Offer!,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons,,,,
-Ad,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with KOCF.com - Car Parts coupon. All coupons verified,"With This Exclusive KOCF.com - Car Parts Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special KOCF.com - Car Parts Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam KOCF.com - Car Parts. Limited Offer!,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons,,,,
+Ad,Add,,KOCF.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,KOCF.com Coupon Code,Best KOCF.com Coupons,Top KOCF.com Coupons,Get 55% Off KOCF.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with KOCF.com coupon. All coupons verified,"With This Exclusive KOCF.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special KOCF.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam KOCF.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons,,,,
 Ad,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Miss Mary's Mix Coupon Code,Best Miss Mary's Mix Coupons,Top Miss Mary's Mix Coupons,Get 55% Off Miss Mary's Mix,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Miss Mary's Mix coupon. All coupons verified,"With This Exclusive Miss Mary's Mix Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Miss Mary's Mix Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Miss Mary's Mix. Limited Offer!,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons,,,,
 Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons,Create new,Campaign,Best Deals Of The Days,
@@ -313,9 +313,9 @@ Sitelink,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,
 Sitelink,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons&2,Create new,Campaign,All Blog,
@@ -391,10 +391,10 @@ Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign
 Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,KOCF.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

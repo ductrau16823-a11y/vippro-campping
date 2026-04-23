@@ -14,7 +14,7 @@ Campaign,Add,Paused,Kristin Moon Science,Search,Google search,10,Daily,Maximize 
 Campaign,Add,Paused,ohmmu.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Blasters4Masters,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Klinio,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,CRZ YOGA - CA,Search,Google search,10,Daily,Maximize clicks,en,2124;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,CRZ YOGA,Search,Google search,10,Daily,Maximize clicks,en,2124;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,www.freeskycycle.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,FredCo International,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Maia Homes,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34,7 +34,7 @@ Ad group,Add,,Kristin Moon Science,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,ohmmu.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Blasters4Masters,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Klinio,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CRZ YOGA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,www.freeskycycle.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,FredCo International,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Maia Homes,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -189,16 +189,16 @@ Keyword,Add,,Klinio,,,,,,,,,AG-1,,Enabled,Coupon code Klinio,Phrase match,,,,,,,
 Keyword,Add,,Klinio,,,,,,,,,AG-1,,Enabled,Coupon code for Klinio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Klinio,,,,,,,,,AG-1,,Enabled,Coupon for Klinio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Klinio,,,,,,,,,AG-1,,Enabled,Promo code for Klinio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,CRZ YOGA - CA coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,CRZ YOGA - CA coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,CRZ YOGA - CA promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,CRZ YOGA - CA promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,Promo code CRZ YOGA - CA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,Coupon CRZ YOGA - CA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,Coupon code CRZ YOGA - CA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,Coupon code for CRZ YOGA - CA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,Coupon for CRZ YOGA - CA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,Enabled,Promo code for CRZ YOGA - CA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,CRZ YOGA coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,CRZ YOGA coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,CRZ YOGA promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,CRZ YOGA promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,Promo code CRZ YOGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,Coupon CRZ YOGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,Coupon code CRZ YOGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,Coupon code for CRZ YOGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,Coupon for CRZ YOGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,AG-1,,Enabled,Promo code for CRZ YOGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,www.freeskycycle.com,,,,,,,,,AG-1,,Enabled,www.freeskycycle.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,www.freeskycycle.com,,,,,,,,,AG-1,,Enabled,www.freeskycycle.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,www.freeskycycle.com,,,,,,,,,AG-1,,Enabled,www.freeskycycle.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -254,7 +254,7 @@ Ad,Add,,Kristin Moon Science,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Co
 Ad,Add,,ohmmu.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ohmmu.com Coupon Code,Best ohmmu.com Coupons,Top ohmmu.com Coupons,Get 55% Off ohmmu.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ohmmu.com coupon. All coupons verified,"With This Exclusive ohmmu.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ohmmu.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ohmmu.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/ohmmucom-coupons,,,,
 Ad,Add,,Blasters4Masters,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Blasters4Masters Coupon Code,Best Blasters4Masters Coupons,Top Blasters4Masters Coupons,Get 55% Off Blasters4Masters,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Blasters4Masters coupon. All coupons verified,"With This Exclusive Blasters4Masters Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Blasters4Masters Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Blasters4Masters. Limited Offer!,https://nymbuscommerce.com/visit/23418/blasters4masters-coupons,,,,
 Ad,Add,,Klinio,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Klinio Coupon Code,Best Klinio Coupons,Top Klinio Coupons,Get 55% Off Klinio,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Klinio coupon. All coupons verified,"With This Exclusive Klinio Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Klinio Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Klinio. Limited Offer!,https://nymbuscommerce.com/visit/23418/klinio-coupons,,,,
-Ad,Add,,CRZ YOGA - CA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CRZ YOGA - CA Coupon Code,Best CRZ YOGA - CA Coupons,Top CRZ YOGA - CA Coupons,Get 55% Off CRZ YOGA - CA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CRZ YOGA - CA coupon. All coupons verified,"With This Exclusive CRZ YOGA - CA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CRZ YOGA - CA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CRZ YOGA - CA. Limited Offer!,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons,,,,
+Ad,Add,,CRZ YOGA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CRZ YOGA Coupon Code,Best CRZ YOGA Coupons,Top CRZ YOGA Coupons,Get 55% Off CRZ YOGA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CRZ YOGA coupon. All coupons verified,"With This Exclusive CRZ YOGA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CRZ YOGA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CRZ YOGA. Limited Offer!,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons,,,,
 Ad,Add,,www.freeskycycle.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with www.freeskycycle.com coupon. All coupons verified,"With This Exclusive www.freeskycycle.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special www.freeskycycle.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam www.freeskycycle.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/wwwfreeskycyclecom-coupons,,,,
 Ad,Add,,FredCo International,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with FredCo International coupon. All coupons verified,"With This Exclusive FredCo International Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special FredCo International Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam FredCo International. Limited Offer!,https://nymbuscommerce.com/visit/23418/fredco-international-coupons,,,,
 Ad,Add,,Maia Homes,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Maia Homes Coupon Code,Best Maia Homes Coupons,Top Maia Homes Coupons,Get 55% Off Maia Homes,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Maia Homes coupon. All coupons verified,"With This Exclusive Maia Homes Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Maia Homes Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Maia Homes. Limited Offer!,https://nymbuscommerce.com/visit/23418/maia-homes-coupons,,,,
@@ -304,9 +304,9 @@ Sitelink,Add,,Blasters4Masters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog 
 Sitelink,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/klinio-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/klinio-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/klinio-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/crz-yoga-ca-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,www.freeskycycle.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/wwwfreeskycyclecom-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,www.freeskycycle.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/wwwfreeskycyclecom-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,www.freeskycycle.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/wwwfreeskycyclecom-coupons&2,Create new,Campaign,All Blog,
@@ -379,10 +379,10 @@ Callout,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate
 Callout,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Klinio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,CRZ YOGA - CA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,www.freeskycycle.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,www.freeskycycle.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,www.freeskycycle.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

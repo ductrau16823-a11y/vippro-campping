@@ -14,7 +14,7 @@ Campaign,Add,Paused,OFCASA,Search,Google search,10,Daily,Maximize clicks,en,2826
 Campaign,Add,Paused,iscooterglobalUK,Search,Google search,10,Daily,Maximize clicks,en,2826;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,KugooEU Scooter,Search,Google search,10,Daily,Maximize clicks,en,2250;2380;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Seinxon,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ASOROCK WATCHES Discover Africa's #1 leading,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Hycline Bike,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,VIVI,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2724,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,G-FORCE,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34,7 +34,7 @@ Ad group,Add,,OFCASA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,iscooterglobalUK,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,KugooEU Scooter,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Seinxon,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Hycline Bike,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,VIVI,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,G-FORCE,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -189,16 +189,16 @@ Keyword,Add,,Seinxon,,,,,,,,,AG-1,,Enabled,Coupon code Seinxon,Phrase match,,,,,
 Keyword,Add,,Seinxon,,,,,,,,,AG-1,,Enabled,Coupon code for Seinxon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Seinxon,,,,,,,,,AG-1,,Enabled,Coupon for Seinxon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Seinxon,,,,,,,,,AG-1,,Enabled,Promo code for Seinxon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,Promo code ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,Coupon ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,Coupon code ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,Coupon code for ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,Coupon for ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,Enabled,Promo code for ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,ASOROCK WATCHES Discover Africa's #1 leading promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,Promo code ASOROCK WATCHES Discover Africa's #1 leading,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,Coupon ASOROCK WATCHES Discover Africa's #1 leading,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,Coupon code ASOROCK WATCHES Discover Africa's #1 leading,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,Coupon code for ASOROCK WATCHES Discover Africa's #1 leading,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,Coupon for ASOROCK WATCHES Discover Africa's #1 leading,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,Enabled,Promo code for ASOROCK WATCHES Discover Africa's #1 leading,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Hycline Bike,,,,,,,,,AG-1,,Enabled,Hycline Bike coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Hycline Bike,,,,,,,,,AG-1,,Enabled,Hycline Bike coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Hycline Bike,,,,,,,,,AG-1,,Enabled,Hycline Bike promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -254,7 +254,7 @@ Ad,Add,,OFCASA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,OFCASA Coupon Code,B
 Ad,Add,,iscooterglobalUK,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,iscooterglobalUK Coupon Code,Best iscooterglobalUK Coupons,Top iscooterglobalUK Coupons,Get 55% Off iscooterglobalUK,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with iscooterglobalUK coupon. All coupons verified,"With This Exclusive iscooterglobalUK Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special iscooterglobalUK Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam iscooterglobalUK. Limited Offer!,https://nymbuscommerce.com/visit/23418/iscooterglobaluk-coupons,,,,
 Ad,Add,,KugooEU Scooter,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,KugooEU Scooter Coupon Code,Best KugooEU Scooter Coupons,Top KugooEU Scooter Coupons,Get 55% Off KugooEU Scooter,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with KugooEU Scooter coupon. All coupons verified,"With This Exclusive KugooEU Scooter Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special KugooEU Scooter Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam KugooEU Scooter. Limited Offer!,https://nymbuscommerce.com/visit/23418/kugooeu-scooter-coupons,,,,
 Ad,Add,,Seinxon,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Seinxon Coupon Code,Best Seinxon Coupons,Top Seinxon Coupons,Get 55% Off Seinxon,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Seinxon coupon. All coupons verified,"With This Exclusive Seinxon Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Seinxon Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Seinxon. Limited Offer!,https://nymbuscommerce.com/visit/23418/seinxon-coupons,,,,
-Ad,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save big with verified coupons. Updated daily for the best deals.,Get top promo codes and exclusive discounts. Tested and working.,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons,,,,
+Ad,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,55% Off ASOROCK WATCHES Discover Africa's #1 leading Coupons & Promo Codes 2025,Save big with verified coupons. Updated daily for the best deals.,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons,,,,
 Ad,Add,,Hycline Bike,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Hycline Bike Coupon Code,Best Hycline Bike Coupons,Top Hycline Bike Coupons,Get 55% Off Hycline Bike,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Hycline Bike coupon. All coupons verified,"With This Exclusive Hycline Bike Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Hycline Bike Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Hycline Bike. Limited Offer!,https://nymbuscommerce.com/visit/23418/hycline-bike-coupons,,,,
 Ad,Add,,VIVI,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,VIVI Coupon Code,Best VIVI Coupons,Top VIVI Coupons,Get 55% Off VIVI,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with VIVI coupon. All coupons verified,"With This Exclusive VIVI Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special VIVI Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam VIVI. Limited Offer!,https://nymbuscommerce.com/visit/23418/vivi-coupons,,,,
 Ad,Add,,G-FORCE,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,G-FORCE Coupon Code,Best G-FORCE Coupons,Top G-FORCE Coupons,Get 55% Off G-FORCE,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with G-FORCE coupon. All coupons verified,"With This Exclusive G-FORCE Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special G-FORCE Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam G-FORCE. Limited Offer!,https://nymbuscommerce.com/visit/23418/g-force-coupons,,,,
@@ -304,9 +304,9 @@ Sitelink,Add,,KugooEU Scooter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog c
 Sitelink,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/seinxon-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/seinxon-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/seinxon-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/asorock-watches-discover-africas-1-leading-luxury-watch-brand-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,Hycline Bike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hycline-bike-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Hycline Bike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hycline-bike-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Hycline Bike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hycline-bike-coupons&2,Create new,Campaign,All Blog,
@@ -379,10 +379,10 @@ Callout,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rat
 Callout,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Seinxon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading luxury watch brand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ASOROCK WATCHES Discover Africa's #1 leading,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,Hycline Bike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,Hycline Bike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Hycline Bike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
