@@ -68,11 +68,16 @@ RSA_MAX_DESCS = 4
 
 FALLBACK_HEADLINES = [
     'Top Coupons Today', 'Save Up To 55% Off', 'Verified Promo Codes',
-    'Exclusive Deals Here', 'Hot Discount Today',
+    'Exclusive Deals Here', 'Hot Discount Today', 'Official Promo Codes',
+    'Best Deals Online', 'Shop & Save Today', 'Limited Time Offers',
+    'Clearance Sale Now',
 ]
 FALLBACK_DESCS = [
     'Save big with verified coupons. Updated daily for the best deals.',
     'Get top promo codes and exclusive discounts. Tested and working.',
+    'Shop smart with hand-picked offers. Fresh codes added every day.',
+    'Unlock extra savings with trusted coupon codes. Fast and free to use.',
+    'Browse active deals from popular stores. All codes verified by our team.',
 ]
 
 # Google official headers (from downloaded templates)
@@ -164,13 +169,16 @@ def pick_rsa_texts(project, warnings):
     name = project['name']
     heads = [h for h in normalize_list(project.get('headlines', [])) if len(h) <= HEADLINE_MAX][:RSA_MAX_HEADLINES]
     descs = [d for d in normalize_list(project.get('descriptions', [])) if len(d) <= DESC_MAX][:RSA_MAX_DESCS]
+    # Fill headlines den min 5 (an toan hon min 3 cua Google)
+    target_heads = max(RSA_MIN_HEADLINES + 2, 5)
     for h in FALLBACK_HEADLINES:
-        if len(heads) >= RSA_MIN_HEADLINES:
+        if len(heads) >= target_heads:
             break
         if h not in heads:
             heads.append(h)
+    # Luon fill descs den MAX (4) de khong bao gio dinh loi "need at least 2 descriptions"
     for d in FALLBACK_DESCS:
-        if len(descs) >= RSA_MIN_DESCS:
+        if len(descs) >= RSA_MAX_DESCS:
             break
         if d not in descs:
             descs.append(d)
