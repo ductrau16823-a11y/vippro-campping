@@ -1,0 +1,401 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,ROCKSOLAR,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,LaneWoods Jewelry,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,AMADI Jewelry,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,EAMTI JEWELRY,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,WOpet,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,HICC Pet,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,SpeTool,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Peter Stone Jewelry,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Square Golf,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ATK Gaming Gear,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Organic Muscle Fitness Supplements,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,YESOUL,Search,Google search,10,Daily,Maximize clicks,en,2840;2036;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Vesta Fitness Store,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ZelusFitness,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Gloves.com,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Digital Zakka,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Ghost Boards,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Stronics,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ShapewearUSA.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ROCKSOLAR,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,AMADI Jewelry,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,WOpet,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,HICC Pet,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,SpeTool,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Square Golf,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ATK Gaming Gear,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,YESOUL,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Vesta Fitness Store,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ZelusFitness,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Gloves.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Digital Zakka,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Ghost Boards,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Stronics,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ShapewearUSA.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,ROCKSOLAR coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,ROCKSOLAR coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,ROCKSOLAR promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,ROCKSOLAR promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,Promo code ROCKSOLAR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,Coupon ROCKSOLAR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,Coupon code ROCKSOLAR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,Coupon code for ROCKSOLAR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,Coupon for ROCKSOLAR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKSOLAR,,,,,,,,,AG-1,,Enabled,Promo code for ROCKSOLAR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,LaneWoods Jewelry coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,LaneWoods Jewelry coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,LaneWoods Jewelry promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,LaneWoods Jewelry promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,Promo code LaneWoods Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,Coupon LaneWoods Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,Coupon code LaneWoods Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,Coupon code for LaneWoods Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,Coupon for LaneWoods Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,Enabled,Promo code for LaneWoods Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,AMADI Jewelry coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,AMADI Jewelry coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,AMADI Jewelry promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,AMADI Jewelry promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,Promo code AMADI Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,Coupon AMADI Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,Coupon code AMADI Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,Coupon code for AMADI Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,Coupon for AMADI Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AMADI Jewelry,,,,,,,,,AG-1,,Enabled,Promo code for AMADI Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,EAMTI JEWELRY coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,EAMTI JEWELRY coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,EAMTI JEWELRY promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,EAMTI JEWELRY promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,Promo code EAMTI JEWELRY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,Coupon EAMTI JEWELRY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,Coupon code EAMTI JEWELRY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,Coupon code for EAMTI JEWELRY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,Coupon for EAMTI JEWELRY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,Enabled,Promo code for EAMTI JEWELRY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,WOpet coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,WOpet coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,WOpet promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,WOpet promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,Promo code WOpet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,Coupon WOpet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,Coupon code WOpet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,Coupon code for WOpet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,Coupon for WOpet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WOpet,,,,,,,,,AG-1,,Enabled,Promo code for WOpet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,HICC Pet coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,HICC Pet coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,HICC Pet promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,HICC Pet promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,Promo code HICC Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,Coupon HICC Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,Coupon code HICC Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,Coupon code for HICC Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,Coupon for HICC Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HICC Pet,,,,,,,,,AG-1,,Enabled,Promo code for HICC Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,SpeTool coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,SpeTool coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,SpeTool promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,SpeTool promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,Promo code SpeTool,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,Coupon SpeTool,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,Coupon code SpeTool,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,Coupon code for SpeTool,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,Coupon for SpeTool,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SpeTool,,,,,,,,,AG-1,,Enabled,Promo code for SpeTool,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Peter Stone Jewelry coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Peter Stone Jewelry coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Peter Stone Jewelry promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Peter Stone Jewelry promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Promo code Peter Stone Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Coupon Peter Stone Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Coupon code Peter Stone Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Coupon code for Peter Stone Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Coupon for Peter Stone Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,Enabled,Promo code for Peter Stone Jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Square Golf coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Square Golf coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Square Golf promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Square Golf promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Promo code Square Golf,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Coupon Square Golf,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Coupon code Square Golf,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Coupon code for Square Golf,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Coupon for Square Golf,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Square Golf,,,,,,,,,AG-1,,Enabled,Promo code for Square Golf,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,ATK Gaming Gear coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,ATK Gaming Gear coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,ATK Gaming Gear promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,ATK Gaming Gear promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,Promo code ATK Gaming Gear,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,Coupon ATK Gaming Gear,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,Coupon code ATK Gaming Gear,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,Coupon code for ATK Gaming Gear,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,Coupon for ATK Gaming Gear,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,Enabled,Promo code for ATK Gaming Gear,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Organic Muscle Fitness Supplements coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Organic Muscle Fitness Supplements coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Organic Muscle Fitness Supplements promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Organic Muscle Fitness Supplements promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Promo code Organic Muscle Fitness Supplements,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Coupon Organic Muscle Fitness Supplements,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Coupon code Organic Muscle Fitness Supplements,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Coupon code for Organic Muscle Fitness Supplements,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Coupon for Organic Muscle Fitness Supplements,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,Enabled,Promo code for Organic Muscle Fitness Supplements,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,YESOUL coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,YESOUL coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,YESOUL promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,YESOUL promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,Promo code YESOUL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,Coupon YESOUL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,Coupon code YESOUL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,Coupon code for YESOUL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,Coupon for YESOUL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,YESOUL,,,,,,,,,AG-1,,Enabled,Promo code for YESOUL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Vesta Fitness Store coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Vesta Fitness Store coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Vesta Fitness Store promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Vesta Fitness Store promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Promo code Vesta Fitness Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Coupon Vesta Fitness Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Coupon code Vesta Fitness Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Coupon code for Vesta Fitness Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Coupon for Vesta Fitness Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,Enabled,Promo code for Vesta Fitness Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,ZelusFitness coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,ZelusFitness coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,ZelusFitness promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,ZelusFitness promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,Promo code ZelusFitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,Coupon ZelusFitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,Coupon code ZelusFitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,Coupon code for ZelusFitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,Coupon for ZelusFitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ZelusFitness,,,,,,,,,AG-1,,Enabled,Promo code for ZelusFitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android coupon",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android coupon code",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android promo code",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android promo",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Promo code Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Coupon Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Coupon code Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Coupon code for Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Coupon for Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,Enabled,"Promo code for Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Gloves.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Gloves.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Gloves.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Gloves.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Promo code Gloves.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Coupon Gloves.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Coupon code Gloves.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Coupon code for Gloves.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Coupon for Gloves.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gloves.com,,,,,,,,,AG-1,,Enabled,Promo code for Gloves.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Digital Zakka coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Digital Zakka coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Digital Zakka promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Digital Zakka promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Promo code Digital Zakka,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Coupon Digital Zakka,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Coupon code Digital Zakka,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Coupon code for Digital Zakka,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Coupon for Digital Zakka,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Digital Zakka,,,,,,,,,AG-1,,Enabled,Promo code for Digital Zakka,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Ghost Boards coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Ghost Boards coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Ghost Boards promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Ghost Boards promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Promo code Ghost Boards,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Coupon Ghost Boards,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Coupon code Ghost Boards,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Coupon code for Ghost Boards,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Coupon for Ghost Boards,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ghost Boards,,,,,,,,,AG-1,,Enabled,Promo code for Ghost Boards,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Stronics coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Stronics coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Stronics promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Stronics promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Promo code Stronics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Coupon Stronics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Coupon code Stronics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Coupon code for Stronics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Coupon for Stronics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stronics,,,,,,,,,AG-1,,Enabled,Promo code for Stronics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,ShapewearUSA.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,ShapewearUSA.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,ShapewearUSA.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,ShapewearUSA.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,Promo code ShapewearUSA.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,Coupon ShapewearUSA.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,Coupon code ShapewearUSA.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,Coupon code for ShapewearUSA.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,Coupon for ShapewearUSA.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,Enabled,Promo code for ShapewearUSA.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,ROCKSOLAR,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ROCKSOLAR Coupon Code,Best ROCKSOLAR Coupons,Top ROCKSOLAR Coupons,Get 55% Off ROCKSOLAR,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ROCKSOLAR coupon. All coupons verified,"With This Exclusive ROCKSOLAR Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ROCKSOLAR Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ROCKSOLAR. Limited Offer!,https://nymbuscommerce.com/visit/23418/rocksolar-coupons,,,,
+Ad,Add,,LaneWoods Jewelry,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,LaneWoods Jewelry Coupon Code,Best LaneWoods Jewelry Coupons,Top LaneWoods Jewelry Coupons,Get 55% Off LaneWoods Jewelry,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with LaneWoods Jewelry coupon. All coupons verified,"With This Exclusive LaneWoods Jewelry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special LaneWoods Jewelry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam LaneWoods Jewelry. Limited Offer!,https://nymbuscommerce.com/visit/23418/lanewoods-jewelry-coupons,,,,
+Ad,Add,,AMADI Jewelry,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,AMADI Jewelry Coupon Code,Best AMADI Jewelry Coupons,Top AMADI Jewelry Coupons,Get 55% Off AMADI Jewelry,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with AMADI Jewelry coupon. All coupons verified,"With This Exclusive AMADI Jewelry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special AMADI Jewelry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam AMADI Jewelry. Limited Offer!,https://nymbuscommerce.com/visit/23418/amadi-jewelry-coupons,,,,
+Ad,Add,,EAMTI JEWELRY,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,EAMTI JEWELRY Coupon Code,Best EAMTI JEWELRY Coupons,Top EAMTI JEWELRY Coupons,Get 55% Off EAMTI JEWELRY,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with EAMTI JEWELRY coupon. All coupons verified,"With This Exclusive EAMTI JEWELRY Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special EAMTI JEWELRY Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam EAMTI JEWELRY. Limited Offer!,https://nymbuscommerce.com/visit/23418/eamti-jewelry-coupons,,,,
+Ad,Add,,WOpet,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,WOpet Coupon Code,Best WOpet Coupons,Top WOpet Coupons,Get 55% Off WOpet,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with WOpet coupon. All coupons verified,"With This Exclusive WOpet Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special WOpet Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam WOpet. Limited Offer!,https://nymbuscommerce.com/visit/23418/wopet-coupons,,,,
+Ad,Add,,HICC Pet,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HICC Pet Coupon Code,Best HICC Pet Coupons,Top HICC Pet Coupons,Get 55% Off HICC Pet,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HICC Pet coupon. All coupons verified,"With This Exclusive HICC Pet Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HICC Pet Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HICC Pet. Limited Offer!,https://nymbuscommerce.com/visit/23418/hicc-pet-coupons,,,,
+Ad,Add,,SpeTool,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,SpeTool Coupon Code,Best SpeTool Coupons,Top SpeTool Coupons,Get 55% Off SpeTool,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with SpeTool coupon. All coupons verified,"With This Exclusive SpeTool Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special SpeTool Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam SpeTool. Limited Offer!,https://nymbuscommerce.com/visit/23418/spetool-coupons,,,,
+Ad,Add,,Peter Stone Jewelry,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Peter Stone Jewelry coupon. All coupons verified,"With This Exclusive Peter Stone Jewelry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Peter Stone Jewelry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Peter Stone Jewelry. Limited Offer!,https://nymbuscommerce.com/visit/23418/peter-stone-jewelry-coupons,,,,
+Ad,Add,,Square Golf,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Square Golf Coupon Code,Best Square Golf Coupons,Top Square Golf Coupons,Get 55% Off Square Golf,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Square Golf coupon. All coupons verified,"With This Exclusive Square Golf Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Square Golf Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Square Golf. Limited Offer!,https://nymbuscommerce.com/visit/23418/square-golf-coupons,,,,
+Ad,Add,,ATK Gaming Gear,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ATK Gaming Gear Coupon Code,Best ATK Gaming Gear Coupons,Top ATK Gaming Gear Coupons,Get 55% Off ATK Gaming Gear,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ATK Gaming Gear coupon. All coupons verified,"With This Exclusive ATK Gaming Gear Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ATK Gaming Gear Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ATK Gaming Gear. Limited Offer!,https://nymbuscommerce.com/visit/23418/atk-gaming-gear-coupons,,,,
+Ad,Add,,Organic Muscle Fitness Supplements,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,55% Off Organic Muscle Fitness Supplements Coupons & Promo Codes 2025,Apply these Organic Muscle Fitness Supplements Coupon At Checkout And Save. Tested Daily.,,,https://nymbuscommerce.com/visit/23418/organic-muscle-fitness-supplements-coupons,,,,
+Ad,Add,,YESOUL,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,YESOUL Coupon Code,Best YESOUL Coupons,Top YESOUL Coupons,Get 55% Off YESOUL,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with YESOUL coupon. All coupons verified,"With This Exclusive YESOUL Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special YESOUL Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam YESOUL. Limited Offer!,https://nymbuscommerce.com/visit/23418/yesoul-coupons,,,,
+Ad,Add,,Vesta Fitness Store,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Vesta Fitness Store coupon. All coupons verified,"With This Exclusive Vesta Fitness Store Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Vesta Fitness Store Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Vesta Fitness Store. Limited Offer!,https://nymbuscommerce.com/visit/23418/vesta-fitness-store-coupons,,,,
+Ad,Add,,ZelusFitness,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ZelusFitness Coupon Code,Best ZelusFitness Coupons,Top ZelusFitness Coupons,Get 55% Off ZelusFitness,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ZelusFitness coupon. All coupons verified,"With This Exclusive ZelusFitness Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ZelusFitness Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ZelusFitness. Limited Offer!,https://nymbuscommerce.com/visit/23418/zelusfitness-coupons,,,,
+Ad,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save big with verified coupons. Updated daily for the best deals.,Get top promo codes and exclusive discounts. Tested and working.,,,https://nymbuscommerce.com/visit/23418/keychron-wireless-mechanical-keyboards-for-mac-windows-and-android-coupons,,,,
+Ad,Add,,Gloves.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Gloves.com Coupon Code,Best Gloves.com Coupons,Top Gloves.com Coupons,Get 55% Off Gloves.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Gloves.com coupon. All coupons verified,"With This Exclusive Gloves.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Gloves.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Gloves.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/glovescom-coupons,,,,
+Ad,Add,,Digital Zakka,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Digital Zakka Coupon Code,Best Digital Zakka Coupons,Top Digital Zakka Coupons,Get 55% Off Digital Zakka,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Digital Zakka coupon. All coupons verified,"With This Exclusive Digital Zakka Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Digital Zakka Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Digital Zakka. Limited Offer!,https://nymbuscommerce.com/visit/23418/digital-zakka-coupons,,,,
+Ad,Add,,Ghost Boards,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Ghost Boards Coupon Code,Best Ghost Boards Coupons,Top Ghost Boards Coupons,Get 55% Off Ghost Boards,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Ghost Boards coupon. All coupons verified,"With This Exclusive Ghost Boards Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Ghost Boards Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Ghost Boards. Limited Offer!,https://nymbuscommerce.com/visit/23418/ghost-boards-coupons,,,,
+Ad,Add,,Stronics,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Stronics Coupon Code,Best Stronics Coupons,Top Stronics Coupons,Get 55% Off Stronics,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Stronics coupon. All coupons verified,"With This Exclusive Stronics Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Stronics Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Stronics. Limited Offer!,https://nymbuscommerce.com/visit/23418/stronics-coupons,,,,
+Ad,Add,,ShapewearUSA.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ShapewearUSA.com Coupon Code,Best ShapewearUSA.com Coupons,Top ShapewearUSA.com Coupons,Get 55% Off ShapewearUSA.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ShapewearUSA.com coupon. All coupons verified,"With This Exclusive ShapewearUSA.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ShapewearUSA.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ShapewearUSA.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/shapewearusacom-coupons,,,,
+Sitelink,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/rocksolar-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/rocksolar-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/rocksolar-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/lanewoods-jewelry-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/lanewoods-jewelry-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/lanewoods-jewelry-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/amadi-jewelry-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/amadi-jewelry-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/amadi-jewelry-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/eamti-jewelry-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/eamti-jewelry-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/eamti-jewelry-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/wopet-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/wopet-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/wopet-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hicc-pet-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hicc-pet-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hicc-pet-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/spetool-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/spetool-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/spetool-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/peter-stone-jewelry-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/peter-stone-jewelry-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/peter-stone-jewelry-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/square-golf-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/square-golf-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/square-golf-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/atk-gaming-gear-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/atk-gaming-gear-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/atk-gaming-gear-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/organic-muscle-fitness-supplements-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/organic-muscle-fitness-supplements-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/organic-muscle-fitness-supplements-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/yesoul-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/yesoul-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/yesoul-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/vesta-fitness-store-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/vesta-fitness-store-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/vesta-fitness-store-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/zelusfitness-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/zelusfitness-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/zelusfitness-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/keychron-wireless-mechanical-keyboards-for-mac-windows-and-android-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/keychron-wireless-mechanical-keyboards-for-mac-windows-and-android-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/keychron-wireless-mechanical-keyboards-for-mac-windows-and-android-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/glovescom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/glovescom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/glovescom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/digital-zakka-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/digital-zakka-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/digital-zakka-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ghost-boards-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ghost-boards-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ghost-boards-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/stronics-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/stronics-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/stronics-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/shapewearusacom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/shapewearusacom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/shapewearusacom-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ROCKSOLAR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,LaneWoods Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,AMADI Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,EAMTI JEWELRY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,WOpet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,HICC Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,SpeTool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Peter Stone Jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Square Golf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ATK Gaming Gear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Organic Muscle Fitness Supplements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,YESOUL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Vesta Fitness Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ZelusFitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,"Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Gloves.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Digital Zakka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Ghost Boards,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Stronics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ShapewearUSA.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

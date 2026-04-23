@@ -1,0 +1,401 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,Ausomstore,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,happyrunsports,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ROCKBROS,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,HARD'N'HEAVY,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,MEWCATS,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,RESINERS,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Felicegals,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Art of Paint by Numbers,Search,Google search,10,Daily,Maximize clicks,en,2840;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Engwe-bikes-EU,Search,Google search,10,Daily,Maximize clicks,en,2826;2840;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,The Newkits,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Al-Rashad Inc,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Boogzel Apparel,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Amir Oud Fragrance,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Earthworks Health,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,rarjsm,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,OrganoLinen,Search,Google search,10,Daily,Maximize clicks,en,2840;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Pizzello,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Scott Hawaii,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,KOCF.com - Car Parts,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Miss Mary's Mix,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Ausomstore,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,happyrunsports,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ROCKBROS,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,MEWCATS,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,RESINERS,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Felicegals,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,The Newkits,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Al-Rashad Inc,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Boogzel Apparel,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Earthworks Health,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,rarjsm,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,OrganoLinen,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Pizzello,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Scott Hawaii,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Miss Mary's Mix,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Promo code Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon code Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon code for Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon for Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Promo code for Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Promo code happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon code happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon code for happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon for happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Promo code for happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Promo code ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon code ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon code for ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon for ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Promo code for ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Promo code HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon code HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon code for HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon for HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Promo code for HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Promo code MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon code MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon code for MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon for MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Promo code for MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,RESINERS coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,RESINERS coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,RESINERS promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,RESINERS promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,Promo code RESINERS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,Coupon RESINERS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,Coupon code RESINERS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,Coupon code for RESINERS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,Coupon for RESINERS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,RESINERS,,,,,,,,,AG-1,,Enabled,Promo code for RESINERS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Felicegals coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Felicegals coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Felicegals promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Felicegals promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Promo code Felicegals,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Coupon Felicegals,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Coupon code Felicegals,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Coupon code for Felicegals,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Coupon for Felicegals,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Felicegals,,,,,,,,,AG-1,,Enabled,Promo code for Felicegals,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Art of Paint by Numbers coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Art of Paint by Numbers coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Art of Paint by Numbers promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Art of Paint by Numbers promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Promo code Art of Paint by Numbers,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Coupon Art of Paint by Numbers,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Coupon code Art of Paint by Numbers,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Coupon code for Art of Paint by Numbers,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Coupon for Art of Paint by Numbers,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,Enabled,Promo code for Art of Paint by Numbers,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Engwe-bikes-EU coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Engwe-bikes-EU coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Engwe-bikes-EU promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Engwe-bikes-EU promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Promo code Engwe-bikes-EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Coupon Engwe-bikes-EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Coupon code Engwe-bikes-EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Coupon code for Engwe-bikes-EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Coupon for Engwe-bikes-EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,Enabled,Promo code for Engwe-bikes-EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,The Newkits coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,The Newkits coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,The Newkits promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,The Newkits promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,Promo code The Newkits,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,Coupon The Newkits,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,Coupon code The Newkits,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,Coupon code for The Newkits,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,Coupon for The Newkits,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,The Newkits,,,,,,,,,AG-1,,Enabled,Promo code for The Newkits,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Al-Rashad Inc coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Al-Rashad Inc coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Al-Rashad Inc promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Al-Rashad Inc promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Promo code Al-Rashad Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Coupon Al-Rashad Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Coupon code Al-Rashad Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Coupon code for Al-Rashad Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Coupon for Al-Rashad Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,Enabled,Promo code for Al-Rashad Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Boogzel Apparel coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Boogzel Apparel coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Boogzel Apparel promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Boogzel Apparel promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Promo code Boogzel Apparel,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Coupon Boogzel Apparel,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Coupon code Boogzel Apparel,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Coupon code for Boogzel Apparel,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Coupon for Boogzel Apparel,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Boogzel Apparel,,,,,,,,,AG-1,,Enabled,Promo code for Boogzel Apparel,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Amir Oud Fragrance coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Amir Oud Fragrance coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Amir Oud Fragrance promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Amir Oud Fragrance promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Promo code Amir Oud Fragrance,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Coupon Amir Oud Fragrance,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Coupon code Amir Oud Fragrance,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Coupon code for Amir Oud Fragrance,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Coupon for Amir Oud Fragrance,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,Enabled,Promo code for Amir Oud Fragrance,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Earthworks Health coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Earthworks Health coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Earthworks Health promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Earthworks Health promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Promo code Earthworks Health,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Coupon Earthworks Health,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Coupon code Earthworks Health,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Coupon code for Earthworks Health,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Coupon for Earthworks Health,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Earthworks Health,,,,,,,,,AG-1,,Enabled,Promo code for Earthworks Health,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,rarjsm coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,rarjsm coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,rarjsm promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,rarjsm promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,Promo code rarjsm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,Coupon rarjsm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,Coupon code rarjsm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,Coupon code for rarjsm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,Coupon for rarjsm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,rarjsm,,,,,,,,,AG-1,,Enabled,Promo code for rarjsm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,OrganoLinen coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,OrganoLinen coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,OrganoLinen promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,OrganoLinen promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,Promo code OrganoLinen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,Coupon OrganoLinen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,Coupon code OrganoLinen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,Coupon code for OrganoLinen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,Coupon for OrganoLinen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,OrganoLinen,,,,,,,,,AG-1,,Enabled,Promo code for OrganoLinen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Pizzello coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Pizzello coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Pizzello promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Pizzello promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Promo code Pizzello,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Coupon Pizzello,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Coupon code Pizzello,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Coupon code for Pizzello,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Coupon for Pizzello,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pizzello,,,,,,,,,AG-1,,Enabled,Promo code for Pizzello,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Scott Hawaii coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Scott Hawaii coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Scott Hawaii promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Scott Hawaii promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Promo code Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon code Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon code for Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Coupon for Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scott Hawaii,,,,,,,,,AG-1,,Enabled,Promo code for Scott Hawaii,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,KOCF.com - Car Parts promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Promo code KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon code KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon code for KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Coupon for KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,Enabled,Promo code for KOCF.com - Car Parts,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Miss Mary's Mix promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Promo code Miss Mary's Mix,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Coupon Miss Mary's Mix,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Coupon code Miss Mary's Mix,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Coupon code for Miss Mary's Mix,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Coupon for Miss Mary's Mix,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,Enabled,Promo code for Miss Mary's Mix,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Ausomstore,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Ausomstore Coupon Code,Best Ausomstore Coupons,Top Ausomstore Coupons,Get 55% Off Ausomstore,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Ausomstore coupon. All coupons verified,"With This Exclusive Ausomstore Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Ausomstore Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Ausomstore. Limited Offer!,https://nymbuscommerce.com/visit/23418/ausomstore-coupons,,,,
+Ad,Add,,happyrunsports,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,happyrunsports Coupon Code,Best happyrunsports Coupons,Top happyrunsports Coupons,Get 55% Off happyrunsports,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with happyrunsports coupon. All coupons verified,"With This Exclusive happyrunsports Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special happyrunsports Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam happyrunsports. Limited Offer!,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons,,,,
+Ad,Add,,ROCKBROS,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ROCKBROS Coupon Code,Best ROCKBROS Coupons,Top ROCKBROS Coupons,Get 55% Off ROCKBROS,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ROCKBROS coupon. All coupons verified,"With This Exclusive ROCKBROS Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ROCKBROS Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ROCKBROS. Limited Offer!,https://nymbuscommerce.com/visit/23418/rockbros-coupons,,,,
+Ad,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HARD'N'HEAVY Coupon Code,Best HARD'N'HEAVY Coupons,Top HARD'N'HEAVY Coupons,Get 55% Off HARD'N'HEAVY,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HARD'N'HEAVY coupon. All coupons verified,"With This Exclusive HARD'N'HEAVY Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HARD'N'HEAVY Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HARD'N'HEAVY. Limited Offer!,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons,,,,
+Ad,Add,,MEWCATS,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MEWCATS Coupon Code,Best MEWCATS Coupons,Top MEWCATS Coupons,Get 55% Off MEWCATS,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MEWCATS coupon. All coupons verified,"With This Exclusive MEWCATS Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MEWCATS Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MEWCATS. Limited Offer!,https://nymbuscommerce.com/visit/23418/mewcats-coupons,,,,
+Ad,Add,,RESINERS,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,RESINERS Coupon Code,Best RESINERS Coupons,Top RESINERS Coupons,Get 55% Off RESINERS,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with RESINERS coupon. All coupons verified,"With This Exclusive RESINERS Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special RESINERS Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam RESINERS. Limited Offer!,https://nymbuscommerce.com/visit/23418/resiners-coupons,,,,
+Ad,Add,,Felicegals,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Felicegals Coupon Code,Best Felicegals Coupons,Top Felicegals Coupons,Get 55% Off Felicegals,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Felicegals coupon. All coupons verified,"With This Exclusive Felicegals Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Felicegals Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Felicegals. Limited Offer!,https://nymbuscommerce.com/visit/23418/felicegals-coupons,,,,
+Ad,Add,,Art of Paint by Numbers,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Art of Paint by Numbers coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Art of Paint by Numbers Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Art of Paint by Numbers. Limited Offer!,55% Off Art of Paint by Numbers Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/art-of-paint-by-numbers-coupons,,,,
+Ad,Add,,Engwe-bikes-EU,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Engwe-bikes-EU Coupon Code,Best Engwe-bikes-EU Coupons,Top Engwe-bikes-EU Coupons,Get 55% Off Engwe-bikes-EU,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Engwe-bikes-EU coupon. All coupons verified,"With This Exclusive Engwe-bikes-EU Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Engwe-bikes-EU Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Engwe-bikes-EU. Limited Offer!,https://nymbuscommerce.com/visit/23418/engwe-bikes-eu-coupons,,,,
+Ad,Add,,The Newkits,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,The Newkits Coupon Code,Best The Newkits Coupons,Top The Newkits Coupons,Get 55% Off The Newkits,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with The Newkits coupon. All coupons verified,"With This Exclusive The Newkits Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special The Newkits Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam The Newkits. Limited Offer!,https://nymbuscommerce.com/visit/23418/the-newkits-coupons,,,,
+Ad,Add,,Al-Rashad Inc,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Al-Rashad Inc Coupon Code,Best Al-Rashad Inc Coupons,Top Al-Rashad Inc Coupons,Get 55% Off Al-Rashad Inc,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Al-Rashad Inc coupon. All coupons verified,"With This Exclusive Al-Rashad Inc Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Al-Rashad Inc Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Al-Rashad Inc. Limited Offer!,https://nymbuscommerce.com/visit/23418/al-rashad-inc-coupons,,,,
+Ad,Add,,Boogzel Apparel,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Boogzel Apparel Coupon Code,Best Boogzel Apparel Coupons,Top Boogzel Apparel Coupons,Get 55% Off Boogzel Apparel,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Boogzel Apparel coupon. All coupons verified,"With This Exclusive Boogzel Apparel Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Boogzel Apparel Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Boogzel Apparel. Limited Offer!,https://nymbuscommerce.com/visit/23418/boogzel-apparel-coupons,,,,
+Ad,Add,,Amir Oud Fragrance,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Amir Oud Fragrance Coupon Code,Top Amir Oud Fragrance Coupons,Get 55% Off Amir Oud Fragrance,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,Save 55% Off on all products with Amir Oud Fragrance coupon. All coupons verified,"With This Exclusive Amir Oud Fragrance Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Amir Oud Fragrance Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Amir Oud Fragrance. Limited Offer!,https://nymbuscommerce.com/visit/23418/amir-oud-fragrance-coupons,,,,
+Ad,Add,,Earthworks Health,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Earthworks Health Coupon Code,Best Earthworks Health Coupons,Top Earthworks Health Coupons,Get 55% Off Earthworks Health,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Earthworks Health coupon. All coupons verified,"With This Exclusive Earthworks Health Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Earthworks Health Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Earthworks Health. Limited Offer!,https://nymbuscommerce.com/visit/23418/earthworks-health-coupons,,,,
+Ad,Add,,rarjsm,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,rarjsm Coupon Code,Best rarjsm Coupons,Top rarjsm Coupons,Get 55% Off rarjsm,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with rarjsm coupon. All coupons verified,"With This Exclusive rarjsm Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special rarjsm Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam rarjsm. Limited Offer!,https://nymbuscommerce.com/visit/23418/rarjsm-coupons,,,,
+Ad,Add,,OrganoLinen,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,OrganoLinen Coupon Code,Best OrganoLinen Coupons,Top OrganoLinen Coupons,Get 55% Off OrganoLinen,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with OrganoLinen coupon. All coupons verified,"With This Exclusive OrganoLinen Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special OrganoLinen Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam OrganoLinen. Limited Offer!,https://nymbuscommerce.com/visit/23418/organolinen-coupons,,,,
+Ad,Add,,Pizzello,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pizzello Coupon Code,Best Pizzello Coupons,Top Pizzello Coupons,Get 55% Off Pizzello,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pizzello coupon. All coupons verified,"With This Exclusive Pizzello Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pizzello Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pizzello. Limited Offer!,https://nymbuscommerce.com/visit/23418/pizzello-coupons,,,,
+Ad,Add,,Scott Hawaii,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Scott Hawaii Coupon Code,Best Scott Hawaii Coupons,Top Scott Hawaii Coupons,Get 55% Off Scott Hawaii,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Scott Hawaii coupon. All coupons verified,"With This Exclusive Scott Hawaii Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Scott Hawaii Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Scott Hawaii. Limited Offer!,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons,,,,
+Ad,Add,,KOCF.com - Car Parts,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with KOCF.com - Car Parts coupon. All coupons verified,"With This Exclusive KOCF.com - Car Parts Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special KOCF.com - Car Parts Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam KOCF.com - Car Parts. Limited Offer!,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons,,,,
+Ad,Add,,Miss Mary's Mix,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Miss Mary's Mix Coupon Code,Best Miss Mary's Mix Coupons,Top Miss Mary's Mix Coupons,Get 55% Off Miss Mary's Mix,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Miss Mary's Mix coupon. All coupons verified,"With This Exclusive Miss Mary's Mix Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Miss Mary's Mix Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Miss Mary's Mix. Limited Offer!,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons,,,,
+Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/rockbros-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/rockbros-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/rockbros-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/mewcats-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/mewcats-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/mewcats-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/resiners-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/resiners-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/resiners-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/felicegals-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/felicegals-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/felicegals-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/art-of-paint-by-numbers-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/art-of-paint-by-numbers-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/art-of-paint-by-numbers-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/engwe-bikes-eu-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/engwe-bikes-eu-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/engwe-bikes-eu-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/the-newkits-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/the-newkits-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/the-newkits-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/al-rashad-inc-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/al-rashad-inc-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/al-rashad-inc-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/boogzel-apparel-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/boogzel-apparel-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/boogzel-apparel-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/amir-oud-fragrance-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/amir-oud-fragrance-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/amir-oud-fragrance-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/earthworks-health-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/earthworks-health-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/earthworks-health-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/rarjsm-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/rarjsm-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/rarjsm-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/organolinen-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/organolinen-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/organolinen-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/pizzello-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/pizzello-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/pizzello-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/scott-hawaii-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/kocfcom-car-parts-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/miss-marys-mix-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,RESINERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Felicegals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Art of Paint by Numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Engwe-bikes-EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,The Newkits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Al-Rashad Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Boogzel Apparel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Amir Oud Fragrance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Earthworks Health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,rarjsm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,OrganoLinen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Pizzello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Scott Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,KOCF.com - Car Parts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Miss Mary's Mix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

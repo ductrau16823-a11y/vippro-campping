@@ -1,0 +1,401 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,Funwhole,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Happy Happy Houseplant,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Modlily,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Bentgo,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Easyship Ambassador Program,Search,Google search,10,Daily,Maximize clicks,en,2840;2036;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,UPERFECT,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,REDTOP,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Epic,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,VEVOR AU,Search,Google search,10,Daily,Maximize clicks,en,2036;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Maxi-Cosi,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Tribesigns,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,DHgate,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Parallels.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Muc-Off,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Pit Boss Grills,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Cariloha,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Focus Camera & Lifestyle by Focus,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Only Natural Pet,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Swagbucks,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Dutch Pet Inc.,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Funwhole,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Modlily,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Bentgo,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,UPERFECT,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,REDTOP,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Epic,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,VEVOR AU,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Maxi-Cosi,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Tribesigns,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,DHgate,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Parallels.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Muc-Off,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Pit Boss Grills,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Cariloha,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Only Natural Pet,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Swagbucks,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Funwhole coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Funwhole coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Funwhole promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Funwhole promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Promo code Funwhole,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Coupon Funwhole,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Coupon code Funwhole,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Coupon code for Funwhole,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Coupon for Funwhole,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Funwhole,,,,,,,,,AG-1,,Enabled,Promo code for Funwhole,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Happy Happy Houseplant coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Happy Happy Houseplant coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Happy Happy Houseplant promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Happy Happy Houseplant promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Promo code Happy Happy Houseplant,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Coupon Happy Happy Houseplant,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Coupon code Happy Happy Houseplant,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Coupon code for Happy Happy Houseplant,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Coupon for Happy Happy Houseplant,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,Enabled,Promo code for Happy Happy Houseplant,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Modlily coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Modlily coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Modlily promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Modlily promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Promo code Modlily,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Coupon Modlily,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Coupon code Modlily,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Coupon code for Modlily,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Coupon for Modlily,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Modlily,,,,,,,,,AG-1,,Enabled,Promo code for Modlily,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Bentgo coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Bentgo coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Bentgo promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Bentgo promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Promo code Bentgo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Coupon Bentgo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Coupon code Bentgo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Coupon code for Bentgo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Coupon for Bentgo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bentgo,,,,,,,,,AG-1,,Enabled,Promo code for Bentgo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Easyship Ambassador Program coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Easyship Ambassador Program coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Easyship Ambassador Program promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Easyship Ambassador Program promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Promo code Easyship Ambassador Program,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Coupon Easyship Ambassador Program,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Coupon code Easyship Ambassador Program,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Coupon code for Easyship Ambassador Program,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Coupon for Easyship Ambassador Program,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,Enabled,Promo code for Easyship Ambassador Program,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,UPERFECT coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,UPERFECT coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,UPERFECT promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,UPERFECT promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,Promo code UPERFECT,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,Coupon UPERFECT,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,Coupon code UPERFECT,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,Coupon code for UPERFECT,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,Coupon for UPERFECT,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,UPERFECT,,,,,,,,,AG-1,,Enabled,Promo code for UPERFECT,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,REDTOP coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,REDTOP coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,REDTOP promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,REDTOP promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,Promo code REDTOP,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,Coupon REDTOP,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,Coupon code REDTOP,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,Coupon code for REDTOP,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,Coupon for REDTOP,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,REDTOP,,,,,,,,,AG-1,,Enabled,Promo code for REDTOP,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Epic coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Epic coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Epic promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Epic promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Promo code Epic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Coupon Epic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Coupon code Epic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Coupon code for Epic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Coupon for Epic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Epic,,,,,,,,,AG-1,,Enabled,Promo code for Epic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,VEVOR AU coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,VEVOR AU coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,VEVOR AU promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,VEVOR AU promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,Promo code VEVOR AU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,Coupon VEVOR AU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,Coupon code VEVOR AU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,Coupon code for VEVOR AU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,Coupon for VEVOR AU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEVOR AU,,,,,,,,,AG-1,,Enabled,Promo code for VEVOR AU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Maxi-Cosi coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Maxi-Cosi coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Maxi-Cosi promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Maxi-Cosi promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Promo code Maxi-Cosi,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Coupon Maxi-Cosi,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Coupon code Maxi-Cosi,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Coupon code for Maxi-Cosi,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Coupon for Maxi-Cosi,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maxi-Cosi,,,,,,,,,AG-1,,Enabled,Promo code for Maxi-Cosi,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Tribesigns coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Tribesigns coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Tribesigns promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Tribesigns promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Promo code Tribesigns,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Coupon Tribesigns,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Coupon code Tribesigns,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Coupon code for Tribesigns,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Coupon for Tribesigns,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribesigns,,,,,,,,,AG-1,,Enabled,Promo code for Tribesigns,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,DHgate coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,DHgate coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,DHgate promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,DHgate promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,Promo code DHgate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,Coupon DHgate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,Coupon code DHgate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,Coupon code for DHgate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,Coupon for DHgate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DHgate,,,,,,,,,AG-1,,Enabled,Promo code for DHgate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Parallels.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Parallels.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Parallels.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Parallels.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Promo code Parallels.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Coupon Parallels.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Coupon code Parallels.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Coupon code for Parallels.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Coupon for Parallels.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Parallels.com,,,,,,,,,AG-1,,Enabled,Promo code for Parallels.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Muc-Off coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Muc-Off coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Muc-Off promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Muc-Off promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Promo code Muc-Off,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Coupon Muc-Off,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Coupon code Muc-Off,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Coupon code for Muc-Off,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Coupon for Muc-Off,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Muc-Off,,,,,,,,,AG-1,,Enabled,Promo code for Muc-Off,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Pit Boss Grills coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Pit Boss Grills coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Pit Boss Grills promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Pit Boss Grills promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Promo code Pit Boss Grills,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Coupon Pit Boss Grills,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Coupon code Pit Boss Grills,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Coupon code for Pit Boss Grills,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Coupon for Pit Boss Grills,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pit Boss Grills,,,,,,,,,AG-1,,Enabled,Promo code for Pit Boss Grills,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Cariloha coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Cariloha coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Cariloha promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Cariloha promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Promo code Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon code Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon code for Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon for Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Promo code for Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Promo code Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon code Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon code for Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon for Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Promo code for Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Promo code Only Natural Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Coupon Only Natural Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Coupon code Only Natural Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Coupon code for Only Natural Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Coupon for Only Natural Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Promo code for Only Natural Pet,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Swagbucks coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Swagbucks coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Swagbucks promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Swagbucks promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Promo code Swagbucks,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Coupon Swagbucks,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Coupon code Swagbucks,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Coupon code for Swagbucks,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Coupon for Swagbucks,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Swagbucks,,,,,,,,,AG-1,,Enabled,Promo code for Swagbucks,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Dutch Pet Inc. coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Dutch Pet Inc. coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Dutch Pet Inc. promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Dutch Pet Inc. promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Promo code Dutch Pet Inc.,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Coupon Dutch Pet Inc.,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Coupon code Dutch Pet Inc.,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Coupon code for Dutch Pet Inc.,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Coupon for Dutch Pet Inc.,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,Enabled,Promo code for Dutch Pet Inc.,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Funwhole,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Funwhole Coupon Code,Best Funwhole Coupons,Top Funwhole Coupons,Get 55% Off Funwhole,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Funwhole coupon. All coupons verified,"With This Exclusive Funwhole Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Funwhole Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Funwhole. Limited Offer!,https://nymbuscommerce.com/visit/23418/funwhole-coupons,,,,
+Ad,Add,,Happy Happy Houseplant,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Happy Happy Houseplant coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Happy Happy Houseplant Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Happy Happy Houseplant. Limited Offer!,55% Off Happy Happy Houseplant Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/happy-happy-houseplant-coupons,,,,
+Ad,Add,,Modlily,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Modlily Coupon Code,Best Modlily Coupons,Top Modlily Coupons,Get 55% Off Modlily,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Modlily coupon. All coupons verified,"With This Exclusive Modlily Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Modlily Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Modlily. Limited Offer!,https://nymbuscommerce.com/visit/23418/modlily-coupons,,,,
+Ad,Add,,Bentgo,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Bentgo Coupon Code,Best Bentgo Coupons,Top Bentgo Coupons,Get 55% Off Bentgo,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Bentgo coupon. All coupons verified,"With This Exclusive Bentgo Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Bentgo Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Bentgo. Limited Offer!,https://nymbuscommerce.com/visit/23418/bentgo-coupons,,,,
+Ad,Add,,Easyship Ambassador Program,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Easyship Ambassador Program coupon. All coupons verified,55% Off Easyship Ambassador Program Coupons & Promo Codes 2025,Apply these Easyship Ambassador Program Coupon At Checkout And Save. Tested Daily.,,https://nymbuscommerce.com/visit/23418/easyship-ambassador-program-coupons,,,,
+Ad,Add,,UPERFECT,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,UPERFECT Coupon Code,Best UPERFECT Coupons,Top UPERFECT Coupons,Get 55% Off UPERFECT,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with UPERFECT coupon. All coupons verified,"With This Exclusive UPERFECT Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special UPERFECT Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam UPERFECT. Limited Offer!,https://nymbuscommerce.com/visit/23418/uperfect-coupons,,,,
+Ad,Add,,REDTOP,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,REDTOP Coupon Code,Best REDTOP Coupons,Top REDTOP Coupons,Get 55% Off REDTOP,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with REDTOP coupon. All coupons verified,"With This Exclusive REDTOP Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special REDTOP Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam REDTOP. Limited Offer!,https://nymbuscommerce.com/visit/23418/redtop-coupons,,,,
+Ad,Add,,Epic,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Epic Coupon Code,Best Epic Coupons,Top Epic Coupons,Get 55% Off Epic,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Epic coupon. All coupons verified,"With This Exclusive Epic Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Epic Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Epic. Limited Offer!,https://nymbuscommerce.com/visit/23418/epic-coupons,,,,
+Ad,Add,,VEVOR AU,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,VEVOR AU Coupon Code,Best VEVOR AU Coupons,Top VEVOR AU Coupons,Get 55% Off VEVOR AU,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with VEVOR AU coupon. All coupons verified,"With This Exclusive VEVOR AU Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special VEVOR AU Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam VEVOR AU. Limited Offer!,https://nymbuscommerce.com/visit/23418/vevor-au-coupons,,,,
+Ad,Add,,Maxi-Cosi,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Maxi-Cosi Coupon Code,Best Maxi-Cosi Coupons,Top Maxi-Cosi Coupons,Get 55% Off Maxi-Cosi,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Maxi-Cosi coupon. All coupons verified,"With This Exclusive Maxi-Cosi Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Maxi-Cosi Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Maxi-Cosi. Limited Offer!,https://nymbuscommerce.com/visit/23418/maxi-cosi-coupons,,,,
+Ad,Add,,Tribesigns,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Tribesigns Coupon Code,Best Tribesigns Coupons,Top Tribesigns Coupons,Get 55% Off Tribesigns,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Tribesigns coupon. All coupons verified,"With This Exclusive Tribesigns Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Tribesigns Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Tribesigns. Limited Offer!,https://nymbuscommerce.com/visit/23418/tribesigns-coupons,,,,
+Ad,Add,,DHgate,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,DHgate Coupon Code,Best DHgate Coupons,Top DHgate Coupons,Get 55% Off DHgate,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with DHgate coupon. All coupons verified,"With This Exclusive DHgate Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special DHgate Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam DHgate. Limited Offer!,https://nymbuscommerce.com/visit/23418/dhgate-coupons,,,,
+Ad,Add,,Parallels.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Parallels.com Coupon Code,Best Parallels.com Coupons,Top Parallels.com Coupons,Get 55% Off Parallels.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Parallels.com coupon. All coupons verified,"With This Exclusive Parallels.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Parallels.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Parallels.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/parallelscom-coupons,,,,
+Ad,Add,,Muc-Off,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Muc-Off Coupon Code,Best Muc-Off Coupons,Top Muc-Off Coupons,Get 55% Off Muc-Off,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Muc-Off coupon. All coupons verified,"With This Exclusive Muc-Off Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Muc-Off Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Muc-Off. Limited Offer!,https://nymbuscommerce.com/visit/23418/muc-off-coupons,,,,
+Ad,Add,,Pit Boss Grills,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pit Boss Grills Coupon Code,Best Pit Boss Grills Coupons,Top Pit Boss Grills Coupons,Get 55% Off Pit Boss Grills,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pit Boss Grills coupon. All coupons verified,"With This Exclusive Pit Boss Grills Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pit Boss Grills Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pit Boss Grills. Limited Offer!,https://nymbuscommerce.com/visit/23418/pit-boss-grills-coupons,,,,
+Ad,Add,,Cariloha,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Cariloha Coupon Code,Best Cariloha Coupons,Top Cariloha Coupons,Get 55% Off Cariloha,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Cariloha coupon. All coupons verified,"With This Exclusive Cariloha Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Cariloha Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Cariloha. Limited Offer!,https://nymbuscommerce.com/visit/23418/cariloha-coupons,,,,
+Ad,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,55% Off Focus Camera & Lifestyle by Focus Coupons & Promo Codes 2025,Apply these Focus Camera & Lifestyle by Focus Coupon At Checkout And Save. Tested Daily.,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons,,,,
+Ad,Add,,Only Natural Pet,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Only Natural Pet Coupon Code,Best Only Natural Pet Coupons,Top Only Natural Pet Coupons,Get 55% Off Only Natural Pet,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Only Natural Pet coupon. All coupons verified,"With This Exclusive Only Natural Pet Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Only Natural Pet Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Only Natural Pet. Limited Offer!,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons,,,,
+Ad,Add,,Swagbucks,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Swagbucks Coupon Code,Best Swagbucks Coupons,Top Swagbucks Coupons,Get 55% Off Swagbucks,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Swagbucks coupon. All coupons verified,"With This Exclusive Swagbucks Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Swagbucks Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Swagbucks. Limited Offer!,https://nymbuscommerce.com/visit/23418/swagbucks-coupons,,,,
+Ad,Add,,Dutch Pet Inc.,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Dutch Pet Inc. Coupon Code,Best Dutch Pet Inc. Coupons,Top Dutch Pet Inc. Coupons,Get 55% Off Dutch Pet Inc.,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Dutch Pet Inc. coupon. All coupons verified,"With This Exclusive Dutch Pet Inc. Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Dutch Pet Inc. Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Dutch Pet Inc.. Limited Offer!,https://nymbuscommerce.com/visit/23418/dutch-pet-inc-coupons,,,,
+Sitelink,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/funwhole-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/funwhole-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/funwhole-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/happy-happy-houseplant-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/happy-happy-houseplant-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/happy-happy-houseplant-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/modlily-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/modlily-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/modlily-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/bentgo-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/bentgo-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/bentgo-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/easyship-ambassador-program-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/easyship-ambassador-program-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/easyship-ambassador-program-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/uperfect-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/uperfect-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/uperfect-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/redtop-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/redtop-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/redtop-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/epic-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/epic-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/epic-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/vevor-au-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/vevor-au-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/vevor-au-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/maxi-cosi-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/maxi-cosi-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/maxi-cosi-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/tribesigns-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/tribesigns-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/tribesigns-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/dhgate-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/dhgate-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/dhgate-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/parallelscom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/parallelscom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/parallelscom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/muc-off-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/muc-off-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/muc-off-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/pit-boss-grills-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/pit-boss-grills-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/pit-boss-grills-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/cariloha-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/cariloha-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/cariloha-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/swagbucks-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/swagbucks-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/swagbucks-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/dutch-pet-inc-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/dutch-pet-inc-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/dutch-pet-inc-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Funwhole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Happy Happy Houseplant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Modlily,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Bentgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Easyship Ambassador Program,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,UPERFECT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,REDTOP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Epic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,VEVOR AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Maxi-Cosi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Tribesigns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,DHgate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Parallels.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Muc-Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Swagbucks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Dutch Pet Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

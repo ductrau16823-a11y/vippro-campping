@@ -1,0 +1,401 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,HOVSCO,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,willwork jewelry,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Capra Leather,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,My Steampunk Style,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,VEGEGA,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Trak Racer EU,Search,Google search,10,Daily,Maximize clicks,en,2276;2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,CharCharms,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Scarlet Darkness,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Vetiver Aromatics,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ROLL-ROAD,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ipowerqueen,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Loose Grown Diamond,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,DesignFormal,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,beecoolbikes.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,odinlake,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ihoverboarduk,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Freego USA,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,iSinwheel.co.uk,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Autelpilot,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,TheHushShop.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,HOVSCO,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,willwork jewelry,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Capra Leather,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,My Steampunk Style,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,VEGEGA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Trak Racer EU,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CharCharms,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Scarlet Darkness,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Vetiver Aromatics,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ROLL-ROAD,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ipowerqueen,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Loose Grown Diamond,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,DesignFormal,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,beecoolbikes.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,odinlake,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ihoverboarduk,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Freego USA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Autelpilot,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,TheHushShop.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,HOVSCO coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,HOVSCO coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,HOVSCO promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,HOVSCO promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,Promo code HOVSCO,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,Coupon HOVSCO,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,Coupon code HOVSCO,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,Coupon code for HOVSCO,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,Coupon for HOVSCO,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HOVSCO,,,,,,,,,AG-1,,Enabled,Promo code for HOVSCO,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,willwork jewelry coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,willwork jewelry coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,willwork jewelry promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,willwork jewelry promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,Promo code willwork jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,Coupon willwork jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,Coupon code willwork jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,Coupon code for willwork jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,Coupon for willwork jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,willwork jewelry,,,,,,,,,AG-1,,Enabled,Promo code for willwork jewelry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Capra Leather coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Capra Leather coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Capra Leather promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Capra Leather promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Promo code Capra Leather,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Coupon Capra Leather,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Coupon code Capra Leather,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Coupon code for Capra Leather,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Coupon for Capra Leather,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Capra Leather,,,,,,,,,AG-1,,Enabled,Promo code for Capra Leather,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,My Steampunk Style coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,My Steampunk Style coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,My Steampunk Style promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,My Steampunk Style promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,Promo code My Steampunk Style,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,Coupon My Steampunk Style,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,Coupon code My Steampunk Style,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,Coupon code for My Steampunk Style,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,Coupon for My Steampunk Style,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,My Steampunk Style,,,,,,,,,AG-1,,Enabled,Promo code for My Steampunk Style,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,VEGEGA coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,VEGEGA coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,VEGEGA promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,VEGEGA promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,Promo code VEGEGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,Coupon VEGEGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,Coupon code VEGEGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,Coupon code for VEGEGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,Coupon for VEGEGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,VEGEGA,,,,,,,,,AG-1,,Enabled,Promo code for VEGEGA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Trak Racer EU coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Trak Racer EU coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Trak Racer EU promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Trak Racer EU promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Promo code Trak Racer EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Coupon Trak Racer EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Coupon code Trak Racer EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Coupon code for Trak Racer EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Coupon for Trak Racer EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trak Racer EU,,,,,,,,,AG-1,,Enabled,Promo code for Trak Racer EU,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,CharCharms coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,CharCharms coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,CharCharms promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,CharCharms promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,Promo code CharCharms,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,Coupon CharCharms,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,Coupon code CharCharms,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,Coupon code for CharCharms,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,Coupon for CharCharms,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CharCharms,,,,,,,,,AG-1,,Enabled,Promo code for CharCharms,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Scarlet Darkness coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Scarlet Darkness coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Scarlet Darkness promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Scarlet Darkness promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Promo code Scarlet Darkness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Coupon Scarlet Darkness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Coupon code Scarlet Darkness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Coupon code for Scarlet Darkness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Coupon for Scarlet Darkness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Scarlet Darkness,,,,,,,,,AG-1,,Enabled,Promo code for Scarlet Darkness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Vetiver Aromatics coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Vetiver Aromatics coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Vetiver Aromatics promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Vetiver Aromatics promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Promo code Vetiver Aromatics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Coupon Vetiver Aromatics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Coupon code Vetiver Aromatics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Coupon code for Vetiver Aromatics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Coupon for Vetiver Aromatics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,Enabled,Promo code for Vetiver Aromatics,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,ROLL-ROAD coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,ROLL-ROAD coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,ROLL-ROAD promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,ROLL-ROAD promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,Promo code ROLL-ROAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,Coupon ROLL-ROAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,Coupon code ROLL-ROAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,Coupon code for ROLL-ROAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,Coupon for ROLL-ROAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROLL-ROAD,,,,,,,,,AG-1,,Enabled,Promo code for ROLL-ROAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,ipowerqueen coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,ipowerqueen coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,ipowerqueen promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,ipowerqueen promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,Promo code ipowerqueen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,Coupon ipowerqueen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,Coupon code ipowerqueen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,Coupon code for ipowerqueen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,Coupon for ipowerqueen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ipowerqueen,,,,,,,,,AG-1,,Enabled,Promo code for ipowerqueen,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Loose Grown Diamond coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Loose Grown Diamond coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Loose Grown Diamond promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Loose Grown Diamond promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Promo code Loose Grown Diamond,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Coupon Loose Grown Diamond,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Coupon code Loose Grown Diamond,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Coupon code for Loose Grown Diamond,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Coupon for Loose Grown Diamond,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,Enabled,Promo code for Loose Grown Diamond,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,DesignFormal coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,DesignFormal coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,DesignFormal promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,DesignFormal promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,Promo code DesignFormal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,Coupon DesignFormal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,Coupon code DesignFormal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,Coupon code for DesignFormal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,Coupon for DesignFormal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DesignFormal,,,,,,,,,AG-1,,Enabled,Promo code for DesignFormal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,beecoolbikes.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,beecoolbikes.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,beecoolbikes.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,beecoolbikes.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,Promo code beecoolbikes.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,Coupon beecoolbikes.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,Coupon code beecoolbikes.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,Coupon code for beecoolbikes.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,Coupon for beecoolbikes.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,beecoolbikes.com,,,,,,,,,AG-1,,Enabled,Promo code for beecoolbikes.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,odinlake coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,odinlake coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,odinlake promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,odinlake promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,Promo code odinlake,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,Coupon odinlake,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,Coupon code odinlake,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,Coupon code for odinlake,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,Coupon for odinlake,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,odinlake,,,,,,,,,AG-1,,Enabled,Promo code for odinlake,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,ihoverboarduk coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,ihoverboarduk coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,ihoverboarduk promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,ihoverboarduk promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,Promo code ihoverboarduk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,Coupon ihoverboarduk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,Coupon code ihoverboarduk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,Coupon code for ihoverboarduk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,Coupon for ihoverboarduk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ihoverboarduk,,,,,,,,,AG-1,,Enabled,Promo code for ihoverboarduk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Freego USA coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Freego USA coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Freego USA promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Freego USA promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Promo code Freego USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Coupon Freego USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Coupon code Freego USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Coupon code for Freego USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Coupon for Freego USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Freego USA,,,,,,,,,AG-1,,Enabled,Promo code for Freego USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,iSinwheel.co.uk coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,iSinwheel.co.uk coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,iSinwheel.co.uk promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,iSinwheel.co.uk promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,Promo code iSinwheel.co.uk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,Coupon iSinwheel.co.uk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,Coupon code iSinwheel.co.uk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,Coupon code for iSinwheel.co.uk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,Coupon for iSinwheel.co.uk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,Enabled,Promo code for iSinwheel.co.uk,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Autelpilot coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Autelpilot coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Autelpilot promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Autelpilot promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Promo code Autelpilot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Coupon Autelpilot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Coupon code Autelpilot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Coupon code for Autelpilot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Coupon for Autelpilot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Autelpilot,,,,,,,,,AG-1,,Enabled,Promo code for Autelpilot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,TheHushShop.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,TheHushShop.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,TheHushShop.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,TheHushShop.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,Promo code TheHushShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,Coupon TheHushShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,Coupon code TheHushShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,Coupon code for TheHushShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,Coupon for TheHushShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheHushShop.com,,,,,,,,,AG-1,,Enabled,Promo code for TheHushShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,HOVSCO,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HOVSCO Coupon Code,Best HOVSCO Coupons,Top HOVSCO Coupons,Get 55% Off HOVSCO,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HOVSCO coupon. All coupons verified,"With This Exclusive HOVSCO Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HOVSCO Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HOVSCO. Limited Offer!,https://nymbuscommerce.com/visit/23418/hovsco-coupons,,,,
+Ad,Add,,willwork jewelry,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,willwork jewelry Coupon Code,Best willwork jewelry Coupons,Top willwork jewelry Coupons,Get 55% Off willwork jewelry,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with willwork jewelry coupon. All coupons verified,"With This Exclusive willwork jewelry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special willwork jewelry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam willwork jewelry. Limited Offer!,https://nymbuscommerce.com/visit/23418/willwork-jewelry-coupons,,,,
+Ad,Add,,Capra Leather,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Capra Leather Coupon Code,Best Capra Leather Coupons,Top Capra Leather Coupons,Get 55% Off Capra Leather,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Capra Leather coupon. All coupons verified,"With This Exclusive Capra Leather Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Capra Leather Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Capra Leather. Limited Offer!,https://nymbuscommerce.com/visit/23418/capra-leather-coupons,,,,
+Ad,Add,,My Steampunk Style,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,My Steampunk Style Coupon Code,Top My Steampunk Style Coupons,Get 55% Off My Steampunk Style,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,Save 55% Off on all products with My Steampunk Style coupon. All coupons verified,"With This Exclusive My Steampunk Style Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special My Steampunk Style Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam My Steampunk Style. Limited Offer!,https://nymbuscommerce.com/visit/23418/my-steampunk-style-coupons,,,,
+Ad,Add,,VEGEGA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,VEGEGA Coupon Code,Best VEGEGA Coupons,Top VEGEGA Coupons,Get 55% Off VEGEGA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with VEGEGA coupon. All coupons verified,"With This Exclusive VEGEGA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special VEGEGA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam VEGEGA. Limited Offer!,https://nymbuscommerce.com/visit/23418/vegega-coupons,,,,
+Ad,Add,,Trak Racer EU,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Trak Racer EU Coupon Code,Best Trak Racer EU Coupons,Top Trak Racer EU Coupons,Get 55% Off Trak Racer EU,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Trak Racer EU coupon. All coupons verified,"With This Exclusive Trak Racer EU Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Trak Racer EU Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Trak Racer EU. Limited Offer!,https://nymbuscommerce.com/visit/23418/trak-racer-eu-coupons,,,,
+Ad,Add,,CharCharms,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CharCharms Coupon Code,Best CharCharms Coupons,Top CharCharms Coupons,Get 55% Off CharCharms,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CharCharms coupon. All coupons verified,"With This Exclusive CharCharms Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CharCharms Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CharCharms. Limited Offer!,https://nymbuscommerce.com/visit/23418/charcharms-coupons,,,,
+Ad,Add,,Scarlet Darkness,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Scarlet Darkness Coupon Code,Best Scarlet Darkness Coupons,Top Scarlet Darkness Coupons,Get 55% Off Scarlet Darkness,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Scarlet Darkness coupon. All coupons verified,"With This Exclusive Scarlet Darkness Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Scarlet Darkness Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Scarlet Darkness. Limited Offer!,https://nymbuscommerce.com/visit/23418/scarlet-darkness-coupons,,,,
+Ad,Add,,Vetiver Aromatics,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Vetiver Aromatics Coupon Code,Best Vetiver Aromatics Coupons,Top Vetiver Aromatics Coupons,Get 55% Off Vetiver Aromatics,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Vetiver Aromatics coupon. All coupons verified,"With This Exclusive Vetiver Aromatics Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Vetiver Aromatics Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Vetiver Aromatics. Limited Offer!,https://nymbuscommerce.com/visit/23418/vetiver-aromatics-coupons,,,,
+Ad,Add,,ROLL-ROAD,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ROLL-ROAD Coupon Code,Best ROLL-ROAD Coupons,Top ROLL-ROAD Coupons,Get 55% Off ROLL-ROAD,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ROLL-ROAD coupon. All coupons verified,"With This Exclusive ROLL-ROAD Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ROLL-ROAD Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ROLL-ROAD. Limited Offer!,https://nymbuscommerce.com/visit/23418/roll-road-coupons,,,,
+Ad,Add,,ipowerqueen,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ipowerqueen Coupon Code,Best ipowerqueen Coupons,Top ipowerqueen Coupons,Get 55% Off ipowerqueen,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ipowerqueen coupon. All coupons verified,"With This Exclusive ipowerqueen Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ipowerqueen Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ipowerqueen. Limited Offer!,https://nymbuscommerce.com/visit/23418/ipowerqueen-coupons,,,,
+Ad,Add,,Loose Grown Diamond,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,,,,Save 55% Off on all products with Loose Grown Diamond coupon. All coupons verified,"With This Exclusive Loose Grown Diamond Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Loose Grown Diamond Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Loose Grown Diamond. Limited Offer!,https://nymbuscommerce.com/visit/23418/loose-grown-diamond-coupons,,,,
+Ad,Add,,DesignFormal,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,DesignFormal Coupon Code,Best DesignFormal Coupons,Top DesignFormal Coupons,Get 55% Off DesignFormal,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with DesignFormal coupon. All coupons verified,"With This Exclusive DesignFormal Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special DesignFormal Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam DesignFormal. Limited Offer!,https://nymbuscommerce.com/visit/23418/designformal-coupons,,,,
+Ad,Add,,beecoolbikes.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,beecoolbikes.com Coupon Code,Best beecoolbikes.com Coupons,Top beecoolbikes.com Coupons,Get 55% Off beecoolbikes.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with beecoolbikes.com coupon. All coupons verified,"With This Exclusive beecoolbikes.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special beecoolbikes.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam beecoolbikes.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/beecoolbikescom-coupons,,,,
+Ad,Add,,odinlake,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,odinlake Coupon Code,Best odinlake Coupons,Top odinlake Coupons,Get 55% Off odinlake,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with odinlake coupon. All coupons verified,"With This Exclusive odinlake Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special odinlake Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam odinlake. Limited Offer!,https://nymbuscommerce.com/visit/23418/odinlake-coupons,,,,
+Ad,Add,,ihoverboarduk,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ihoverboarduk Coupon Code,Best ihoverboarduk Coupons,Top ihoverboarduk Coupons,Get 55% Off ihoverboarduk,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ihoverboarduk coupon. All coupons verified,"With This Exclusive ihoverboarduk Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ihoverboarduk Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ihoverboarduk. Limited Offer!,https://nymbuscommerce.com/visit/23418/ihoverboarduk-coupons,,,,
+Ad,Add,,Freego USA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Freego USA Coupon Code,Best Freego USA Coupons,Top Freego USA Coupons,Get 55% Off Freego USA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Freego USA coupon. All coupons verified,"With This Exclusive Freego USA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Freego USA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Freego USA. Limited Offer!,https://nymbuscommerce.com/visit/23418/freego-usa-coupons,,,,
+Ad,Add,,iSinwheel.co.uk,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,iSinwheel.co.uk Coupon Code,Best iSinwheel.co.uk Coupons,Top iSinwheel.co.uk Coupons,Get 55% Off iSinwheel.co.uk,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with iSinwheel.co.uk coupon. All coupons verified,"With This Exclusive iSinwheel.co.uk Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special iSinwheel.co.uk Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam iSinwheel.co.uk. Limited Offer!,https://nymbuscommerce.com/visit/23418/isinwheelcouk-coupons,,,,
+Ad,Add,,Autelpilot,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Autelpilot Coupon Code,Best Autelpilot Coupons,Top Autelpilot Coupons,Get 55% Off Autelpilot,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Autelpilot coupon. All coupons verified,"With This Exclusive Autelpilot Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Autelpilot Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Autelpilot. Limited Offer!,https://nymbuscommerce.com/visit/23418/autelpilot-coupons,,,,
+Ad,Add,,TheHushShop.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,TheHushShop.com Coupon Code,Best TheHushShop.com Coupons,Top TheHushShop.com Coupons,Get 55% Off TheHushShop.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with TheHushShop.com coupon. All coupons verified,"With This Exclusive TheHushShop.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special TheHushShop.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam TheHushShop.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/thehushshopcom-coupons,,,,
+Sitelink,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hovsco-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hovsco-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hovsco-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/willwork-jewelry-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/willwork-jewelry-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/willwork-jewelry-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/capra-leather-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/capra-leather-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/capra-leather-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/my-steampunk-style-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/my-steampunk-style-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/my-steampunk-style-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/vegega-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/vegega-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/vegega-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/trak-racer-eu-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/trak-racer-eu-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/trak-racer-eu-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/charcharms-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/charcharms-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/charcharms-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/scarlet-darkness-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/scarlet-darkness-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/scarlet-darkness-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/vetiver-aromatics-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/vetiver-aromatics-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/vetiver-aromatics-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/roll-road-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/roll-road-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/roll-road-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ipowerqueen-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ipowerqueen-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ipowerqueen-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/loose-grown-diamond-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/loose-grown-diamond-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/loose-grown-diamond-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/designformal-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/designformal-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/designformal-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/beecoolbikescom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/beecoolbikescom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/beecoolbikescom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/odinlake-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/odinlake-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/odinlake-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ihoverboarduk-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ihoverboarduk-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ihoverboarduk-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/freego-usa-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/freego-usa-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/freego-usa-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/isinwheelcouk-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/isinwheelcouk-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/isinwheelcouk-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/autelpilot-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/autelpilot-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/autelpilot-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/thehushshopcom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/thehushshopcom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/thehushshopcom-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,HOVSCO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,willwork jewelry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Capra Leather,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,My Steampunk Style,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,VEGEGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Trak Racer EU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CharCharms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Scarlet Darkness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Vetiver Aromatics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ROLL-ROAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ipowerqueen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Loose Grown Diamond,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,DesignFormal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,beecoolbikes.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,odinlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ihoverboarduk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Freego USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,iSinwheel.co.uk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Autelpilot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,TheHushShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
