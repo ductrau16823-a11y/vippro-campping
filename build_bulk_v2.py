@@ -127,11 +127,10 @@ def sanitize_name(raw):
     """Cat ten camp truoc '/', '|', '-' phan mo ta dau tien, gioi han 6 tu, strip ky tu dac biet cuoi."""
     if not raw:
         return raw
-    # Cat tai dau phan cach dau tien
-    for sep in ('/', '|', ' - ', ' — '):
+    # Cat tai MOI separator tuan tu (khong break) — tranh truong hop con ',' hoac '|' trong ten
+    for sep in (',', '/', '|', ' - ', ' — '):
         if sep in raw:
             raw = raw.split(sep)[0].strip()
-            break
     words = raw.split()
     if len(words) > MAX_NAME_WORDS:
         words = words[:MAX_NAME_WORDS]
