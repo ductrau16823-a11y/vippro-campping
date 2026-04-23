@@ -71,7 +71,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import requests
 from genlogin_api import start_profile, get_debugger_address, connect_selenium, get_browser_version, resolve_profile_id
 from db_helpers import _connect
-from camp_google_ads_v3 import CampaignCreator
+from camp_google_ads_v3_sitelinks import CampaignCreator
 from status_tracker import StatusTracker
 
 DASHBOARD_API = "http://localhost:3000/api"
@@ -553,6 +553,12 @@ def run_single_account(acc, config):
             "final_url": config.get("link1", ""),
             "headlines": [h.strip() for h in (config.get("headlines") or "").split("|") if h.strip()],
             "descriptions": [d.strip() for d in (config.get("descriptions") or "").split("|") if d.strip()],
+            # Sitelinks: 4 truong / 1 sitelink (text|url|desc1|desc2) noi tiep qua |
+            "sitelinks": (lambda parts: [
+                {"text": parts[i], "url": parts[i + 1], "desc1": parts[i + 2], "desc2": parts[i + 3]}
+                for i in range(0, len(parts) - (len(parts) % 4), 4)
+            ])([p.strip() for p in (config.get("sitelinks") or "").split("|")]),
+            "callouts": [c.strip() for c in (config.get("callouts") or "").split("|") if c.strip()],
             # Targeting
             "target_locations": [l.strip() for l in (config.get("targetLocations") or "").split("|") if l.strip()],
             "exclude_locations": [l.strip() for l in (config.get("excludeLocations") or "").split("|") if l.strip()],

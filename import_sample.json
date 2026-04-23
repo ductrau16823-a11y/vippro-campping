@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Camp Nội Thất 1",
+    "campaignType": "Search",
+    "link1": "https://example.com",
+    "link2": "",
+    "adsKey": [
+      "nội thất cao cấp",
+      "sofa da thật",
+      "bàn ghế gỗ óc chó"
+    ],
+    "bidding": "Tối đa lượt nhấn chuột",
+    "cpc": "",
+    "budget": "5",
+    "targetLocations": ["Việt Nam"],
+    "excludeLocations": [],
+    "devices": ["Di động", "Máy tính", "Máy tính bảng"],
+    "ageRange": ["25-34", "35-44", "45-54"],
+    "gender": "Tất cả",
+    "headlines": [
+      "Nội Thất Cao Cấp",
+      "Giảm 30% Hôm Nay",
+      "Miễn Phí Vận Chuyển",
+      "Bảo Hành 5 Năm",
+      "Showroom Toàn Quốc"
+    ],
+    "descriptions": [
+      "Chất lượng cao, bảo hành trọn đời, giao hàng toàn quốc.",
+      "Showroom 1000m2, hơn 500 mẫu mã, tư vấn miễn phí."
+    ],
+    "sitelinks": [
+      {"text": "Về chúng tôi", "url": "https://example.com/about", "desc1": "Uy tín 10 năm", "desc2": "Hơn 1000 khách hàng"},
+      {"text": "Sản phẩm",     "url": "https://example.com/products", "desc1": "500+ mẫu mã", "desc2": "Cập nhật hàng tuần"},
+      {"text": "Liên hệ",       "url": "https://example.com/contact", "desc1": "Hotline 24/7",  "desc2": "Tư vấn miễn phí"},
+      {"text": "Khuyến mãi",    "url": "https://example.com/sale", "desc1": "Giảm đến 50%",   "desc2": "Chỉ trong tháng này"}
+    ],
+    "callouts": [
+      "Miễn phí giao hàng",
+      "Bảo hành chính hãng",
+      "Hỗ trợ 24/7",
+      "Giá tốt nhất thị trường"
+    ],
+    "status": "running",
+    "notes": "Camp chính sản phẩm sofa"
+  },
+  {
+    "name": "Camp Ví Dụ 2 — dùng chuỗi pipe (style B, ngắn gọn)",
+    "campaignType": "Search",
+    "link1": "https://example2.com",
+    "adsKey": "keyword 1|keyword 2|keyword 3",
+    "bidding": "Tối đa lượt nhấn chuột",
+    "budget": "10",
+    "targetLocations": "Hà Nội|Hồ Chí Minh",
+    "excludeLocations": "",
+    "devices": "Di động|Máy tính",
+    "ageRange": "18-24|25-34",
+    "gender": "Nam",
+    "headlines": "Tiêu đề 1|Tiêu đề 2|Tiêu đề 3",
+    "descriptions": "Mô tả 1|Mô tả 2",
+    "sitelinks": "Về chúng tôi|https://example2.com/about|Uy tín|Bảo hành|Liên hệ|https://example2.com/contact|Hotline 24/7|Tư vấn miễn phí",
+    "callouts": "Giao nhanh|Uy tín|Bảo hành",
+    "status": "running",
+    "notes": ""
+  }
+]

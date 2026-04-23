@@ -1,0 +1,101 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,Ausomstore,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,happyrunsports,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ROCKBROS,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,HARD'N'HEAVY,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,MEWCATS,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Ausomstore,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,happyrunsports,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ROCKBROS,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,MEWCATS,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Ausomstore promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Promo code Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon code Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon code for Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Coupon for Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ausomstore,,,,,,,,,AG-1,,Enabled,Promo code for Ausomstore,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,happyrunsports promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Promo code happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon code happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon code for happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Coupon for happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,happyrunsports,,,,,,,,,AG-1,,Enabled,Promo code for happyrunsports,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,ROCKBROS promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Promo code ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon code ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon code for ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Coupon for ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ROCKBROS,,,,,,,,,AG-1,,Enabled,Promo code for ROCKBROS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,HARD'N'HEAVY promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Promo code HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon code HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon code for HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Coupon for HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,Enabled,Promo code for HARD'N'HEAVY,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,MEWCATS promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Promo code MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon code MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon code for MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Coupon for MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MEWCATS,,,,,,,,,AG-1,,Enabled,Promo code for MEWCATS,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Ausomstore,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Ausomstore Coupon Code,Best Ausomstore Coupons,Top Ausomstore Coupons,Get 55% Off Ausomstore,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Ausomstore coupon. All coupons verified,"With This Exclusive Ausomstore Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Ausomstore Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Ausomstore. Limited Offer!,https://nymbuscommerce.com/visit/23418/ausomstore-coupons,,,,
+Ad,Add,,happyrunsports,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,happyrunsports Coupon Code,Best happyrunsports Coupons,Top happyrunsports Coupons,Get 55% Off happyrunsports,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with happyrunsports coupon. All coupons verified,"With This Exclusive happyrunsports Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special happyrunsports Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam happyrunsports. Limited Offer!,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons,,,,
+Ad,Add,,ROCKBROS,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ROCKBROS Coupon Code,Best ROCKBROS Coupons,Top ROCKBROS Coupons,Get 55% Off ROCKBROS,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ROCKBROS coupon. All coupons verified,"With This Exclusive ROCKBROS Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ROCKBROS Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ROCKBROS. Limited Offer!,https://nymbuscommerce.com/visit/23418/rockbros-coupons,,,,
+Ad,Add,,HARD'N'HEAVY,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HARD'N'HEAVY Coupon Code,Best HARD'N'HEAVY Coupons,Top HARD'N'HEAVY Coupons,Get 55% Off HARD'N'HEAVY,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HARD'N'HEAVY coupon. All coupons verified,"With This Exclusive HARD'N'HEAVY Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HARD'N'HEAVY Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HARD'N'HEAVY. Limited Offer!,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons,,,,
+Ad,Add,,MEWCATS,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MEWCATS Coupon Code,Best MEWCATS Coupons,Top MEWCATS Coupons,Get 55% Off MEWCATS,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MEWCATS coupon. All coupons verified,"With This Exclusive MEWCATS Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MEWCATS Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MEWCATS. Limited Offer!,https://nymbuscommerce.com/visit/23418/mewcats-coupons,,,,
+Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ausomstore-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/happyrunsports-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/rockbros-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/rockbros-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/rockbros-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hardnheavy-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/mewcats-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/mewcats-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/mewcats-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Ausomstore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,happyrunsports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ROCKBROS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,HARD'N'HEAVY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,MEWCATS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
