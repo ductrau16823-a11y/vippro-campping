@@ -6,7 +6,7 @@ Campaign,Add,Paused,7or9,Search,Google search,10,Daily,Maximize clicks,en,2840;2
 Campaign,Add,Paused,Belledorm,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Vaporesso Store,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Sambas the Bambas,Search,Google search,10,Daily,Maximize clicks,en,2250;2724,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,CURVD&reg;,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,CURVD,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Afobrick,Search,Google search,10,Daily,Maximize clicks,en,2276;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Eyebrow Queen Pro,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,ISOMERSLAB.NET,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -26,7 +26,7 @@ Ad group,Add,,7or9,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Belledorm,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Vaporesso Store,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Sambas the Bambas,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,CURVD&reg;,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CURVD,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Afobrick,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -109,16 +109,16 @@ Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon code Sambas the Bamb
 Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon code for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Promo code for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,CURVD&reg; coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,CURVD&reg; coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,CURVD&reg; promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,CURVD&reg; promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,Promo code CURVD&reg;,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,Coupon CURVD&reg;,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,Coupon code CURVD&reg;,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,Coupon code for CURVD&reg;,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,Coupon for CURVD&reg;,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD&reg;,,,,,,,,,AG-1,,Enabled,Promo code for CURVD&reg;,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Promo code CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon code CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon code for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Promo code for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -246,7 +246,7 @@ Ad,Add,,7or9,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,7or9 Coupon Code,Best 
 Ad,Add,,Belledorm,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Belledorm Coupon Code,Best Belledorm Coupons,Top Belledorm Coupons,Get 55% Off Belledorm,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Belledorm coupon. All coupons verified,"With This Exclusive Belledorm Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Belledorm Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Belledorm. Limited Offer!,https://nymbuscommerce.com/visit/23418/belledorm-coupons,,,,
 Ad,Add,,Vaporesso Store,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Vaporesso Store Coupon Code,Best Vaporesso Store Coupons,Top Vaporesso Store Coupons,Get 55% Off Vaporesso Store,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Vaporesso Store coupon. All coupons verified,"With This Exclusive Vaporesso Store Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Vaporesso Store Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Vaporesso Store. Limited Offer!,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons,,,,
 Ad,Add,,Sambas the Bambas,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Sambas the Bambas Coupon Code,Best Sambas the Bambas Coupons,Top Sambas the Bambas Coupons,Get 55% Off Sambas the Bambas,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Sambas the Bambas coupon. All coupons verified,"With This Exclusive Sambas the Bambas Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Sambas the Bambas Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Sambas the Bambas. Limited Offer!,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons,,,,
-Ad,Add,,CURVD&reg;,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CURVD&reg; Coupon Code,Best CURVD&reg; Coupons,Top CURVD&reg; Coupons,Get 55% Off CURVD&reg;,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CURVD&reg; coupon. All coupons verified,"With This Exclusive CURVD&reg; Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CURVD&reg; Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CURVD&reg;. Limited Offer!,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,,,,
+Ad,Add,,CURVD,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CURVD Coupon Code,Best CURVD Coupons,Top CURVD Coupons,Get 55% Off CURVD,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CURVD coupon. All coupons verified,"With This Exclusive CURVD Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CURVD Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CURVD. Limited Offer!,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,,,,
 Ad,Add,,Afobrick,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Afobrick Coupon Code,Best Afobrick Coupons,Top Afobrick Coupons,Get 55% Off Afobrick,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Afobrick coupon. All coupons verified,"With This Exclusive Afobrick Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Afobrick Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Afobrick. Limited Offer!,https://nymbuscommerce.com/visit/23418/afobrick-coupons,,,,
 Ad,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Eyebrow Queen Pro Coupon Code,Best Eyebrow Queen Pro Coupons,Top Eyebrow Queen Pro Coupons,Get 55% Off Eyebrow Queen Pro,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Eyebrow Queen Pro coupon. All coupons verified,"With This Exclusive Eyebrow Queen Pro Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Eyebrow Queen Pro Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Eyebrow Queen Pro. Limited Offer!,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons,,,,
 Ad,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ISOMERSLAB.NET Coupon Code,Best ISOMERSLAB.NET Coupons,Top ISOMERSLAB.NET Coupons,Get 55% Off ISOMERSLAB.NET,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ISOMERSLAB.NET coupon. All coupons verified,"With This Exclusive ISOMERSLAB.NET Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ISOMERSLAB.NET Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ISOMERSLAB.NET. Limited Offer!,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons,,,,
@@ -280,9 +280,9 @@ Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog c
 Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons&2,Create new,Campaign,All Blog,
@@ -347,10 +347,10 @@ Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Cam
 Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,CURVD&reg;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

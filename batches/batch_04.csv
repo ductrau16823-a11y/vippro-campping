@@ -15,7 +15,7 @@ Campaign,Add,Paused,Parallels.com,Search,Google search,10,Daily,Maximize clicks,
 Campaign,Add,Paused,Muc-Off,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Pit Boss Grills,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Cariloha,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Focus Camera & Lifestyle by Focus,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Focus Camera Lifestyle by Focus,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Only Natural Pet,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Swagbucks,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Dutch Pet Inc,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -35,7 +35,7 @@ Ad group,Add,,Parallels.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Muc-Off,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Pit Boss Grills,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Cariloha,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Only Natural Pet,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Swagbucks,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Dutch Pet Inc,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -199,16 +199,16 @@ Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon code Cariloha,Phrase match,,,
 Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon code for Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Coupon for Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Cariloha,,,,,,,,,AG-1,,Enabled,Promo code for Cariloha,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera & Lifestyle by Focus promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Promo code Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon code Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon code for Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon for Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Promo code for Focus Camera & Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera Lifestyle by Focus coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera Lifestyle by Focus coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera Lifestyle by Focus promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Focus Camera Lifestyle by Focus promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Promo code Focus Camera Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon Focus Camera Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon code Focus Camera Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon code for Focus Camera Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Coupon for Focus Camera Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,Enabled,Promo code for Focus Camera Lifestyle by Focus,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Only Natural Pet,,,,,,,,,AG-1,,Enabled,Only Natural Pet promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -255,7 +255,7 @@ Ad,Add,,Parallels.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Parallels.com
 Ad,Add,,Muc-Off,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Muc-Off Coupon Code,Best Muc-Off Coupons,Top Muc-Off Coupons,Get 55% Off Muc-Off,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Muc-Off coupon. All coupons verified,"With This Exclusive Muc-Off Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Muc-Off Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Muc-Off. Limited Offer!,https://nymbuscommerce.com/visit/23418/muc-off-coupons,,,,
 Ad,Add,,Pit Boss Grills,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pit Boss Grills Coupon Code,Best Pit Boss Grills Coupons,Top Pit Boss Grills Coupons,Get 55% Off Pit Boss Grills,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pit Boss Grills coupon. All coupons verified,"With This Exclusive Pit Boss Grills Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pit Boss Grills Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pit Boss Grills. Limited Offer!,https://nymbuscommerce.com/visit/23418/pit-boss-grills-coupons,,,,
 Ad,Add,,Cariloha,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Cariloha Coupon Code,Best Cariloha Coupons,Top Cariloha Coupons,Get 55% Off Cariloha,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Cariloha coupon. All coupons verified,"With This Exclusive Cariloha Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Cariloha Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Cariloha. Limited Offer!,https://nymbuscommerce.com/visit/23418/cariloha-coupons,,,,
-Ad,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,55% Off Focus Camera & Lifestyle by Focus Coupons & Promo Codes 2025,Apply these Focus Camera & Lifestyle by Focus Coupon At Checkout And Save. Tested Daily.,Save big with verified coupons. Updated daily for the best deals.,Get top promo codes and exclusive discounts. Tested and working.,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons,,,,
+Ad,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,55% Off Focus Camera Lifestyle by Focus Coupons & Promo Codes 2025,Apply these Focus Camera Lifestyle by Focus Coupon At Checkout And Save. Tested Daily.,Save big with verified coupons. Updated daily for the best deals.,Get top promo codes and exclusive discounts. Tested and working.,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons,,,,
 Ad,Add,,Only Natural Pet,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Only Natural Pet Coupon Code,Best Only Natural Pet Coupons,Top Only Natural Pet Coupons,Get 55% Off Only Natural Pet,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Only Natural Pet coupon. All coupons verified,"With This Exclusive Only Natural Pet Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Only Natural Pet Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Only Natural Pet. Limited Offer!,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons,,,,
 Ad,Add,,Swagbucks,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Swagbucks Coupon Code,Best Swagbucks Coupons,Top Swagbucks Coupons,Get 55% Off Swagbucks,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Swagbucks coupon. All coupons verified,"With This Exclusive Swagbucks Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Swagbucks Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Swagbucks. Limited Offer!,https://nymbuscommerce.com/visit/23418/swagbucks-coupons,,,,
 Ad,Add,,Dutch Pet Inc,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Dutch Pet Inc Coupon Code,Best Dutch Pet Inc Coupons,Top Dutch Pet Inc Coupons,Get 55% Off Dutch Pet Inc,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Dutch Pet Inc coupon. All coupons verified,"With This Exclusive Dutch Pet Inc Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Dutch Pet Inc Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Dutch Pet Inc. Limited Offer!,https://nymbuscommerce.com/visit/23418/dutch-pet-inc-coupons,,,,
@@ -307,9 +307,9 @@ Sitelink,Add,,Pit Boss Grills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog c
 Sitelink,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/cariloha-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/cariloha-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/cariloha-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/focus-camera-lifestyle-by-focus-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/only-natural-pet-coupons&2,Create new,Campaign,All Blog,
@@ -383,10 +383,10 @@ Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Ra
 Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Cariloha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Focus Camera & Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Focus Camera Lifestyle by Focus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Only Natural Pet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

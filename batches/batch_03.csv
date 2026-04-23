@@ -6,7 +6,7 @@ Campaign,Add,Paused,Redmagic,Search,Google search,10,Daily,Maximize clicks,en,28
 Campaign,Add,Paused,Govee,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,DiscoverCars,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Geekbuying,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Italiarail [CPS] Many GEOs,Search,Google search,10,Daily,Maximize clicks,en,2840;2380;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Italiarail CPS Many GEOs,Search,Google search,10,Daily,Maximize clicks,en,2840;2380;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Linsoul Audio,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Yeslak Tesla Accessories,Search,Google search,10,Daily,Maximize clicks,en,2840;2724;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Maono,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -26,7 +26,7 @@ Ad group,Add,,Redmagic,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Govee,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,DiscoverCars,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Geekbuying,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Linsoul Audio,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Maono,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -109,16 +109,16 @@ Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon code Geekbuying,Phrase matc
 Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon code for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Promo code for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail [CPS] Many GEOs coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail [CPS] Many GEOs coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail [CPS] Many GEOs promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail [CPS] Many GEOs promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Promo code Italiarail [CPS] Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon Italiarail [CPS] Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon code Italiarail [CPS] Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon code for Italiarail [CPS] Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon for Italiarail [CPS] Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,Enabled,Promo code for Italiarail [CPS] Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Promo code Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon code Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon code for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Promo code for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -246,7 +246,7 @@ Ad,Add,,Redmagic,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Redmagic Coupon Co
 Ad,Add,,Govee,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Govee Coupon Code,Best Govee Coupons,Top Govee Coupons,Get 55% Off Govee,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Govee coupon. All coupons verified,"With This Exclusive Govee Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Govee Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Govee. Limited Offer!,https://nymbuscommerce.com/visit/23418/govee-coupons,,,,
 Ad,Add,,DiscoverCars,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,DiscoverCars Coupon Code,Best DiscoverCars Coupons,Top DiscoverCars Coupons,Get 55% Off DiscoverCars,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with DiscoverCars coupon. All coupons verified,"With This Exclusive DiscoverCars Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special DiscoverCars Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam DiscoverCars. Limited Offer!,https://nymbuscommerce.com/visit/23418/discovercars-coupons,,,,
 Ad,Add,,Geekbuying,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Geekbuying Coupon Code,Best Geekbuying Coupons,Top Geekbuying Coupons,Get 55% Off Geekbuying,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Geekbuying coupon. All coupons verified,"With This Exclusive Geekbuying Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Geekbuying Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Geekbuying. Limited Offer!,https://nymbuscommerce.com/visit/23418/geekbuying-coupons,,,,
-Ad,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Italiarail [CPS] Many GEOs coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Italiarail [CPS] Many GEOs. Limited Offer!,55% Off Italiarail [CPS] Many GEOs Coupons & Promo Codes 2025,Apply these Italiarail [CPS] Many GEOs Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,,,,
+Ad,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Italiarail CPS Many GEOs coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Italiarail CPS Many GEOs. Limited Offer!,55% Off Italiarail CPS Many GEOs Coupons & Promo Codes 2025,Apply these Italiarail CPS Many GEOs Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,,,,
 Ad,Add,,Linsoul Audio,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Linsoul Audio Coupon Code,Best Linsoul Audio Coupons,Top Linsoul Audio Coupons,Get 55% Off Linsoul Audio,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Linsoul Audio coupon. All coupons verified,"With This Exclusive Linsoul Audio Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Linsoul Audio Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Linsoul Audio. Limited Offer!,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons,,,,
 Ad,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Yeslak Tesla Accessories coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Yeslak Tesla Accessories. Limited Offer!,55% Off Yeslak Tesla Accessories Coupons & Promo Codes 2025,Apply these Yeslak Tesla Accessories Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons,,,,
 Ad,Add,,Maono,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Maono Coupon Code,Best Maono Coupons,Top Maono Coupons,Get 55% Off Maono,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Maono coupon. All coupons verified,"With This Exclusive Maono Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Maono Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Maono. Limited Offer!,https://nymbuscommerce.com/visit/23418/maono-coupons,,,,
@@ -280,9 +280,9 @@ Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coup
 Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons&2,Create new,Campaign,All Blog,
@@ -347,10 +347,10 @@ Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,
 Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Italiarail [CPS] Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

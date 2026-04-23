@@ -14,7 +14,7 @@ Campaign,Add,Paused,zChocolat.com,Search,Google search,10,Daily,Maximize clicks,
 Campaign,Add,Paused,GreaterGood,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,FragranceShop.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Diecast,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Click & Grow,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Click Grow,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,CarmelLimo.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Synergee Canada,Search,Google search,10,Daily,Maximize clicks,en,2124;2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Campaign,Add,Paused,Synergeefitness,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -34,7 +34,7 @@ Ad group,Add,,zChocolat.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,GreaterGood,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,FragranceShop.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Diecast,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Click & Grow,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Click Grow,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,CarmelLimo.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Synergee Canada,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ad group,Add,,Synergeefitness,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -189,16 +189,16 @@ Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon code Diecast,Phrase match,,,,,
 Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon code for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Promo code for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Click & Grow coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Click & Grow coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Click & Grow promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Click & Grow promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Promo code Click & Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Coupon Click & Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Coupon code Click & Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Coupon code for Click & Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Coupon for Click & Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click & Grow,,,,,,,,,AG-1,,Enabled,Promo code for Click & Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Promo code Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon code Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon code for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Promo code for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
 Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -254,7 +254,7 @@ Ad,Add,,zChocolat.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,zChocolat.com
 Ad,Add,,GreaterGood,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GreaterGood Coupon Code,Best GreaterGood Coupons,Top GreaterGood Coupons,Get 55% Off GreaterGood,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GreaterGood coupon. All coupons verified,"With This Exclusive GreaterGood Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GreaterGood Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GreaterGood. Limited Offer!,https://nymbuscommerce.com/visit/23418/greatergood-coupons,,,,
 Ad,Add,,FragranceShop.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,FragranceShop.com Coupon Code,Best FragranceShop.com Coupons,Top FragranceShop.com Coupons,Get 55% Off FragranceShop.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with FragranceShop.com coupon. All coupons verified,"With This Exclusive FragranceShop.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special FragranceShop.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam FragranceShop.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons,,,,
 Ad,Add,,Diecast,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Diecast Coupon Code,Best Diecast Coupons,Top Diecast Coupons,Get 55% Off Diecast,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Diecast coupon. All coupons verified,"With This Exclusive Diecast Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Diecast Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Diecast. Limited Offer!,https://nymbuscommerce.com/visit/23418/diecast-coupons,,,,
-Ad,Add,,Click & Grow,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Click & Grow Coupon Code,Best Click & Grow Coupons,Top Click & Grow Coupons,Get 55% Off Click & Grow,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Click & Grow coupon. All coupons verified,"With This Exclusive Click & Grow Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Click & Grow Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Click & Grow. Limited Offer!,https://nymbuscommerce.com/visit/23418/click-grow-coupons,,,,
+Ad,Add,,Click Grow,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Click Grow Coupon Code,Best Click Grow Coupons,Top Click Grow Coupons,Get 55% Off Click Grow,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Click Grow coupon. All coupons verified,"With This Exclusive Click Grow Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Click Grow Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Click Grow. Limited Offer!,https://nymbuscommerce.com/visit/23418/click-grow-coupons,,,,
 Ad,Add,,CarmelLimo.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CarmelLimo.com Coupon Code,Best CarmelLimo.com Coupons,Top CarmelLimo.com Coupons,Get 55% Off CarmelLimo.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CarmelLimo.com coupon. All coupons verified,"With This Exclusive CarmelLimo.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CarmelLimo.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CarmelLimo.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons,,,,
 Ad,Add,,Synergee Canada,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Synergee Canada Coupon Code,Best Synergee Canada Coupons,Top Synergee Canada Coupons,Get 55% Off Synergee Canada,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Synergee Canada coupon. All coupons verified,"With This Exclusive Synergee Canada Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Synergee Canada Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Synergee Canada. Limited Offer!,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons,,,,
 Ad,Add,,Synergeefitness,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Synergeefitness Coupon Code,Best Synergeefitness Coupons,Top Synergeefitness Coupons,Get 55% Off Synergeefitness,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Synergeefitness coupon. All coupons verified,"With This Exclusive Synergeefitness Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Synergeefitness Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Synergeefitness. Limited Offer!,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons,,,,
@@ -304,9 +304,9 @@ Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog
 Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/diecast-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/diecast-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/diecast-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&2,Create new,Campaign,All Blog,
 Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons&1,Create new,Campaign,Today's Top Coupon,
 Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons,Create new,Campaign,Best Deals Of The Days,
 Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons&2,Create new,Campaign,All Blog,
@@ -379,10 +379,10 @@ Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rat
 Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
 Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Click & Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
 Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
 Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
 Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified

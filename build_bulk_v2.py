@@ -24,6 +24,8 @@ Usage:
 import json
 import csv
 import argparse
+import html
+import re
 import sys
 from pathlib import Path
 
@@ -122,21 +124,30 @@ def normalize_list(val):
 
 MAX_NAME_WORDS = 6
 
+# Google Ads reject keyword chua cac ky tu dac biet. Chi giu ASCII chu/so/space + . - _ '
+# HTML entity (&reg; &trade; &copy; &amp;) cung phai decode va strip — vi chua '&' va ';'
+_SAFE_NAME_RE = re.compile(r"[^A-Za-z0-9 .\-_']+")
+
 
 def sanitize_name(raw):
-    """Cat ten camp truoc '/', '|', '-' phan mo ta dau tien, gioi han 6 tu, strip ky tu dac biet cuoi."""
+    """Cat ten camp truoc separator, decode HTML entity, strip ky tu dac biet, gioi han 6 tu."""
     if not raw:
         return raw
-    # Cat tai MOI separator tuan tu (khong break) — tranh truong hop con ',' hoac '|' trong ten
+    # 1. Decode HTML entity: &reg; -> ®, &amp; -> &, &trade; -> ™ ...
+    raw = html.unescape(raw)
+    # 2. Cat tai MOI separator tuan tu (khong break) — tranh truong hop con ',' hoac '|' trong ten
     for sep in (',', '/', '|', ' - ', ' — '):
         if sep in raw:
             raw = raw.split(sep)[0].strip()
+    # 3. Strip ky tu khong phai ASCII chu/so + space + . - _ ' (loai bo ® ™ © & ; @ # % * ! ? [] {} () ...)
+    raw = _SAFE_NAME_RE.sub(' ', raw)
+    # 4. Gioi han so tu
     words = raw.split()
     if len(words) > MAX_NAME_WORDS:
         words = words[:MAX_NAME_WORDS]
     name = ' '.join(words).strip()
-    # Strip ky tu rac cuoi (dau cach, comma, pipe, ampersand, hash, hash number...)
-    return name.rstrip(' ,|&#:.-').strip()
+    # 5. Strip ky tu rac cuoi
+    return name.rstrip(" ,|&#:.-_'").strip()
 
 
 def sanitize_project(p):
