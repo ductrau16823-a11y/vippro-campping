@@ -85,9 +85,13 @@ FALLBACK_DESCS = [
 # Google official headers (from downloaded templates)
 CAMPAIGN_HEADERS = [
     'Action', 'Campaign status', 'Campaign', 'Campaign type', 'Networks',
-    'Budget', 'Budget type', 'Bid strategy type', 'Language', 'Location',
+    'Budget', 'Budget type', 'Bid strategy type', 'Maximum CPC bid limit',
+    'Language', 'Location',
     'EU political ads',
 ]
+
+# Default Max CPC bid limit cho Maximize Clicks (USD). Override qua project['maxCpcLimit'] neu can.
+DEFAULT_MAX_CPC = '0.40'
 
 AD_GROUP_HEADERS = [
     'Action', 'Campaign', 'Ad group', 'Status',
@@ -220,6 +224,9 @@ def build_campaign_row(p, warnings):
     r['Budget'] = budget
     r['Budget type'] = 'Daily'
     r['Bid strategy type'] = bidding_en
+    # Max CPC bid limit: chi ap dung voi Maximize Clicks / Target spend
+    if bidding_en == 'Maximize clicks':
+        r['Maximum CPC bid limit'] = str(p.get('maxCpcLimit') or DEFAULT_MAX_CPC)
     r['Language'] = 'en'
     r['Location'] = ';'.join(loc_ids)
     r['EU political ads'] = 'No'
@@ -321,7 +328,8 @@ def write_csv(path, headers, rows):
 UNION_HEADERS = [
     'Row Type',
     'Action', 'Campaign status', 'Campaign', 'Campaign type', 'Networks',
-    'Budget', 'Budget type', 'Bid strategy type', 'Language', 'Location',
+    'Budget', 'Budget type', 'Bid strategy type', 'Maximum CPC bid limit',
+    'Language', 'Location',
     'EU political ads',
     'Ad group', 'Status',
     'Keyword status', 'Keyword', 'Match Type',
@@ -470,7 +478,8 @@ def main():
         'Row Type',
         # campaign cols
         'Action', 'Campaign status', 'Campaign', 'Campaign type', 'Networks',
-        'Budget', 'Budget type', 'Bid strategy type', 'Language', 'Location',
+        'Budget', 'Budget type', 'Bid strategy type', 'Maximum CPC bid limit',
+        'Language', 'Location',
         'EU political ads',
         # ad group cols
         'Ad group', 'Status',

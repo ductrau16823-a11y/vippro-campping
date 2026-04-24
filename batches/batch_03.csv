@@ -1,401 +1,401 @@
-﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
-Campaign,Add,Paused,Hampstead Tea,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Michu Australia,Search,Google search,10,Daily,Maximize clicks,en,2036;2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,MidtownUmbrellas.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Redmagic,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Govee,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,DiscoverCars,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Geekbuying,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Italiarail CPS Many GEOs,Search,Google search,10,Daily,Maximize clicks,en,2840;2380;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Linsoul Audio,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Yeslak Tesla Accessories,Search,Google search,10,Daily,Maximize clicks,en,2840;2724;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Maono,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Trampoline Parts and Supply,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,SwitchBot,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Oojo,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,MFI Medical,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,HealthLabs.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Amotopart Fairing Creator Recruitment,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Eufy,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,FLEXTAIL,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Flower Knows,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Hampstead Tea,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Michu Australia,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Redmagic,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Govee,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,DiscoverCars,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Geekbuying,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Linsoul Audio,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Maono,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,SwitchBot,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Oojo,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,MFI Medical,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,HealthLabs.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Eufy,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,FLEXTAIL,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Flower Knows,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Hampstead Tea coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Hampstead Tea coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Hampstead Tea promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Hampstead Tea promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Promo code Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Coupon Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Coupon code Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Coupon code for Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Coupon for Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Hampstead Tea,,,,,,,,,AG-1,,Enabled,Promo code for Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Michu Australia coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Michu Australia coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Michu Australia promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Michu Australia promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Promo code Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Coupon Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Coupon code Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Coupon code for Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Coupon for Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Michu Australia,,,,,,,,,AG-1,,Enabled,Promo code for Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,Promo code MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,Coupon MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,Coupon code MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,Coupon code for MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,Coupon for MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,Enabled,Promo code for MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Redmagic coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Redmagic coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Redmagic promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Redmagic promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Promo code Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Coupon Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Coupon code Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Coupon code for Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Coupon for Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Redmagic,,,,,,,,,AG-1,,Enabled,Promo code for Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Govee coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Govee coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Govee promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Govee promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Promo code Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Coupon Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Coupon code Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Coupon code for Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Coupon for Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Govee,,,,,,,,,AG-1,,Enabled,Promo code for Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,DiscoverCars coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,DiscoverCars coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,DiscoverCars promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,DiscoverCars promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,Promo code DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,Coupon DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,Coupon code DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,Coupon code for DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,Coupon for DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,DiscoverCars,,,,,,,,,AG-1,,Enabled,Promo code for DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Geekbuying coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Geekbuying coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Geekbuying promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Geekbuying promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Promo code Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon code Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon code for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Coupon for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Geekbuying,,,,,,,,,AG-1,,Enabled,Promo code for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Promo code Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon code Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon code for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Coupon for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,Enabled,Promo code for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Linsoul Audio promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Promo code Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Coupon Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Coupon code Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Coupon code for Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Coupon for Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Linsoul Audio,,,,,,,,,AG-1,,Enabled,Promo code for Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Promo code Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Coupon Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Coupon code Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Coupon code for Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Coupon for Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,Enabled,Promo code for Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Maono coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Maono coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Maono promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Maono promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Promo code Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Coupon Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Coupon code Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Coupon code for Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Coupon for Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Maono,,,,,,,,,AG-1,,Enabled,Promo code for Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Promo code Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Coupon Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Coupon code Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Coupon code for Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Coupon for Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,Enabled,Promo code for Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,SwitchBot coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,SwitchBot coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,SwitchBot promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,SwitchBot promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,Promo code SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,Coupon SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,Coupon code SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,Coupon code for SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,Coupon for SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,SwitchBot,,,,,,,,,AG-1,,Enabled,Promo code for SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Oojo coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Oojo coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Oojo promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Oojo promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Promo code Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Coupon Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Coupon code Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Coupon code for Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Coupon for Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Oojo,,,,,,,,,AG-1,,Enabled,Promo code for Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,MFI Medical coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,MFI Medical coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,MFI Medical promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,MFI Medical promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,Promo code MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,Coupon MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,Coupon code MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,Coupon code for MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,Coupon for MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MFI Medical,,,,,,,,,AG-1,,Enabled,Promo code for MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,HealthLabs.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,HealthLabs.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,HealthLabs.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,HealthLabs.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,Promo code HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,Coupon HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,Coupon code HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,Coupon code for HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,Coupon for HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HealthLabs.com,,,,,,,,,AG-1,,Enabled,Promo code for HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Promo code Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Coupon Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Coupon code Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Coupon code for Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Coupon for Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,Enabled,Promo code for Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Eufy coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Eufy coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Eufy promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Eufy promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Promo code Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Coupon Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Coupon code Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Coupon code for Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Coupon for Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eufy,,,,,,,,,AG-1,,Enabled,Promo code for Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,FLEXTAIL coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,FLEXTAIL coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,FLEXTAIL promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,FLEXTAIL promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,Promo code FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,Coupon FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,Coupon code FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,Coupon code for FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,Coupon for FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FLEXTAIL,,,,,,,,,AG-1,,Enabled,Promo code for FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Flower Knows coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Flower Knows coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Flower Knows promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Flower Knows promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Promo code Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Coupon Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Coupon code Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Coupon code for Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Coupon for Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower Knows,,,,,,,,,AG-1,,Enabled,Promo code for Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad,Add,,Hampstead Tea,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Hampstead Tea Coupon Code,Best Hampstead Tea Coupons,Top Hampstead Tea Coupons,Get 55% Off Hampstead Tea,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Hampstead Tea coupon. All coupons verified,"With This Exclusive Hampstead Tea Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Hampstead Tea Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Hampstead Tea. Limited Offer!,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons,,,,
-Ad,Add,,Michu Australia,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Michu Australia Coupon Code,Best Michu Australia Coupons,Top Michu Australia Coupons,Get 55% Off Michu Australia,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Michu Australia coupon. All coupons verified,"With This Exclusive Michu Australia Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Michu Australia Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Michu Australia. Limited Offer!,https://nymbuscommerce.com/visit/23418/michu-australia-coupons,,,,
-Ad,Add,,MidtownUmbrellas.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with MidtownUmbrellas.com coupon. All coupons verified,"With This Exclusive MidtownUmbrellas.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MidtownUmbrellas.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MidtownUmbrellas.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons,,,,
-Ad,Add,,Redmagic,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Redmagic Coupon Code,Best Redmagic Coupons,Top Redmagic Coupons,Get 55% Off Redmagic,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Redmagic coupon. All coupons verified,"With This Exclusive Redmagic Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Redmagic Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Redmagic. Limited Offer!,https://nymbuscommerce.com/visit/23418/redmagic-coupons,,,,
-Ad,Add,,Govee,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Govee Coupon Code,Best Govee Coupons,Top Govee Coupons,Get 55% Off Govee,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Govee coupon. All coupons verified,"With This Exclusive Govee Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Govee Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Govee. Limited Offer!,https://nymbuscommerce.com/visit/23418/govee-coupons,,,,
-Ad,Add,,DiscoverCars,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,DiscoverCars Coupon Code,Best DiscoverCars Coupons,Top DiscoverCars Coupons,Get 55% Off DiscoverCars,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with DiscoverCars coupon. All coupons verified,"With This Exclusive DiscoverCars Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special DiscoverCars Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam DiscoverCars. Limited Offer!,https://nymbuscommerce.com/visit/23418/discovercars-coupons,,,,
-Ad,Add,,Geekbuying,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Geekbuying Coupon Code,Best Geekbuying Coupons,Top Geekbuying Coupons,Get 55% Off Geekbuying,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Geekbuying coupon. All coupons verified,"With This Exclusive Geekbuying Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Geekbuying Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Geekbuying. Limited Offer!,https://nymbuscommerce.com/visit/23418/geekbuying-coupons,,,,
-Ad,Add,,Italiarail CPS Many GEOs,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Italiarail CPS Many GEOs coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Italiarail CPS Many GEOs. Limited Offer!,55% Off Italiarail CPS Many GEOs Coupons & Promo Codes 2025,Apply these Italiarail CPS Many GEOs Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,,,,
-Ad,Add,,Linsoul Audio,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Linsoul Audio Coupon Code,Best Linsoul Audio Coupons,Top Linsoul Audio Coupons,Get 55% Off Linsoul Audio,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Linsoul Audio coupon. All coupons verified,"With This Exclusive Linsoul Audio Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Linsoul Audio Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Linsoul Audio. Limited Offer!,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons,,,,
-Ad,Add,,Yeslak Tesla Accessories,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Yeslak Tesla Accessories coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Yeslak Tesla Accessories. Limited Offer!,55% Off Yeslak Tesla Accessories Coupons & Promo Codes 2025,Apply these Yeslak Tesla Accessories Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons,,,,
-Ad,Add,,Maono,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Maono Coupon Code,Best Maono Coupons,Top Maono Coupons,Get 55% Off Maono,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Maono coupon. All coupons verified,"With This Exclusive Maono Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Maono Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Maono. Limited Offer!,https://nymbuscommerce.com/visit/23418/maono-coupons,,,,
-Ad,Add,,Trampoline Parts and Supply,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Trampoline Parts and Supply coupon. All coupons verified,55% Off Trampoline Parts and Supply Coupons & Promo Codes 2025,Apply these Trampoline Parts and Supply Coupon At Checkout And Save. Tested Daily.,Save big with verified coupons. Updated daily for the best deals.,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons,,,,
-Ad,Add,,SwitchBot,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,SwitchBot Coupon Code,Best SwitchBot Coupons,Top SwitchBot Coupons,Get 55% Off SwitchBot,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with SwitchBot coupon. All coupons verified,"With This Exclusive SwitchBot Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special SwitchBot Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam SwitchBot. Limited Offer!,https://nymbuscommerce.com/visit/23418/switchbot-coupons,,,,
-Ad,Add,,Oojo,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Oojo Coupon Code,Best Oojo Coupons,Top Oojo Coupons,Get 55% Off Oojo,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Oojo coupon. All coupons verified,"With This Exclusive Oojo Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Oojo Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Oojo. Limited Offer!,https://nymbuscommerce.com/visit/23418/oojo-coupons,,,,
-Ad,Add,,MFI Medical,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MFI Medical Coupon Code,Best MFI Medical Coupons,Top MFI Medical Coupons,Get 55% Off MFI Medical,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MFI Medical coupon. All coupons verified,"With This Exclusive MFI Medical Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MFI Medical Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MFI Medical. Limited Offer!,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons,,,,
-Ad,Add,,HealthLabs.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HealthLabs.com Coupon Code,Best HealthLabs.com Coupons,Top HealthLabs.com Coupons,Get 55% Off HealthLabs.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HealthLabs.com coupon. All coupons verified,"With This Exclusive HealthLabs.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HealthLabs.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HealthLabs.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons,,,,
-Ad,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,55% Off Amotopart Fairing Creator Recruitment Coupons & Promo Codes 2025,Save big with verified coupons. Updated daily for the best deals.,Get top promo codes and exclusive discounts. Tested and working.,Shop smart with hand-picked offers. Fresh codes added every day.,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons,,,,
-Ad,Add,,Eufy,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Eufy Coupon Code,Best Eufy Coupons,Top Eufy Coupons,Get 55% Off Eufy,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Eufy coupon. All coupons verified,"With This Exclusive Eufy Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Eufy Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Eufy. Limited Offer!,https://nymbuscommerce.com/visit/23418/eufy-coupons,,,,
-Ad,Add,,FLEXTAIL,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,FLEXTAIL Coupon Code,Best FLEXTAIL Coupons,Top FLEXTAIL Coupons,Get 55% Off FLEXTAIL,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with FLEXTAIL coupon. All coupons verified,"With This Exclusive FLEXTAIL Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special FLEXTAIL Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam FLEXTAIL. Limited Offer!,https://nymbuscommerce.com/visit/23418/flextail-coupons,,,,
-Ad,Add,,Flower Knows,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Flower Knows Coupon Code,Best Flower Knows Coupons,Top Flower Knows Coupons,Get 55% Off Flower Knows,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Flower Knows coupon. All coupons verified,"With This Exclusive Flower Knows Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Flower Knows Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Flower Knows. Limited Offer!,https://nymbuscommerce.com/visit/23418/flower-knows-coupons,,,,
-Sitelink,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/michu-australia-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/michu-australia-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/michu-australia-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/redmagic-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/redmagic-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/redmagic-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/govee-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/govee-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/govee-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/discovercars-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/discovercars-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/discovercars-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/maono-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/maono-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/maono-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/switchbot-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/switchbot-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/switchbot-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/oojo-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/oojo-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/oojo-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/eufy-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/eufy-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/eufy-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/flextail-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/flextail-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/flextail-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/flower-knows-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/flower-knows-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/flower-knows-coupons&2,Create new,Campaign,All Blog,
-Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,Hampstead Tea,Search,Google search,10,Daily,Maximize clicks,0.40,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Michu Australia,Search,Google search,10,Daily,Maximize clicks,0.40,en,2036;2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,MidtownUmbrellas.com,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Redmagic,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Govee,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,DiscoverCars,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Geekbuying,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Italiarail CPS Many GEOs,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2380;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Linsoul Audio,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Yeslak Tesla Accessories,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2724;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Maono,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Trampoline Parts and Supply,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,SwitchBot,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Oojo,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,MFI Medical,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,HealthLabs.com,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Amotopart Fairing Creator Recruitment,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Eufy,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,FLEXTAIL,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Flower Knows,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Hampstead Tea,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Michu Australia,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Redmagic,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Govee,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,DiscoverCars,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Geekbuying,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Linsoul Audio,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Maono,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,SwitchBot,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Oojo,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,MFI Medical,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,HealthLabs.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Eufy,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,FLEXTAIL,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Flower Knows,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Hampstead Tea coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Hampstead Tea coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Hampstead Tea promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Hampstead Tea promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Promo code Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Coupon Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Coupon code Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Coupon code for Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Coupon for Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Hampstead Tea,,,,,,,,,,AG-1,,Enabled,Promo code for Hampstead Tea,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Michu Australia coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Michu Australia coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Michu Australia promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Michu Australia promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Promo code Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Coupon Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Coupon code Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Coupon code for Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Coupon for Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Michu Australia,,,,,,,,,,AG-1,,Enabled,Promo code for Michu Australia,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,MidtownUmbrellas.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,Promo code MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,Coupon MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,Coupon code MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,Coupon code for MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,Coupon for MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,Enabled,Promo code for MidtownUmbrellas.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Redmagic coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Redmagic coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Redmagic promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Redmagic promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Promo code Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Coupon Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Coupon code Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Coupon code for Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Coupon for Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Redmagic,,,,,,,,,,AG-1,,Enabled,Promo code for Redmagic,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Govee coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Govee coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Govee promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Govee promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Promo code Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Coupon Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Coupon code Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Coupon code for Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Coupon for Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Govee,,,,,,,,,,AG-1,,Enabled,Promo code for Govee,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,DiscoverCars coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,DiscoverCars coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,DiscoverCars promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,DiscoverCars promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,Promo code DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,Coupon DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,Coupon code DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,Coupon code for DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,Coupon for DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,DiscoverCars,,,,,,,,,,AG-1,,Enabled,Promo code for DiscoverCars,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Geekbuying coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Geekbuying coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Geekbuying promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Geekbuying promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Promo code Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Coupon Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Coupon code Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Coupon code for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Coupon for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Geekbuying,,,,,,,,,,AG-1,,Enabled,Promo code for Geekbuying,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Italiarail CPS Many GEOs promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Promo code Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Coupon Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Coupon code Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Coupon code for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Coupon for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,Enabled,Promo code for Italiarail CPS Many GEOs,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Linsoul Audio coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Linsoul Audio coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Linsoul Audio promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Linsoul Audio promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Promo code Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Coupon Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Coupon code Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Coupon code for Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Coupon for Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Linsoul Audio,,,,,,,,,,AG-1,,Enabled,Promo code for Linsoul Audio,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Yeslak Tesla Accessories promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Promo code Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Coupon Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Coupon code Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Coupon code for Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Coupon for Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,Enabled,Promo code for Yeslak Tesla Accessories,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Maono coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Maono coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Maono promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Maono promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Promo code Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Coupon Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Coupon code Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Coupon code for Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Coupon for Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Maono,,,,,,,,,,AG-1,,Enabled,Promo code for Maono,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Trampoline Parts and Supply promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Promo code Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Coupon Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Coupon code Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Coupon code for Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Coupon for Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,Enabled,Promo code for Trampoline Parts and Supply,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,SwitchBot coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,SwitchBot coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,SwitchBot promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,SwitchBot promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,Promo code SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,Coupon SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,Coupon code SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,Coupon code for SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,Coupon for SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,SwitchBot,,,,,,,,,,AG-1,,Enabled,Promo code for SwitchBot,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Oojo coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Oojo coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Oojo promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Oojo promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Promo code Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Coupon Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Coupon code Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Coupon code for Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Coupon for Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Oojo,,,,,,,,,,AG-1,,Enabled,Promo code for Oojo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,MFI Medical coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,MFI Medical coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,MFI Medical promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,MFI Medical promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,Promo code MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,Coupon MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,Coupon code MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,Coupon code for MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,Coupon for MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MFI Medical,,,,,,,,,,AG-1,,Enabled,Promo code for MFI Medical,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,HealthLabs.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,HealthLabs.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,HealthLabs.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,HealthLabs.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,Promo code HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,Coupon HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,Coupon code HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,Coupon code for HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,Coupon for HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HealthLabs.com,,,,,,,,,,AG-1,,Enabled,Promo code for HealthLabs.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Amotopart Fairing Creator Recruitment promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Promo code Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Coupon Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Coupon code Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Coupon code for Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Coupon for Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,Enabled,Promo code for Amotopart Fairing Creator Recruitment,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Eufy coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Eufy coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Eufy promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Eufy promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Promo code Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Coupon Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Coupon code Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Coupon code for Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Coupon for Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eufy,,,,,,,,,,AG-1,,Enabled,Promo code for Eufy,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,FLEXTAIL coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,FLEXTAIL coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,FLEXTAIL promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,FLEXTAIL promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,Promo code FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,Coupon FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,Coupon code FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,Coupon code for FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,Coupon for FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FLEXTAIL,,,,,,,,,,AG-1,,Enabled,Promo code for FLEXTAIL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Flower Knows coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Flower Knows coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Flower Knows promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Flower Knows promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Promo code Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Coupon Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Coupon code Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Coupon code for Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Coupon for Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower Knows,,,,,,,,,,AG-1,,Enabled,Promo code for Flower Knows,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Hampstead Tea,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Hampstead Tea Coupon Code,Best Hampstead Tea Coupons,Top Hampstead Tea Coupons,Get 55% Off Hampstead Tea,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Hampstead Tea coupon. All coupons verified,"With This Exclusive Hampstead Tea Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Hampstead Tea Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Hampstead Tea. Limited Offer!,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons,,,,
+Ad,Add,,Michu Australia,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Michu Australia Coupon Code,Best Michu Australia Coupons,Top Michu Australia Coupons,Get 55% Off Michu Australia,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Michu Australia coupon. All coupons verified,"With This Exclusive Michu Australia Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Michu Australia Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Michu Australia. Limited Offer!,https://nymbuscommerce.com/visit/23418/michu-australia-coupons,,,,
+Ad,Add,,MidtownUmbrellas.com,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with MidtownUmbrellas.com coupon. All coupons verified,"With This Exclusive MidtownUmbrellas.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MidtownUmbrellas.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MidtownUmbrellas.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons,,,,
+Ad,Add,,Redmagic,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Redmagic Coupon Code,Best Redmagic Coupons,Top Redmagic Coupons,Get 55% Off Redmagic,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Redmagic coupon. All coupons verified,"With This Exclusive Redmagic Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Redmagic Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Redmagic. Limited Offer!,https://nymbuscommerce.com/visit/23418/redmagic-coupons,,,,
+Ad,Add,,Govee,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Govee Coupon Code,Best Govee Coupons,Top Govee Coupons,Get 55% Off Govee,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Govee coupon. All coupons verified,"With This Exclusive Govee Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Govee Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Govee. Limited Offer!,https://nymbuscommerce.com/visit/23418/govee-coupons,,,,
+Ad,Add,,DiscoverCars,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,DiscoverCars Coupon Code,Best DiscoverCars Coupons,Top DiscoverCars Coupons,Get 55% Off DiscoverCars,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with DiscoverCars coupon. All coupons verified,"With This Exclusive DiscoverCars Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special DiscoverCars Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam DiscoverCars. Limited Offer!,https://nymbuscommerce.com/visit/23418/discovercars-coupons,,,,
+Ad,Add,,Geekbuying,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Geekbuying Coupon Code,Best Geekbuying Coupons,Top Geekbuying Coupons,Get 55% Off Geekbuying,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Geekbuying coupon. All coupons verified,"With This Exclusive Geekbuying Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Geekbuying Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Geekbuying. Limited Offer!,https://nymbuscommerce.com/visit/23418/geekbuying-coupons,,,,
+Ad,Add,,Italiarail CPS Many GEOs,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Italiarail CPS Many GEOs coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Italiarail CPS Many GEOs. Limited Offer!,55% Off Italiarail CPS Many GEOs Coupons & Promo Codes 2025,Apply these Italiarail CPS Many GEOs Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,,,,
+Ad,Add,,Linsoul Audio,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Linsoul Audio Coupon Code,Best Linsoul Audio Coupons,Top Linsoul Audio Coupons,Get 55% Off Linsoul Audio,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Linsoul Audio coupon. All coupons verified,"With This Exclusive Linsoul Audio Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Linsoul Audio Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Linsoul Audio. Limited Offer!,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons,,,,
+Ad,Add,,Yeslak Tesla Accessories,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Yeslak Tesla Accessories coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Yeslak Tesla Accessories. Limited Offer!,55% Off Yeslak Tesla Accessories Coupons & Promo Codes 2025,Apply these Yeslak Tesla Accessories Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons,,,,
+Ad,Add,,Maono,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Maono Coupon Code,Best Maono Coupons,Top Maono Coupons,Get 55% Off Maono,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Maono coupon. All coupons verified,"With This Exclusive Maono Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Maono Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Maono. Limited Offer!,https://nymbuscommerce.com/visit/23418/maono-coupons,,,,
+Ad,Add,,Trampoline Parts and Supply,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Trampoline Parts and Supply coupon. All coupons verified,55% Off Trampoline Parts and Supply Coupons & Promo Codes 2025,Apply these Trampoline Parts and Supply Coupon At Checkout And Save. Tested Daily.,Save big with verified coupons. Updated daily for the best deals.,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons,,,,
+Ad,Add,,SwitchBot,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,SwitchBot Coupon Code,Best SwitchBot Coupons,Top SwitchBot Coupons,Get 55% Off SwitchBot,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with SwitchBot coupon. All coupons verified,"With This Exclusive SwitchBot Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special SwitchBot Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam SwitchBot. Limited Offer!,https://nymbuscommerce.com/visit/23418/switchbot-coupons,,,,
+Ad,Add,,Oojo,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Oojo Coupon Code,Best Oojo Coupons,Top Oojo Coupons,Get 55% Off Oojo,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Oojo coupon. All coupons verified,"With This Exclusive Oojo Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Oojo Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Oojo. Limited Offer!,https://nymbuscommerce.com/visit/23418/oojo-coupons,,,,
+Ad,Add,,MFI Medical,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MFI Medical Coupon Code,Best MFI Medical Coupons,Top MFI Medical Coupons,Get 55% Off MFI Medical,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MFI Medical coupon. All coupons verified,"With This Exclusive MFI Medical Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MFI Medical Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MFI Medical. Limited Offer!,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons,,,,
+Ad,Add,,HealthLabs.com,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HealthLabs.com Coupon Code,Best HealthLabs.com Coupons,Top HealthLabs.com Coupons,Get 55% Off HealthLabs.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HealthLabs.com coupon. All coupons verified,"With This Exclusive HealthLabs.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HealthLabs.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HealthLabs.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons,,,,
+Ad,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,55% Off Amotopart Fairing Creator Recruitment Coupons & Promo Codes 2025,Save big with verified coupons. Updated daily for the best deals.,Get top promo codes and exclusive discounts. Tested and working.,Shop smart with hand-picked offers. Fresh codes added every day.,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons,,,,
+Ad,Add,,Eufy,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Eufy Coupon Code,Best Eufy Coupons,Top Eufy Coupons,Get 55% Off Eufy,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Eufy coupon. All coupons verified,"With This Exclusive Eufy Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Eufy Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Eufy. Limited Offer!,https://nymbuscommerce.com/visit/23418/eufy-coupons,,,,
+Ad,Add,,FLEXTAIL,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,FLEXTAIL Coupon Code,Best FLEXTAIL Coupons,Top FLEXTAIL Coupons,Get 55% Off FLEXTAIL,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with FLEXTAIL coupon. All coupons verified,"With This Exclusive FLEXTAIL Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special FLEXTAIL Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam FLEXTAIL. Limited Offer!,https://nymbuscommerce.com/visit/23418/flextail-coupons,,,,
+Ad,Add,,Flower Knows,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Flower Knows Coupon Code,Best Flower Knows Coupons,Top Flower Knows Coupons,Get 55% Off Flower Knows,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Flower Knows coupon. All coupons verified,"With This Exclusive Flower Knows Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Flower Knows Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Flower Knows. Limited Offer!,https://nymbuscommerce.com/visit/23418/flower-knows-coupons,,,,
+Sitelink,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/hampstead-tea-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/michu-australia-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/michu-australia-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/michu-australia-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/midtownumbrellascom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/redmagic-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/redmagic-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/redmagic-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/govee-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/govee-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/govee-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/discovercars-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/discovercars-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/discovercars-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/geekbuying-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/italiarail-cps-many-geos-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/linsoul-audio-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/yeslak-tesla-accessories-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/maono-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/maono-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/maono-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/trampoline-parts-and-supply-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/switchbot-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/switchbot-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/switchbot-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/oojo-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/oojo-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/oojo-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/mfi-medical-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/healthlabscom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/amotopart-fairing-creator-recruitment-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/eufy-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/eufy-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/eufy-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/flextail-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/flextail-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/flextail-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/flower-knows-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/flower-knows-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/flower-knows-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Hampstead Tea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Michu Australia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,MidtownUmbrellas.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Redmagic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Govee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,DiscoverCars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Geekbuying,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Italiarail CPS Many GEOs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Linsoul Audio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Yeslak Tesla Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Maono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Trampoline Parts and Supply,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,SwitchBot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Oojo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,MFI Medical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,HealthLabs.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Amotopart Fairing Creator Recruitment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Eufy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,FLEXTAIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Flower Knows,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

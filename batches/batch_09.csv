@@ -1,401 +1,401 @@
-﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
-Campaign,Add,Paused,Paddlepro.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,BOMBOFFICIAL,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Cowderry,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,7or9,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Belledorm,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Vaporesso Store,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Sambas the Bambas,Search,Google search,10,Daily,Maximize clicks,en,2250;2724,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,CURVD,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Afobrick,Search,Google search,10,Daily,Maximize clicks,en,2276;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Eyebrow Queen Pro,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,ISOMERSLAB.NET,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,sonicred,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,MuscleMeds,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,ALCAD,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,CheryLife Inc,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,carpuride,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Flower and Twig Nursery,Search,Google search,10,Daily,Maximize clicks,en,2036;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,GK HAIR EUROPE,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,GK Hair USA,Search,Google search,10,Daily,Maximize clicks,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Friendship Lamps,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Paddlepro.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Cowderry,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,7or9,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Belledorm,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Vaporesso Store,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Sambas the Bambas,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,CURVD,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Afobrick,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,sonicred,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,MuscleMeds,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,ALCAD,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,CheryLife Inc,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,carpuride,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,GK Hair USA,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Friendship Lamps,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Paddlepro.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Promo code Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Coupon Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Coupon code Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Coupon code for Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Coupon for Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Paddlepro.com,,,,,,,,,AG-1,,Enabled,Promo code for Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,Promo code BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,Coupon BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,Coupon code BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,Coupon code for BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,Coupon for BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,Enabled,Promo code for BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Cowderry coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Cowderry coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Cowderry promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Cowderry promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Promo code Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Coupon Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Coupon code Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Coupon code for Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Coupon for Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Cowderry,,,,,,,,,AG-1,,Enabled,Promo code for Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,7or9 coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,7or9 coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,7or9 promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,7or9 promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,Promo code 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,Coupon 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,Coupon code 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,Coupon code for 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,Coupon for 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,7or9,,,,,,,,,AG-1,,Enabled,Promo code for 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Belledorm coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Belledorm coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Belledorm promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Belledorm promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Promo code Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Coupon Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Coupon code Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Coupon code for Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Coupon for Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Belledorm,,,,,,,,,AG-1,,Enabled,Promo code for Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Vaporesso Store coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Vaporesso Store coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Vaporesso Store promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Vaporesso Store promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Promo code Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Coupon Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Coupon code Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Coupon code for Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Coupon for Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Vaporesso Store,,,,,,,,,AG-1,,Enabled,Promo code for Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Sambas the Bambas coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Sambas the Bambas coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Sambas the Bambas promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Sambas the Bambas promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Promo code Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon code Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon code for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Coupon for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Sambas the Bambas,,,,,,,,,AG-1,,Enabled,Promo code for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,CURVD promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Promo code CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon code CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon code for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Coupon for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CURVD,,,,,,,,,AG-1,,Enabled,Promo code for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Afobrick promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Promo code Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Coupon Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Coupon code Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Coupon code for Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Coupon for Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Afobrick,,,,,,,,,AG-1,,Enabled,Promo code for Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Promo code Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Coupon Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Coupon code Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Coupon code for Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Coupon for Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,Enabled,Promo code for Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,Promo code ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,Coupon ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,Coupon code ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,Coupon code for ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,Coupon for ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,Enabled,Promo code for ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,sonicred coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,sonicred coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,sonicred promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,sonicred promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,Promo code sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,Coupon sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,Coupon code sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,Coupon code for sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,Coupon for sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,sonicred,,,,,,,,,AG-1,,Enabled,Promo code for sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,MuscleMeds coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,MuscleMeds coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,MuscleMeds promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,MuscleMeds promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,Promo code MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,Coupon MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,Coupon code MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,Coupon code for MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,Coupon for MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MuscleMeds,,,,,,,,,AG-1,,Enabled,Promo code for MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,ALCAD coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,ALCAD coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,ALCAD promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,ALCAD promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,Promo code ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,Coupon ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,Coupon code ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,Coupon code for ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,Coupon for ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,ALCAD,,,,,,,,,AG-1,,Enabled,Promo code for ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,CheryLife Inc coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,CheryLife Inc coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,CheryLife Inc promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,CheryLife Inc promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,Promo code CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,Coupon CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,Coupon code CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,Coupon code for CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,Coupon for CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CheryLife Inc,,,,,,,,,AG-1,,Enabled,Promo code for CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,carpuride coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,carpuride coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,carpuride promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,carpuride promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,Promo code carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,Coupon carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,Coupon code carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,Coupon code for carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,Coupon for carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,carpuride,,,,,,,,,AG-1,,Enabled,Promo code for carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Promo code Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Coupon Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Coupon code Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Coupon code for Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Coupon for Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,Enabled,Promo code for Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,Promo code GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,Coupon GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,Coupon code GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,Coupon code for GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,Coupon for GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,Enabled,Promo code for GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,GK Hair USA coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,GK Hair USA coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,GK Hair USA promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,GK Hair USA promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Promo code GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon code GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon code for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Coupon for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GK Hair USA,,,,,,,,,AG-1,,Enabled,Promo code for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Friendship Lamps promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Promo code Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon code Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon code for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Coupon for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Friendship Lamps,,,,,,,,,AG-1,,Enabled,Promo code for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad,Add,,Paddlepro.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Paddlepro.com Coupon Code,Best Paddlepro.com Coupons,Top Paddlepro.com Coupons,Get 55% Off Paddlepro.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Paddlepro.com coupon. All coupons verified,"With This Exclusive Paddlepro.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Paddlepro.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Paddlepro.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons,,,,
-Ad,Add,,BOMBOFFICIAL,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,BOMBOFFICIAL Coupon Code,Best BOMBOFFICIAL Coupons,Top BOMBOFFICIAL Coupons,Get 55% Off BOMBOFFICIAL,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with BOMBOFFICIAL coupon. All coupons verified,"With This Exclusive BOMBOFFICIAL Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special BOMBOFFICIAL Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam BOMBOFFICIAL. Limited Offer!,https://nymbuscommerce.com/visit/23418/bombofficial-coupons,,,,
-Ad,Add,,Cowderry,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Cowderry Coupon Code,Best Cowderry Coupons,Top Cowderry Coupons,Get 55% Off Cowderry,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Cowderry coupon. All coupons verified,"With This Exclusive Cowderry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Cowderry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Cowderry. Limited Offer!,https://nymbuscommerce.com/visit/23418/cowderry-coupons,,,,
-Ad,Add,,7or9,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,7or9 Coupon Code,Best 7or9 Coupons,Top 7or9 Coupons,Get 55% Off 7or9,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with 7or9 coupon. All coupons verified,"With This Exclusive 7or9 Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special 7or9 Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam 7or9. Limited Offer!,https://nymbuscommerce.com/visit/23418/7or9-coupons,,,,
-Ad,Add,,Belledorm,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Belledorm Coupon Code,Best Belledorm Coupons,Top Belledorm Coupons,Get 55% Off Belledorm,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Belledorm coupon. All coupons verified,"With This Exclusive Belledorm Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Belledorm Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Belledorm. Limited Offer!,https://nymbuscommerce.com/visit/23418/belledorm-coupons,,,,
-Ad,Add,,Vaporesso Store,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Vaporesso Store Coupon Code,Best Vaporesso Store Coupons,Top Vaporesso Store Coupons,Get 55% Off Vaporesso Store,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Vaporesso Store coupon. All coupons verified,"With This Exclusive Vaporesso Store Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Vaporesso Store Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Vaporesso Store. Limited Offer!,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons,,,,
-Ad,Add,,Sambas the Bambas,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Sambas the Bambas Coupon Code,Best Sambas the Bambas Coupons,Top Sambas the Bambas Coupons,Get 55% Off Sambas the Bambas,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Sambas the Bambas coupon. All coupons verified,"With This Exclusive Sambas the Bambas Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Sambas the Bambas Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Sambas the Bambas. Limited Offer!,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons,,,,
-Ad,Add,,CURVD,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CURVD Coupon Code,Best CURVD Coupons,Top CURVD Coupons,Get 55% Off CURVD,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CURVD coupon. All coupons verified,"With This Exclusive CURVD Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CURVD Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CURVD. Limited Offer!,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,,,,
-Ad,Add,,Afobrick,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Afobrick Coupon Code,Best Afobrick Coupons,Top Afobrick Coupons,Get 55% Off Afobrick,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Afobrick coupon. All coupons verified,"With This Exclusive Afobrick Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Afobrick Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Afobrick. Limited Offer!,https://nymbuscommerce.com/visit/23418/afobrick-coupons,,,,
-Ad,Add,,Eyebrow Queen Pro,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Eyebrow Queen Pro Coupon Code,Best Eyebrow Queen Pro Coupons,Top Eyebrow Queen Pro Coupons,Get 55% Off Eyebrow Queen Pro,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Eyebrow Queen Pro coupon. All coupons verified,"With This Exclusive Eyebrow Queen Pro Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Eyebrow Queen Pro Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Eyebrow Queen Pro. Limited Offer!,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons,,,,
-Ad,Add,,ISOMERSLAB.NET,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ISOMERSLAB.NET Coupon Code,Best ISOMERSLAB.NET Coupons,Top ISOMERSLAB.NET Coupons,Get 55% Off ISOMERSLAB.NET,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ISOMERSLAB.NET coupon. All coupons verified,"With This Exclusive ISOMERSLAB.NET Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ISOMERSLAB.NET Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ISOMERSLAB.NET. Limited Offer!,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons,,,,
-Ad,Add,,sonicred,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,sonicred Coupon Code,Best sonicred Coupons,Top sonicred Coupons,Get 55% Off sonicred,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with sonicred coupon. All coupons verified,"With This Exclusive sonicred Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special sonicred Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam sonicred. Limited Offer!,https://nymbuscommerce.com/visit/23418/sonicred-coupons,,,,
-Ad,Add,,MuscleMeds,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MuscleMeds Coupon Code,Best MuscleMeds Coupons,Top MuscleMeds Coupons,Get 55% Off MuscleMeds,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MuscleMeds coupon. All coupons verified,"With This Exclusive MuscleMeds Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MuscleMeds Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MuscleMeds. Limited Offer!,https://nymbuscommerce.com/visit/23418/musclemeds-coupons,,,,
-Ad,Add,,ALCAD,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ALCAD Coupon Code,Best ALCAD Coupons,Top ALCAD Coupons,Get 55% Off ALCAD,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ALCAD coupon. All coupons verified,"With This Exclusive ALCAD Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ALCAD Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ALCAD. Limited Offer!,https://nymbuscommerce.com/visit/23418/alcad-coupons,,,,
-Ad,Add,,CheryLife Inc,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CheryLife Inc Coupon Code,Best CheryLife Inc Coupons,Top CheryLife Inc Coupons,Get 55% Off CheryLife Inc,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CheryLife Inc coupon. All coupons verified,"With This Exclusive CheryLife Inc Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CheryLife Inc Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CheryLife Inc. Limited Offer!,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons,,,,
-Ad,Add,,carpuride,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,carpuride Coupon Code,Best carpuride Coupons,Top carpuride Coupons,Get 55% Off carpuride,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with carpuride coupon. All coupons verified,"With This Exclusive carpuride Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special carpuride Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam carpuride. Limited Offer!,https://nymbuscommerce.com/visit/23418/carpuride-coupons,,,,
-Ad,Add,,Flower and Twig Nursery,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Flower and Twig Nursery coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Flower and Twig Nursery Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Flower and Twig Nursery. Limited Offer!,55% Off Flower and Twig Nursery Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons,,,,
-Ad,Add,,GK HAIR EUROPE,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GK HAIR EUROPE Coupon Code,Best GK HAIR EUROPE Coupons,Top GK HAIR EUROPE Coupons,Get 55% Off GK HAIR EUROPE,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GK HAIR EUROPE coupon. All coupons verified,"With This Exclusive GK HAIR EUROPE Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GK HAIR EUROPE Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GK HAIR EUROPE. Limited Offer!,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons,,,,
-Ad,Add,,GK Hair USA,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GK Hair USA Coupon Code,Best GK Hair USA Coupons,Top GK Hair USA Coupons,Get 55% Off GK Hair USA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GK Hair USA coupon. All coupons verified,"With This Exclusive GK Hair USA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GK Hair USA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GK Hair USA. Limited Offer!,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons,,,,
-Ad,Add,,Friendship Lamps,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Friendship Lamps Coupon Code,Best Friendship Lamps Coupons,Top Friendship Lamps Coupons,Get 55% Off Friendship Lamps,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Friendship Lamps coupon. All coupons verified,"With This Exclusive Friendship Lamps Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Friendship Lamps Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Friendship Lamps. Limited Offer!,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,,,,
-Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/bombofficial-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/bombofficial-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/bombofficial-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/cowderry-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/cowderry-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/cowderry-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/7or9-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/7or9-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/7or9-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/belledorm-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/belledorm-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/belledorm-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/sonicred-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/sonicred-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/sonicred-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/musclemeds-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/musclemeds-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/musclemeds-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/alcad-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/alcad-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/alcad-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/carpuride-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/carpuride-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/carpuride-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&2,Create new,Campaign,All Blog,
-Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,Paddlepro.com,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2250;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,BOMBOFFICIAL,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Cowderry,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,7or9,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Belledorm,Search,Google search,10,Daily,Maximize clicks,0.40,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Vaporesso Store,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Sambas the Bambas,Search,Google search,10,Daily,Maximize clicks,0.40,en,2250;2724,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,CURVD,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Afobrick,Search,Google search,10,Daily,Maximize clicks,0.40,en,2276;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Eyebrow Queen Pro,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ISOMERSLAB.NET,Search,Google search,10,Daily,Maximize clicks,0.40,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,sonicred,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,MuscleMeds,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,ALCAD,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,CheryLife Inc,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,carpuride,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Flower and Twig Nursery,Search,Google search,10,Daily,Maximize clicks,0.40,en,2036;2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,GK HAIR EUROPE,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,GK Hair USA,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Friendship Lamps,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Paddlepro.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Cowderry,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,7or9,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Belledorm,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Vaporesso Store,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Sambas the Bambas,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CURVD,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Afobrick,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,sonicred,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,MuscleMeds,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ALCAD,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CheryLife Inc,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,carpuride,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,GK Hair USA,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Friendship Lamps,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Paddlepro.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Paddlepro.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Paddlepro.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Paddlepro.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Promo code Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Coupon Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Coupon code Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Coupon code for Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Coupon for Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Paddlepro.com,,,,,,,,,,AG-1,,Enabled,Promo code for Paddlepro.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,BOMBOFFICIAL promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,Promo code BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,Coupon BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,Coupon code BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,Coupon code for BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,Coupon for BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,Enabled,Promo code for BOMBOFFICIAL,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Cowderry coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Cowderry coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Cowderry promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Cowderry promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Promo code Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Coupon Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Coupon code Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Coupon code for Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Coupon for Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Cowderry,,,,,,,,,,AG-1,,Enabled,Promo code for Cowderry,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,7or9 coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,7or9 coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,7or9 promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,7or9 promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,Promo code 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,Coupon 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,Coupon code 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,Coupon code for 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,Coupon for 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,7or9,,,,,,,,,,AG-1,,Enabled,Promo code for 7or9,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Belledorm coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Belledorm coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Belledorm promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Belledorm promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Promo code Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Coupon Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Coupon code Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Coupon code for Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Coupon for Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Belledorm,,,,,,,,,,AG-1,,Enabled,Promo code for Belledorm,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Vaporesso Store coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Vaporesso Store coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Vaporesso Store promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Vaporesso Store promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Promo code Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Coupon Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Coupon code Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Coupon code for Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Coupon for Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Vaporesso Store,,,,,,,,,,AG-1,,Enabled,Promo code for Vaporesso Store,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Sambas the Bambas coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Sambas the Bambas coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Sambas the Bambas promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Sambas the Bambas promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Promo code Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Coupon Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Coupon code Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Coupon code for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Coupon for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,Enabled,Promo code for Sambas the Bambas,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,CURVD coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,CURVD coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,CURVD promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,CURVD promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,Promo code CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,Coupon CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,Coupon code CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,Coupon code for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,Coupon for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CURVD,,,,,,,,,,AG-1,,Enabled,Promo code for CURVD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Afobrick coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Afobrick coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Afobrick promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Afobrick promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Promo code Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Coupon Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Coupon code Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Coupon code for Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Coupon for Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Afobrick,,,,,,,,,,AG-1,,Enabled,Promo code for Afobrick,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Eyebrow Queen Pro promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Promo code Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Coupon Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Coupon code Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Coupon code for Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Coupon for Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,Enabled,Promo code for Eyebrow Queen Pro,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,ISOMERSLAB.NET promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,Promo code ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,Coupon ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,Coupon code ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,Coupon code for ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,Coupon for ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,Enabled,Promo code for ISOMERSLAB.NET,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,sonicred coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,sonicred coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,sonicred promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,sonicred promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,Promo code sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,Coupon sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,Coupon code sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,Coupon code for sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,Coupon for sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,sonicred,,,,,,,,,,AG-1,,Enabled,Promo code for sonicred,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,MuscleMeds coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,MuscleMeds coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,MuscleMeds promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,MuscleMeds promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,Promo code MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,Coupon MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,Coupon code MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,Coupon code for MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,Coupon for MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MuscleMeds,,,,,,,,,,AG-1,,Enabled,Promo code for MuscleMeds,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,ALCAD coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,ALCAD coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,ALCAD promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,ALCAD promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,Promo code ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,Coupon ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,Coupon code ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,Coupon code for ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,Coupon for ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ALCAD,,,,,,,,,,AG-1,,Enabled,Promo code for ALCAD,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,CheryLife Inc coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,CheryLife Inc coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,CheryLife Inc promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,CheryLife Inc promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,Promo code CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,Coupon CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,Coupon code CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,Coupon code for CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,Coupon for CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CheryLife Inc,,,,,,,,,,AG-1,,Enabled,Promo code for CheryLife Inc,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,carpuride coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,carpuride coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,carpuride promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,carpuride promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,Promo code carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,Coupon carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,Coupon code carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,Coupon code for carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,Coupon for carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,carpuride,,,,,,,,,,AG-1,,Enabled,Promo code for carpuride,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Flower and Twig Nursery promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Promo code Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Coupon Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Coupon code Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Coupon code for Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Coupon for Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,Enabled,Promo code for Flower and Twig Nursery,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,GK HAIR EUROPE promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,Promo code GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,Coupon GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,Coupon code GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,Coupon code for GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,Coupon for GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,Enabled,Promo code for GK HAIR EUROPE,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,GK Hair USA coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,GK Hair USA coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,GK Hair USA promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,GK Hair USA promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,Promo code GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,Coupon GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,Coupon code GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,Coupon code for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,Coupon for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GK Hair USA,,,,,,,,,,AG-1,,Enabled,Promo code for GK Hair USA,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Friendship Lamps coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Friendship Lamps coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Friendship Lamps promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Friendship Lamps promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Promo code Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Coupon Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Coupon code Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Coupon code for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Coupon for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Friendship Lamps,,,,,,,,,,AG-1,,Enabled,Promo code for Friendship Lamps,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Paddlepro.com,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Paddlepro.com Coupon Code,Best Paddlepro.com Coupons,Top Paddlepro.com Coupons,Get 55% Off Paddlepro.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Paddlepro.com coupon. All coupons verified,"With This Exclusive Paddlepro.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Paddlepro.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Paddlepro.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons,,,,
+Ad,Add,,BOMBOFFICIAL,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,BOMBOFFICIAL Coupon Code,Best BOMBOFFICIAL Coupons,Top BOMBOFFICIAL Coupons,Get 55% Off BOMBOFFICIAL,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with BOMBOFFICIAL coupon. All coupons verified,"With This Exclusive BOMBOFFICIAL Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special BOMBOFFICIAL Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam BOMBOFFICIAL. Limited Offer!,https://nymbuscommerce.com/visit/23418/bombofficial-coupons,,,,
+Ad,Add,,Cowderry,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Cowderry Coupon Code,Best Cowderry Coupons,Top Cowderry Coupons,Get 55% Off Cowderry,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Cowderry coupon. All coupons verified,"With This Exclusive Cowderry Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Cowderry Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Cowderry. Limited Offer!,https://nymbuscommerce.com/visit/23418/cowderry-coupons,,,,
+Ad,Add,,7or9,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,7or9 Coupon Code,Best 7or9 Coupons,Top 7or9 Coupons,Get 55% Off 7or9,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with 7or9 coupon. All coupons verified,"With This Exclusive 7or9 Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special 7or9 Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam 7or9. Limited Offer!,https://nymbuscommerce.com/visit/23418/7or9-coupons,,,,
+Ad,Add,,Belledorm,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Belledorm Coupon Code,Best Belledorm Coupons,Top Belledorm Coupons,Get 55% Off Belledorm,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Belledorm coupon. All coupons verified,"With This Exclusive Belledorm Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Belledorm Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Belledorm. Limited Offer!,https://nymbuscommerce.com/visit/23418/belledorm-coupons,,,,
+Ad,Add,,Vaporesso Store,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Vaporesso Store Coupon Code,Best Vaporesso Store Coupons,Top Vaporesso Store Coupons,Get 55% Off Vaporesso Store,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Vaporesso Store coupon. All coupons verified,"With This Exclusive Vaporesso Store Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Vaporesso Store Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Vaporesso Store. Limited Offer!,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons,,,,
+Ad,Add,,Sambas the Bambas,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Sambas the Bambas Coupon Code,Best Sambas the Bambas Coupons,Top Sambas the Bambas Coupons,Get 55% Off Sambas the Bambas,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Sambas the Bambas coupon. All coupons verified,"With This Exclusive Sambas the Bambas Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Sambas the Bambas Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Sambas the Bambas. Limited Offer!,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons,,,,
+Ad,Add,,CURVD,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CURVD Coupon Code,Best CURVD Coupons,Top CURVD Coupons,Get 55% Off CURVD,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CURVD coupon. All coupons verified,"With This Exclusive CURVD Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CURVD Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CURVD. Limited Offer!,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,,,,
+Ad,Add,,Afobrick,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Afobrick Coupon Code,Best Afobrick Coupons,Top Afobrick Coupons,Get 55% Off Afobrick,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Afobrick coupon. All coupons verified,"With This Exclusive Afobrick Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Afobrick Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Afobrick. Limited Offer!,https://nymbuscommerce.com/visit/23418/afobrick-coupons,,,,
+Ad,Add,,Eyebrow Queen Pro,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Eyebrow Queen Pro Coupon Code,Best Eyebrow Queen Pro Coupons,Top Eyebrow Queen Pro Coupons,Get 55% Off Eyebrow Queen Pro,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Eyebrow Queen Pro coupon. All coupons verified,"With This Exclusive Eyebrow Queen Pro Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Eyebrow Queen Pro Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Eyebrow Queen Pro. Limited Offer!,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons,,,,
+Ad,Add,,ISOMERSLAB.NET,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ISOMERSLAB.NET Coupon Code,Best ISOMERSLAB.NET Coupons,Top ISOMERSLAB.NET Coupons,Get 55% Off ISOMERSLAB.NET,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ISOMERSLAB.NET coupon. All coupons verified,"With This Exclusive ISOMERSLAB.NET Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ISOMERSLAB.NET Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ISOMERSLAB.NET. Limited Offer!,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons,,,,
+Ad,Add,,sonicred,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,sonicred Coupon Code,Best sonicred Coupons,Top sonicred Coupons,Get 55% Off sonicred,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with sonicred coupon. All coupons verified,"With This Exclusive sonicred Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special sonicred Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam sonicred. Limited Offer!,https://nymbuscommerce.com/visit/23418/sonicred-coupons,,,,
+Ad,Add,,MuscleMeds,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MuscleMeds Coupon Code,Best MuscleMeds Coupons,Top MuscleMeds Coupons,Get 55% Off MuscleMeds,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MuscleMeds coupon. All coupons verified,"With This Exclusive MuscleMeds Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MuscleMeds Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MuscleMeds. Limited Offer!,https://nymbuscommerce.com/visit/23418/musclemeds-coupons,,,,
+Ad,Add,,ALCAD,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,ALCAD Coupon Code,Best ALCAD Coupons,Top ALCAD Coupons,Get 55% Off ALCAD,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with ALCAD coupon. All coupons verified,"With This Exclusive ALCAD Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special ALCAD Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam ALCAD. Limited Offer!,https://nymbuscommerce.com/visit/23418/alcad-coupons,,,,
+Ad,Add,,CheryLife Inc,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CheryLife Inc Coupon Code,Best CheryLife Inc Coupons,Top CheryLife Inc Coupons,Get 55% Off CheryLife Inc,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CheryLife Inc coupon. All coupons verified,"With This Exclusive CheryLife Inc Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CheryLife Inc Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CheryLife Inc. Limited Offer!,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons,,,,
+Ad,Add,,carpuride,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,carpuride Coupon Code,Best carpuride Coupons,Top carpuride Coupons,Get 55% Off carpuride,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with carpuride coupon. All coupons verified,"With This Exclusive carpuride Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special carpuride Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam carpuride. Limited Offer!,https://nymbuscommerce.com/visit/23418/carpuride-coupons,,,,
+Ad,Add,,Flower and Twig Nursery,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Flower and Twig Nursery coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Flower and Twig Nursery Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Flower and Twig Nursery. Limited Offer!,55% Off Flower and Twig Nursery Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons,,,,
+Ad,Add,,GK HAIR EUROPE,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GK HAIR EUROPE Coupon Code,Best GK HAIR EUROPE Coupons,Top GK HAIR EUROPE Coupons,Get 55% Off GK HAIR EUROPE,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GK HAIR EUROPE coupon. All coupons verified,"With This Exclusive GK HAIR EUROPE Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GK HAIR EUROPE Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GK HAIR EUROPE. Limited Offer!,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons,,,,
+Ad,Add,,GK Hair USA,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GK Hair USA Coupon Code,Best GK Hair USA Coupons,Top GK Hair USA Coupons,Get 55% Off GK Hair USA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GK Hair USA coupon. All coupons verified,"With This Exclusive GK Hair USA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GK Hair USA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GK Hair USA. Limited Offer!,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons,,,,
+Ad,Add,,Friendship Lamps,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Friendship Lamps Coupon Code,Best Friendship Lamps Coupons,Top Friendship Lamps Coupons,Get 55% Off Friendship Lamps,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Friendship Lamps coupon. All coupons verified,"With This Exclusive Friendship Lamps Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Friendship Lamps Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Friendship Lamps. Limited Offer!,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,,,,
+Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/paddleprocom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/bombofficial-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/bombofficial-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/bombofficial-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/cowderry-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/cowderry-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/cowderry-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/7or9-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/7or9-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/7or9-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/belledorm-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/belledorm-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/belledorm-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/vaporesso-store-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/sambas-the-bambas-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/curvdreg-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/afobrick-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/eyebrow-queen-pro-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/isomerslabnet-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/sonicred-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/sonicred-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/sonicred-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/musclemeds-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/musclemeds-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/musclemeds-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/alcad-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/alcad-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/alcad-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/cherylife-inc-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/carpuride-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/carpuride-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/carpuride-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/flower-and-twig-nursery-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/gk-hair-europe-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/gk-hair-usa-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/friendship-lamps-powered-by-filimin-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Paddlepro.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,BOMBOFFICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Cowderry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,7or9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Belledorm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Vaporesso Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Sambas the Bambas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CURVD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Afobrick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Eyebrow Queen Pro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ISOMERSLAB.NET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,sonicred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,MuscleMeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ALCAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CheryLife Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,carpuride,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Flower and Twig Nursery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,GK HAIR EUROPE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,GK Hair USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Friendship Lamps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

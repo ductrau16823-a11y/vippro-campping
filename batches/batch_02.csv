@@ -1,401 +1,401 @@
-﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
-Campaign,Add,Paused,Waterdrop United Kingdom,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,metalkitor,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Pop Collector,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,MagicJohn,Search,Google search,10,Daily,Maximize clicks,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,AIMEILI Gel Polish,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Santa Barbara Chocolate,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,BUR BUR,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Adoebike,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,HeliosGlobal,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Ortur,Search,Google search,10,Daily,Maximize clicks,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,123 Reg,Search,Google search,10,Daily,Maximize clicks,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,zChocolat.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,GreaterGood,Search,Google search,10,Daily,Maximize clicks,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,FragranceShop.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Diecast,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Click Grow,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,CarmelLimo.com,Search,Google search,10,Daily,Maximize clicks,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Synergee Canada,Search,Google search,10,Daily,Maximize clicks,en,2124;2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,Synergeefitness,Search,Google search,10,Daily,Maximize clicks,en,2840;2124;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Campaign,Add,Paused,PUCKIPUPPY BIKES,Search,Google search,10,Daily,Maximize clicks,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,metalkitor,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Pop Collector,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,MagicJohn,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,BUR BUR,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Adoebike,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,HeliosGlobal,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Ortur,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,123 Reg,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,zChocolat.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,GreaterGood,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,FragranceShop.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Diecast,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Click Grow,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,CarmelLimo.com,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Synergee Canada,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,Synergeefitness,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad group,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Promo code Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Coupon Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Coupon code Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Coupon code for Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Coupon for Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,Enabled,Promo code for Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,metalkitor coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,metalkitor coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,metalkitor promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,metalkitor promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Promo code metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon code metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon code for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Coupon for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,metalkitor,,,,,,,,,AG-1,,Enabled,Promo code for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Pop Collector promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Promo code Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon code Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon code for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Coupon for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Pop Collector,,,,,,,,,AG-1,,Enabled,Promo code for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,MagicJohn promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,Promo code MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,Coupon MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,Coupon code MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,Coupon code for MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,Coupon for MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,MagicJohn,,,,,,,,,AG-1,,Enabled,Promo code for MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,Promo code AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,Coupon AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,Coupon code AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,Coupon code for AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,Coupon for AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,Enabled,Promo code for AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Promo code Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Coupon Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Coupon code Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Coupon code for Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Coupon for Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,Enabled,Promo code for Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,BUR BUR coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,BUR BUR coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,BUR BUR promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,BUR BUR promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,Promo code BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,Coupon BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,Coupon code BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,Coupon code for BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,Coupon for BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,BUR BUR,,,,,,,,,AG-1,,Enabled,Promo code for BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Adoebike coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Adoebike coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Adoebike promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Adoebike promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Promo code Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Coupon Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Coupon code Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Coupon code for Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Coupon for Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Adoebike,,,,,,,,,AG-1,,Enabled,Promo code for Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,HeliosGlobal coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,HeliosGlobal coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,HeliosGlobal promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,HeliosGlobal promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,Promo code HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,Coupon HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,Coupon code HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,Coupon code for HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,Coupon for HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,HeliosGlobal,,,,,,,,,AG-1,,Enabled,Promo code for HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Ortur coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Ortur coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Ortur promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Ortur promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Promo code Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Coupon Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Coupon code Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Coupon code for Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Coupon for Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Ortur,,,,,,,,,AG-1,,Enabled,Promo code for Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,123 Reg coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,123 Reg coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,123 Reg promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,123 Reg promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,Promo code 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,Coupon 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,Coupon code 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,Coupon code for 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,Coupon for 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,123 Reg,,,,,,,,,AG-1,,Enabled,Promo code for 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,zChocolat.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,zChocolat.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,zChocolat.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,zChocolat.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,Promo code zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,Coupon zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,Coupon code zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,Coupon code for zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,Coupon for zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,zChocolat.com,,,,,,,,,AG-1,,Enabled,Promo code for zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,GreaterGood coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,GreaterGood coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,GreaterGood promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,GreaterGood promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,Promo code GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,Coupon GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,Coupon code GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,Coupon code for GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,Coupon for GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,GreaterGood,,,,,,,,,AG-1,,Enabled,Promo code for GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,FragranceShop.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,FragranceShop.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,FragranceShop.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,FragranceShop.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,Promo code FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,Coupon FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,Coupon code FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,Coupon code for FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,Coupon for FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,FragranceShop.com,,,,,,,,,AG-1,,Enabled,Promo code for FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Diecast coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Diecast coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Diecast promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Diecast promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Promo code Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon code Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon code for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Coupon for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Diecast,,,,,,,,,AG-1,,Enabled,Promo code for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Click Grow promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Promo code Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon code Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon code for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Coupon for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Click Grow,,,,,,,,,AG-1,,Enabled,Promo code for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,CarmelLimo.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,Promo code CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,Coupon CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,Coupon code CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,Coupon code for CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,Coupon for CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,CarmelLimo.com,,,,,,,,,AG-1,,Enabled,Promo code for CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Synergee Canada coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Synergee Canada coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Synergee Canada promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Synergee Canada promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Promo code Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Coupon Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Coupon code Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Coupon code for Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Coupon for Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergee Canada,,,,,,,,,AG-1,,Enabled,Promo code for Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Synergeefitness coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Synergeefitness coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Synergeefitness promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Synergeefitness promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Promo code Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Coupon Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Coupon code Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Coupon code for Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Coupon for Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,Synergeefitness,,,,,,,,,AG-1,,Enabled,Promo code for Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Promo code PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Coupon PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Coupon code PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Coupon code for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Coupon for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,Enabled,Promo code for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ad,Add,,Waterdrop United Kingdom,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Waterdrop United Kingdom coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Waterdrop United Kingdom. Limited Offer!,55% Off Waterdrop United Kingdom Coupons & Promo Codes 2025,Apply these Waterdrop United Kingdom Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons,,,,
-Ad,Add,,metalkitor,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,metalkitor Coupon Code,Best metalkitor Coupons,Top metalkitor Coupons,Get 55% Off metalkitor,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with metalkitor coupon. All coupons verified,"With This Exclusive metalkitor Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special metalkitor Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam metalkitor. Limited Offer!,https://nymbuscommerce.com/visit/23418/metalkitor-coupons,,,,
-Ad,Add,,Pop Collector,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pop Collector Coupon Code,Best Pop Collector Coupons,Top Pop Collector Coupons,Get 55% Off Pop Collector,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pop Collector coupon. All coupons verified,"With This Exclusive Pop Collector Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pop Collector Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pop Collector. Limited Offer!,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,,,,
-Ad,Add,,MagicJohn,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MagicJohn Coupon Code,Best MagicJohn Coupons,Top MagicJohn Coupons,Get 55% Off MagicJohn,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MagicJohn coupon. All coupons verified,"With This Exclusive MagicJohn Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MagicJohn Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MagicJohn. Limited Offer!,https://nymbuscommerce.com/visit/23418/magicjohn-coupons,,,,
-Ad,Add,,AIMEILI Gel Polish,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,AIMEILI Gel Polish Coupon Code,Top AIMEILI Gel Polish Coupons,Get 55% Off AIMEILI Gel Polish,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,Save 55% Off on all products with AIMEILI Gel Polish coupon. All coupons verified,"With This Exclusive AIMEILI Gel Polish Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special AIMEILI Gel Polish Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam AIMEILI Gel Polish. Limited Offer!,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons,,,,
-Ad,Add,,Santa Barbara Chocolate,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Santa Barbara Chocolate coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Santa Barbara Chocolate Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Santa Barbara Chocolate. Limited Offer!,55% Off Santa Barbara Chocolate Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons,,,,
-Ad,Add,,BUR BUR,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,BUR BUR Coupon Code,Best BUR BUR Coupons,Top BUR BUR Coupons,Get 55% Off BUR BUR,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with BUR BUR coupon. All coupons verified,"With This Exclusive BUR BUR Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special BUR BUR Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam BUR BUR. Limited Offer!,https://nymbuscommerce.com/visit/23418/bur-bur-coupons,,,,
-Ad,Add,,Adoebike,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Adoebike Coupon Code,Best Adoebike Coupons,Top Adoebike Coupons,Get 55% Off Adoebike,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Adoebike coupon. All coupons verified,"With This Exclusive Adoebike Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Adoebike Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Adoebike. Limited Offer!,https://nymbuscommerce.com/visit/23418/adoebike-coupons,,,,
-Ad,Add,,HeliosGlobal,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HeliosGlobal Coupon Code,Best HeliosGlobal Coupons,Top HeliosGlobal Coupons,Get 55% Off HeliosGlobal,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HeliosGlobal coupon. All coupons verified,"With This Exclusive HeliosGlobal Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HeliosGlobal Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HeliosGlobal. Limited Offer!,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons,,,,
-Ad,Add,,Ortur,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Ortur Coupon Code,Best Ortur Coupons,Top Ortur Coupons,Get 55% Off Ortur,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Ortur coupon. All coupons verified,"With This Exclusive Ortur Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Ortur Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Ortur. Limited Offer!,https://nymbuscommerce.com/visit/23418/ortur-coupons,,,,
-Ad,Add,,123 Reg,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,123 Reg Coupon Code,Best 123 Reg Coupons,Top 123 Reg Coupons,Get 55% Off 123 Reg,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with 123 Reg coupon. All coupons verified,"With This Exclusive 123 Reg Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special 123 Reg Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam 123 Reg. Limited Offer!,https://nymbuscommerce.com/visit/23418/123-reg-coupons,,,,
-Ad,Add,,zChocolat.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,zChocolat.com Coupon Code,Best zChocolat.com Coupons,Top zChocolat.com Coupons,Get 55% Off zChocolat.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with zChocolat.com coupon. All coupons verified,"With This Exclusive zChocolat.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special zChocolat.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam zChocolat.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons,,,,
-Ad,Add,,GreaterGood,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GreaterGood Coupon Code,Best GreaterGood Coupons,Top GreaterGood Coupons,Get 55% Off GreaterGood,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GreaterGood coupon. All coupons verified,"With This Exclusive GreaterGood Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GreaterGood Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GreaterGood. Limited Offer!,https://nymbuscommerce.com/visit/23418/greatergood-coupons,,,,
-Ad,Add,,FragranceShop.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,FragranceShop.com Coupon Code,Best FragranceShop.com Coupons,Top FragranceShop.com Coupons,Get 55% Off FragranceShop.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with FragranceShop.com coupon. All coupons verified,"With This Exclusive FragranceShop.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special FragranceShop.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam FragranceShop.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons,,,,
-Ad,Add,,Diecast,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Diecast Coupon Code,Best Diecast Coupons,Top Diecast Coupons,Get 55% Off Diecast,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Diecast coupon. All coupons verified,"With This Exclusive Diecast Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Diecast Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Diecast. Limited Offer!,https://nymbuscommerce.com/visit/23418/diecast-coupons,,,,
-Ad,Add,,Click Grow,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Click Grow Coupon Code,Best Click Grow Coupons,Top Click Grow Coupons,Get 55% Off Click Grow,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Click Grow coupon. All coupons verified,"With This Exclusive Click Grow Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Click Grow Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Click Grow. Limited Offer!,https://nymbuscommerce.com/visit/23418/click-grow-coupons,,,,
-Ad,Add,,CarmelLimo.com,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CarmelLimo.com Coupon Code,Best CarmelLimo.com Coupons,Top CarmelLimo.com Coupons,Get 55% Off CarmelLimo.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CarmelLimo.com coupon. All coupons verified,"With This Exclusive CarmelLimo.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CarmelLimo.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CarmelLimo.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons,,,,
-Ad,Add,,Synergee Canada,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Synergee Canada Coupon Code,Best Synergee Canada Coupons,Top Synergee Canada Coupons,Get 55% Off Synergee Canada,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Synergee Canada coupon. All coupons verified,"With This Exclusive Synergee Canada Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Synergee Canada Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Synergee Canada. Limited Offer!,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons,,,,
-Ad,Add,,Synergeefitness,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Synergeefitness Coupon Code,Best Synergeefitness Coupons,Top Synergeefitness Coupons,Get 55% Off Synergeefitness,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Synergeefitness coupon. All coupons verified,"With This Exclusive Synergeefitness Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Synergeefitness Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Synergeefitness. Limited Offer!,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons,,,,
-Ad,Add,,PUCKIPUPPY BIKES,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,PUCKIPUPPY BIKES Coupon Code,Best PUCKIPUPPY BIKES Coupons,Top PUCKIPUPPY BIKES Coupons,Get 55% Off PUCKIPUPPY BIKES,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with PUCKIPUPPY BIKES coupon. All coupons verified,"With This Exclusive PUCKIPUPPY BIKES Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special PUCKIPUPPY BIKES Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam PUCKIPUPPY BIKES. Limited Offer!,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons,,,,
-Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/bur-bur-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/bur-bur-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/bur-bur-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/adoebike-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/adoebike-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/adoebike-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ortur-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ortur-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ortur-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/123-reg-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/123-reg-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/123-reg-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/greatergood-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/greatergood-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/greatergood-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/diecast-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/diecast-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/diecast-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons&2,Create new,Campaign,All Blog,
-Sitelink,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons&1,Create new,Campaign,Today's Top Coupon,
-Sitelink,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons,Create new,Campaign,Best Deals Of The Days,
-Sitelink,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons&2,Create new,Campaign,All Blog,
-Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
-Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
-Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
-Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
-Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Paused,Waterdrop United Kingdom,Search,Google search,10,Daily,Maximize clicks,0.40,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,metalkitor,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2276;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Pop Collector,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,MagicJohn,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,AIMEILI Gel Polish,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2380,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Santa Barbara Chocolate,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,BUR BUR,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Adoebike,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,HeliosGlobal,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Ortur,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2250;2276,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,123 Reg,Search,Google search,10,Daily,Maximize clicks,0.40,en,2826;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,zChocolat.com,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,GreaterGood,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,FragranceShop.com,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Diecast,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Click Grow,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,CarmelLimo.com,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Synergee Canada,Search,Google search,10,Daily,Maximize clicks,0.40,en,2124;2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,Synergeefitness,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Campaign,Add,Paused,PUCKIPUPPY BIKES,Search,Google search,10,Daily,Maximize clicks,0.40,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,metalkitor,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Pop Collector,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,MagicJohn,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,BUR BUR,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Adoebike,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,HeliosGlobal,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Ortur,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,123 Reg,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,zChocolat.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,GreaterGood,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,FragranceShop.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Diecast,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Click Grow,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CarmelLimo.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Synergee Canada,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Synergeefitness,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Waterdrop United Kingdom promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Promo code Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Coupon Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Coupon code Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Coupon code for Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Coupon for Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,Enabled,Promo code for Waterdrop United Kingdom,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,metalkitor coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,metalkitor coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,metalkitor promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,metalkitor promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,Promo code metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,Coupon metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,Coupon code metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,Coupon code for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,Coupon for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,metalkitor,,,,,,,,,,AG-1,,Enabled,Promo code for metalkitor,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Pop Collector coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Pop Collector coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Pop Collector promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Pop Collector promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Promo code Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Coupon Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Coupon code Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Coupon code for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Coupon for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Pop Collector,,,,,,,,,,AG-1,,Enabled,Promo code for Pop Collector,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,MagicJohn coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,MagicJohn coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,MagicJohn promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,MagicJohn promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,Promo code MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,Coupon MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,Coupon code MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,Coupon code for MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,Coupon for MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,MagicJohn,,,,,,,,,,AG-1,,Enabled,Promo code for MagicJohn,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,AIMEILI Gel Polish promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,Promo code AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,Coupon AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,Coupon code AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,Coupon code for AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,Coupon for AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,Enabled,Promo code for AIMEILI Gel Polish,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Santa Barbara Chocolate promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Promo code Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Coupon Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Coupon code Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Coupon code for Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Coupon for Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,Enabled,Promo code for Santa Barbara Chocolate,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,BUR BUR coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,BUR BUR coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,BUR BUR promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,BUR BUR promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,Promo code BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,Coupon BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,Coupon code BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,Coupon code for BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,Coupon for BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,BUR BUR,,,,,,,,,,AG-1,,Enabled,Promo code for BUR BUR,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Adoebike coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Adoebike coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Adoebike promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Adoebike promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Promo code Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Coupon Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Coupon code Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Coupon code for Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Coupon for Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adoebike,,,,,,,,,,AG-1,,Enabled,Promo code for Adoebike,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,HeliosGlobal coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,HeliosGlobal coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,HeliosGlobal promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,HeliosGlobal promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,Promo code HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,Coupon HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,Coupon code HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,Coupon code for HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,Coupon for HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,HeliosGlobal,,,,,,,,,,AG-1,,Enabled,Promo code for HeliosGlobal,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Ortur coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Ortur coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Ortur promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Ortur promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Promo code Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Coupon Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Coupon code Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Coupon code for Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Coupon for Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ortur,,,,,,,,,,AG-1,,Enabled,Promo code for Ortur,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,123 Reg coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,123 Reg coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,123 Reg promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,123 Reg promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,Promo code 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,Coupon 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,Coupon code 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,Coupon code for 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,Coupon for 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,123 Reg,,,,,,,,,,AG-1,,Enabled,Promo code for 123 Reg,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,zChocolat.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,zChocolat.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,zChocolat.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,zChocolat.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,Promo code zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,Coupon zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,Coupon code zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,Coupon code for zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,Coupon for zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,zChocolat.com,,,,,,,,,,AG-1,,Enabled,Promo code for zChocolat.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,GreaterGood coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,GreaterGood coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,GreaterGood promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,GreaterGood promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,Promo code GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,Coupon GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,Coupon code GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,Coupon code for GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,Coupon for GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,GreaterGood,,,,,,,,,,AG-1,,Enabled,Promo code for GreaterGood,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,FragranceShop.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,FragranceShop.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,FragranceShop.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,FragranceShop.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,Promo code FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,Coupon FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,Coupon code FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,Coupon code for FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,Coupon for FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,FragranceShop.com,,,,,,,,,,AG-1,,Enabled,Promo code for FragranceShop.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Diecast coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Diecast coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Diecast promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Diecast promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Promo code Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Coupon Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Coupon code Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Coupon code for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Coupon for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Diecast,,,,,,,,,,AG-1,,Enabled,Promo code for Diecast,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Click Grow coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Click Grow coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Click Grow promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Click Grow promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Promo code Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Coupon Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Coupon code Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Coupon code for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Coupon for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Click Grow,,,,,,,,,,AG-1,,Enabled,Promo code for Click Grow,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,CarmelLimo.com coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,CarmelLimo.com coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,CarmelLimo.com promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,CarmelLimo.com promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,Promo code CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,Coupon CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,Coupon code CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,Coupon code for CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,Coupon for CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,Enabled,Promo code for CarmelLimo.com,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Synergee Canada coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Synergee Canada coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Synergee Canada promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Synergee Canada promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Promo code Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Coupon Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Coupon code Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Coupon code for Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Coupon for Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergee Canada,,,,,,,,,,AG-1,,Enabled,Promo code for Synergee Canada,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Synergeefitness coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Synergeefitness coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Synergeefitness promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Synergeefitness promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Promo code Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Coupon Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Coupon code Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Coupon code for Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Coupon for Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Synergeefitness,,,,,,,,,,AG-1,,Enabled,Promo code for Synergeefitness,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES coupon,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES coupon code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES promo code,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,PUCKIPUPPY BIKES promo,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,Promo code PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,Coupon PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,Coupon code PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,Coupon code for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,Coupon for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,Enabled,Promo code for PUCKIPUPPY BIKES,Phrase match,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Waterdrop United Kingdom,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Waterdrop United Kingdom coupon. All coupons verified,Enjoy A Big Surprise With 55% Off Thanks To lam Waterdrop United Kingdom. Limited Offer!,55% Off Waterdrop United Kingdom Coupons & Promo Codes 2025,Apply these Waterdrop United Kingdom Coupon At Checkout And Save. Tested Daily.,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons,,,,
+Ad,Add,,metalkitor,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,metalkitor Coupon Code,Best metalkitor Coupons,Top metalkitor Coupons,Get 55% Off metalkitor,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with metalkitor coupon. All coupons verified,"With This Exclusive metalkitor Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special metalkitor Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam metalkitor. Limited Offer!,https://nymbuscommerce.com/visit/23418/metalkitor-coupons,,,,
+Ad,Add,,Pop Collector,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Pop Collector Coupon Code,Best Pop Collector Coupons,Top Pop Collector Coupons,Get 55% Off Pop Collector,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Pop Collector coupon. All coupons verified,"With This Exclusive Pop Collector Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Pop Collector Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Pop Collector. Limited Offer!,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,,,,
+Ad,Add,,MagicJohn,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,MagicJohn Coupon Code,Best MagicJohn Coupons,Top MagicJohn Coupons,Get 55% Off MagicJohn,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with MagicJohn coupon. All coupons verified,"With This Exclusive MagicJohn Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special MagicJohn Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam MagicJohn. Limited Offer!,https://nymbuscommerce.com/visit/23418/magicjohn-coupons,,,,
+Ad,Add,,AIMEILI Gel Polish,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,AIMEILI Gel Polish Coupon Code,Top AIMEILI Gel Polish Coupons,Get 55% Off AIMEILI Gel Polish,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,,Save 55% Off on all products with AIMEILI Gel Polish coupon. All coupons verified,"With This Exclusive AIMEILI Gel Polish Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special AIMEILI Gel Polish Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam AIMEILI Gel Polish. Limited Offer!,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons,,,,
+Ad,Add,,Santa Barbara Chocolate,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,Top Coupons Today,,,,,,,,,,,Save 55% Off on all products with Santa Barbara Chocolate coupon. All coupons verified,Saving Your Pocket With 55% Off Thanks To Special Santa Barbara Chocolate Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Santa Barbara Chocolate. Limited Offer!,55% Off Santa Barbara Chocolate Coupons & Promo Codes 2025,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons,,,,
+Ad,Add,,BUR BUR,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,BUR BUR Coupon Code,Best BUR BUR Coupons,Top BUR BUR Coupons,Get 55% Off BUR BUR,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with BUR BUR coupon. All coupons verified,"With This Exclusive BUR BUR Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special BUR BUR Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam BUR BUR. Limited Offer!,https://nymbuscommerce.com/visit/23418/bur-bur-coupons,,,,
+Ad,Add,,Adoebike,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Adoebike Coupon Code,Best Adoebike Coupons,Top Adoebike Coupons,Get 55% Off Adoebike,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Adoebike coupon. All coupons verified,"With This Exclusive Adoebike Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Adoebike Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Adoebike. Limited Offer!,https://nymbuscommerce.com/visit/23418/adoebike-coupons,,,,
+Ad,Add,,HeliosGlobal,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,HeliosGlobal Coupon Code,Best HeliosGlobal Coupons,Top HeliosGlobal Coupons,Get 55% Off HeliosGlobal,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with HeliosGlobal coupon. All coupons verified,"With This Exclusive HeliosGlobal Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special HeliosGlobal Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam HeliosGlobal. Limited Offer!,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons,,,,
+Ad,Add,,Ortur,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Ortur Coupon Code,Best Ortur Coupons,Top Ortur Coupons,Get 55% Off Ortur,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Ortur coupon. All coupons verified,"With This Exclusive Ortur Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Ortur Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Ortur. Limited Offer!,https://nymbuscommerce.com/visit/23418/ortur-coupons,,,,
+Ad,Add,,123 Reg,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,123 Reg Coupon Code,Best 123 Reg Coupons,Top 123 Reg Coupons,Get 55% Off 123 Reg,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with 123 Reg coupon. All coupons verified,"With This Exclusive 123 Reg Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special 123 Reg Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam 123 Reg. Limited Offer!,https://nymbuscommerce.com/visit/23418/123-reg-coupons,,,,
+Ad,Add,,zChocolat.com,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,zChocolat.com Coupon Code,Best zChocolat.com Coupons,Top zChocolat.com Coupons,Get 55% Off zChocolat.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with zChocolat.com coupon. All coupons verified,"With This Exclusive zChocolat.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special zChocolat.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam zChocolat.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons,,,,
+Ad,Add,,GreaterGood,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,GreaterGood Coupon Code,Best GreaterGood Coupons,Top GreaterGood Coupons,Get 55% Off GreaterGood,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with GreaterGood coupon. All coupons verified,"With This Exclusive GreaterGood Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special GreaterGood Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam GreaterGood. Limited Offer!,https://nymbuscommerce.com/visit/23418/greatergood-coupons,,,,
+Ad,Add,,FragranceShop.com,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,FragranceShop.com Coupon Code,Best FragranceShop.com Coupons,Top FragranceShop.com Coupons,Get 55% Off FragranceShop.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with FragranceShop.com coupon. All coupons verified,"With This Exclusive FragranceShop.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special FragranceShop.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam FragranceShop.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons,,,,
+Ad,Add,,Diecast,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Diecast Coupon Code,Best Diecast Coupons,Top Diecast Coupons,Get 55% Off Diecast,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Diecast coupon. All coupons verified,"With This Exclusive Diecast Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Diecast Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Diecast. Limited Offer!,https://nymbuscommerce.com/visit/23418/diecast-coupons,,,,
+Ad,Add,,Click Grow,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Click Grow Coupon Code,Best Click Grow Coupons,Top Click Grow Coupons,Get 55% Off Click Grow,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Click Grow coupon. All coupons verified,"With This Exclusive Click Grow Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Click Grow Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Click Grow. Limited Offer!,https://nymbuscommerce.com/visit/23418/click-grow-coupons,,,,
+Ad,Add,,CarmelLimo.com,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,CarmelLimo.com Coupon Code,Best CarmelLimo.com Coupons,Top CarmelLimo.com Coupons,Get 55% Off CarmelLimo.com,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CarmelLimo.com coupon. All coupons verified,"With This Exclusive CarmelLimo.com Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CarmelLimo.com Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CarmelLimo.com. Limited Offer!,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons,,,,
+Ad,Add,,Synergee Canada,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Synergee Canada Coupon Code,Best Synergee Canada Coupons,Top Synergee Canada Coupons,Get 55% Off Synergee Canada,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Synergee Canada coupon. All coupons verified,"With This Exclusive Synergee Canada Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Synergee Canada Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Synergee Canada. Limited Offer!,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons,,,,
+Ad,Add,,Synergeefitness,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,Synergeefitness Coupon Code,Best Synergeefitness Coupons,Top Synergeefitness Coupons,Get 55% Off Synergeefitness,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with Synergeefitness coupon. All coupons verified,"With This Exclusive Synergeefitness Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special Synergeefitness Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam Synergeefitness. Limited Offer!,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons,,,,
+Ad,Add,,PUCKIPUPPY BIKES,,,,,,,,,,AG-1,,,,,Paused,Responsive search ad,PUCKIPUPPY BIKES Coupon Code,Best PUCKIPUPPY BIKES Coupons,Top PUCKIPUPPY BIKES Coupons,Get 55% Off PUCKIPUPPY BIKES,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with PUCKIPUPPY BIKES coupon. All coupons verified,"With This Exclusive PUCKIPUPPY BIKES Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special PUCKIPUPPY BIKES Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam PUCKIPUPPY BIKES. Limited Offer!,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons,,,,
+Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/waterdrop-united-kingdom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/metalkitor-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/pop-collector-magasin-funko-pop-loungefly-soda-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/magicjohn-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/aimeili-gel-polish-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/santa-barbara-chocolate-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/bur-bur-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/bur-bur-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/bur-bur-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/adoebike-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/adoebike-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/adoebike-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/heliosglobal-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/ortur-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/ortur-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/ortur-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/123-reg-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/123-reg-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/123-reg-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/zchocolatcom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/greatergood-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/greatergood-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/greatergood-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/fragranceshopcom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/diecast-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/diecast-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/diecast-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/click-grow-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/carmellimocom-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/synergee-canada-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/synergeefitness-coupons&2,Create new,Campaign,All Blog,
+Sitelink,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nymbuscommerce.com/visit/23418/puckipuppy-bikes-coupons&2,Create new,Campaign,All Blog,
+Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Waterdrop United Kingdom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,metalkitor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Pop Collector,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,MagicJohn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,AIMEILI Gel Polish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Santa Barbara Chocolate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,BUR BUR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Adoebike,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,HeliosGlobal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Ortur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,123 Reg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,zChocolat.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,GreaterGood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,FragranceShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Diecast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Click Grow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CarmelLimo.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Synergee Canada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Synergeefitness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
+Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,PUCKIPUPPY BIKES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
