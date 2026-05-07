@@ -577,8 +577,47 @@ class CampaignCreator:
 
         # ==================== 2FA + POPUPS ====================
 
+        # State anti-loop 2FA: list timestamps cua moi lan thu
+        _2fa_state = {"attempts": [], "max_attempts": 3, "window_sec": 60}
+
+        TOTP_INPUT_SELECTORS = [
+            "input#totpPin",
+            "input[name='totpPin']",
+            "input[name='Pin']",
+            "input[autocomplete='one-time-code']",
+            "input[type='tel'][aria-label*='code' i]",
+        ]
+
+        def _find_totp_input():
+            """Tim input TOTP voi nhieu selector fallback."""
+            for sel in TOTP_INPUT_SELECTORS:
+                try:
+                    for el in d.find_elements(By.CSS_SELECTOR, sel):
+                        if el.is_displayed():
+                            return el
+                except Exception:
+                    pass
+            return None
+
+        def _wait_totp_tab(max_sec=30):
+            """Poll trong max_sec giay tim tab co URL signin/challenge HOAC element TOTP.
+            Return: handle cua tab TOTP, hoac None."""
+            deadline = time.time() + max_sec
+            while time.time() < deadline:
+                for h in d.window_handles:
+                    try:
+                        d.switch_to.window(h)
+                        url = (d.current_url or "").lower()
+                        if "challenge" in url or "/signin/" in url:
+                            if _find_totp_input():
+                                return h
+                    except Exception:
+                        pass
+                time.sleep(1)
+            return None
+
         def _solve_one_2fa():
-            """Xu ly 1 popup Confirm + 2FA. Return True neu da xu ly 1 dialog, False neu khong co."""
+            """Xu ly 1 popup Confirm + 2FA. Return True neu da xu ly, False neu khong co dialog."""
             import pyotp
             import requests
 
@@ -588,10 +627,22 @@ class CampaignCreator:
                         continue
                 except Exception:
                     continue
-                except Exception:
-                    continue
+
+                # Anti-loop: clean attempts > window_sec, raise neu vuot max
+                now = time.time()
+                _2fa_state["attempts"] = [
+                    t for t in _2fa_state["attempts"] if now - t < _2fa_state["window_sec"]
+                ]
+                if len(_2fa_state["attempts"]) >= _2fa_state["max_attempts"]:
+                    self.tracker.log(
+                        f"[2FA] Da thu {_2fa_state['max_attempts']} lan trong {_2fa_state['window_sec']}s — DUNG, can xu ly tay",
+                        "error",
+                    )
+                    raise RuntimeError("2FA loop detected — manual intervention required")
+                _2fa_state["attempts"].append(now)
 
                 self.tracker.log("[2FA] Gap popup xac thuc...", "warn")
+                ads_handle = d.current_window_handle  # luu de quay lai
 
                 # Click Confirm hoac Try again
                 for b in dialog.find_elements(By.XPATH, ".//material-button | .//button"):
@@ -599,12 +650,12 @@ class CampaignCreator:
                         if b.is_displayed() and b.text.strip() in ("Confirm", "Try again"):
                             action_click(b)
                             self.tracker.log(f"[2FA] Click {b.text.strip()}")
-                            time.sleep(5)
+                            time.sleep(2)
                             break
                     except Exception:
                         pass
 
-                # Try again lan 2
+                # Neu Google show them dialog "Try again" — click them
                 for d2 in d.find_elements(By.XPATH, "//material-dialog"):
                     try:
                         if d2.is_displayed() and "Try again" in d2.text:
@@ -612,64 +663,83 @@ class CampaignCreator:
                                 if b2.is_displayed() and "Try again" in b2.text:
                                     action_click(b2)
                                     self.tracker.log("[2FA] Click Try again")
-                                    time.sleep(5)
+                                    time.sleep(2)
                                     break
                             break
                     except Exception:
                         pass
 
-                # Check tab 2FA moi
-                time.sleep(2)
-                handles = d.window_handles
-                if len(handles) > 1:
-                    for h in handles:
-                        d.switch_to.window(h)
+                # POLLING 30s cho tab TOTP load xong (URL + element san sang)
+                self.tracker.log("[2FA] Doi tab TOTP load (max 30s)...")
+                totp_handle = _wait_totp_tab(max_sec=30)
+
+                if totp_handle:
+                    d.switch_to.window(totp_handle)
+                    try:
+                        # Lay email tren trang
+                        email = ""
+                        for e in d.find_elements(By.XPATH, "//*[contains(text(), '@gmail.com')]"):
+                            if e.is_displayed():
+                                email = e.text.strip().lower()
+                                break
+
+                        # Lay 2FA key tu dashboard API
+                        secret = None
                         try:
-                            if "Sign in" not in d.title:
-                                continue
-                            totp_els = d.find_elements(By.CSS_SELECTOR, "input#totpPin")
-                            if not totp_els or not totp_els[0].is_displayed():
-                                continue
-
-                            # Lay email tren trang
-                            email = ""
-                            for e in d.find_elements(By.XPATH, "//*[contains(text(), '@gmail.com')]"):
-                                if e.is_displayed():
-                                    email = e.text.strip().lower()
+                            r = requests.get("http://localhost:3000/api/gmail", timeout=10)
+                            data = r.json()
+                            items = data.get("data", data) if isinstance(data, dict) else data
+                            for g in items:
+                                if g.get("email", "").lower() == email:
+                                    secret = g.get("twoFactorKey")
                                     break
-
-                            # Lay 2FA key tu dashboard API
-                            secret = None
-                            try:
-                                r = requests.get("http://localhost:3000/api/gmail", timeout=10)
-                                data = r.json()
-                                items = data.get("data", data) if isinstance(data, dict) else data
-                                for g in items:
-                                    if g.get("email", "").lower() == email:
-                                        secret = g.get("twoFactorKey")
-                                        break
-                            except Exception:
-                                pass
-
-                            if secret:
-                                code = pyotp.TOTP(secret).now()
-                                self.tracker.log(f"[2FA] {email} -> {code}")
-                                totp_els[0].click()
-                                time.sleep(0.5)
-                                totp_els[0].send_keys(code)
-                                time.sleep(1)
-                                next_btn = d.find_element(By.CSS_SELECTOR, "#totpNext button")
-                                action_click(next_btn)
-                                self.tracker.log("[2FA] OK!")
-                                time.sleep(5)
-                            break
                         except Exception:
                             pass
 
-                    # Quay ve tab Ads
+                        if not secret:
+                            self.tracker.log(f"[2FA] Khong tim thay 2FA key cho '{email}'", "error")
+                        else:
+                            code = pyotp.TOTP(secret).now()
+                            self.tracker.log(f"[2FA] {email} -> {code}")
+                            totp_input = _find_totp_input()
+                            if totp_input:
+                                totp_input.click()
+                                time.sleep(0.5)
+                                totp_input.send_keys(code)
+                                time.sleep(1)
+                                # Tim nut Next/Submit voi nhieu selector
+                                next_btn = None
+                                for sel in ("#totpNext button", "button[type='submit']",
+                                            "button[jsname='LgbsSe']", "div#next button"):
+                                    try:
+                                        for el in d.find_elements(By.CSS_SELECTOR, sel):
+                                            if el.is_displayed():
+                                                next_btn = el
+                                                break
+                                        if next_btn:
+                                            break
+                                    except Exception:
+                                        pass
+                                if next_btn:
+                                    action_click(next_btn)
+                                    self.tracker.log("[2FA] OK!")
+                                    time.sleep(5)
+                                else:
+                                    self.tracker.log("[2FA] Khong tim thay nut Next", "warn")
+                            else:
+                                self.tracker.log("[2FA] Khong tim thay TOTP input", "warn")
+                    except Exception as e:
+                        self.tracker.log(f"[2FA] Loi xu ly TOTP: {e}", "error")
+                else:
+                    self.tracker.log("[2FA] Khong tim thay tab TOTP sau 30s", "warn")
+
+                # Quay ve tab Ads (uu tien handle da luu)
+                try:
+                    d.switch_to.window(ads_handle)
+                except Exception:
                     for h in d.window_handles:
-                        d.switch_to.window(h)
                         try:
+                            d.switch_to.window(h)
                             if "Google Ads" in d.title:
                                 break
                         except Exception:
