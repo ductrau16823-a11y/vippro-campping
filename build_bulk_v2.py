@@ -38,6 +38,17 @@ LOCATION_MAP = {
     'Pháp':           2250,
     'Ý':              2380,
     'Tây Ban Nha':    2724,
+    'Bỉ':             2056,
+    'Hà Lan':         2528,
+    'Áo':             2040,
+    'Thụy Điển':      2752,
+    'Thụy Sĩ':        2756,
+    'Phần Lan':       2246,
+    'Ireland':        2372,
+    'Na Uy':          2578,
+    'Đan Mạch':       2208,
+    'New Zealand':    2554,
+    'Bồ Đào Nha':     2620,
 }
 
 BIDDING_MAP = {
