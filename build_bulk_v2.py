@@ -109,7 +109,7 @@ AD_GROUP_HEADERS = [
 ]
 
 KEYWORD_HEADERS = [
-    'Action', 'Keyword status', 'Campaign', 'Ad group', 'Keyword', 'Match Type',
+    'Action', 'Keyword status', 'Campaign', 'Ad group', 'Keyword', 'Match Type', 'Max CPC',
 ]
 
 RSA_HEADERS = [
@@ -221,14 +221,14 @@ def build_campaign_row(p, warnings):
     name = p['name']
     budget = str(p.get('budget', '')).strip() or '10'
     bidding_vn = p.get('bidding', '').strip()
-    bidding_en = BIDDING_MAP.get(bidding_vn, 'Maximize clicks')
+    bidding_en = BIDDING_MAP.get(bidding_vn, 'Manual CPC')
     loc_ids = [str(LOCATION_MAP[l]) for l in p.get('targetLocations', []) or [] if l in LOCATION_MAP]
     if not loc_ids:
         warnings.append(f"[{name}] no valid location — SKIP campaign")
         return None
     r = row_empty(CAMPAIGN_HEADERS)
     r['Action'] = 'Add'
-    r['Campaign status'] = 'Paused'
+    r['Campaign status'] = 'Enabled'
     r['Campaign'] = name
     r['Campaign type'] = 'Search'
     r['Networks'] = 'Google search'
@@ -266,6 +266,7 @@ def build_keyword_rows(p):
         r['Ad group'] = 'AG-1'
         r['Keyword'] = txt
         r['Match Type'] = mt
+        r['Max CPC'] = str(p.get('maxCpcLimit') or DEFAULT_MAX_CPC)
         rows.append(r)
     return rows
 
@@ -281,7 +282,7 @@ def build_rsa_row(p, warnings):
         return None
     r = row_empty(RSA_HEADERS)
     r['Action'] = 'Add'
-    r['Ad status'] = 'Paused'
+    r['Ad status'] = 'Enabled'
     r['Campaign'] = name
     r['Ad group'] = 'AG-1'
     r['Ad type'] = 'Responsive search ad'
@@ -343,7 +344,7 @@ UNION_HEADERS = [
     'Language', 'Location',
     'EU political ads',
     'Ad group', 'Status',
-    'Keyword status', 'Keyword', 'Match Type',
+    'Keyword status', 'Keyword', 'Match Type', 'Max CPC',
     'Ad status', 'Ad type',
 ] + [f'Headline {i}' for i in range(1, 16)] + [
     'Description', 'Description 2', 'Description 3', 'Description 4',
@@ -495,7 +496,7 @@ def main():
         # ad group cols
         'Ad group', 'Status',
         # keyword cols
-        'Keyword status', 'Keyword', 'Match Type',
+        'Keyword status', 'Keyword', 'Match Type', 'Max CPC',
         # rsa cols
         'Ad status', 'Ad type',
     ] + [f'Headline {i}' for i in range(1, 16)] + [

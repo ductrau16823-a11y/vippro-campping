@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Keepgo,Search,Google search,100,Daily,Manual CPC,,en,2840;2124;2724;2826;2276;2250;2380;2036;2528;2056,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Keepgo,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Keepgo,,,,,,,,,,AG-1,,Enabled,keepgo,Exact match,1.10,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Keepgo,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Keepgo Global SIM,Travel Data Worldwide,100+ Countries Coverage,Lifetime Data Plans,No Roaming Fees Ever,eSIM And SIM Card,Stay Connected Abroad,Top 4G LTE Networks,Pay As You Go Data,Free Shipping Worldwide,Trusted By Travelers,Easy Online Activation,Keepgo Hotspot Devices,Best Travel SIM Deal,Shop Global SIM Now,Stay connected in 100+ countries with Keepgo global SIM and eSIM data plans.,"Lifetime data with no roaming fees. Pay only for what you use, top up anytime.","Fast 4G LTE on top local networks. Easy online activation, no contracts needed.",Trusted by frequent travelers worldwide. Free shipping on SIM and hotspot orders.,https://www.keepgo.com/?ref=mhzqszcw,,,,
+Sitelink,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.keepgo.com/?ref=mhzqszcw&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.keepgo.com/?ref=mhzqszcw,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.keepgo.com/?ref=mhzqszcw&2,Create new,Campaign,All Blog,
+Callout,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Keepgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

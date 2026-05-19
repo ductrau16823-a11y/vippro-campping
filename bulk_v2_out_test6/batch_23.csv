@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,EasySMX,Search,Google search,100,Daily,Manual CPC,,en,2840;2276;2724;2250;2124;2826;2380;2528;2056;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,EasySMX,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EasySMX,,,,,,,,,,AG-1,,Enabled,easysmx,Exact match,0.30,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,EasySMX,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,EasySMX Official Store,Pro Gaming Controllers,Up To 30% Off Today,Free Shipping Available,Switch PC PS4 PS5 Pad,Hall Effect Joystick,Wireless Gaming Gamepad,Long Battery Life,Code NYMBUS Save More,Customizable RGB Lights,Anti-Drift Technology,Best Gaming Controller,Trusted By 100K Gamers,Shop Best Sellers,EasySMX Sale 2026,Pro gaming controllers at EasySMX. Save up to 30% with free shipping today.,"Hall Effect joystick, anti-drift tech and customizable RGB lights for every gamer.","Use code NYMBUS for an extra discount. Compatible with Switch, PC, PS4 and PS5.",Trusted by 100K+ gamers. Long battery life with wireless precision performance.,https://www.easysmx.com/?ref=bhpiqqwk,,,,
+Sitelink,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.easysmx.com/?ref=bhpiqqwk&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.easysmx.com/?ref=bhpiqqwk,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.easysmx.com/?ref=bhpiqqwk&2,Create new,Campaign,All Blog,
+Callout,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,EasySMX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

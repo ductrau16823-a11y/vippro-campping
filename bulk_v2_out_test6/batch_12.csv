@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,EngineDIY,Search,Google search,100,Daily,Manual CPC,,en,2840;2826;2124;2276;2036;2250;2528;2724;2554;2040,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,EngineDIY,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,EngineDIY,,,,,,,,,,AG-1,,Enabled,enginediy,Exact match,0.40,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,EngineDIY,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,EngineDIY Official Store,Mini Engine Model Kits,Save Up To 25% Today,Free Shipping Available,V8 V12 Stirling Engine,Build Your Own Engine,Educational Engine Toys,Collector Grade Models,Steam Engine Kits,RC Boat Plane Engines,Code NYMBUS 10% Off,Unique Gift For Dad,Premium Quality Build,Worldwide Fast Shipping,Shop EngineDIY Today,Premium mini engine model kits at EngineDIY. Save up to 25% with free shipping.,"Build working V8, V12, Stirling and steam engines. Educational and collectible.",Use code NYMBUS for 10% off. Worldwide fast shipping with secure checkout.,Perfect gift for hobbyists and dads. Premium parts and detailed instructions.,https://www.enginediy.com/?ref=oarfdcka,,,,
+Sitelink,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.enginediy.com/?ref=oarfdcka&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.enginediy.com/?ref=oarfdcka,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.enginediy.com/?ref=oarfdcka&2,Create new,Campaign,All Blog,
+Callout,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,EngineDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

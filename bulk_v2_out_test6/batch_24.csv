@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,ANSWR,Search,Google search,100,Daily,Manual CPC,,en,2840;2826;2124;2036;2724;2752;2380;2578;2056;2208,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,ANSWR,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,ANSWR,,,,,,,,,,AG-1,,Enabled,answr,Exact match,0.50,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,ANSWR,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,ANSWR Official Store,Premium Skincare Brand,Up To 15% Off Today,Free UK Shipping,Clinically Proven Formulas,Anti-Aging Skincare,Hydrating Serum Cream,Code NYMBUS Save Now,Vegan Cruelty Free,Trusted By Beauty Editors,Pro Grade Ingredients,Sensitive Skin Friendly,Best Sellers Skincare,Shop New Arrivals,ANSWR Beauty Sale 2026,Premium skincare at ANSWR. Save up to 15% with free UK shipping today.,Clinically proven anti-aging formulas with hydrating serum and cream collections.,Use code NYMBUS for an extra discount. Vegan and cruelty free skincare.,Trusted by beauty editors. Pro grade ingredients for sensitive skin support.,https://answr.uk/?ref=epimoziv,,,,
+Sitelink,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://answr.uk/?ref=epimoziv&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://answr.uk/?ref=epimoziv,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://answr.uk/?ref=epimoziv&2,Create new,Campaign,All Blog,
+Callout,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,ANSWR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Transcent,Search,Google search,100,Daily,Manual CPC,,en,2840;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Transcent,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Transcent,,,,,,,,,,AG-1,,Enabled,transcent,Exact match,6.10,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Transcent,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Transcent Official Store,Premium Lifestyle Goods,Up To 25% Off Today,Free Shipping In US,Top Brand Bundle Deals,Code NYMBUS36 Save Now,Curated Boutique Picks,New Arrivals Weekly,Premium Quality Build,Trusted Online Store,Best Lifestyle Deals,Member Reward Program,Easy Returns Available,Shop Best Sellers,Transcent Store Sale,Premium lifestyle goods at Transcent. Save up to 25% with free US shipping today.,Curated boutique picks and top brand bundle deals with new arrivals every week.,Use code NYMBUS36 for an extra discount. Member reward program with easy returns.,Trusted online store for premium quality lifestyle products and accessories.,https://transcent.store/?ref=NYMBUS36,,,,
+Sitelink,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://transcent.store/?ref=NYMBUS36&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://transcent.store/?ref=NYMBUS36,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://transcent.store/?ref=NYMBUS36&2,Create new,Campaign,All Blog,
+Callout,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Transcent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
