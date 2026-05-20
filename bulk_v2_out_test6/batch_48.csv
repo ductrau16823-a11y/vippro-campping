@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Nilight,Search,Google search,150654,Daily,Manual CPC,,en,2840;2124;2276;2040;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Nilight,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Nilight,,,,,,,,,,AG-1,,Enabled,nilight,Exact match,1205,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Nilight,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Nilight Official Store,Nilight Big Sale Today,Up To 30% Off Today,Free Shipping Available,Shop Nilight Best Sellers,Code NYMBUS Save More,New Arrivals Weekly,Premium Quality Build,Best Nilight Deals 2026,Worldwide Fast Shipping,Trusted Online Store,Buy Nilight Online Now,Member Reward Program,Easy Returns Available,Top Rated Brand,Premium picks at Nilight. Save up to 30% with free shipping on selected items today.,"Trusted online store with Nilight best sellers, new arrivals and exclusive promo codes.",Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.,Member reward program and top rated service. Discover Nilight essentials made simple.,https://www.nilight.com/?ref=pfzbykdj,,,,
+Sitelink,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.nilight.com/?ref=pfzbykdj&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.nilight.com/?ref=pfzbykdj,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.nilight.com/?ref=pfzbykdj&2,Create new,Campaign,All Blog,
+Callout,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Nilight,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

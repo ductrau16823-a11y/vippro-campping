@@ -3,11 +3,18 @@
     "name": "Prop Money",
     "campaignType": "Search",
     "link1": "https://propmoney.com/?fbclid=IwY2xjawR4pmVleHRuA2FlbQIxMABicmlkETFRTzZ3NUVvazR1eWkzN3Zxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlyj31gvzOm57TANl6Ar1d31PFt63xwcUBV0nkgLZdK9vBJSVRW3Tk0lwfD-_aem_MPLHVPZpgQurxlCoFwrqnQ&irclickid=xQFXSz1QoxyZWzOX42xbOX2gUkuRygxBY30I0U0&irgwc=1&afsrc=1",
-    "adsKey": ["propmoney"],
+    "adsKey": [
+      "propmoney"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.20",
-    "targetLocations": ["Hoa Kỳ", "Canada", "Pháp", "Bỉ"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Pháp",
+      "Bỉ"
+    ],
     "headlines": [
       "Official Prop Money Store",
       "The Industry Standard",
@@ -36,11 +43,24 @@
     "name": "iSinwheel",
     "campaignType": "Search",
     "link1": "https://www.isinwheel.com/?fbclid=IwY2xjawR4oA5leHRuA2FlbQIxMABicmlkETFRTzZ3NUVvazR1eWkzN3Zxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgzn-i69v2TKtHXoJUMR5MpNBc4NJ5AGQTvb-KTigbwcgEhbv26Suf3k1Bow_aem_OjwGD5bsjJhOn8J1A2cNdQ&im_ref=xQFXSz1QoxyZWzOX42xbOX2gUkuRyVT5Y30I0U0&sharedid=&irpid=7113813&irgwc=1&afsrc=1",
-    "adsKey": ["isinwheel"],
+    "adsKey": [
+      "isinwheel"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.90",
-    "targetLocations": ["Hoa Kỳ", "Đức", "Pháp", "Vương quốc Anh", "Canada", "Tây Ban Nha", "Ý", "Áo", "Thụy Điển", "Đan Mạch"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Canada",
+      "Tây Ban Nha",
+      "Ý",
+      "Áo",
+      "Thụy Điển",
+      "Đan Mạch"
+    ],
     "headlines": [
       "iSinwheel Official Store",
       "Electric Scooters E-Bikes",
@@ -69,11 +89,24 @@
     "name": "Cardiff Loans",
     "campaignType": "Search",
     "link1": "https://cardiff.co/affiliate/small-business-loans/?fbclid=IwY2xjawR4n3ZleHRuA2FlbQIxMABicmlkETFRTzZ3NUVvazR1eWkzN3Zxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgzn-i69v2TKtHXoJUMR5MpNBc4NJ5AGQTvb-KTigbwcgEhbv26Suf3k1Bow_aem_OjwGD5bsjJhOn8J1A2cNdQ&im_ref=xQFXSz1QoxyZWzOX42xbOX2gUkuRyV2FY30I0U0&sharedid=&irpid=7113813&irgwc=1&afsrc=1",
-    "adsKey": ["cardiff"],
+    "adsKey": [
+      "cardiff"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "3.30",
-    "targetLocations": ["Vương quốc Anh", "Pháp", "Hoa Kỳ", "Úc", "Đức", "Ý", "Tây Ban Nha", "Canada", "Hà Lan", "Thụy Điển"],
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Pháp",
+      "Hoa Kỳ",
+      "Úc",
+      "Đức",
+      "Ý",
+      "Tây Ban Nha",
+      "Canada",
+      "Hà Lan",
+      "Thụy Điển"
+    ],
     "headlines": [
       "Same Day Loan Approval",
       "Small Business Loans",
@@ -102,11 +135,24 @@
     "name": "Nobis Outerwear",
     "campaignType": "Search",
     "link1": "https://us.nobis.com/?fbclid=IwY2xjawR4px5leHRuA2FlbQIxMABicmlkETE3WHFDUnFrS3g2aEpuUVBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm4VD7ICu0qkocVw5xTwo3if0LzN8IPAMPpq-kco9-K2O2ZIYw4kC7fjhhlh_aem_zKOII2CWeBZqDRHrxzI_bQ&im_ref=WSB2k81QMxyZUpZQNOy-8zmMUkuRygVx32hIXY0&sharedid=&irpid=7113813&irgwc=1&afsrc=1",
-    "adsKey": ["nobis"],
+    "adsKey": [
+      "nobis"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.80",
-    "targetLocations": ["Ý", "Đức", "Canada", "Pháp", "Hoa Kỳ", "Thụy Điển", "Bỉ", "Vương quốc Anh", "Tây Ban Nha", "Thụy Sĩ"],
+    "targetLocations": [
+      "Ý",
+      "Đức",
+      "Canada",
+      "Pháp",
+      "Hoa Kỳ",
+      "Thụy Điển",
+      "Bỉ",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Thụy Sĩ"
+    ],
     "headlines": [
       "Nobis Premium Outerwear",
       "Styles That Move",
@@ -135,11 +181,24 @@
     "name": "Airwallex Business",
     "campaignType": "Search",
     "link1": "https://www.airwallex.com/global/business-account?fbclid=IwY2xjawR4p0xleHRuA2FlbQIxMABicmlkETE3WHFDUnFrS3g2aEpuUVBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpzcbhRqsq_KN8BJvdaAE82SOMSrrv-X9HotJjaqNINH2X6G18IHgoWUE3d-_aem_Aznf9LpVQkoe2gT8TSNwoA&irclickid=WSB2k81QMxyZUpZQNOy-8zmMUkuRygS532hIXY0&sharedid=&irpid=7113813&irgwc=1&afsrc=1&utm_source=impact&utm_medium=affiliates&utm_campaign=Novabus&im_reward=&srr=",
-    "adsKey": ["airwallex"],
+    "adsKey": [
+      "airwallex"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "13.00",
-    "targetLocations": ["Úc", "Hoa Kỳ", "Vương quốc Anh", "Canada", "Pháp", "Hà Lan", "Đức", "New Zealand", "Tây Ban Nha", "Ý"],
+    "targetLocations": [
+      "Úc",
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Pháp",
+      "Hà Lan",
+      "Đức",
+      "New Zealand",
+      "Tây Ban Nha",
+      "Ý"
+    ],
     "headlines": [
       "Airwallex Business Account",
       "Open Account Online Free",
@@ -168,11 +227,24 @@
     "name": "WowAngel Wigs",
     "campaignType": "Search",
     "link1": "https://wowangel.com/okzfiusi",
-    "adsKey": ["wowangel"],
+    "adsKey": [
+      "wowangel"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "1.40",
-    "targetLocations": ["Vương quốc Anh", "Pháp", "Hoa Kỳ", "Canada", "Bỉ", "Đức", "Hà Lan", "Úc", "Bồ Đào Nha", "Phần Lan"],
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Pháp",
+      "Hoa Kỳ",
+      "Canada",
+      "Bỉ",
+      "Đức",
+      "Hà Lan",
+      "Úc",
+      "Bồ Đào Nha",
+      "Phần Lan"
+    ],
     "headlines": [
       "Skinlike HD Lace Wigs",
       "100% Virgin Human Hair",
@@ -201,11 +273,22 @@
     "name": "Arccaptain Welder",
     "campaignType": "Search",
     "link1": "https://www.arccaptain.com/?ref=ndwtnqxr",
-    "adsKey": ["[arccaptain]"],
+    "adsKey": [
+      "[arccaptain]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.10",
-    "targetLocations": ["Hoa Kỳ", "Canada", "Pháp", "Đức", "Ý", "Vương quốc Anh", "Áo", "Bỉ"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Pháp",
+      "Đức",
+      "Ý",
+      "Vương quốc Anh",
+      "Áo",
+      "Bỉ"
+    ],
     "headlines": [
       "Arccaptain Welder Store",
       "MIG TIG Stick Welders",
@@ -234,11 +317,24 @@
     "name": "SUNLU 3D Printing",
     "campaignType": "Search",
     "link1": "https://store.sunlu.com?sca_ref=11132669.QL3EKXyWxR",
-    "adsKey": ["[sunlu]"],
+    "adsKey": [
+      "[sunlu]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.10",
-    "targetLocations": ["Đức", "Hoa Kỳ", "Ý", "Pháp", "Vương quốc Anh", "Canada", "Tây Ban Nha", "Hà Lan", "Bỉ", "Thụy Điển"],
+    "targetLocations": [
+      "Đức",
+      "Hoa Kỳ",
+      "Ý",
+      "Pháp",
+      "Vương quốc Anh",
+      "Canada",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Bỉ",
+      "Thụy Điển"
+    ],
     "headlines": [
       "SUNLU Official Store",
       "Premium 3D Printing Filament",
@@ -267,11 +363,24 @@
     "name": "Sportdirect.ca",
     "campaignType": "Search",
     "link1": "https://www.sportdirect.ca?sca_ref=11112749.1XMyp0ssgZ",
-    "adsKey": ["[sportdirect]"],
+    "adsKey": [
+      "[sportdirect]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.50",
-    "targetLocations": ["Vương quốc Anh", "Ai-len", "Pháp", "Bỉ", "Hoa Kỳ", "Tây Ban Nha", "Bồ Đào Nha", "Áo", "Đức", "Ý"],
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Ai-len",
+      "Pháp",
+      "Bỉ",
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Bồ Đào Nha",
+      "Áo",
+      "Đức",
+      "Ý"
+    ],
     "headlines": [
       "Sportdirect Official Store",
       "Sports Gear Big Brands",
@@ -300,11 +409,24 @@
     "name": "Keepgo",
     "campaignType": "Search",
     "link1": "https://www.keepgo.com/?ref=mhzqszcw",
-    "adsKey": ["[keepgo]"],
+    "adsKey": [
+      "[keepgo]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "1.10",
-    "targetLocations": ["Hoa Kỳ", "Canada", "Tây Ban Nha", "Vương quốc Anh", "Đức", "Pháp", "Ý", "Úc", "Hà Lan", "Bỉ"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Úc",
+      "Hà Lan",
+      "Bỉ"
+    ],
     "headlines": [
       "Keepgo Global SIM",
       "Travel Data Worldwide",
@@ -333,11 +455,18 @@
     "name": "Let's Resin",
     "campaignType": "Search",
     "link1": "https://letsresin.com/?ref=aqthnbee&utm_source=goaffpro",
-    "adsKey": ["[letsresin]"],
+    "adsKey": [
+      "[letsresin]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.20",
-    "targetLocations": ["Hoa Kỳ", "Vương quốc Anh", "Canada", "Úc"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc"
+    ],
     "headlines": [
       "Let's Resin Official",
       "Epoxy Resin Kits Sale",
@@ -366,11 +495,24 @@
     "name": "EngineDIY",
     "campaignType": "Search",
     "link1": "https://www.enginediy.com/?ref=oarfdcka",
-    "adsKey": ["[enginediy]"],
+    "adsKey": [
+      "[enginediy]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.40",
-    "targetLocations": ["Hoa Kỳ", "Vương quốc Anh", "Canada", "Đức", "Úc", "Pháp", "Hà Lan", "Tây Ban Nha", "New Zealand", "Áo"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Đức",
+      "Úc",
+      "Pháp",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "New Zealand",
+      "Áo"
+    ],
     "headlines": [
       "EngineDIY Official Store",
       "Mini Engine Model Kits",
@@ -399,11 +541,17 @@
     "name": "Evolution Power Tools UK",
     "campaignType": "Search",
     "link1": "https://bit.ly/3Oyklin",
-    "adsKey": ["[evolutionpowertools]"],
+    "adsKey": [
+      "[evolutionpowertools]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.10",
-    "targetLocations": ["Vương quốc Anh", "Hoa Kỳ", "Bồ Đào Nha"],
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Hoa Kỳ",
+      "Bồ Đào Nha"
+    ],
     "headlines": [
       "Evolution Power Tools UK",
       "Mitre Saws Circular Saws",
@@ -432,11 +580,24 @@
     "name": "ALDKitchen",
     "campaignType": "Search",
     "link1": "https://ald.kitchen/?ref=uqcjtjcn",
-    "adsKey": ["[ald]"],
+    "adsKey": [
+      "[ald]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.80",
-    "targetLocations": ["Pháp", "Hoa Kỳ", "Ý", "Vương quốc Anh", "Đức", "Úc", "Tây Ban Nha", "Canada", "Hà Lan", "Bỉ"],
+    "targetLocations": [
+      "Pháp",
+      "Hoa Kỳ",
+      "Ý",
+      "Vương quốc Anh",
+      "Đức",
+      "Úc",
+      "Tây Ban Nha",
+      "Canada",
+      "Hà Lan",
+      "Bỉ"
+    ],
     "headlines": [
       "ALDKitchen Official Store",
       "Commercial Kitchen Gear",
@@ -465,11 +626,24 @@
     "name": "Hohem Official Store",
     "campaignType": "Search",
     "link1": "https://store.hohem.com/?ref=MINHPHUONGGMAILCOM",
-    "adsKey": ["[hohem]"],
+    "adsKey": [
+      "[hohem]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.40",
-    "targetLocations": ["Hoa Kỳ", "Đức", "Vương quốc Anh", "Pháp", "Canada", "Ý", "Tây Ban Nha", "Úc", "Hà Lan", "Đan Mạch"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Ý",
+      "Tây Ban Nha",
+      "Úc",
+      "Hà Lan",
+      "Đan Mạch"
+    ],
     "headlines": [
       "Hohem Official Store",
       "Smartphone Gimbals",
@@ -498,11 +672,22 @@
     "name": "Stationery Pal",
     "campaignType": "Search",
     "link1": "https://stationerypal.com/?ref=rsigblpu",
-    "adsKey": ["[stationerypal]"],
+    "adsKey": [
+      "[stationerypal]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.10",
-    "targetLocations": ["Hoa Kỳ", "Vương quốc Anh", "Ý", "Úc", "Tây Ban Nha", "Canada", "Pháp", "Hà Lan"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Ý",
+      "Úc",
+      "Tây Ban Nha",
+      "Canada",
+      "Pháp",
+      "Hà Lan"
+    ],
     "headlines": [
       "Stationery Pal Store",
       "Cute Korean Japanese",
@@ -531,11 +716,24 @@
     "name": "Art de Vivre Boutique",
     "campaignType": "Search",
     "link1": "https://www.luxurylifestyleagency.com/shoplifestyle?ref=NYMBUS36&fbclid=IwY2xjawR5DGdleHRuA2FlbQIxMABicmlkETFscXZGZkxrNzQ5UEU1Qm1zc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHobTPmfS-YlDQni72WLJ6RPBI_N16WR4bKADYSqBGZS-wp_3C-wHp7bhTGQh_aem_ho9A7QusgYDXrwqWlQFLrQ",
-    "adsKey": ["[luxurylifestyleagency]"],
+    "adsKey": [
+      "[luxurylifestyleagency]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "4.00",
-    "targetLocations": ["Hoa Kỳ", "Vương quốc Anh", "Canada", "Đức", "Ý", "Pháp", "Úc", "Hà Lan", "Tây Ban Nha", "Thụy Điển"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Đức",
+      "Ý",
+      "Pháp",
+      "Úc",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Thụy Điển"
+    ],
     "headlines": [
       "Art De Vivre Boutique",
       "Curated French Lifestyle",
@@ -564,11 +762,17 @@
     "name": "Scarlet Darkness",
     "campaignType": "Search",
     "link1": "https://scarletdarkness.com/?ref=NYMBUS36",
-    "adsKey": ["[scarletdarkness]"],
+    "adsKey": [
+      "[scarletdarkness]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.20",
-    "targetLocations": ["Hoa Kỳ", "Úc", "Thụy Sĩ"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc",
+      "Thụy Sĩ"
+    ],
     "headlines": [
       "Scarlet Darkness Store",
       "Renaissance Vintage Dress",
@@ -597,11 +801,16 @@
     "name": "Transcent",
     "campaignType": "Search",
     "link1": "https://transcent.store/?ref=NYMBUS36",
-    "adsKey": ["[transcent]"],
+    "adsKey": [
+      "[transcent]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "6.10",
-    "targetLocations": ["Hoa Kỳ", "Canada"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada"
+    ],
     "headlines": [
       "Transcent Official Store",
       "Premium Lifestyle Goods",
@@ -630,11 +839,19 @@
     "name": "LAYON",
     "campaignType": "Search",
     "link1": "https://www.layon.eu/?ref=gvzopzot",
-    "adsKey": ["[layon]"],
+    "adsKey": [
+      "[layon]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.10",
-    "targetLocations": ["Pháp", "Ý", "Hoa Kỳ", "Vương quốc Anh", "Đan Mạch"],
+    "targetLocations": [
+      "Pháp",
+      "Ý",
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Đan Mạch"
+    ],
     "headlines": [
       "LAYON Official Store",
       "Premium Home Decor",
@@ -663,11 +880,24 @@
     "name": "Maine Garden Products",
     "campaignType": "Search",
     "link1": "https://stores.mainegarden.com/?ref=djyimnrn",
-    "adsKey": ["[mainegarden]"],
+    "adsKey": [
+      "[mainegarden]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "1.00",
-    "targetLocations": ["Hoa Kỳ", "Canada", "Hà Lan", "Pháp", "Vương quốc Anh", "Đức", "Thụy Điển", "Bỉ", "Tây Ban Nha", "Úc"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Hà Lan",
+      "Pháp",
+      "Vương quốc Anh",
+      "Đức",
+      "Thụy Điển",
+      "Bỉ",
+      "Tây Ban Nha",
+      "Úc"
+    ],
     "headlines": [
       "Maine Garden Products",
       "Premium Garden Supplies",
@@ -696,11 +926,24 @@
     "name": "Templar Cross",
     "campaignType": "Search",
     "link1": "https://templar-cross.com/?ref=ddloavcu",
-    "adsKey": ["[templar cross]"],
+    "adsKey": [
+      "[templar cross]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.30",
-    "targetLocations": ["Hoa Kỳ", "Vương quốc Anh", "Canada", "Úc", "Hà Lan", "Bồ Đào Nha", "Pháp", "Ý", "Thụy Sĩ", "Áo"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Hà Lan",
+      "Bồ Đào Nha",
+      "Pháp",
+      "Ý",
+      "Thụy Sĩ",
+      "Áo"
+    ],
     "headlines": [
       "Templar Cross Store",
       "Knights Templar Jewelry",
@@ -729,11 +972,24 @@
     "name": "EasySMX",
     "campaignType": "Search",
     "link1": "https://www.easysmx.com/?ref=bhpiqqwk",
-    "adsKey": ["[easysmx]"],
+    "adsKey": [
+      "[easysmx]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.30",
-    "targetLocations": ["Hoa Kỳ", "Đức", "Tây Ban Nha", "Pháp", "Canada", "Vương quốc Anh", "Ý", "Hà Lan", "Bỉ", "Úc"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Tây Ban Nha",
+      "Pháp",
+      "Canada",
+      "Vương quốc Anh",
+      "Ý",
+      "Hà Lan",
+      "Bỉ",
+      "Úc"
+    ],
     "headlines": [
       "EasySMX Official Store",
       "Pro Gaming Controllers",
@@ -762,11 +1018,24 @@
     "name": "ANSWR",
     "campaignType": "Search",
     "link1": "https://answr.uk/?ref=epimoziv",
-    "adsKey": ["[answr]"],
+    "adsKey": [
+      "[answr]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.50",
-    "targetLocations": ["Hoa Kỳ", "Vương quốc Anh", "Canada", "Úc", "Tây Ban Nha", "Thụy Điển", "Ý", "Na Uy", "Bỉ", "Đan Mạch"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Tây Ban Nha",
+      "Thụy Điển",
+      "Ý",
+      "Na Uy",
+      "Bỉ",
+      "Đan Mạch"
+    ],
     "headlines": [
       "ANSWR Official Store",
       "Premium Skincare Brand",
@@ -795,11 +1064,24 @@
     "name": "ONE Shop",
     "campaignType": "Search",
     "link1": "https://one.shop/?ref=NGUYENDINHKHANH",
-    "adsKey": ["[oneshop]"],
+    "adsKey": [
+      "[oneshop]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.30",
-    "targetLocations": ["Hoa Kỳ", "Pháp", "Vương quốc Anh", "Đức", "Thụy Điển", "Úc", "Ý", "Tây Ban Nha", "Hà Lan", "Đan Mạch"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Vương quốc Anh",
+      "Đức",
+      "Thụy Điển",
+      "Úc",
+      "Ý",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Đan Mạch"
+    ],
     "headlines": [
       "ONE Shop Official Store",
       "ONE Championship Gear",
@@ -828,11 +1110,24 @@
     "name": "Aoocci",
     "campaignType": "Search",
     "link1": "https://aoocci.com/?ref=gzgtgdgf",
-    "adsKey": ["[aoocci]"],
+    "adsKey": [
+      "[aoocci]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.40",
-    "targetLocations": ["Vương quốc Anh", "Pháp", "Ý", "Tây Ban Nha", "Hoa Kỳ", "Đức", "Úc", "Ai-len", "Thụy Điển", "Bồ Đào Nha"],
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Pháp",
+      "Ý",
+      "Tây Ban Nha",
+      "Hoa Kỳ",
+      "Đức",
+      "Úc",
+      "Ai-len",
+      "Thụy Điển",
+      "Bồ Đào Nha"
+    ],
     "headlines": [
       "Aoocci Official Store",
       "Premium Auto Detailing",
@@ -861,11 +1156,15 @@
     "name": "Poodled Store",
     "campaignType": "Search",
     "link1": "https://poodled.co/?ref=npmlnvgv",
-    "adsKey": ["[poodled]"],
+    "adsKey": [
+      "[poodled]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.10",
-    "targetLocations": ["Thụy Điển"],
+    "targetLocations": [
+      "Thụy Điển"
+    ],
     "headlines": [
       "Poodled Official Store",
       "Premium Lifestyle Picks",
@@ -894,11 +1193,24 @@
     "name": "Trak Racer EU",
     "campaignType": "Search",
     "link1": "https://trakracer.eu/?ref=kbdptabo",
-    "adsKey": ["[trakracer]"],
+    "adsKey": [
+      "[trakracer]"
+    ],
     "bidding": "Thủ công CPC",
     "budget": "100",
     "maxCpcLimit": "0.50",
-    "targetLocations": ["Hoa Kỳ", "Úc", "Vương quốc Anh", "Đức", "Canada", "Pháp", "Ý", "Bỉ", "Tây Ban Nha", "Thụy Điển"],
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc",
+      "Vương quốc Anh",
+      "Đức",
+      "Canada",
+      "Pháp",
+      "Ý",
+      "Bỉ",
+      "Tây Ban Nha",
+      "Thụy Điển"
+    ],
     "headlines": [
       "Trak Racer EU Store",
       "Pro Sim Racing Rigs",
@@ -921,6 +1233,2240 @@
       "Cockpits, wheel stands and direct drive bundles with heavy duty racing frames.",
       "Use code NYMBUS for an extra discount. TR8, TR80, RS6 and Mach 2 in stock now.",
       "Trusted by sim racers worldwide. Premium build quality for serious racing fans."
+    ]
+  },
+  {
+    "name": "Adarna House",
+    "campaignType": "Search",
+    "link1": "https://adarna.com.ph/?ref=cpntfyhf",
+    "adsKey": [
+      "[adarna]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Canada",
+      "Đức",
+      "Hà Lan",
+      "Úc"
+    ],
+    "headlines": [
+      "Adarna Official Store",
+      "Adarna Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Adarna Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Adarna Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Adarna Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Adarna. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Adarna best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Adarna essentials made simple."
+    ]
+  },
+  {
+    "name": "Nicpro",
+    "campaignType": "Search",
+    "link1": "https://nicpro.com/?ref=bkenpxjc",
+    "adsKey": [
+      "[nicpro]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Đức",
+      "Pháp",
+      "Tây Ban Nha",
+      "Ý",
+      "Hà Lan",
+      "Úc",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Nicpro Official Store",
+      "Nicpro Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Nicpro Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Nicpro Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Nicpro Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Nicpro. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Nicpro best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Nicpro essentials made simple."
+    ]
+  },
+  {
+    "name": "willow.ie",
+    "campaignType": "Search",
+    "link1": "https://www.willow.ie/?ref=wrtomqzi",
+    "adsKey": [
+      "[willow]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Pháp",
+      "Đức",
+      "Tây Ban Nha",
+      "Úc",
+      "Ý",
+      "Hà Lan",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "willow.ie Official Store",
+      "willow.ie Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop willow.ie Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best willow.ie Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy willow.ie Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at willow.ie. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with willow.ie best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover willow.ie essentials made simple."
+    ]
+  },
+  {
+    "name": "Frizzlife",
+    "campaignType": "Search",
+    "link1": "https://www.frizzlife.com/?ref=rsubhaxc&utm_source=affiliate",
+    "adsKey": [
+      "[frizzlife]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "301",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Ý",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Úc",
+      "Áo"
+    ],
+    "headlines": [
+      "Frizzlife Official Store",
+      "Frizzlife Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Frizzlife Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Frizzlife Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Frizzlife Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Frizzlife. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Frizzlife best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Frizzlife essentials made simple."
+    ]
+  },
+  {
+    "name": "Procase",
+    "campaignType": "Search",
+    "link1": "https://procase.com/?ref=jrgynmfl",
+    "adsKey": [
+      "[procase]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "301",
+    "targetLocations": [
+      "Đức",
+      "Hoa Kỳ",
+      "Pháp",
+      "Canada",
+      "Úc",
+      "Vương quốc Anh",
+      "Ý",
+      "Tây Ban Nha",
+      "Thụy Sĩ",
+      "Áo"
+    ],
+    "headlines": [
+      "Procase Official Store",
+      "Procase Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Procase Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Procase Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Procase Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Procase. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Procase best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Procase essentials made simple."
+    ]
+  },
+  {
+    "name": "Hexgaming.com",
+    "campaignType": "Search",
+    "link1": "https://www.hexgaming.com/?ref=esskpzoa&utm_source=affiliate",
+    "adsKey": [
+      "[hexgaming]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Đức",
+      "Canada",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Ý",
+      "Hà Lan",
+      "Úc",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Hexgaming.com Official Store",
+      "Hexgaming.com Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Hexgaming.com Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Hexgaming.com Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand",
+      "Exclusive Online Offers"
+    ],
+    "descriptions": [
+      "Premium picks at Hexgaming.com. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Hexgaming.com best sellers, new arrivals and exclusive promo cod",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Hexgaming.com essentials made simple"
+    ]
+  },
+  {
+    "name": "Ywigs",
+    "campaignType": "Search",
+    "link1": "https://www.ywigs.com/xvdntgij",
+    "adsKey": [
+      "[ywigs]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1356",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Pháp",
+      "Đức",
+      "Úc",
+      "Bỉ",
+      "Ý",
+      "Ai-len",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Ywigs Official Store",
+      "Ywigs Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Ywigs Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Ywigs Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Ywigs Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Ywigs. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Ywigs best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Ywigs essentials made simple."
+    ]
+  },
+  {
+    "name": "Tsarbomba",
+    "campaignType": "Search",
+    "link1": "https://tsarbomba.com/?ref=aqxwpgiy",
+    "adsKey": [
+      "[tsarbomba]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "3314",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Đức",
+      "Hà Lan",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Tsarbomba Official Store",
+      "Tsarbomba Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Tsarbomba Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Tsarbomba Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Tsarbomba Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Tsarbomba. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Tsarbomba best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Tsarbomba essentials made simple."
+    ]
+  },
+  {
+    "name": "Keychron",
+    "campaignType": "Search",
+    "link1": "https://www.keychron.com/?ref=NYMBUS",
+    "adsKey": [
+      "[keychron]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Úc",
+      "Canada",
+      "Pháp",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Thụy Điển",
+      "Ý"
+    ],
+    "headlines": [
+      "Keychron Official Store",
+      "Keychron Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Keychron Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Keychron Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Keychron Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Keychron. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Keychron best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Keychron essentials made simple."
+    ]
+  },
+  {
+    "name": "Drone-Clone Xperts",
+    "campaignType": "Search",
+    "link1": "https://droneclonexperts.com/?ref=nconxroh",
+    "adsKey": [
+      "[droneclonexperts]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "301",
+    "targetLocations": [
+      "Hoa Kỳ"
+    ],
+    "headlines": [
+      "Drone-Clone Official Store",
+      "Drone-Clone Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Drone-Clone Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Drone-Clone Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Drone-Clone Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Drone-Clone. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Drone-Clone best sellers, new arrivals and exclusive promo codes",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Drone-Clone essentials made simple."
+    ]
+  },
+  {
+    "name": "Dry Bags",
+    "campaignType": "Search",
+    "link1": "https://www.drybags.co.uk/?ref=ltoepywu",
+    "adsKey": [
+      "[drybags]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Úc",
+      "Đức",
+      "New Zealand",
+      "Đan Mạch",
+      "Na Uy",
+      "Bỉ",
+      "Bồ Đào Nha"
+    ],
+    "headlines": [
+      "Dry Official Store",
+      "Dry Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Dry Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Dry Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Dry Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Dry. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Dry best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Dry essentials made simple."
+    ]
+  },
+  {
+    "name": "FigureSkatingStore.com",
+    "campaignType": "Search",
+    "link1": "https://figureskatingstore.com/?ref=xmzsrxnu",
+    "adsKey": [
+      "[figureskatingstore]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ"
+    ],
+    "headlines": [
+      "FigureSkatingS Official Store",
+      "FigureSkatingS Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best FigureSkatingS Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy FigureSkatingS Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand",
+      "Exclusive Online Offers"
+    ],
+    "descriptions": [
+      "Premium picks at FigureSkatingS. Save up to 30% with free shipping on selected items today",
+      "Trusted online store with FigureSkatingS best sellers, new arrivals and exclusive promo co",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover FigureSkatingS essentials made simpl"
+    ]
+  },
+  {
+    "name": "Hobibear",
+    "campaignType": "Search",
+    "link1": "https://hobibear.com/?ref=teumfsbz",
+    "adsKey": [
+      "[hobibear]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "603",
+    "targetLocations": [
+      "Tây Ban Nha",
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Ý",
+      "Pháp",
+      "Canada",
+      "Úc",
+      "Bồ Đào Nha",
+      "Hà Lan"
+    ],
+    "headlines": [
+      "Hobibear Official Store",
+      "Hobibear Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Hobibear Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Hobibear Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Hobibear Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Hobibear. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Hobibear best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Hobibear essentials made simple."
+    ]
+  },
+  {
+    "name": "AUKEY",
+    "campaignType": "Search",
+    "link1": "https://www.aukey.com/?ref=nuryctfg",
+    "adsKey": [
+      "[aukey]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Ý",
+      "Đức",
+      "Pháp",
+      "Tây Ban Nha",
+      "Canada",
+      "Vương quốc Anh",
+      "Úc",
+      "Hà Lan",
+      "Phần Lan"
+    ],
+    "headlines": [
+      "AUKEY Official Store",
+      "AUKEY Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop AUKEY Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best AUKEY Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy AUKEY Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at AUKEY. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with AUKEY best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover AUKEY essentials made simple."
+    ]
+  },
+  {
+    "name": "Makeblock® US Store",
+    "campaignType": "Search",
+    "link1": "https://www.makeblock.com/?ref=xesglsdh&utm_medium=null&utm_source=influencer",
+    "adsKey": [
+      "[makeblock]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Tây Ban Nha",
+      "Hoa Kỳ",
+      "Pháp",
+      "Ý",
+      "Đức",
+      "Canada",
+      "Úc",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Thụy Sĩ"
+    ],
+    "headlines": [
+      "Makeblock® Official Store",
+      "Makeblock® Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Makeblock® Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Makeblock® Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Makeblock® Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Makeblock®. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Makeblock® best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Makeblock® essentials made simple."
+    ]
+  },
+  {
+    "name": "CANNI Official",
+    "campaignType": "Search",
+    "link1": "https://www.canni.com/?ref=cblsqscy",
+    "adsKey": [
+      "[canni]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "603",
+    "targetLocations": [
+      "Pháp",
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Ý",
+      "Canada",
+      "Úc",
+      "Hà Lan",
+      "New Zealand",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "CANNI Official Store",
+      "CANNI Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop CANNI Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best CANNI Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy CANNI Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at CANNI. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with CANNI best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover CANNI essentials made simple."
+    ]
+  },
+  {
+    "name": "Fanttik",
+    "campaignType": "Search",
+    "link1": "https://fanttik.com/?ref=awhzafrh",
+    "adsKey": [
+      "[fanttik]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Úc",
+      "Vương quốc Anh",
+      "Canada",
+      "Ý",
+      "Pháp",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Đan Mạch"
+    ],
+    "headlines": [
+      "Fanttik Official Store",
+      "Fanttik Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Fanttik Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Fanttik Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Fanttik Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Fanttik. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Fanttik best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Fanttik essentials made simple."
+    ]
+  },
+  {
+    "name": "Swad",
+    "campaignType": "Search",
+    "link1": "https://swad.shop/?ref=mugbvzid",
+    "adsKey": [
+      "[swad]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Canada",
+      "Đức",
+      "Pháp",
+      "Phần Lan",
+      "Hà Lan",
+      "Ý",
+      "Thụy Sĩ"
+    ],
+    "headlines": [
+      "Swad Official Store",
+      "Swad Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Swad Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Swad Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Swad Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Swad. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Swad best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Swad essentials made simple."
+    ]
+  },
+  {
+    "name": "ECO-WORTHY",
+    "campaignType": "Search",
+    "link1": "https://www.eco-worthy.com/?ref=ifobbrni",
+    "adsKey": [
+      "[eco worthy]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1055",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Canada",
+      "Ý",
+      "Tây Ban Nha",
+      "Thụy Điển",
+      "Hà Lan",
+      "Úc"
+    ],
+    "headlines": [
+      "ECO-WORTHY Official Store",
+      "ECO-WORTHY Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop ECO-WORTHY Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best ECO-WORTHY Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy ECO-WORTHY Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at ECO-WORTHY. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with ECO-WORTHY best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover ECO-WORTHY essentials made simple."
+    ]
+  },
+  {
+    "name": "Nilight",
+    "campaignType": "Search",
+    "link1": "https://www.nilight.com/?ref=pfzbykdj",
+    "adsKey": [
+      "[nilight]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1205",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Đức",
+      "Áo",
+      "Pháp"
+    ],
+    "headlines": [
+      "Nilight Official Store",
+      "Nilight Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Nilight Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Nilight Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Nilight Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Nilight. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Nilight best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Nilight essentials made simple."
+    ]
+  },
+  {
+    "name": "Yose Power",
+    "campaignType": "Search",
+    "link1": "https://yosepower.com/?ref=tuatawlv",
+    "adsKey": [
+      "[yosepower]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "603",
+    "targetLocations": [
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Ý",
+      "Phần Lan",
+      "Hà Lan",
+      "Ai-len",
+      "Đan Mạch",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Yose Official Store",
+      "Yose Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Yose Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Yose Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Yose Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Yose. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Yose best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Yose essentials made simple."
+    ]
+  },
+  {
+    "name": "DOORS",
+    "campaignType": "Search",
+    "link1": "https://doors.nyc/collections/clothing/shop?ref=qeiuorol",
+    "adsKey": [
+      "[doors]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "2561",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Đức",
+      "Ý",
+      "Hà Lan",
+      "Pháp",
+      "Tây Ban Nha",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "DOORS Official Store",
+      "DOORS Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop DOORS Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best DOORS Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy DOORS Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at DOORS. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with DOORS best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover DOORS essentials made simple."
+    ]
+  },
+  {
+    "name": "Geekvape Store",
+    "campaignType": "Search",
+    "link1": "https://store.geekvape.com/?ref=prvhfzvn",
+    "adsKey": [
+      "[geekvape]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "603",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Đức",
+      "Ý",
+      "Vương quốc Anh",
+      "Canada",
+      "Thụy Sĩ",
+      "Úc",
+      "Hà Lan",
+      "Tây Ban Nha"
+    ],
+    "headlines": [
+      "Geekvape Official Store",
+      "Geekvape Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Geekvape Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Geekvape Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Geekvape Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Geekvape. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Geekvape best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Geekvape essentials made simple."
+    ]
+  },
+  {
+    "name": "Ashley Behrndt",
+    "campaignType": "Search",
+    "link1": "https://Www.aromacuties@yahoo.com/?ref=wirozlzg",
+    "adsKey": [
+      "[ashleybehrndt]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "4821",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Canada",
+      "Đức",
+      "Ý",
+      "Úc",
+      "Bỉ",
+      "Hà Lan"
+    ],
+    "headlines": [
+      "Ashley Official Store",
+      "Ashley Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Ashley Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Ashley Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Ashley Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Ashley. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Ashley best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Ashley essentials made simple."
+    ]
+  },
+  {
+    "name": "Card-Addiction.com",
+    "campaignType": "Search",
+    "link1": "https://card-addiction.com/?ref=huugqiwr",
+    "adsKey": [
+      "[card addiction]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Canada"
+    ],
+    "headlines": [
+      "Card-Addiction Official Store",
+      "Card-Addiction Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Card-Addiction Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Card-Addiction Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand",
+      "Exclusive Online Offers"
+    ],
+    "descriptions": [
+      "Premium picks at Card-Addiction. Save up to 30% with free shipping on selected items today",
+      "Trusted online store with Card-Addiction best sellers, new arrivals and exclusive promo co",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Card-Addiction essentials made simpl"
+    ]
+  },
+  {
+    "name": "Seagull 1963",
+    "campaignType": "Search",
+    "link1": "https://seagull1963.com/product/seagull-1963-38mm-acrylic-sapphire/?ref=smzkukgk",
+    "adsKey": [
+      "[seagull1963]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc"
+    ],
+    "headlines": [
+      "Seagull Official Store",
+      "Seagull Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Seagull Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Seagull Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Seagull Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Seagull. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Seagull best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Seagull essentials made simple."
+    ]
+  },
+  {
+    "name": "Letbricks",
+    "campaignType": "Search",
+    "link1": "https://www.letbricks.com/?ref=bknobckw",
+    "adsKey": [
+      "[letbricks]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Pháp",
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Bỉ",
+      "Canada",
+      "Ý",
+      "Thụy Sĩ",
+      "Thụy Điển",
+      "New Zealand"
+    ],
+    "headlines": [
+      "Letbricks Official Store",
+      "Letbricks Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Letbricks Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Letbricks Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Letbricks Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Letbricks. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Letbricks best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Letbricks essentials made simple."
+    ]
+  },
+  {
+    "name": "Arzopa Official Store",
+    "campaignType": "Search",
+    "link1": "https://www.arzopa.com/?ref=NGUYENDINHKHANH",
+    "adsKey": [
+      "[arzopa]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1055",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Tây Ban Nha",
+      "Ý",
+      "Vương quốc Anh",
+      "Bồ Đào Nha",
+      "Úc",
+      "Thụy Điển",
+      "Bỉ"
+    ],
+    "headlines": [
+      "Arzopa Official Store",
+      "Arzopa Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Arzopa Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Arzopa Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Arzopa Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Arzopa. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Arzopa best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Arzopa essentials made simple."
+    ]
+  },
+  {
+    "name": "Youxernet",
+    "campaignType": "Search",
+    "link1": "https://sites.google.com/youxernet.com/youxernet-org?ref=evqvfqso",
+    "adsKey": [
+      "[youxernet]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "7533",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Ý",
+      "Úc",
+      "Đức",
+      "Hà Lan",
+      "Ai-len"
+    ],
+    "headlines": [
+      "Youxernet Official Store",
+      "Youxernet Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Youxernet Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Youxernet Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Youxernet Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Youxernet. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Youxernet best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Youxernet essentials made simple."
+    ]
+  },
+  {
+    "name": "Official 7Artisans Store",
+    "campaignType": "Search",
+    "link1": "https://7artisans.store/?ref=veignuwy",
+    "adsKey": [
+      "[7artisans]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Canada",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Ý",
+      "Úc",
+      "Hà Lan",
+      "Áo"
+    ],
+    "headlines": [
+      "Official Official Store",
+      "Official Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Official Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Official Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Official Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Official. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Official best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Official essentials made simple."
+    ]
+  },
+  {
+    "name": "Julimo",
+    "campaignType": "Search",
+    "link1": "https://flutterwave.com/store/julimocreativeintegratedservices?ref=mjeftjfc",
+    "adsKey": [
+      "[julimo]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "29227",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Đức",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Ý",
+      "Thụy Sĩ",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Julimo Official Store",
+      "Julimo Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Julimo Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Julimo Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Julimo Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Julimo. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Julimo best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Julimo essentials made simple."
+    ]
+  },
+  {
+    "name": "Pixilated Photo Booth",
+    "campaignType": "Search",
+    "link1": "https://www.pixilated.com/?ref=jhakhjyz",
+    "adsKey": [
+      "[pixilated]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1959",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Pháp",
+      "Úc",
+      "Tây Ban Nha",
+      "Đức",
+      "Hà Lan",
+      "Đan Mạch"
+    ],
+    "headlines": [
+      "Pixilated Official Store",
+      "Pixilated Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Pixilated Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Pixilated Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Pixilated Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Pixilated. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Pixilated best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Pixilated essentials made simple."
+    ]
+  },
+  {
+    "name": "marshydrode",
+    "campaignType": "Search",
+    "link1": "https://marshydro.eu/?ref=udztwbpk",
+    "adsKey": [
+      "[marshydro]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "301",
+    "targetLocations": [
+      "Đức",
+      "Hoa Kỳ",
+      "Pháp",
+      "Ý",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Úc",
+      "Hà Lan",
+      "Phần Lan",
+      "Áo"
+    ],
+    "headlines": [
+      "marshydrode Official Store",
+      "marshydrode Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop marshydrode Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best marshydrode Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy marshydrode Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at marshydrode. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with marshydrode best sellers, new arrivals and exclusive promo codes",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover marshydrode essentials made simple."
+    ]
+  },
+  {
+    "name": "Tracki",
+    "campaignType": "Search",
+    "link1": "https://tracki.com/?ref=igdbkisn",
+    "adsKey": [
+      "[tracki]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1205",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Đức",
+      "Ý",
+      "Úc",
+      "Pháp",
+      "Tây Ban Nha",
+      "Bỉ",
+      "Phần Lan"
+    ],
+    "headlines": [
+      "Tracki Official Store",
+      "Tracki Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Tracki Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Tracki Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Tracki Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Tracki. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Tracki best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Tracki essentials made simple."
+    ]
+  },
+  {
+    "name": "GEPRC",
+    "campaignType": "Search",
+    "link1": "https://geprc.com/?ref=hmltjnbz",
+    "adsKey": [
+      "[geprc]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Vương quốc Anh",
+      "Canada",
+      "Thụy Sĩ",
+      "Áo",
+      "Tây Ban Nha",
+      "Hà Lan"
+    ],
+    "headlines": [
+      "GEPRC Official Store",
+      "GEPRC Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop GEPRC Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best GEPRC Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy GEPRC Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at GEPRC. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with GEPRC best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover GEPRC essentials made simple."
+    ]
+  },
+  {
+    "name": "Comfier",
+    "campaignType": "Search",
+    "link1": "https://www.comfier.com/?ref=wxhzeqlb",
+    "adsKey": [
+      "[comfier]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Pháp",
+      "Ý",
+      "Tây Ban Nha",
+      "New Zealand",
+      "Thụy Sĩ",
+      "Áo"
+    ],
+    "headlines": [
+      "Comfier Official Store",
+      "Comfier Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Comfier Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Comfier Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Comfier Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Comfier. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Comfier best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Comfier essentials made simple."
+    ]
+  },
+  {
+    "name": "Floyd",
+    "campaignType": "Search",
+    "link1": "https://floyd.one/?ref=vyvgmxkw",
+    "adsKey": [
+      "[floyd]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1356",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Na Uy",
+      "Đức",
+      "Vương quốc Anh",
+      "Canada",
+      "Pháp",
+      "Ý",
+      "Tây Ban Nha",
+      "Úc",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Floyd Official Store",
+      "Floyd Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Floyd Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Floyd Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Floyd Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Floyd. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Floyd best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Floyd essentials made simple."
+    ]
+  },
+  {
+    "name": "Modern Abayati",
+    "campaignType": "Search",
+    "link1": "https://www.affiliates.modernabayati.com/?ref=rpeuzpba",
+    "adsKey": [
+      "[modern abayati]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ"
+    ],
+    "headlines": [
+      "Modern Official Store",
+      "Modern Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Modern Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Modern Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Modern Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Modern. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Modern best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Modern essentials made simple."
+    ]
+  },
+  {
+    "name": "CRZ YOGA - CA",
+    "campaignType": "Search",
+    "link1": "https://ca.crzyoga.com/?ref=NGUYENDINHKHANH",
+    "adsKey": [
+      "[crzyoga]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Úc",
+      "Vương quốc Anh",
+      "New Zealand",
+      "Hà Lan",
+      "Phần Lan"
+    ],
+    "headlines": [
+      "CRZ Official Store",
+      "CRZ Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop CRZ Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best CRZ Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy CRZ Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at CRZ. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with CRZ best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover CRZ essentials made simple."
+    ]
+  },
+  {
+    "name": "TheHushShop.com",
+    "campaignType": "Search",
+    "link1": "https://hush.shop/?ref=dgewzlht",
+    "adsKey": [
+      "[hush]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1055",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Hà Lan",
+      "Đức",
+      "Pháp",
+      "Tây Ban Nha",
+      "Ý",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "TheHushShop.co Official Store",
+      "TheHushShop.co Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best TheHushShop.co Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy TheHushShop.co Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand",
+      "Exclusive Online Offers"
+    ],
+    "descriptions": [
+      "Premium picks at TheHushShop.co. Save up to 30% with free shipping on selected items today",
+      "Trusted online store with TheHushShop.co best sellers, new arrivals and exclusive promo co",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover TheHushShop.co essentials made simpl"
+    ]
+  },
+  {
+    "name": "lensmartonline",
+    "campaignType": "Search",
+    "link1": "https://www.lensmartonline.com/?lenid=panGoaffpro&ref=fyfbhzxc&utm_medium=affiliates&utm_source=Goaffpro",
+    "adsKey": [
+      "[lensmartonline]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1356",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh",
+      "Đức",
+      "Phần Lan",
+      "Tây Ban Nha",
+      "Ý",
+      "Thụy Sĩ",
+      "Ai-len",
+      "Bồ Đào Nha"
+    ],
+    "headlines": [
+      "lensmartonline Official Store",
+      "lensmartonline Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best lensmartonline Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy lensmartonline Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand",
+      "Exclusive Online Offers"
+    ],
+    "descriptions": [
+      "Premium picks at lensmartonline. Save up to 30% with free shipping on selected items today",
+      "Trusted online store with lensmartonline best sellers, new arrivals and exclusive promo co",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover lensmartonline essentials made simpl"
+    ]
+  },
+  {
+    "name": "iSinwheel.co.uk",
+    "campaignType": "Search",
+    "link1": "https://www.isinwheel.co.uk/?ref=djlkrvmo",
+    "adsKey": [
+      "[isinwheel]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1356",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Canada",
+      "Tây Ban Nha",
+      "Ý",
+      "Áo",
+      "Thụy Điển",
+      "Đan Mạch"
+    ],
+    "headlines": [
+      "iSinwheel.co.u Official Store",
+      "iSinwheel.co.u Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best iSinwheel.co.u Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy iSinwheel.co.u Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand",
+      "Exclusive Online Offers"
+    ],
+    "descriptions": [
+      "Premium picks at iSinwheel.co.u. Save up to 30% with free shipping on selected items today",
+      "Trusted online store with iSinwheel.co.u best sellers, new arrivals and exclusive promo co",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover iSinwheel.co.u essentials made simpl"
+    ]
+  },
+  {
+    "name": "animota",
+    "campaignType": "Search",
+    "link1": "https://animota.net/?ref=prnzprqh",
+    "adsKey": [
+      "[animota]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Úc",
+      "Canada",
+      "Tây Ban Nha",
+      "Ý",
+      "Áo",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "animota Official Store",
+      "animota Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop animota Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best animota Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy animota Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at animota. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with animota best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover animota essentials made simple."
+    ]
+  },
+  {
+    "name": "SJCAM Official Website",
+    "campaignType": "Search",
+    "link1": "https://sjcam.com/?ref=avshptqo",
+    "adsKey": [
+      "[sjcam]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Tây Ban Nha",
+      "Ý",
+      "Pháp",
+      "Vương quốc Anh",
+      "Canada",
+      "Hà Lan",
+      "Phần Lan",
+      "Áo"
+    ],
+    "headlines": [
+      "SJCAM Official Store",
+      "SJCAM Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop SJCAM Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best SJCAM Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy SJCAM Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at SJCAM. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with SJCAM best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover SJCAM essentials made simple."
+    ]
+  },
+  {
+    "name": "CharCharms",
+    "campaignType": "Search",
+    "link1": "https://charcharms.com/?ref=xlrwnzqa",
+    "adsKey": [
+      "[charcharms]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Pháp",
+      "Hà Lan",
+      "Thụy Điển",
+      "Bỉ",
+      "Ý",
+      "Thụy Sĩ"
+    ],
+    "headlines": [
+      "CharCharms Official Store",
+      "CharCharms Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop CharCharms Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best CharCharms Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy CharCharms Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at CharCharms. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with CharCharms best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover CharCharms essentials made simple."
+    ]
+  },
+  {
+    "name": "Shark Wheel Affiliate Program",
+    "campaignType": "Search",
+    "link1": "https://sharkwheel.com/?ref=bddfomsm",
+    "adsKey": [
+      "[sharkwheel]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "151",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada"
+    ],
+    "headlines": [
+      "Shark Official Store",
+      "Shark Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Shark Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Shark Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Shark Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Shark. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Shark best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Shark essentials made simple."
+    ]
+  },
+  {
+    "name": "carpuride",
+    "campaignType": "Search",
+    "link1": "https://carpuride.com/?ref=sdhljckv",
+    "adsKey": [
+      "[carpuride]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Pháp",
+      "Tây Ban Nha",
+      "Đức",
+      "Ý",
+      "Hoa Kỳ",
+      "Hà Lan",
+      "Vương quốc Anh",
+      "Bồ Đào Nha",
+      "Bỉ",
+      "Canada"
+    ],
+    "headlines": [
+      "carpuride Official Store",
+      "carpuride Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop carpuride Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best carpuride Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy carpuride Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at carpuride. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with carpuride best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover carpuride essentials made simple."
+    ]
+  },
+  {
+    "name": "KugooEU Scooter",
+    "campaignType": "Search",
+    "link1": "https://kugoo.eu/?ref=skijdfua",
+    "adsKey": [
+      "[kugoo]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1205",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Canada",
+      "Pháp",
+      "Vương quốc Anh",
+      "Ai-len",
+      "Thụy Điển",
+      "Ý",
+      "Úc",
+      "Đan Mạch"
+    ],
+    "headlines": [
+      "KugooEU Official Store",
+      "KugooEU Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop KugooEU Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best KugooEU Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy KugooEU Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at KugooEU. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with KugooEU best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover KugooEU essentials made simple."
+    ]
+  },
+  {
+    "name": "WOLFBOX",
+    "campaignType": "Search",
+    "link1": "https://wolfbox.com/?ref=pvnfmoxt",
+    "adsKey": [
+      "[wolfbox]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1205",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Đức",
+      "Úc",
+      "Canada",
+      "Pháp",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Ý",
+      "Bỉ"
+    ],
+    "headlines": [
+      "WOLFBOX Official Store",
+      "WOLFBOX Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop WOLFBOX Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best WOLFBOX Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy WOLFBOX Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at WOLFBOX. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with WOLFBOX best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover WOLFBOX essentials made simple."
+    ]
+  },
+  {
+    "name": "sonicred",
+    "campaignType": "Search",
+    "link1": "https://www.teepublic.com/user/sonicred?ref=ivjwmeyc",
+    "adsKey": [
+      "[sonicred]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "301",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh",
+      "Úc",
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "sonicred Official Store",
+      "sonicred Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop sonicred Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best sonicred Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy sonicred Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at sonicred. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with sonicred best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover sonicred essentials made simple."
     ]
   }
 ]

@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Ywigs,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2124;2250;2276;2036;2056;2380;2752,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Ywigs,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Ywigs,,,,,,,,,,AG-1,,Enabled,ywigs,Exact match,1356,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Ywigs,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Ywigs Official Store,Ywigs Big Sale Today,Up To 30% Off Today,Free Shipping Available,Shop Ywigs Best Sellers,Code NYMBUS Save More,New Arrivals Weekly,Premium Quality Build,Best Ywigs Deals 2026,Worldwide Fast Shipping,Trusted Online Store,Buy Ywigs Online Now,Member Reward Program,Easy Returns Available,Top Rated Brand,Premium picks at Ywigs. Save up to 30% with free shipping on selected items today.,"Trusted online store with Ywigs best sellers, new arrivals and exclusive promo codes.",Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.,Member reward program and top rated service. Discover Ywigs essentials made simple.,https://www.ywigs.com/xvdntgij,,,,
+Sitelink,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.ywigs.com/xvdntgij&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.ywigs.com/xvdntgij,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.ywigs.com/xvdntgij&2,Create new,Campaign,All Blog,
+Callout,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Ywigs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
