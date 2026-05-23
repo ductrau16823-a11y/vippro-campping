@@ -976,8 +976,8 @@
       "[easysmx]"
     ],
     "bidding": "Thủ công CPC",
-    "budget": "100",
-    "maxCpcLimit": "0.30",
+    "budget": "150654",
+    "maxCpcLimit": "452",
     "targetLocations": [
       "Hoa Kỳ",
       "Đức",
@@ -1022,8 +1022,8 @@
       "[answr]"
     ],
     "bidding": "Thủ công CPC",
-    "budget": "100",
-    "maxCpcLimit": "0.50",
+    "budget": "150654",
+    "maxCpcLimit": "753",
     "targetLocations": [
       "Hoa Kỳ",
       "Vương quốc Anh",
@@ -3467,6 +3467,585 @@
       "Trusted online store with sonicred best sellers, new arrivals and exclusive promo codes.",
       "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
       "Member reward program and top rated service. Discover sonicred essentials made simple."
+    ]
+  },
+  {
+    "name": "Rubbit",
+    "campaignType": "Search",
+    "link1": "https://www.rubbit.shop/?ref=gfarivjr",
+    "adsKey": [
+      "[rubbit]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "603",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Ý",
+      "Đức",
+      "Canada",
+      "Tây Ban Nha",
+      "Úc",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Rubbit Official Store",
+      "Rubbit Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Rubbit Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Rubbit Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Rubbit Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Rubbit. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Rubbit best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Rubbit essentials made simple."
+    ]
+  },
+  {
+    "name": "Life-Space US",
+    "campaignType": "Search",
+    "link1": "https://life-space.us/?ref=NGUYENDINHKHANH",
+    "adsKey": [
+      "[life space]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1808",
+    "targetLocations": [
+      "Úc",
+      "Hoa Kỳ",
+      "Canada",
+      "Đức",
+      "Tây Ban Nha",
+      "Ai-len"
+    ],
+    "headlines": [
+      "Life-Space Official Store",
+      "Life-Space Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Life-Space Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Life-Space Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Life-Space Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Life-Space. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Life-Space best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Life-Space essentials made simple."
+    ]
+  },
+  {
+    "name": "SOOTIF.COM",
+    "campaignType": "Search",
+    "link1": "https://sootif.com/?ref=iabtybzv",
+    "adsKey": [
+      "[sootif]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "301",
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Ý"
+    ],
+    "headlines": [
+      "SOOTIF.COM Official Store",
+      "SOOTIF.COM Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop SOOTIF.COM Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best SOOTIF.COM Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy SOOTIF.COM Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at SOOTIF.COM. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with SOOTIF.COM best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover SOOTIF.COM essentials made simple."
+    ]
+  },
+  {
+    "name": "Custom Logo Creator",
+    "campaignType": "Search",
+    "link1": "https://logo.yulias.studio/?ref=uiltexyt",
+    "adsKey": [
+      "[customlogo]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "2712",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Canada",
+      "Úc",
+      "Ý",
+      "Hà Lan",
+      "Bồ Đào Nha"
+    ],
+    "headlines": [
+      "Custom Official Store",
+      "Custom Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Custom Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Custom Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Custom Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Custom. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Custom best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Custom essentials made simple."
+    ]
+  },
+  {
+    "name": "PPJoe Pop Protectors",
+    "campaignType": "Search",
+    "link1": "https://flashback.toys/?ref=bzabxadx",
+    "adsKey": [
+      "[ppjoe]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1657",
+    "targetLocations": [
+      "Thụy Điển",
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Pháp",
+      "Đức",
+      "Ý",
+      "Na Uy",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Úc"
+    ],
+    "headlines": [
+      "PPJoe Official Store",
+      "PPJoe Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop PPJoe Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best PPJoe Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy PPJoe Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at PPJoe. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with PPJoe best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover PPJoe essentials made simple."
+    ]
+  },
+  {
+    "name": "Casper Academy",
+    "campaignType": "Search",
+    "link1": "https://casper.academy/?ref=pjkihumm",
+    "adsKey": [
+      "[casper]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "7382",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Ý",
+      "Pháp",
+      "Tây Ban Nha",
+      "Đức",
+      "Vương quốc Anh",
+      "Úc",
+      "Hà Lan",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Casper Official Store",
+      "Casper Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Casper Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Casper Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Casper Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Casper. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Casper best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Casper essentials made simple."
+    ]
+  },
+  {
+    "name": "Vaporesso Store",
+    "campaignType": "Search",
+    "link1": "https://store.vaporesso.com/?ref=nnmmyram",
+    "adsKey": [
+      "[vaporesso]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "452",
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Hoa Kỳ",
+      "Pháp",
+      "Ý",
+      "Đức",
+      "Tây Ban Nha",
+      "Canada",
+      "Bỉ",
+      "Hà Lan",
+      "Thụy Điển"
+    ],
+    "headlines": [
+      "Vaporesso Official Store",
+      "Vaporesso Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Vaporesso Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Vaporesso Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Vaporesso Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Vaporesso. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Vaporesso best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Vaporesso essentials made simple."
+    ]
+  },
+  {
+    "name": "BUR BUR",
+    "campaignType": "Search",
+    "link1": "https://burbur.com/?ref=hfcjijpy",
+    "adsKey": [
+      "[burbur]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Tây Ban Nha",
+      "Ý",
+      "Pháp",
+      "Úc",
+      "Bồ Đào Nha",
+      "Bỉ",
+      "Đan Mạch",
+      "Áo"
+    ],
+    "headlines": [
+      "BUR Official Store",
+      "BUR Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop BUR Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best BUR Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy BUR Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at BUR. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with BUR best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover BUR essentials made simple."
+    ]
+  },
+  {
+    "name": "Accio",
+    "campaignType": "Search",
+    "link1": "https://www.accio.com/work?fbclid=IwY2xjawR4qMxleHRuA2FlbQIxMABicmlkETE3WHFDUnFrS3g2aEpuUVBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqiNKxCo0h0XNae-RYADQLi52nFAVGeN7_OgMgUaIPtVij9gEeocyW-u54PN_aem_T_ILpQtxjZVMyX7oGJ4iJA&im_ref=WSB2k81QMxyZUpZQNOy-8zmMUkuRynyd32hIXY0&sharedid=&im_pid=7098984&src=p_impact_7098984&im_pname=NymBus&irgwc=1&afsrc=1",
+    "adsKey": [
+      "[accio]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "4972",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Pháp",
+      "Ý",
+      "Canada",
+      "Úc",
+      "Đức",
+      "Bồ Đào Nha",
+      "Hà Lan"
+    ],
+    "headlines": [
+      "Accio Official Store",
+      "Accio Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Accio Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Accio Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Accio Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Accio. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Accio best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Accio essentials made simple."
+    ]
+  },
+  {
+    "name": "IObit",
+    "campaignType": "Search",
+    "link1": "https://www.macboost.net/purchase/macbooster4.php?fbclid=IwY2xjawR4qWhleHRuA2FlbQIxMABicmlkETE3WHFDUnFrS3g2aEpuUVBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtuVXLI3dRiD806FhLFE3Dv18XYa3oBhtXehrOm0eX2k6tDhUy_nktTrouhO_aem_LTy2tH1PoMSLOxU6fuX5OQ&ref=fs&irgwc=1&afsrc=1&clickid=WSB2k81QMxyZUpZQNOy-8zmMUkuRyixJ32hIXY0&irpid=7136593",
+    "adsKey": [
+      "[macboost]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "904",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Canada",
+      "Thụy Điển",
+      "Áo"
+    ],
+    "headlines": [
+      "IObit Official Store",
+      "IObit Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop IObit Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best IObit Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy IObit Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at IObit. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with IObit best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover IObit essentials made simple."
+    ]
+  },
+  {
+    "name": "Preply Learners",
+    "campaignType": "Search",
+    "link1": "https://preply.com/?fbclid=IwY2xjawR4qj9leHRuA2FlbQIxMABicmlkETE3WHFDUnFrS3g2aEpuUVBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm4VD7ICu0qkocVw5xTwo3if0LzN8IPAMPpq-kco9-K2O2ZIYw4kC7fjhhlh_aem_zKOII2CWeBZqDRHrxzI_bQ&pref=NzE5ODk0&irclickid=WSB2k81QMxyZUpZQNOy-8zmMUkuRyiSx32hIXY0&utm_medium=cpa&irgwc=1&afsrc=1&adgroupid=7098984&utm_content=&sharedid=&campaignid=24422&utm_source=affiliate",
+    "adsKey": [
+      "[preply]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "1808",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Ý",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Đức",
+      "Pháp",
+      "Canada",
+      "Hà Lan",
+      "Thụy Sĩ",
+      "Úc"
+    ],
+    "headlines": [
+      "Preply Official Store",
+      "Preply Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Preply Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Preply Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Preply Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Preply. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Preply best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Preply essentials made simple."
+    ]
+  },
+  {
+    "name": "Similarweb",
+    "campaignType": "Search",
+    "link1": "https://account.similarweb.com/journey/registration?utm_campaign=023b6c8233d2&utm_medium=affiliate&utm_source=partnerstack&ps_partner_key=MDIzYjZjODIzM2Qy&fbclid=IwY2xjawR4zsNleHRuA2FlbQIxMABicmlkETEwQXVNZmo1TnNUUTFGRGVNc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgSykcy4UfvjVmRel8BhglZLMVUKo7E5lrOMmIt2drmgWLApnN7Y91lNdg9q_aem_F6yYBB9CK_FYVxR6qMtZTQ&ps_xid=vBImmYKJIPu48B&gsxid=vBImmYKJIPu48B&gspk=MDIzYjZjODIzM2Qy",
+    "adsKey": [
+      "[similarweb]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "2260",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Pháp",
+      "Ý",
+      "Hà Lan"
+    ],
+    "headlines": [
+      "Similarweb Official Store",
+      "Similarweb Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Similarweb Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Similarweb Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Similarweb Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Similarweb. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Similarweb best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Similarweb essentials made simple."
+    ]
+  },
+  {
+    "name": "Typecase",
+    "campaignType": "Search",
+    "link1": "https://typecase.co/?ref=cjihzkhc",
+    "adsKey": [
+      "[typecase]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "150654",
+    "maxCpcLimit": "603",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Pháp",
+      "Ý",
+      "New Zealand",
+      "Tây Ban Nha",
+      "Bỉ",
+      "Thụy Sĩ"
+    ],
+    "headlines": [
+      "Typecase Official Store",
+      "Typecase Big Sale Today",
+      "Up To 30% Off Today",
+      "Free Shipping Available",
+      "Shop Typecase Best Sellers",
+      "Code NYMBUS Save More",
+      "New Arrivals Weekly",
+      "Premium Quality Build",
+      "Best Typecase Deals 2026",
+      "Worldwide Fast Shipping",
+      "Trusted Online Store",
+      "Buy Typecase Online Now",
+      "Member Reward Program",
+      "Easy Returns Available",
+      "Top Rated Brand"
+    ],
+    "descriptions": [
+      "Premium picks at Typecase. Save up to 30% with free shipping on selected items today.",
+      "Trusted online store with Typecase best sellers, new arrivals and exclusive promo codes.",
+      "Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.",
+      "Member reward program and top rated service. Discover Typecase essentials made simple."
     ]
   }
 ]
