@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Europesnus,Search,Google search,150654,Daily,Manual CPC,,en,2246;2528;2276;2056;2380;2752;2840;2756;2208;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Europesnus,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Europesnus,,,,,,,,,,AG-1,,Enabled,europesnus,Exact match,90,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Europesnus,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Europesnus Official Store,Best Snus Prices,Same-Day Shipping,Order By 2PM Ships,3-5 Day Delivery,Free Gift Cans,Wide Snus Selection,Tobacco-Free Pouches,Caffeine Pouches,Disposable Vapes,Cuba 20% Off,Nois 50% Off,Garant Prime 25% Off,Edel 20% Off,Buy Snus Online,Best prices on snus worldwide. Same-day shipping when ordered by 2 PM.,3-5 day delivery guarantee with secure payment methods and free gift cans.,"Cuba 20% off, Nois 50% off, Garant Prime 25% off, Edel 20% off till May 24.","Nicotine pouches, caffeine pouches and disposable vapes all in one store.",https://europesnus.com/?ref=ofwjdlpn,,,,
+Sitelink,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://europesnus.com/?ref=ofwjdlpn&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://europesnus.com/?ref=ofwjdlpn,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://europesnus.com/?ref=ofwjdlpn&2,Create new,Campaign,All Blog,
+Callout,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Europesnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

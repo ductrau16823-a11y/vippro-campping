@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Eleglide,Search,Google search,150654,Daily,Manual CPC,,en,2276;2250;2380;2826;2724;2528;2056;2752;2208;2756,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Eleglide,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Eleglide,,,,,,,,,,AG-1,,Enabled,eleglide,Exact match,225,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Eleglide,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Eleglide Official Store,Lead The Way Forward,High Quality E-Bikes,Up To 150km Range,Hydraulic Disc Brakes,3-Year Warranty,Free Shipping Over 39E,EU Compliant Bikes,96% Satisfaction,Mountain City E-Bikes,Step-Through E-Bikes,9.6M Tons CO2 Saved,Affordable Premium,Buy Eleglide Online,Shop E-Bikes Today,Lead the way forward with high quality e-bikes at affordable prices.,Up to 150km range with hydraulic disc brakes. 3-year warranty available.,"EU-compliant mountain, city, tour and step-through e-bikes plus accessories.",Free shipping over 39 euros. 96% customer satisfaction across Europe.,https://eleglide.com/?ref=tybzepow,,,,
+Sitelink,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://eleglide.com/?ref=tybzepow&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://eleglide.com/?ref=tybzepow,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://eleglide.com/?ref=tybzepow&2,Create new,Campaign,All Blog,
+Callout,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Eleglide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

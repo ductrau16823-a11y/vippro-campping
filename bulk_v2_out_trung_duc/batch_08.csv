@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,120 Life,Search,Google search,150654,Daily,Manual CPC,,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,120 Life,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,120 Life,,,,,,,,,,AG-1,,Enabled,120life,Exact match,855,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,120 Life,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,120 Life Official Store,Lower Blood Pressure,Better Numbers 2 Weeks,All-Natural Ingredients,Money-Back Guarantee,Clinical Studies Backed,6 Superfoods One Drink,No Medication Required,Use Code CINEPRE 15%,Risk-Free BP Drink,Healthy Blood Pressure,Free BP eBook,Loyalty Rewards Program,Shop Juice & Powder,Proven BP Support,Lower your blood pressure naturally with 6 superfoods in one daily drink.,Better numbers in 2 weeks or your money back. Use code CINEPRE for 15% off.,All-natural BP support backed by clinical studies. No medication required.,Risk-free trial with free BP guide eBook. Join the loyalty rewards program.,https://www.120life.com/?ref=CINEPRE,,,,
+Sitelink,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.120life.com/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.120life.com/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.120life.com/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,120 Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

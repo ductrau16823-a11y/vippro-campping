@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Wall of Fame,Search,Google search,150654,Daily,Manual CPC,,en,2840;2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Wall of Fame,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Wall of Fame,,,,,,,,,,AG-1,,Enabled,walloffame,Exact match,870,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Wall of Fame,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Wall of Fame Officiel,Affiches Sport Premium,Illustrées Main France,Papier 250g Matte,Giclée Print Quality,Expédition 24-48h,Code HELLO10 -10%,Personnalisation Dispo,Football Basket Rugby,Tennis Golf Cyclisme,Affiches Marathon,T-Shirts Sport,Mugs Sport Collection,Qualité Musée,Boutique Fans Sport,La boutique des fans de sport. Affiches illustrées à la main en France.,Qualité premium digne des musées. Papier matte 250g/m² avec impression giclée.,Code HELLO10 pour 10% de réduction sur première commande. Livraison 3-4 jours.,"Football, basket, rugby, tennis et plus. Posters personnalisables disponibles.",https://walloffame.fr/?ref=ohnyztxt,,,,
+Sitelink,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://walloffame.fr/?ref=ohnyztxt&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://walloffame.fr/?ref=ohnyztxt,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://walloffame.fr/?ref=ohnyztxt&2,Create new,Campaign,All Blog,
+Callout,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Wall of Fame,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

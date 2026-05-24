@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Tecknet,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2276;2250;2724;2380;2124;2528;2040;2056,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Tecknet,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tecknet,,,,,,,,,,AG-1,,Enabled,tecknet,Exact match,510,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Tecknet,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Tecknet Official Store,Quality Tech Accessories,Wireless Mouse Keyboard,Bluetooth Headphones,Premium Power Banks,Code CINEPRE 10% Off,Free UK Shipping,2-Year Warranty Included,Computer Accessories,Gaming Peripherals,Mobile Accessories,Smart Home Devices,Buy Tecknet Online,Trusted Tech Brand,Fast Tracked Delivery,Quality tech accessories at fair prices. Use code CINEPRE for 10% off.,"Wireless mice, keyboards, headphones, power banks and gaming peripherals.",2-year warranty included. Free UK shipping with fast tracked delivery.,Trusted by thousands across Europe and North America. Shop Tecknet today.,https://tecknet.co.uk/?ref=CINEPRE,,,,
+Sitelink,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://tecknet.co.uk/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://tecknet.co.uk/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://tecknet.co.uk/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Tecknet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

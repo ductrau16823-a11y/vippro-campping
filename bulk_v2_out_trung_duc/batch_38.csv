@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Intense Oud,Search,Google search,150654,Daily,Manual CPC,,en,2840;2752,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Intense Oud,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Intense Oud,,,,,,,,,,AG-1,,Enabled,intenseoud,Exact match,1050,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Intense Oud,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Intense Oud Official,Fragrance Reimagined,Free US Shipping,500K+ Positive Reviews,8+ Years In Business,Premium Arabian Oud,10000+ Products,Serves 115+ Countries,Intense Rewards Program,Niche Perfumes Selection,Oils Bakhoor Diffusers,Body Care Mists,Gift Sets 3-Piece,Couples Bundles,Buy Oud Online,Fragrance reimagined as an experience. Premium Arabian and niche perfumes.,500K+ positive reviews across 115+ countries. 8+ years in fragrance business.,"10,000+ products including perfumes, oils, bakhoor, diffusers and body care.",Free US shipping with Intense Rewards loyalty program. Expert support included.,https://www.intenseoud.com/?ref=dcjmhfvk,,,,
+Sitelink,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.intenseoud.com/?ref=dcjmhfvk&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.intenseoud.com/?ref=dcjmhfvk,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.intenseoud.com/?ref=dcjmhfvk&2,Create new,Campaign,All Blog,
+Callout,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Intense Oud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

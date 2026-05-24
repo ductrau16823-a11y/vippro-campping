@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Bio Sculpture,Search,Google search,150654,Daily,Manual CPC,,en,2826;2840;2036;2124;2620;2724,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Bio Sculpture,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Bio Sculpture,,,,,,,,,,AG-1,,Enabled,biosculpture,Exact match,2870,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Bio Sculpture,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Bio Sculpture Official,Premium Nail Gel System,Long Lasting Nail Color,Hema-Free Nail Gel,Professional Nail Care,Ethical Nail Brand,Biogel Salon Products,Code WELCOME10,Nail Health First,40+ Countries Trusted,Shop Biogel Today,Acid-Free Nail Polish,Salon Grade Nail Gel,Gemini Nail Polish,Bi-Olygel UV Acrylic,Premium gel nail systems trusted by salons in 40+ countries. Use code WELCOME10.,"Hema-free, acid-free formulas that prioritize nail health and long-lasting wear.","Shop Biogel, Evo, Gemini and Ethos collections. Professional quality for everyone.",Ethical brand offering professional training and salon-grade products worldwide.,https://biosculpture.com/?ref=CINEPRE,,,,
+Sitelink,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://biosculpture.com/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://biosculpture.com/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://biosculpture.com/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Bio Sculpture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

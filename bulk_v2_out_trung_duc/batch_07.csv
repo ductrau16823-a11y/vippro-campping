@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,NEO Sabers,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2276;2124;2036;2752;2724;2578;2528;2372,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,NEO Sabers,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,NEO Sabers,,,,,,,,,,AG-1,,Enabled,neosabers,Exact match,495,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,NEO Sabers,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,NEO Sabers Official,Premium Neopixel Sabers,Heavy Duty Dueling,Infinite Color RGB,Proffie Xenopixel Tech,Replica Character Sabers,Code CINEPRE 10% Off,Buy 1 Get 2 Free,Star Wars Day Sale,Double Bladed Sabers,Kids Lightsabers,RGB Lightsabers,SD Card Upgradeable,Free Gifts Bundle,Shop Lightsabers Now,Premium Neopixel lightsabers with infinite color options and Proffie tech.,Buy 1 Get 2 Free Star Wars Day sale. Use code CINEPRE for 10% off.,Heavy duty dueling sabers with metal hilts and polycarbonate blades.,"Replica character designs plus RGB, kids and double-bladed lightsabers.",https://neosabers.com/?ref=CINEPRE,,,,
+Sitelink,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://neosabers.com/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://neosabers.com/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://neosabers.com/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,NEO Sabers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

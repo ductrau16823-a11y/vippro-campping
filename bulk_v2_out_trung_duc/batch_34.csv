@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Military Shop,Search,Google search,150654,Daily,Manual CPC,,en,2036;2276;2756;2752,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Military Shop,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Military Shop,,,,,,,,,,AG-1,,Enabled,militaryshop,Exact match,480,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Military Shop,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Military Shop Australia,Authentic Licensed Gear,$1M+ Donated Veterans,Quality Guaranteed,Fast Shipping Returns,30 Years Experience,4.8 Star Reviews,Mayday Sale Active,Ceremonial Swords,Military Medals Mounting,Tactical Boots Gear,Field Gear Packs,Army Navy Air Force,BrandNet Rewards,Shop Military Today,"Australia's leading military store trusted by ADF, RAN, RAAF and RSL.",Authentic licensed products with $1M+ donated to veteran causes.,"Ceremonial swords, medals, mounting, tactical boots and field gear.",Mayday sale active. 30 years industry experience with 4.8 star rating.,https://militaryshop.com.au/?ref=NGUYENDUCTRUNG,,,,
+Sitelink,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://militaryshop.com.au/?ref=NGUYENDUCTRUNG&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://militaryshop.com.au/?ref=NGUYENDUCTRUNG,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://militaryshop.com.au/?ref=NGUYENDUCTRUNG&2,Create new,Campaign,All Blog,
+Callout,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Military Shop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

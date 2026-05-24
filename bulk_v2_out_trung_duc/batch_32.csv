@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Tuneful Hair,Search,Google search,150654,Daily,Manual CPC,,en,2840;2124;2752,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Tuneful Hair,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tuneful Hair,,,,,,,,,,AG-1,,Enabled,tunefulhair,Exact match,1815,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Tuneful Hair,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Tuneful Hair Official,100% Real Human Hair,HD Transparent Lace,Pre-Plucked Pre-Cut,Free Shipping 30 Day Returns,Multiple Textures Colors,Professional Toning,Glueless Wear-Go,Pay Later Available,13x6 Lace Front Wigs,360 Lace Wigs,Bob Curly Body Wave,Up To 47% Off Sale,BOGO Flash Sales,Buy Wigs Online,100% real human hair wigs with HD transparent lace technology.,Pre-plucked and pre-cut ready-to-wear designs. Free shipping and 30-day returns.,Up to 47% off plus flash and BOGO deals. Pay later options available.,"13x6 lace front, 360 lace and HD lace wigs in multiple textures and colors.",https://www.tunefulhair.com/?ref=tkzzsbnx,,,,
+Sitelink,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.tunefulhair.com/?ref=tkzzsbnx&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.tunefulhair.com/?ref=tkzzsbnx,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.tunefulhair.com/?ref=tkzzsbnx&2,Create new,Campaign,All Blog,
+Callout,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Tuneful Hair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

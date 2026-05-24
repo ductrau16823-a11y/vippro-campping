@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,CocoBeauty,Search,Google search,150654,Daily,Manual CPC,,en,2840;2250;2826;2724;2276;2036;2528;2124;2380;2208,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CocoBeauty,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CocoBeauty,,,,,,,,,,AG-1,,Enabled,cocobeauty,Exact match,1275,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,CocoBeauty,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,CocoBeauty Official,Bio-Collagen Face Masks,Reveal Natural Glow,300K+ Happy Customers,Free Shipping Over $50,No Harsh Chemicals,Buy 3 Get 3 Free,Code CINEPRE 10% Off,Viral Skincare Brand,Anti-Aging Patches,Firming Face Creams,Calming Sheet Masks,Glow Ampoules Serum,Neck & Chest Patches,Shop Skincare Today,Reveal your skin's natural glow with scientifically proven CocoBeauty masks.,Buy 3 Get 3 Free on select patches. Use code CINEPRE for 10% off.,"Free US shipping over $50. Trusted by 300,000+ satisfied customers.","Bio-collagen masks, firming creams and glow ampoules without harsh chemicals.",https://cocobeauty.com/?ref=CINEPRE,,,,
+Sitelink,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://cocobeauty.com/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://cocobeauty.com/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://cocobeauty.com/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CocoBeauty,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

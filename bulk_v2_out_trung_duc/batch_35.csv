@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Renpho AU,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2276;2124;2036;2250;2724;2380;2528;2040,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Renpho AU,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Renpho AU,,,,,,,,,,AG-1,,Enabled,renpho,Exact match,585,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Renpho AU,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Renpho AU Official,Empower Your Wellness,15M+ Users Worldwide,Smart Body Composition,AI Health Insights,Family Health Devices,Code MOM26 12% Off,Mother's Day Sale,Smart Scales No.1,Massage Guns Eye Foot,LED Beauty Masks,Smart Jump Ropes,Air Purifiers Heating,Track Body Not Weight,Buy Renpho Today,"Empower your wellness. Track your body, not just your weight with smart scales.",Mother's Day sale: use code MOM26 for extra 12% off. 15M+ users worldwide.,AI-powered health insights with body composition scanners and smart rings.,"Massage guns, LED beauty masks, smart jump ropes and air purifiers.",https://renpho.au/?ref=trjwbctj,,,,
+Sitelink,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://renpho.au/?ref=trjwbctj&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://renpho.au/?ref=trjwbctj,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://renpho.au/?ref=trjwbctj&2,Create new,Campaign,All Blog,
+Callout,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Renpho AU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

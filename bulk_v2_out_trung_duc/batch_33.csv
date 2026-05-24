@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Caravan Bits Bobs,Search,Google search,150654,Daily,Manual CPC,,en,2826;2840;2036;2124;2250;2528;2554,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Caravan Bits Bobs,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Caravan Bits Bobs,,,,,,,,,,AG-1,,Enabled,caravanbits,Exact match,60,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Caravan Bits Bobs,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Caravan Bits & Bobs AU,Closing Down Sale,Up To 66% Off,Quality Caravan Gear,Camping Outdoor Gear,Heavy Duty Wheel Chocks,Food Grade Water Hoses,Collapsible Camp Gear,Padded Storage Bags,Trusted eBay Seller,BBQ Outdoor Gear,Safety Tie-Downs,Buy Now Save Big,Limited Stock Sale,Shop Closing Down,"Caravan, camping and outdoor gear for easier getaways. Up to 66% off closing sale.","Quality lined storage bags, heavy duty wheel chocks and food grade water hoses.",Collapsible camping gear and comprehensive caravan setup solutions.,Trusted seller with high eBay ratings. Limited stock at clearance prices.,https://cbbs.net.au/?ref=kpcmjrgi,,,,
+Sitelink,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://cbbs.net.au/?ref=kpcmjrgi&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://cbbs.net.au/?ref=kpcmjrgi,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://cbbs.net.au/?ref=kpcmjrgi&2,Create new,Campaign,All Blog,
+Callout,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Caravan Bits Bobs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

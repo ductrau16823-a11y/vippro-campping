@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Morfeo,Search,Google search,150654,Daily,Manual CPC,,en,2380;2724;2840;2056;2250;2124;2276;2826;2528;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Morfeo,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Morfeo,,,,,,,,,,AG-1,,Enabled,morfeo,Exact match,2152,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Morfeo,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Morfeo Official Store,Sleep More Sleep Better,100-Night Trial Free,10-Year Warranty,Free Shipping Returns,Direct From Factory,Premium Certified Cotton,50% Off Mattresses,Colchón Nature 1065E,Colchón Altus 699E,VisCool Memory Foam,Original Hybrid Mattress,Pressure Relief Bed,Buy Morfeo Mattress,Shop Bedding Today,El mejor colchón para dormir más y mejor. 100 noches de prueba gratis.,"Garantía 10 años, envío y devolución gratis. Fabricación directa de fábrica.","50% de descuento en colchones Nature, Altus, VisCool e Original Hybrid.",Alivio de presión con materiales certificados de algodón premium.,https://morfeo.com/?ref=dusqrlqm,,,,
+Sitelink,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://morfeo.com/?ref=dusqrlqm&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://morfeo.com/?ref=dusqrlqm,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://morfeo.com/?ref=dusqrlqm&2,Create new,Campaign,All Blog,
+Callout,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Morfeo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

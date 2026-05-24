@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Gear Geek,Search,Google search,150654,Daily,Manual CPC,,en,2124;2840;2826;2246;2250;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Gear Geek,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Gear Geek,,,,,,,,,,AG-1,,Enabled,geargeek,Exact match,2374,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Gear Geek,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Gear Geek Online Store,Tech Gear & Accessories,Premium Quality Gear,Free UK Shipping,Trusted Online Store,Secure Online Checkout,Code CINEPRE Save More,Computer Accessories,Mobile Phone Gear,Smart Home Devices,Audio Headphones,Fast Order Dispatch,Buy Gear Geek Online,Shop Tech Today,Top Rated UK Store,Premium tech gear and accessories. Free UK shipping with fast dispatch.,Use code CINEPRE to save on your order. Secure online checkout guaranteed.,"Computer, mobile, smart home and audio accessories all in one place.",Trusted UK online store with top customer ratings. Shop Gear Geek today.,https://geargeek.co.uk/?ref=CINEPRE,,,,
+Sitelink,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://geargeek.co.uk/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://geargeek.co.uk/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://geargeek.co.uk/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Gear Geek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Jean Marc Joubert,Search,Google search,150654,Daily,Manual CPC,,en,2250,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Jean Marc Joubert,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Jean Marc Joubert,,,,,,,,,,AG-1,,Enabled,jeanmarcjoubert,Exact match,2175,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Jean Marc Joubert,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Jean Marc Joubert FR,Expert Soin Cheveux,2000+ Produits Capillaires,50+ Marques Partenaires,Conseil Pro Coiffeur,Livraison Rapide France,Paiement 4x Sécurisé,Programme Fidélité,Jusqu'a 47% De Réduction,Shampoings Pro,Sérums Soins,Compléments Cheveux,Matériel Coiffure,Esthétique Pro,Boutique Officielle,Expert français en soin capillaire avec plus de 2000 produits professionnels.,Conseils personnalisés de coiffeurs experts. Programme fidélité disponible.,Paiement en 4 fois sécurisé. Livraison rapide partout en France.,Jusqu'à 47% de réduction sur articles sélectionnés. Boutique officielle.,https://jeanmarcjoubert.com/?ref=rtpilfhc,,,,
+Sitelink,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://jeanmarcjoubert.com/?ref=rtpilfhc&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://jeanmarcjoubert.com/?ref=rtpilfhc,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://jeanmarcjoubert.com/?ref=rtpilfhc&2,Create new,Campaign,All Blog,
+Callout,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Jean Marc Joubert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

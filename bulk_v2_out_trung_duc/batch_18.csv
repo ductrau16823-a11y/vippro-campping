@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Stay Another Day,Search,Google search,150654,Daily,Manual CPC,,en,2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Stay Another Day,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Stay Another Day,,,,,,,,,,AG-1,,Enabled,stayanotherday,Exact match,60,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Stay Another Day,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Stay Another Day Apparel,Mental Health Matters,Code LOVEMORE 20% Off,988 Lifeline Donation,Female-Owned Brand,Hidden 988 Designs,Embroidered Apparel,Hoodies Crewnecks Tees,Bulk Team Orders,Kids Youth Apparel,Hats Cups Accessories,Conversation Starters,Shop With Purpose,Be A Light,Buy Stay Another Day,Mental health awareness apparel. Use code LOVEMORE for 20% off site wide.,A portion of every sale donated to the 988 Suicide and Crisis Lifeline.,"Embroidered hoodies, crewnecks, tees, hats and accessories with hidden meaning.",Female-owned small business with bulk team ordering for organizations.,https://stayanotherday.com/?ref=vohmpphk,,,,
+Sitelink,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://stayanotherday.com/?ref=vohmpphk&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://stayanotherday.com/?ref=vohmpphk,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://stayanotherday.com/?ref=vohmpphk&2,Create new,Campaign,All Blog,
+Callout,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Stay Another Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

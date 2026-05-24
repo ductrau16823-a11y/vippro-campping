@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,KAT VR,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2276;2250;2380;2036;2724;2040;2056;2372,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,KAT VR,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,KAT VR,,,,,,,,,,AG-1,,Enabled,katvr,Exact match,45,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,KAT VR,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,KAT VR Official Store,Break Physical Limits,360 Natural Movement,1:1 Locomotion Control,Haptic Feedback Built-In,VR Fitness Gamification,3000+ Games Supported,Reduces Motion Sickness,Bundle 40% Off,$599 Steam Card Free,KAT Walk C2 Plus,C2 Core Treadmill,Loco S Motion Sensors,Walk Mini S Pro,Shop VR Treadmills,Break physical boundaries. 360-degree natural movement with 1:1 locomotion.,"Bundle 40% off includes KAT Shoes, Nexus and free $599 Steam gift card.",Supports 3000+ games on SteamVR and Meta Quest. Reduces motion sickness.,"Real-time health tracking with heart rate, steps and calorie monitoring.",https://www.kat-vr.com/?ref=pkxaslxs,,,,
+Sitelink,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.kat-vr.com/?ref=pkxaslxs&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.kat-vr.com/?ref=pkxaslxs,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.kat-vr.com/?ref=pkxaslxs&2,Create new,Campaign,All Blog,
+Callout,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,KAT VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Tribit,Search,Google search,150654,Daily,Manual CPC,,en,2840;2276;2826;2250;2124;2380;2724;2036;2620;2756,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Tribit,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Tribit,,,,,,,,,,AG-1,,Enabled,tribit,Exact match,960,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Tribit,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Tribit Official Store,Sound That Matters,XBass Bass Enhancement,Audiodo Hearing Tech,30-Day Money Back,Lifetime Support,Free Ship Over $99,Newsletter 10% Off,$5 Off Orders $150+,$10 Off Orders $200+,StormBox Speakers,FlyBuds True Wireless,Portable Bluetooth,Premium Audio Brand,Shop Tribit Today,Sound that matters. Premium audio with XBass enhancement and Audiodo tech.,StormBox portable speakers and FlyBuds true wireless earbuds available now.,Free shipping over $99. Get $5 off orders $150+ or $10 off orders $200+.,30-day money back guarantee and lifetime customer support included.,https://www.tribit.com/?ref=sxqmkawk,,,,
+Sitelink,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.tribit.com/?ref=sxqmkawk&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.tribit.com/?ref=sxqmkawk,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.tribit.com/?ref=sxqmkawk&2,Create new,Campaign,All Blog,
+Callout,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Tribit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

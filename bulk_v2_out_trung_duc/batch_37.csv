@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Steezy,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2036;2124;2276;2250;2528;2724;2380;2246,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Steezy,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Steezy,,,,,,,,,,AG-1,,Enabled,steezy,Exact match,975,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Steezy,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Steezy Official Store,Action Sports Apparel,Snowboard Surf Skate,Free US Ship Over $100,Embroidered Graphic Tees,Snapbacks Beanies Hats,Mens Womens Kids,Size-Inclusive Designs,Save 30-50% Sale,BMX Wakeboard Motox,Hoodies Sweatshirts,Long Sleeves Tanks,Vinyl Stickers Gaiters,Reigning Streetwear,Buy Steezy Online,"Action sports inspired lifestyle wear for snow, surf and skate communities.","Free US shipping over $100. Save 30-50% on hoodies, tees and accessories.","Snapbacks, trucker hats, beanies plus apparel for men, women and kids.",Reigning supreme in action-sports streetwear. Email signup for early access.,https://steezy.com/?ref=cljcgvlx,,,,
+Sitelink,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://steezy.com/?ref=cljcgvlx&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://steezy.com/?ref=cljcgvlx,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://steezy.com/?ref=cljcgvlx&2,Create new,Campaign,All Blog,
+Callout,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Steezy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

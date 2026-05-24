@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Support Plante,Search,Google search,150654,Daily,Manual CPC,,en,2250;2124,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Support Plante,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Support Plante,,,,,,,,,,AG-1,,Enabled,support plante,Exact match,1095,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Support Plante,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Support Plante No 1 FR,Décoration Végétale,Livraison Gratuite FR,Garantie Satisfait 14j,4.6/5 De 650+ Avis,Porte Plante Design,Étagère Plante Bois,Suspension Macramé,Pots Sur Roulettes,Treillis Plante Grimp,Réduction 15% Hebdo,Guide Plante Offert,Bambou Rotin Métal,Livraison 24-48h,Shop Décoration Plante,La référence n°1 en France en décoration végétale. Livraison gratuite.,"Porte plante, étagère, suspension et treillis en bois, métal ou rotin.",Garantie satisfait ou remboursé 14 jours. Guide plante offert valeur 22.90 euros.,Réduction 15% chaque semaine. Note 4.6/5 par plus de 650 clients satisfaits.,https://support-plante.com/?ref=iwiglqag,,,,
+Sitelink,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://support-plante.com/?ref=iwiglqag&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://support-plante.com/?ref=iwiglqag,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://support-plante.com/?ref=iwiglqag&2,Create new,Campaign,All Blog,
+Callout,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Support Plante,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

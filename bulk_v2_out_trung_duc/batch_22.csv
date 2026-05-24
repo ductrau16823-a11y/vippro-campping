@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Nsabers IT,Search,Google search,150654,Daily,Manual CPC,,en,2840;2276;2826;2036;2724;2124;2380;2752;2208;2756,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Nsabers IT,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Nsabers IT,,,,,,,,,,AG-1,,Enabled,nsabers,Exact match,1623,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Nsabers IT,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Nsabers IT Officiale,Spade Laser Premium,Effetto Luce Finale,12+ Colori LED RGB,Custodia Alluminio,Lame Policarbonato,Code MAY4 -15% Off,Garanzia 1 Anno,Effetti Flash-on-Clash,Spada ECO Cavaliere,Maestro Premium Spada,Free Spada Da 299E,Fino A 50% Sconto,Accessori Spade,Buy Nsabers Today,Spade laser premium con effetti luminosi e sonori spettacolari.,Codice MAY4 per 15% di sconto. Spada gratis con acquisti da 299 euro.,Custodie alluminio anodizzato e lame in policarbonato resistente.,Garanzia 1 anno e supporto 24/7. Soddisfatto o rimborsato in 15 giorni.,https://nsabers.it/?ref=hliisxpj,,,,
+Sitelink,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://nsabers.it/?ref=hliisxpj&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://nsabers.it/?ref=hliisxpj,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://nsabers.it/?ref=hliisxpj&2,Create new,Campaign,All Blog,
+Callout,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Nsabers IT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

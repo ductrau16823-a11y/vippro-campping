@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Engwe DE,Search,Google search,150654,Daily,Manual CPC,,en,2826;2276;2380;2840;2724;2528;2208;2620;2752;2040,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Engwe DE,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Engwe DE,,,,,,,,,,AG-1,,Enabled,engwe,Exact match,2025,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Engwe DE,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Engwe Official Store DE,Fun Riding E-Bikes,Up To 1300E Discount,Code CINEPRE 100 Euro,EU Road-Legal E-Bikes,Torque Sensor Models,350km Extended Range,Foldable City E-Bikes,Fat Tire E-Bikes,Cargo & Commuter Bikes,1-2 Year Warranty,Free EU Shipping,Klarna PayPal Pay Later,Lifetime Support,Shop Engwe Bikes,Fun riding with Engwe e-bikes. Save up to 1300 euros on city models.,Use code CINEPRE for 100 euros off. EU road-legal e-bikes with 1-2 year warranty.,"Foldable, fat tire, cargo and commuter e-bikes plus Y-series e-scooters.",Up to 350km range with torque sensors. Pay later with Klarna or PayPal.,https://de.engwe.com/?ref=CINEPRE,,,,
+Sitelink,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://de.engwe.com/?ref=CINEPRE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://de.engwe.com/?ref=CINEPRE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://de.engwe.com/?ref=CINEPRE&2,Create new,Campaign,All Blog,
+Callout,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Engwe DE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Sofabaton,Search,Google search,150654,Daily,Manual CPC,,en,2840;2276;2124;2826;2528;2036;2250;2756;2040;2056,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Sofabaton,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Sofabaton,,,,,,,,,,AG-1,,Enabled,sofabaton,Exact match,9386,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Sofabaton,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Sofabaton Official Store,One Remote All Devices,Universal Remote Control,Activity-Based Automation,Wide Device Support,Intuitive Touchscreen,Premium Build Quality,360 IR Hub Coverage,Easy App Setup,X2 Premium Remote,X1S Everyday Remote,U3 All-In-One Control,Charging Dock Included,Shop Universal Remotes,Buy Sofabaton Today,One smart remote controls all your devices. Activity-based automation built in.,Premium build with intuitive touchscreen and 360-degree IR hub coverage.,"X2, X1S and U3 universal remotes. Compatible with most major device brands.",Easy app-based setup. Premium build quality eliminates multi-remote clutter.,https://www.sofabaton.com/?ref=ymefdwhx,,,,
+Sitelink,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.sofabaton.com/?ref=ymefdwhx&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.sofabaton.com/?ref=ymefdwhx,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.sofabaton.com/?ref=ymefdwhx&2,Create new,Campaign,All Blog,
+Callout,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Sofabaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
