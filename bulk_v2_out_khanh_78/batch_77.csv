@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,WONDERFOLD,Search,Google search,130000,Daily,Manual CPC,,en,2840;2124;2826;2276;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,WONDERFOLD,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,WONDERFOLD,,,,,,,,,,AG-1,,Enabled,wonderfold,Exact match,286,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,WONDERFOLD,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Wonderfold Official Site,Shop Wonderfold Wagons,Premium Baby Strollers,Folding Stroller Wagons,Wonderfold For Families,Up To 25 Off Wagons,Free Shipping On Wagons,Wagons For Kids & Pets,Built For Daily Use,Multi Child Stroller,Easy Fold & Go Design,Shop New Wagon Models,Top Rated Baby Wagons,Order Wonderfold Today,Safe Smooth Family Rides,Shop Wonderfold stroller wagons built for active families on every adventure.,Discover premium Wonderfold wagons. Easy fold designs trusted by parents daily.,"Free shipping on Wonderfold orders. Safe smooth rides for kids, pets and gear.",Save up to 25 off Wonderfold wagons. Official store with top rated new models.,https://wonderfold.com/NYMBUSCOMMERCE,,,,
+Sitelink,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://wonderfold.com/NYMBUSCOMMERCE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://wonderfold.com/NYMBUSCOMMERCE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://wonderfold.com/NYMBUSCOMMERCE&2,Create new,Campaign,All Blog,
+Callout,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,WONDERFOLD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

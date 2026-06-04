@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,TheLAShop.com,Search,Google search,130000,Daily,Manual CPC,,en,2124;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,TheLAShop.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,TheLAShop.com,,,,,,,,,,AG-1,,Enabled,thelashop,Exact match,1500,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,TheLAShop.com,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,TheLAShop Official Store,Shop TheLAShop Online,TheLAShop - Big Savings,"Home, Garden & Pet Deals",Free Shipping at TheLAShop,TheLAShop Daily Deals,Up To 50 Off Sitewide,Outdoor & Patio Bargains,Trusted US Online Retailer,TheLAShop Best Sellers,New Arrivals Every Week,"Auto, Pet & Beauty Picks",Save Big at TheLAShop,Top Brands Low Prices,,"Shop TheLAShop for home, garden, beauty and pet deals with fast US shipping.",Discover daily savings on top brands across every category at TheLAShop Official.,"Free shipping, low prices and a huge selection await you at TheLAShop today.","From patio to pet care, TheLAShop has trusted gear at unbeatable everyday prices.",https://thelashop.com/NYMBUSCOMMERCE,,,,
+Sitelink,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://thelashop.com/NYMBUSCOMMERCE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://thelashop.com/NYMBUSCOMMERCE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://thelashop.com/NYMBUSCOMMERCE&2,Create new,Campaign,All Blog,
+Callout,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,TheLAShop.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

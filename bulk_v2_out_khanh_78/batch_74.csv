@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,PetPalsDIY,Search,Google search,130000,Daily,Manual CPC,,en,2840;2124;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,PetPalsDIY,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,PetPalsDIY,,,,,,,,,,AG-1,,Enabled,PetPals,Exact match,325,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,PetPalsDIY,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,PetPalsDIY Official Store,DIY Pet Supplies Online,Shop PetPalsDIY Today,Smart Pet Gear & Toys,PetPalsDIY Best Sellers,Free Shipping On Pet Gear,Top Pet DIY Kits,Save On Pet Essentials,Pet Toys & Accessories,PetPalsDIY Big Deals,Build Better Pet Spaces,Trusted Pet DIY Brand,New Pet Arrivals Weekly,Up To 30 Off Pet Gear,,"Shop PetPalsDIY for smart, do it yourself pet gear, toys and accessories online.",Discover top quality DIY pet supplies and creative kits at PetPalsDIY Official Store.,"PetPalsDIY brings fun, affordable pet projects and essentials to every pet owner.","Save on trusted pet gear, toys and DIY kits with fast shipping at PetPalsDIY today.",https://petpalsdiy.com/NYMBUSCOMMERCE,,,,
+Sitelink,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://petpalsdiy.com/NYMBUSCOMMERCE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://petpalsdiy.com/NYMBUSCOMMERCE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://petpalsdiy.com/NYMBUSCOMMERCE&2,Create new,Campaign,All Blog,
+Callout,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,PetPalsDIY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

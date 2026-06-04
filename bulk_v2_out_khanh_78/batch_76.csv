@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,herbishh.com,Search,Google search,130000,Daily,Manual CPC,,en,2840;2124;2036;2276;2826,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,herbishh.com,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,herbishh.com,,,,,,,,,,AG-1,,Enabled,herbishh,Exact match,78,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,herbishh.com,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Herbishh Official Store,Organic Herbal Hair Color,Shop Herbishh Today,Natural Hair Color Kits,Ammonia Free Hair Dye,Herbal Care For Hair,Free Shipping Available,Shop New Arrivals,Up To 40 Off Sale,Gentle On Scalp,Plant Based Hair Color,Vegan & Cruelty Free,Order Herbishh Online,Salon Quality At Home,Top Rated Hair Color,Shop Herbishh organic herbal hair color. Ammonia free and gentle on every scalp.,Discover Herbishh vegan hair care. Plant based color for healthy shine at home.,Free shipping on Herbishh orders today. Salon quality color trusted by thousands.,Save up to 40 off Herbishh sets now. Official store with new herbal launches.,https://herbishh.com/NYMBUSCOMMERCE,,,,
+Sitelink,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://herbishh.com/NYMBUSCOMMERCE&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://herbishh.com/NYMBUSCOMMERCE,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://herbishh.com/NYMBUSCOMMERCE&2,Create new,Campaign,All Blog,
+Callout,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,herbishh.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

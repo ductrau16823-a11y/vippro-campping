@@ -1,0 +1,751 @@
+[
+  {
+    "name": "biosculpture",
+    "link_web": "https://biosculpture.com",
+    "link1": "https://biosculpture.com/?ref=CINEPRE",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "biosculpture",
+    "max_cpc_raw": "",
+    "max_cpc_parsed": null,
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Hoa Kỳ",
+      "Úc",
+      "Canada",
+      "Bồ Đào Nha",
+      "Tây Ban Nha"
+    ]
+  },
+  {
+    "name": "Grounding-Sheet",
+    "link_web": "https://grounding-sheet.com",
+    "link1": "https://grounding-sheet.com/?ref=NGUYENDUCTRUNG&utm_source=affiliate",
+    "danh_muc": "Home & Living",
+    "key_brand": "grounding sheet",
+    "max_cpc_raw": "$3.93",
+    "max_cpc_parsed": "3.93",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Ireland",
+      "New Zealand",
+      "Đức",
+      "Hà Lan",
+      "Pháp",
+      "Bỉ"
+    ]
+  },
+  {
+    "name": "quordlepuzzles",
+    "link_web": "https://quordlepuzzles.pl",
+    "link1": "https://www.quordlepuzzles.es/?ref=CINEPRE",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "quordlepuzzles",
+    "max_cpc_raw": "$0.28",
+    "max_cpc_parsed": "0.28",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc",
+      "Tây Ban Nha"
+    ]
+  },
+  {
+    "name": "Quordlepuzzles",
+    "link_web": "https://quordlepuzzles.fr",
+    "link1": "https://www.quordlepuzzles.fr/?ref=NGUYENDUCTRUNG",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "Quordlepuzzles",
+    "max_cpc_raw": "$0.23",
+    "max_cpc_parsed": "0.23",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc",
+      "Tây Ban Nha"
+    ]
+  },
+  {
+    "name": "Lumeo creative",
+    "link_web": "https://lumeo-creative.com",
+    "link1": "https://lumeo-creative.com/?ref=CINEPRE&utm_source=affiliationgoaff",
+    "danh_muc": "Digital & Services",
+    "key_brand": "Lumeo creative",
+    "max_cpc_raw": "$1.07",
+    "max_cpc_parsed": "1.07",
+    "targetLocations": [
+      "Pháp"
+    ]
+  },
+  {
+    "name": "POOTOO",
+    "link_web": "https://pootoo.com",
+    "link1": "https://pootoo.com/?ref=CINEPRE&utm_source=affiliate%26utm_medium",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "POOTOO",
+    "max_cpc_raw": "$1.68",
+    "max_cpc_parsed": "1.68",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Canada",
+      "Úc",
+      "Thụy Sĩ"
+    ]
+  },
+  {
+    "name": "NEO Sabers",
+    "link_web": "https://neosabers.com",
+    "link1": "https://neosabers.com/?ref=CINEPRE",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "NEO Sabers",
+    "max_cpc_raw": "$0.33",
+    "max_cpc_parsed": "0.33",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Đức",
+      "Canada",
+      "Úc",
+      "Thụy Điển",
+      "Tây Ban Nha",
+      "Na Uy",
+      "Hà Lan",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "120 Life",
+    "link_web": "https://120life.com",
+    "link1": "https://www.120life.com/?ref=CINEPRE",
+    "danh_muc": "Health & Nutrition",
+    "key_brand": "120 Life",
+    "max_cpc_raw": "$0.57",
+    "max_cpc_parsed": "0.57",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh"
+    ]
+  },
+  {
+    "name": "CocoBeauty",
+    "link_web": "https://cocobeauty.com",
+    "link1": "https://cocobeauty.com/?ref=CINEPRE",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "CocoBeauty",
+    "max_cpc_raw": "$0.85",
+    "max_cpc_parsed": "0.85",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Đức",
+      "Úc",
+      "Hà Lan",
+      "Canada",
+      "Ý",
+      "Đan Mạch"
+    ]
+  },
+  {
+    "name": "Earasers",
+    "link_web": "https://earasers.shop",
+    "link1": "https://earasers.shop/?ref=CINEPRE",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "Earasers",
+    "max_cpc_raw": "$0.54",
+    "max_cpc_parsed": "0.54",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc",
+      "Vương quốc Anh",
+      "Canada",
+      "Đức",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Phần Lan",
+      "Thụy Sĩ",
+      "Áo"
+    ]
+  },
+  {
+    "name": "TECKNET",
+    "link_web": "https://tecknet.co.uk",
+    "link1": "https://tecknet.co.uk/?ref=CINEPRE",
+    "danh_muc": "Electronics & Tech",
+    "key_brand": "TECKNET",
+    "max_cpc_raw": "$0.34",
+    "max_cpc_parsed": "0.34",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Đức",
+      "Pháp",
+      "Tây Ban Nha",
+      "Ý",
+      "Canada",
+      "Hà Lan",
+      "Áo",
+      "Bỉ"
+    ]
+  },
+  {
+    "name": "Engwe DE",
+    "link_web": "https://engwe-bikes.de",
+    "link1": "https://de.engwe.com/?ref=CINEPRE",
+    "danh_muc": "Bikes & Electric Rides",
+    "key_brand": "Engwe DE",
+    "max_cpc_raw": "$1.35",
+    "max_cpc_parsed": "1.35",
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Đức",
+      "Ý",
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Đan Mạch",
+      "Bồ Đào Nha",
+      "Thụy Điển",
+      "Áo"
+    ]
+  },
+  {
+    "name": "Gear Geek",
+    "link_web": "https://geargeek.co.uk",
+    "link1": "https://geargeek.co.uk/?ref=CINEPRE",
+    "danh_muc": "Electronics & Tech",
+    "key_brand": "Gear Geek",
+    "max_cpc_raw": "",
+    "max_cpc_parsed": null,
+    "targetLocations": [
+      "Canada",
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Phần Lan",
+      "Pháp",
+      "Úc"
+    ]
+  },
+  {
+    "name": "Merino Tech",
+    "link_web": "https://merino.tech",
+    "link1": "https://merino.tech/?ref=slssmgxa",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "Merino Tech",
+    "max_cpc_raw": "$0.32",
+    "max_cpc_parsed": "0.32",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Đức",
+      "Úc",
+      "Ý",
+      "Canada",
+      "Bỉ",
+      "Hà Lan"
+    ]
+  },
+  {
+    "name": "Smitizen",
+    "link_web": "https://smitizen.com",
+    "link1": "https://www.smitizen.com/?ref=calixto",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "Smitizen",
+    "max_cpc_raw": "$1.39",
+    "max_cpc_parsed": "1.39",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Đức",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Hà Lan",
+      "Ý",
+      "Úc",
+      "Thụy Sĩ"
+    ]
+  },
+  {
+    "name": "sofabaton",
+    "link_web": "https://sofabaton.com",
+    "link1": "https://www.sofabaton.com/?ref=ymefdwhx",
+    "danh_muc": "Electronics & Tech",
+    "key_brand": "sofabaton",
+    "max_cpc_raw": "",
+    "max_cpc_parsed": null,
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Canada",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Úc",
+      "Pháp",
+      "Thụy Sĩ",
+      "Áo",
+      "Bỉ"
+    ]
+  },
+  {
+    "name": "jeanmarcjoubert",
+    "link_web": "https://jeanmarcjoubert.com",
+    "link1": "https://jeanmarcjoubert.com/?ref=rtpilfhc",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "jeanmarcjoubert",
+    "max_cpc_raw": "",
+    "max_cpc_parsed": null,
+    "targetLocations": [
+      "Pháp"
+    ]
+  },
+  {
+    "name": "StayAnotherDay",
+    "link_web": "https://stayanotherday.com",
+    "link1": "https://stayanotherday.com/?ref=vohmpphk",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "StayAnotherDay",
+    "max_cpc_raw": "$0.21",
+    "max_cpc_parsed": "0.21",
+    "targetLocations": [
+      "Hoa Kỳ"
+    ]
+  },
+  {
+    "name": "Wall of Fame",
+    "link_web": "https://walloffame.fr",
+    "link1": "https://walloffame.fr/?ref=ohnyztxt",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "Wall of Fame",
+    "max_cpc_raw": "$0.58",
+    "max_cpc_parsed": "0.58",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp"
+    ]
+  },
+  {
+    "name": "Haylou",
+    "link_web": "https://haylou.com",
+    "link1": "https://haylou.com/?ref=wwsevxdy",
+    "danh_muc": "Electronics & Tech",
+    "key_brand": "Haylou",
+    "max_cpc_raw": "$0.17",
+    "max_cpc_parsed": "0.17",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Pháp",
+      "Đức",
+      "Vương quốc Anh",
+      "Ý",
+      "Canada",
+      "Hà Lan",
+      "Úc",
+      "Thụy Điển"
+    ]
+  },
+  {
+    "name": "Support Plante",
+    "link_web": "https://support-plante.com",
+    "link1": "https://support-plante.com/?ref=iwiglqag",
+    "danh_muc": "Garden & Pets",
+    "key_brand": "Support Plante",
+    "max_cpc_raw": "$0.73",
+    "max_cpc_parsed": "0.73",
+    "targetLocations": [
+      "Pháp",
+      "Canada"
+    ]
+  },
+  {
+    "name": "Nsabers IT",
+    "link_web": "https://nsabers.it",
+    "link1": "https://nsabers.it/?ref=hliisxpj",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "Nsabers IT",
+    "max_cpc_raw": "$2.89",
+    "max_cpc_parsed": "2.89",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Úc",
+      "Tây Ban Nha",
+      "Canada",
+      "Ý",
+      "Thụy Điển",
+      "Đan Mạch",
+      "Thụy Sĩ"
+    ]
+  },
+  {
+    "name": "QUORDLE PUZZLES",
+    "link_web": "https://quordlepuzzles.com",
+    "link1": "https://www.quordlepuzzles.com/?ref=scsatyln",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "QUORDLE PUZZLES",
+    "max_cpc_raw": "$0.12",
+    "max_cpc_parsed": "0.12",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Úc",
+      "Tây Ban Nha"
+    ]
+  },
+  {
+    "name": "Tribit",
+    "link_web": "https://tribit.com",
+    "link1": "https://www.tribit.com/?ref=sxqmkawk",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "Tribit",
+    "max_cpc_raw": "$0.64",
+    "max_cpc_parsed": "0.64",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Pháp",
+      "Canada",
+      "Ý",
+      "Tây Ban Nha",
+      "Úc",
+      "Bồ Đào Nha",
+      "Thụy Sĩ"
+    ]
+  },
+  {
+    "name": "Eleglide",
+    "link_web": "https://eleglide.com",
+    "link1": "https://eleglide.com/?ref=tybzepow",
+    "danh_muc": "Bikes & Electric Rides",
+    "key_brand": "Eleglide",
+    "max_cpc_raw": "$0.15",
+    "max_cpc_parsed": "0.15",
+    "targetLocations": [
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Hà Lan",
+      "Bỉ",
+      "Thụy Điển",
+      "Đan Mạch",
+      "Thụy Sĩ"
+    ]
+  },
+  {
+    "name": "Dasaita",
+    "link_web": "https://dasaita.com",
+    "link1": "https://www.dasaita.com/?ref=oocdrema",
+    "danh_muc": "Automotive & Rides",
+    "key_brand": "Dasaita",
+    "max_cpc_raw": "$2.27",
+    "max_cpc_parsed": "2.27",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Ý",
+      "Canada",
+      "Tây Ban Nha",
+      "Đức",
+      "Pháp",
+      "Vương quốc Anh",
+      "Úc",
+      "Thụy Điển",
+      "Áo"
+    ]
+  },
+  {
+    "name": "Morfeo",
+    "link_web": "https://morfeo.com",
+    "link1": "https://morfeo.com/?ref=dusqrlqm",
+    "danh_muc": "Home & Living",
+    "key_brand": "Morfeo",
+    "max_cpc_raw": "$3.21",
+    "max_cpc_parsed": "3.21",
+    "targetLocations": [
+      "Ý",
+      "Tây Ban Nha",
+      "Hoa Kỳ",
+      "Bỉ",
+      "Pháp",
+      "Canada",
+      "Đức",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Úc"
+    ]
+  },
+  {
+    "name": "ododos",
+    "link_web": "https://ododos.co",
+    "link1": "https://ododos.co/?ref=NGUYENDUCTRUNG",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "ododos",
+    "max_cpc_raw": "$0.32",
+    "max_cpc_parsed": "0.32",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Canada",
+      "Vương quốc Anh",
+      "Tây Ban Nha",
+      "Úc",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "ThankGod",
+    "link_web": "https://thankgod.com",
+    "link1": "https://thankgod.com/?ref=kfncpljg",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "ThankGod",
+    "max_cpc_raw": "$0.30",
+    "max_cpc_parsed": "0.30",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada"
+    ]
+  },
+  {
+    "name": "ACMEJOY",
+    "link_web": "https://acmejoy.nl",
+    "link1": "https://www.acmejoy.nl/?ref=lgmtleod&utm_medium=Goaffpro%26utm_campaign",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "ACMEJOY",
+    "max_cpc_raw": "$1.17",
+    "max_cpc_parsed": "1.17",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Đức",
+      "Ý",
+      "Hà Lan",
+      "Bỉ",
+      "Vương quốc Anh",
+      "Úc",
+      "Áo",
+      "Thụy Điển"
+    ]
+  },
+  {
+    "name": "Europesnus",
+    "link_web": "https://europesnus.com",
+    "link1": "https://europesnus.com/?ref=ofwjdlpn",
+    "danh_muc": "Food & Drinks",
+    "key_brand": "Europesnus",
+    "max_cpc_raw": "$0.06",
+    "max_cpc_parsed": "0.06",
+    "targetLocations": [
+      "Phần Lan",
+      "Hà Lan",
+      "Đức",
+      "Bỉ",
+      "Ý",
+      "Thụy Điển",
+      "Hoa Kỳ",
+      "Thụy Sĩ",
+      "Đan Mạch",
+      "Vương quốc Anh"
+    ]
+  },
+  {
+    "name": "Tuneful Hair",
+    "link_web": "https://tunefulhair.com",
+    "link1": "https://www.tunefulhair.com/?ref=tkzzsbnx",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "Tuneful Hair",
+    "max_cpc_raw": "$1.21",
+    "max_cpc_parsed": "1.21",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Thụy Điển"
+    ]
+  },
+  {
+    "name": "Caravan Bits & Bobs",
+    "link_web": "https://cbbs.net.au",
+    "link1": "https://cbbs.net.au/?ref=kpcmjrgi",
+    "danh_muc": "Automotive & Rides",
+    "key_brand": "Caravan Bits and Bobs",
+    "max_cpc_raw": "$0.04",
+    "max_cpc_parsed": "0.04",
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Hoa Kỳ",
+      "Úc",
+      "Canada",
+      "Pháp",
+      "Hà Lan",
+      "New Zealand"
+    ]
+  },
+  {
+    "name": "Military Shop",
+    "link_web": "https://militaryshop.com.au",
+    "link1": "https://militaryshop.com.au/?ref=NGUYENDUCTRUNG",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "Military Shop",
+    "max_cpc_raw": "$0.32",
+    "max_cpc_parsed": "0.32",
+    "targetLocations": [
+      "Úc",
+      "Đức",
+      "Thụy Sĩ",
+      "Thụy Điển"
+    ]
+  },
+  {
+    "name": "Renpho AU",
+    "link_web": "https://renpho.au",
+    "link1": "https://renpho.au/?ref=trjwbctj",
+    "danh_muc": "Health & Nutrition",
+    "key_brand": "Renpho AU",
+    "max_cpc_raw": "$0.39",
+    "max_cpc_parsed": "0.39",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Đức",
+      "Canada",
+      "Úc",
+      "Pháp",
+      "Tây Ban Nha",
+      "Ý",
+      "Hà Lan",
+      "Áo"
+    ]
+  },
+  {
+    "name": "KATVR",
+    "link_web": "https://kat-vr.com",
+    "link1": "https://www.kat-vr.com/?ref=pkxaslxs",
+    "danh_muc": "Electronics & Tech",
+    "key_brand": "KATVR",
+    "max_cpc_raw": "$0.03",
+    "max_cpc_parsed": "0.03",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Úc",
+      "Tây Ban Nha",
+      "Áo",
+      "Bỉ",
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Steezy",
+    "link_web": "https://steezy.com",
+    "link1": "https://steezy.com/?ref=cljcgvlx",
+    "danh_muc": "Fashion & Clothing",
+    "key_brand": "Steezy",
+    "max_cpc_raw": "$0.65",
+    "max_cpc_parsed": "0.65",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Vương quốc Anh",
+      "Úc",
+      "Canada",
+      "Đức",
+      "Pháp",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Ý",
+      "Phần Lan"
+    ]
+  },
+  {
+    "name": "Intense oud",
+    "link_web": "https://intenseoud.com",
+    "link1": "https://www.intenseoud.com/?ref=dcjmhfvk",
+    "danh_muc": "Beauty & Personal Care",
+    "key_brand": "Intense oud",
+    "max_cpc_raw": "$0.70",
+    "max_cpc_parsed": "0.70",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Thụy Điển"
+    ]
+  },
+  {
+    "name": "Procolored",
+    "link_web": "https://procolored.com",
+    "link1": "https://www.procolored.com/?ref=NGUYENDUCTRUNG&utm_campaign=NGUYEN%20DUC%20TRUNG&utm_medium=affiliate&utm_source=goaffpro",
+    "danh_muc": "Electronics & Tech",
+    "key_brand": "Procolored",
+    "max_cpc_raw": "$1.26",
+    "max_cpc_parsed": "1.26",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Vương quốc Anh",
+      "Đức",
+      "Canada",
+      "Ý",
+      "Úc",
+      "Bỉ",
+      "Áo",
+      "Na Uy"
+    ]
+  },
+  {
+    "name": "Play Planet",
+    "link_web": "https://playplanet.goaffpro.com",
+    "link1": "https://playplanet.us/?ref=vkdshhvv",
+    "danh_muc": "Toys, Hobbies & Gifts",
+    "key_brand": "Play Planet",
+    "max_cpc_raw": "$0.25",
+    "max_cpc_parsed": "0.25",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Tây Ban Nha",
+      "Vương quốc Anh",
+      "Bồ Đào Nha",
+      "Úc"
+    ]
+  },
+  {
+    "name": "NurseInTheMaking",
+    "link_web": "https://nurseinthemaking.goaffpro.com",
+    "link1": "https://anurseinthemaking.com/?ref=nimyeamd",
+    "danh_muc": "Digital & Services",
+    "key_brand": "NurseInTheMaking",
+    "max_cpc_raw": "$0.11",
+    "max_cpc_parsed": "0.11",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Ý"
+    ]
+  },
+  {
+    "name": "Au Vodka",
+    "link_web": "https://auvodka.goaffpro.com",
+    "link1": "https://auvodka.co.uk/?ref=urlknqmy",
+    "danh_muc": "Food & Drinks",
+    "key_brand": "Au Vodka",
+    "max_cpc_raw": "$0.12",
+    "max_cpc_parsed": "0.12",
+    "targetLocations": [
+      "Vương quốc Anh",
+      "Hoa Kỳ",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Pháp",
+      "Bỉ",
+      "Đan Mạch",
+      "Canada"
+    ]
+  }
+]

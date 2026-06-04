@@ -1,0 +1,149 @@
+[
+  {
+    "name": "TheLAShop.com",
+    "link1": "https://thelashop.com/NYMBUSCOMMERCE",
+    "key_brand": "thelashop",
+    "cpc_raw": "2,7",
+    "max_cpc_parsed": "2.70",
+    "danh_muc": "BEAUTY",
+    "targetLocations": [
+      "Canada",
+      "Hoa Kỳ"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "Cohorted Beauty",
+    "link1": "https://www.cohorted.co.uk/ROLLINGYOURFATE",
+    "key_brand": "cohorted",
+    "cpc_raw": "0,02",
+    "max_cpc_parsed": "0.02",
+    "danh_muc": "BEAUTY",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Đức"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "AmazingCosmetics",
+    "link1": "https://www.amazingcosmetics.com/NYMBUSCOMMERCE",
+    "key_brand": "amazingcosmetics",
+    "cpc_raw": "0,25",
+    "max_cpc_parsed": "0.25",
+    "danh_muc": "BEAUTY",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "Beauty Affairs",
+    "link1": "https://www.beautyaffairs.com.au/NYMBUSCOMMERCE",
+    "key_brand": "beautyaffairs",
+    "cpc_raw": "1,04",
+    "max_cpc_parsed": "1.04",
+    "danh_muc": "BEAUTY",
+    "targetLocations": [
+      "Úc",
+      "Hoa Kỳ",
+      "Đức",
+      "Hà Lan"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "PetPalsDIY",
+    "link1": "https://petpalsdiy.com/NYMBUSCOMMERCE",
+    "key_brand": "PetPals",
+    "cpc_raw": "0,25",
+    "max_cpc_parsed": "0.25",
+    "danh_muc": "PETS",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "HARD'N'HEAVY _ Shopify",
+    "link1": "https://hardnheavy.style/nymbuscommerce",
+    "key_brand": "hardnheavy",
+    "cpc_raw": "0,6",
+    "max_cpc_parsed": "0.60",
+    "danh_muc": "FASHION",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Pháp",
+      "Ý"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "herbishh.com",
+    "link1": "https://herbishh.com/NYMBUSCOMMERCE",
+    "key_brand": "herbishh",
+    "cpc_raw": "0,06",
+    "max_cpc_parsed": "0.06",
+    "danh_muc": "BEAUTY",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Úc",
+      "Đức",
+      "Vương quốc Anh"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "WONDERFOLD",
+    "link1": "https://wonderfold.com/NYMBUSCOMMERCE",
+    "key_brand": "wonderfold",
+    "cpc_raw": "0,22",
+    "max_cpc_parsed": "0.22",
+    "danh_muc": "BABY_KIDS",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh",
+      "Đức",
+      "Úc"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "Label Land",
+    "link1": "https://labelland.com/NYMBUSCOMMERCE",
+    "key_brand": "Label Land",
+    "cpc_raw": "1,2",
+    "max_cpc_parsed": "1.20",
+    "danh_muc": "ARTS_CRAFTS",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Canada"
+    ],
+    "source": "Shopify sheet"
+  },
+  {
+    "name": "Plant Paper Inc.",
+    "link1": "https://plantpaper.com/NYMBUSCOMMERCE",
+    "key_brand": "plantpaper",
+    "cpc_raw": "",
+    "max_cpc_parsed": "",
+    "danh_muc": "OTHER",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada"
+    ],
+    "source": "batch_200.json"
+  }
+]

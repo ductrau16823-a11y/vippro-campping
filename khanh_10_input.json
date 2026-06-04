@@ -1,0 +1,395 @@
+[
+  {
+    "name": "TheLAShop.com",
+    "campaignType": "Search",
+    "link1": "https://thelashop.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[thelashop]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "2.70",
+    "targetLocations": [
+      "Canada",
+      "Hoa Kỳ"
+    ],
+    "headlines": [
+      "TheLAShop Official Store",
+      "Shop TheLAShop Online",
+      "TheLAShop - Big Savings",
+      "Home, Garden & Pet Deals",
+      "Free Shipping at TheLAShop",
+      "TheLAShop Daily Deals",
+      "Up To 50 Off Sitewide",
+      "Outdoor & Patio Bargains",
+      "Trusted US Online Retailer",
+      "TheLAShop Best Sellers",
+      "New Arrivals Every Week",
+      "Auto, Pet & Beauty Picks",
+      "Save Big at TheLAShop",
+      "Top Brands Low Prices"
+    ],
+    "descriptions": [
+      "Shop TheLAShop for home, garden, beauty and pet deals with fast US shipping.",
+      "Discover daily savings on top brands across every category at TheLAShop Official.",
+      "Free shipping, low prices and a huge selection await you at TheLAShop today.",
+      "From patio to pet care, TheLAShop has trusted gear at unbeatable everyday prices."
+    ]
+  },
+  {
+    "name": "Cohorted Beauty",
+    "campaignType": "Search",
+    "link1": "https://www.cohorted.co.uk/ROLLINGYOURFATE",
+    "adsKey": [
+      "[cohorted]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.02",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh",
+      "Hà Lan",
+      "Đức"
+    ],
+    "headlines": [
+      "Cohorted Beauty Box UK",
+      "Luxury Beauty Subscription",
+      "Cohorted Monthly Box",
+      "Premium Beauty Brands",
+      "Shop Cohorted Beauty",
+      "Beauty Box Delivered",
+      "Cohorted Official Store",
+      "Discover New Skincare",
+      "Top UK Beauty Box",
+      "Save On Beauty Boxes",
+      "Cohorted - Luxe Beauty",
+      "Free UK Delivery Available",
+      "Curated Beauty Picks",
+      "Join The Beauty Cohort",
+      "Treat Yourself With Cohorted"
+    ],
+    "descriptions": [
+      "Get curated luxury beauty boxes delivered monthly with Cohorted Beauty UK.",
+      "Discover premium skincare, makeup and fragrance in every Cohorted Beauty Box.",
+      "Subscribe to Cohorted for top brand beauty products at exceptional value.",
+      "Cohorted Beauty brings handpicked luxury treats straight to your door each month."
+    ]
+  },
+  {
+    "name": "AmazingCosmetics",
+    "campaignType": "Search",
+    "link1": "https://www.amazingcosmetics.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[amazingcosmetics]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.25",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh"
+    ],
+    "headlines": [
+      "AmazingCosmetics Official",
+      "Shop AmazingCosmetics",
+      "Top Rated Concealer",
+      "Full Coverage Concealer",
+      "AmazingCosmetics Sale",
+      "Flawless Skin Made Easy",
+      "Pro Makeup Essentials",
+      "Long Lasting Coverage",
+      "Concealer That Hides All",
+      "AmazingCosmetics Deals",
+      "Free US Shipping Available",
+      "Shop New Makeup Drops",
+      "Trusted By Pro Artists",
+      "Save On Beauty Today"
+    ],
+    "descriptions": [
+      "Shop AmazingCosmetics for full coverage concealer trusted by makeup pros everywhere.",
+      "Discover flawless, long lasting makeup essentials at AmazingCosmetics Official Store.",
+      "Get pro quality concealer and beauty products with fast US shipping at AmazingCosmetics.",
+      "AmazingCosmetics delivers high performance makeup that hides imperfections flawlessly."
+    ]
+  },
+  {
+    "name": "Beauty Affairs",
+    "campaignType": "Search",
+    "link1": "https://www.beautyaffairs.com.au/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[beautyaffairs]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "1.04",
+    "targetLocations": [
+      "Úc",
+      "Hoa Kỳ",
+      "Đức",
+      "Hà Lan"
+    ],
+    "headlines": [
+      "Beauty Affairs Australia",
+      "Shop Beauty Affairs Online",
+      "Top Beauty Brands AU",
+      "Beauty Affairs Sale Now",
+      "Free Shipping Over 50",
+      "Luxury Skincare Picks",
+      "Makeup & Fragrance Deals",
+      "Beauty Affairs Official",
+      "Up To 40 Off Beauty",
+      "New Beauty Arrivals",
+      "Trusted Aussie Beauty Shop",
+      "Shop Skincare Favourites",
+      "Save On Top Beauty Brands",
+      "Beauty Affairs Best Sellers"
+    ],
+    "descriptions": [
+      "Shop Beauty Affairs for top skincare, makeup and fragrance brands across Australia.",
+      "Discover luxury beauty essentials with fast shipping at Beauty Affairs Official Store.",
+      "Save on premium beauty and skincare from your favourite brands at Beauty Affairs today.",
+      "Beauty Affairs delivers trusted Aussie beauty picks and exclusive offers every week."
+    ]
+  },
+  {
+    "name": "PetPalsDIY",
+    "campaignType": "Search",
+    "link1": "https://petpalsdiy.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[PetPals]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.25",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh"
+    ],
+    "headlines": [
+      "PetPalsDIY Official Store",
+      "DIY Pet Supplies Online",
+      "Shop PetPalsDIY Today",
+      "Smart Pet Gear & Toys",
+      "PetPalsDIY Best Sellers",
+      "Free Shipping On Pet Gear",
+      "Top Pet DIY Kits",
+      "Save On Pet Essentials",
+      "Pet Toys & Accessories",
+      "PetPalsDIY Big Deals",
+      "Build Better Pet Spaces",
+      "Trusted Pet DIY Brand",
+      "New Pet Arrivals Weekly",
+      "Up To 30 Off Pet Gear"
+    ],
+    "descriptions": [
+      "Shop PetPalsDIY for smart, do it yourself pet gear, toys and accessories online.",
+      "Discover top quality DIY pet supplies and creative kits at PetPalsDIY Official Store.",
+      "PetPalsDIY brings fun, affordable pet projects and essentials to every pet owner.",
+      "Save on trusted pet gear, toys and DIY kits with fast shipping at PetPalsDIY today."
+    ]
+  },
+  {
+    "name": "HARD'N'HEAVY _ Shopify",
+    "campaignType": "Search",
+    "link1": "https://hardnheavy.style/nymbuscommerce",
+    "adsKey": [
+      "[hardnheavy]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.60",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Đức",
+      "Vương quốc Anh",
+      "Pháp",
+      "Ý"
+    ],
+    "headlines": [
+      "Hard N Heavy Official",
+      "Shop Hard N Heavy Style",
+      "Heavy Metal Streetwear",
+      "Rock & Metal Apparel",
+      "Edgy Streetwear Brand",
+      "New Drops Out Now",
+      "Tees, Hoodies & Jackets",
+      "Free EU Shipping",
+      "Bold Designs For Rockers",
+      "Premium Metal Fashion",
+      "Up To 30 Off Sale",
+      "Limited Edition Drops",
+      "Order Yours Today",
+      "Heavy Style Made Loud",
+      "Shop The Hard Look"
+    ],
+    "descriptions": [
+      "Shop Hard N Heavy for bold metal streetwear. Tees, hoodies and jackets shipped fast.",
+      "Discover limited drops at Hard N Heavy. Premium heavy metal fashion built to last.",
+      "Free EU shipping on Hard N Heavy orders. Edgy designs for true rock fans every day.",
+      "Up to 30 off select Hard N Heavy gear. Official store with new arrivals each week."
+    ]
+  },
+  {
+    "name": "herbishh.com",
+    "campaignType": "Search",
+    "link1": "https://herbishh.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[herbishh]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.06",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Úc",
+      "Đức",
+      "Vương quốc Anh"
+    ],
+    "headlines": [
+      "Herbishh Official Store",
+      "Organic Herbal Hair Color",
+      "Shop Herbishh Today",
+      "Natural Hair Color Kits",
+      "Ammonia Free Hair Dye",
+      "Herbal Care For Hair",
+      "Free Shipping Available",
+      "Shop New Arrivals",
+      "Up To 40 Off Sale",
+      "Gentle On Scalp",
+      "Plant Based Hair Color",
+      "Vegan & Cruelty Free",
+      "Order Herbishh Online",
+      "Salon Quality At Home",
+      "Top Rated Hair Color"
+    ],
+    "descriptions": [
+      "Shop Herbishh organic herbal hair color. Ammonia free and gentle on every scalp.",
+      "Discover Herbishh vegan hair care. Plant based color for healthy shine at home.",
+      "Free shipping on Herbishh orders today. Salon quality color trusted by thousands.",
+      "Save up to 40 off Herbishh sets now. Official store with new herbal launches."
+    ]
+  },
+  {
+    "name": "WONDERFOLD",
+    "campaignType": "Search",
+    "link1": "https://wonderfold.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[wonderfold]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.22",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada",
+      "Vương quốc Anh",
+      "Đức",
+      "Úc"
+    ],
+    "headlines": [
+      "Wonderfold Official Site",
+      "Shop Wonderfold Wagons",
+      "Premium Baby Strollers",
+      "Folding Stroller Wagons",
+      "Wonderfold For Families",
+      "Up To 25 Off Wagons",
+      "Free Shipping On Wagons",
+      "Wagons For Kids & Pets",
+      "Built For Daily Use",
+      "Multi Child Stroller",
+      "Easy Fold & Go Design",
+      "Shop New Wagon Models",
+      "Top Rated Baby Wagons",
+      "Order Wonderfold Today",
+      "Safe Smooth Family Rides"
+    ],
+    "descriptions": [
+      "Shop Wonderfold stroller wagons built for active families on every adventure.",
+      "Discover premium Wonderfold wagons. Easy fold designs trusted by parents daily.",
+      "Free shipping on Wonderfold orders. Safe smooth rides for kids, pets and gear.",
+      "Save up to 25 off Wonderfold wagons. Official store with top rated new models."
+    ]
+  },
+  {
+    "name": "Label Land",
+    "campaignType": "Search",
+    "link1": "https://labelland.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[Label Land]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "1.20",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Pháp",
+      "Canada"
+    ],
+    "headlines": [
+      "Label Land Official Store",
+      "Custom Labels & Stickers",
+      "Personalized Name Labels",
+      "Shop Label Land Today",
+      "Kids Name Labels Online",
+      "Durable Waterproof Labels",
+      "Up To 20 Off Labels",
+      "Free Shipping On Orders",
+      "Bottle & Lunch Labels",
+      "Design Labels In Minutes",
+      "Top Rated Custom Stickers",
+      "Made To Last & Stick",
+      "Order Label Land Now",
+      "Fun Labels For Schools",
+      "Shop New Label Designs"
+    ],
+    "descriptions": [
+      "Shop Label Land personalized labels. Durable waterproof stickers for daily use.",
+      "Design custom Label Land stickers fast. Perfect for kids, schools and home.",
+      "Free shipping on Label Land orders. Top rated labels that stick and last long.",
+      "Save up to 20 off Label Land sets. Official store with fresh new designs."
+    ]
+  },
+  {
+    "name": "Plant Paper Inc.",
+    "campaignType": "Search",
+    "link1": "https://plantpaper.com/NYMBUSCOMMERCE",
+    "adsKey": [
+      "[plantpaper]"
+    ],
+    "bidding": "Thủ công CPC",
+    "budget": "100",
+    "maxCpcLimit": "0.40",
+    "targetLocations": [
+      "Hoa Kỳ",
+      "Canada"
+    ],
+    "headlines": [
+      "Plant Paper Official Site",
+      "Eco Bamboo Toilet Paper",
+      "Shop Plant Paper Today",
+      "Tree Free Bath Tissue",
+      "Soft Bamboo Toilet Roll",
+      "Plastic Free Bath Paper",
+      "Free Shipping Available",
+      "Up To 20 Off Bundles",
+      "Subscribe And Save More",
+      "Sustainable Toilet Paper",
+      "Shop Plant Paper Bundles",
+      "Better For You And Earth",
+      "Order Plant Paper Online",
+      "Premium Eco Bath Tissue",
+      "Top Rated Bamboo Paper"
+    ],
+    "descriptions": [
+      "Shop Plant Paper bamboo toilet paper. Tree free, plastic free and ultra soft.",
+      "Discover Plant Paper bath tissue. Sustainable bamboo rolls delivered to you.",
+      "Free shipping on Plant Paper bundles. Eco friendly toilet paper for every home.",
+      "Save up to 20 off Plant Paper now. Subscribe for soft bamboo rolls each month."
+    ]
+  }
+]

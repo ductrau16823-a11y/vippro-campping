@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Adarna House,Search,Google search,150654,Daily,Manual CPC,,en,2840;2724;2124;2276;2528;2036,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Adarna House,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Adarna House,,,,,,,,,,AG-1,,Enabled,adarna,Exact match,151,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Adarna House,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Adarna Official Store,Adarna Big Sale Today,Up To 30% Off Today,Free Shipping Available,Shop Adarna Best Sellers,Code NYMBUS Save More,New Arrivals Weekly,Premium Quality Build,Best Adarna Deals 2026,Worldwide Fast Shipping,Trusted Online Store,Buy Adarna Online Now,Member Reward Program,Easy Returns Available,Top Rated Brand,Premium picks at Adarna. Save up to 30% with free shipping on selected items today.,"Trusted online store with Adarna best sellers, new arrivals and exclusive promo codes.",Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.,Member reward program and top rated service. Discover Adarna essentials made simple.,https://adarna.com.ph/?ref=cpntfyhf,,,,
+Sitelink,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://adarna.com.ph/?ref=cpntfyhf&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://adarna.com.ph/?ref=cpntfyhf,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://adarna.com.ph/?ref=cpntfyhf&2,Create new,Campaign,All Blog,
+Callout,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Adarna House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

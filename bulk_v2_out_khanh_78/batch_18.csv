@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Poodled Store,Search,Google search,130000,Daily,Manual CPC,,en,2752,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Poodled Store,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Poodled Store,,,,,,,,,,AG-1,,Enabled,poodled,Exact match,130,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Poodled Store,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Poodled Official Store,Premium Lifestyle Picks,Up To 25% Off Today,Free Shipping In Sweden,Curated Boutique Goods,Code NYMBUS Save Now,New Arrivals Weekly,Trending Style Selection,Top Quality Build,Trusted Online Boutique,Lifestyle Gift Ideas,Easy Online Shopping,Member Reward Program,Shop Best Sellers,Poodled Sale 2026,Premium curated lifestyle goods at Poodled. Save up to 25% with free Sweden shipping.,Trending styles and boutique picks with new arrivals every week.,Use code NYMBUS for an extra discount. Member reward program with easy returns.,Trusted online boutique. Quality build and lifestyle gift ideas for every occasion.,https://poodled.co/?ref=npmlnvgv,,,,
+Sitelink,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://poodled.co/?ref=npmlnvgv&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://poodled.co/?ref=npmlnvgv,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://poodled.co/?ref=npmlnvgv&2,Create new,Campaign,All Blog,
+Callout,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Poodled Store,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

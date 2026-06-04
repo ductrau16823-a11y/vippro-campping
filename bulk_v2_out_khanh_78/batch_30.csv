@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Dry Bags,Search,Google search,150654,Daily,Manual CPC,,en,2840;2826;2036;2276;2554;2208;2578;2056;2620,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Dry Bags,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Dry Bags,,,,,,,,,,AG-1,,Enabled,drybags,Exact match,452,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Dry Bags,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Dry Official Store,Dry Big Sale Today,Up To 30% Off Today,Free Shipping Available,Shop Dry Best Sellers,Code NYMBUS Save More,New Arrivals Weekly,Premium Quality Build,Best Dry Deals 2026,Worldwide Fast Shipping,Trusted Online Store,Buy Dry Online Now,Member Reward Program,Easy Returns Available,Top Rated Brand,Premium picks at Dry. Save up to 30% with free shipping on selected items today.,"Trusted online store with Dry best sellers, new arrivals and exclusive promo codes.",Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.,Member reward program and top rated service. Discover Dry essentials made simple.,https://www.drybags.co.uk/?ref=ltoepywu,,,,
+Sitelink,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://www.drybags.co.uk/?ref=ltoepywu&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://www.drybags.co.uk/?ref=ltoepywu,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://www.drybags.co.uk/?ref=ltoepywu&2,Create new,Campaign,All Blog,
+Callout,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Dry Bags,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code

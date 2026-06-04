@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,Yose Power,Search,Google search,150654,Daily,Manual CPC,,en,2276;2250;2826;2724;2380;2246;2528;2208;2752,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,Yose Power,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,Yose Power,,,,,,,,,,AG-1,,Enabled,yosepower,Exact match,603,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,Yose Power,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,Yose Official Store,Yose Big Sale Today,Up To 30% Off Today,Free Shipping Available,Shop Yose Best Sellers,Code NYMBUS Save More,New Arrivals Weekly,Premium Quality Build,Best Yose Deals 2026,Worldwide Fast Shipping,Trusted Online Store,Buy Yose Online Now,Member Reward Program,Easy Returns Available,Top Rated Brand,Premium picks at Yose. Save up to 30% with free shipping on selected items today.,"Trusted online store with Yose best sellers, new arrivals and exclusive promo codes.",Use code NYMBUS for an extra discount. Worldwide shipping with easy online returns.,Member reward program and top rated service. Discover Yose essentials made simple.,https://yosepower.com/?ref=tuatawlv,,,,
+Sitelink,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://yosepower.com/?ref=tuatawlv&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://yosepower.com/?ref=tuatawlv,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://yosepower.com/?ref=tuatawlv&2,Create new,Campaign,All Blog,
+Callout,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,Yose Power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
