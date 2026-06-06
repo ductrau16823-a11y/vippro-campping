@@ -1,0 +1,12 @@
+﻿Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Budget type,Bid strategy type,Maximum CPC bid limit,Language,Location,EU political ads,Ad group,Status,Keyword status,Keyword,Match Type,Max CPC,Ad status,Ad type,Headline 1,Headline 2,Headline 3,Headline 4,Headline 5,Headline 6,Headline 7,Headline 8,Headline 9,Headline 10,Headline 11,Headline 12,Headline 13,Headline 14,Headline 15,Description,Description 2,Description 3,Description 4,Final URL,Asset action,Level,Sitelink text,Callout text
+Campaign,Add,Enabled,CRZ YOGA,Search,Google search,10,Daily,Maximize clicks,0.40,en,2124;2840,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,CRZ YOGA,,,,,,,,,,AG-1,Enabled,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Keyword,Add,,CRZ YOGA,,,,,,,,,,AG-1,,Enabled,crzyoga,Exact match,0.40,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad,Add,,CRZ YOGA,,,,,,,,,,AG-1,,,,,,Enabled,Responsive search ad,CRZ YOGA Coupon Code,Best CRZ YOGA Coupons,Top CRZ YOGA Coupons,Get 55% Off CRZ YOGA,Top Coupon Codes Today,Enjoy Fast Savings 55% Off,All Codes [Verified],Save 55% Off Coupon Code,,,,,,,,Save 55% Off on all products with CRZ YOGA coupon. All coupons verified,"With This Exclusive CRZ YOGA Coupon Code, Shop Till You Drop And Enjoy 55% Off",Saving Your Pocket With 55% Off Thanks To Special CRZ YOGA Coupon. Enjoy It,Enjoy A Big Surprise With 55% Off Thanks To lam CRZ YOGA. Limited Offer!,https://ca.crzyoga.com/?ref=MIKEALEX,,,,
+Sitelink,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Provide the best coupons,Rated by the user,,,https://ca.crzyoga.com/?ref=MIKEALEX&1,Create new,Campaign,Today's Top Coupon,
+Sitelink,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sale Up To 60%,To save your money,,,https://ca.crzyoga.com/?ref=MIKEALEX,Create new,Campaign,Best Deals Of The Days,
+Sitelink,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Save with All Blog coupons,Discounts and promo codes for,,,https://ca.crzyoga.com/?ref=MIKEALEX&2,Create new,Campaign,All Blog,
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Rate: 4.93 / 5.0
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,100% Working Code
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,All Code Verified
+Callout,Add,,CRZ YOGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Create new,Campaign,,Free Code
