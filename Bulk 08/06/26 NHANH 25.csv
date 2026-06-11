@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	TheHushShop.com	Search	Google search; Search partners	154553	Manual CPC		United States; United Kingdom; Canada; Australia; Netherlands; Germany; France; Spain; Italy; Sweden	No																															
+Ad Group	Add		TheHushShop.com								Ad group 1		1081.87																												
+Keyword	Add		TheHushShop.com								Ad group 1	hush shop		Exact																											
+Keyword	Add		TheHushShop.com								Ad group 1	thehushshop		Exact																											
+Keyword	Add		TheHushShop.com								Ad group 1	hush store		Exact																											
+Ad	Add		TheHushShop.com								Ad group 1				https://hush.shop/?ref=dgewzlht	{Keyword:Hush Shop}	Wellness & Lifestyle	Calm Living Products	Relaxation Essentials	Sleep & Comfort Goods	Mindful Living Shop	Hush Shop Official	Aromatherapy Products	Cozy Home Essentials	Stress Relief Items	Self Care Collection	Natural Wellness Goods	Gifts For Relaxation	Shop Wellness Now	Find Your Calm	Hush Shop offers wellness and relaxation products. Calm living essentials.	Shop Hush for aromatherapy, sleep, and comfort goods. Self care collection.	Hush Shop official store. Natural wellness products for mindful living.	Find your calm with Hush Shop. Stress relief and cozy home essentials.			Responsive search ad				
+Callout	Add		TheHushShop.com																																			Instant Delivery			
+Callout	Add		TheHushShop.com																																			4.8 Star Rating			
+Callout	Add		TheHushShop.com																																			HD & Ultra HD Quality			
+Callout	Add		TheHushShop.com																																			Secure Payment			
+Sitelink	Add		TheHushShop.com												https://hush.shop/?ref=dgewzlht#1																	Essential oils and scents							Create new	Aromatherapy	Calming fragrances
+Sitelink	Add		TheHushShop.com												https://hush.shop/?ref=dgewzlht#2																	Better sleep essentials							Create new	Sleep Products	Rest peacefully
+Sitelink	Add		TheHushShop.com												https://hush.shop/?ref=dgewzlht#3																	Self care gift sets							Create new	Self Care	Treat yourself
+Sitelink	Add		TheHushShop.com												https://hush.shop/?ref=dgewzlht#4																	Cozy home accessories							Create new	Home Comfort	Relaxing atmosphere

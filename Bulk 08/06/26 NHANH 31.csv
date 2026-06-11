@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	sonicred	Search	Google search; Search partners	154553	Manual CPC		United States; Canada; United Kingdom; Australia; Germany; France; Italy; Spain; Netherlands; Sweden	No																															
+Ad Group	Add		sonicred								Ad group 1		309.11																												
+Keyword	Add		sonicred								Ad group 1	teepublic		Exact																											
+Keyword	Add		sonicred								Ad group 1	teepublic shirts		Exact																											
+Keyword	Add		sonicred								Ad group 1	teepublic custom tees		Exact																											
+Ad	Add		sonicred								Ad group 1				https://www.teepublic.com/user/sonicred?ref=ivjwmeyc	{Keyword:TeePublic}	Custom T-Shirts & More	Artist Designed Tees	Unique Graphic Shirts	Stickers & Posters	Pop Culture Merch	TeePublic Official	Affordable Design Tees	Phone Cases & Mugs	Fan Art Marketplace	Independent Artists	Shop Unique Designs	New Designs Daily	Wear Art You Love	Shop TeePublic Now	TeePublic offers unique artist-designed t-shirts, stickers, and more. Shop now.	Shop TeePublic for affordable graphic tees. Pop culture and fan art designs.	TeePublic official marketplace. Independent artist shirts, mugs, and posters.	Wear art you love. Unique designs daily on TeePublic. Affordable prices.			Responsive search ad				
+Callout	Add		sonicred																																			Instant Delivery			
+Callout	Add		sonicred																																			4.8 Star Rating			
+Callout	Add		sonicred																																			HD & Ultra HD Quality			
+Callout	Add		sonicred																																			Secure Payment			
+Sitelink	Add		sonicred												https://www.teepublic.com/user/sonicred?ref=ivjwmeyc#1																	Artist designed tees							Create new	T-Shirts	Unique graphic shirts
+Sitelink	Add		sonicred												https://www.teepublic.com/user/sonicred?ref=ivjwmeyc#2																	Custom design stickers							Create new	Stickers	Affordable art stickers
+Sitelink	Add		sonicred												https://www.teepublic.com/user/sonicred?ref=ivjwmeyc#3																	Art prints and posters							Create new	Posters	Decorate your space
+Sitelink	Add		sonicred												https://www.teepublic.com/user/sonicred?ref=ivjwmeyc#4																	Designed phone cases							Create new	Phone Cases	Unique protection

@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Keepgo	Search	Google search; Search partners	154553	Manual CPC		United States; Canada; Spain; United Kingdom; Germany; France; Italy; Australia; Netherlands; Belgium	No																															
+Ad Group	Add		Keepgo								Ad group 1		1700.08																												
+Keyword	Add		Keepgo								Ad group 1	keepgo		Exact																											
+Keyword	Add		Keepgo								Ad group 1	keepgo esim		Exact																											
+Keyword	Add		Keepgo								Ad group 1	keepgo data		Exact																											
+Ad	Add		Keepgo								Ad group 1				https://www.keepgo.com/?ref=mhzqszcw	{Keyword:Keepgo}	Global Data Solutions	Travel WiFi & eSIM	Stay Connected Abroad	Lifetime Data Plans	Mobile Hotspot Devices	Keepgo Official Store	Data In 100+ Countries	No Expiration Plans	Pay Once Use Forever	Travel Internet Made Easy	SIM Cards & eSIMs	Reliable Global Data	Buy Data Anytime	Shop Keepgo Now	Keepgo offers global data plans and travel WiFi. Stay connected in 100+ countries.	Lifetime data plans with no expiration from Keepgo. Pay once, use anytime you travel.	Keepgo travel eSIMs and mobile hotspots. Reliable data in 100+ countries.	Stay connected abroad with Keepgo. Global SIM cards, eSIMs, and hotspot devices.			Responsive search ad				
+Callout	Add		Keepgo																																			Instant Delivery			
+Callout	Add		Keepgo																																			4.8 Star Rating			
+Callout	Add		Keepgo																																			HD & Ultra HD Quality			
+Callout	Add		Keepgo																																			Secure Payment			
+Sitelink	Add		Keepgo												https://www.keepgo.com/?ref=mhzqszcw#1																	Global eSIM data plans							Create new	eSIM Plans	Instant activation
+Sitelink	Add		Keepgo												https://www.keepgo.com/?ref=mhzqszcw#2																	Travel WiFi devices							Create new	Mobile Hotspots	Connect multiple devices
+Sitelink	Add		Keepgo												https://www.keepgo.com/?ref=mhzqszcw#3																	Data that never expires							Create new	Lifetime Data	Pay once use forever
+Sitelink	Add		Keepgo												https://www.keepgo.com/?ref=mhzqszcw#4																	Check country coverage							Create new	Coverage Map	100+ countries available

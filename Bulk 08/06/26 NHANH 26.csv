@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	lensmartonline	Search	Google search; Search partners	154553	Manual CPC		United States; Canada; United Kingdom; Germany; Finland; Spain; Italy; Switzerland; Ireland; Portugal	No																															
+Ad Group	Add		lensmartonline								Ad group 1		1390.98																												
+Keyword	Add		lensmartonline								Ad group 1	lensmart		Exact																											
+Keyword	Add		lensmartonline								Ad group 1	lensmart online		Exact																											
+Keyword	Add		lensmartonline								Ad group 1	lensmart glasses		Exact																											
+Ad	Add		lensmartonline								Ad group 1				https://www.lensmartonline.com/?lenid=panGoaffpro&ref=fyfbhzxc&utm_medium=affiliates&utm_source=Goaffpro	{Keyword:Lensmart}	Prescription Glasses	Affordable Eyewear Online	Stylish Optical Frames	Blue Light Glasses	Sunglasses & Opticals	Lensmart Official Store	Free Basic Lenses	Buy One Get One Free	Trending Frame Styles	Men & Women Eyewear	Virtual Try On	Quality Rx Lenses	Shop Glasses Online	See Better For Less	Lensmart offers affordable prescription glasses online. Stylish frames for less.	Shop Lensmart for eyeglasses with free basic lenses. Blue light options too.	Lensmart official store. Buy one get one free on trendy optical frames.	See better for less with Lensmart. Quality Rx lenses and stylish eyewear.			Responsive search ad				
+Callout	Add		lensmartonline																																			Instant Delivery			
+Callout	Add		lensmartonline																																			4.8 Star Rating			
+Callout	Add		lensmartonline																																			HD & Ultra HD Quality			
+Callout	Add		lensmartonline																																			Secure Payment			
+Sitelink	Add		lensmartonline												https://www.lensmartonline.com/?lenid=panGoaffpro&ref=fyfbhzxc&utm_medium=affiliates&utm_source=Goaffpro#1																	Affordable Rx eyewear							Create new	Prescription Glasses	Free basic lenses
+Sitelink	Add		lensmartonline												https://www.lensmartonline.com/?lenid=panGoaffpro&ref=fyfbhzxc&utm_medium=affiliates&utm_source=Goaffpro#2																	Screen protection frames							Create new	Blue Light Glasses	Block blue light
+Sitelink	Add		lensmartonline												https://www.lensmartonline.com/?lenid=panGoaffpro&ref=fyfbhzxc&utm_medium=affiliates&utm_source=Goaffpro#3																	Rx and non-Rx shades							Create new	Sunglasses	UV protection styles
+Sitelink	Add		lensmartonline												https://www.lensmartonline.com/?lenid=panGoaffpro&ref=fyfbhzxc&utm_medium=affiliates&utm_source=Goaffpro#4																	Buy one get one free							Create new	BOGO Deals	Best eyewear value

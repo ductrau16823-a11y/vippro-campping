@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Maine Garden Products	Search	Google search; Search partners	154553	Manual CPC		United States; Canada; Netherlands; France; United Kingdom; Germany; Sweden; Belgium; Spain; Australia	No																															
+Ad Group	Add		Maine Garden Products								Ad group 1		1545.53																												
+Keyword	Add		Maine Garden Products								Ad group 1	maine garden		Exact																											
+Keyword	Add		Maine Garden Products								Ad group 1	maine garden products		Exact																											
+Keyword	Add		Maine Garden Products								Ad group 1	mainegarden		Exact																											
+Ad	Add		Maine Garden Products								Ad group 1				https://stores.mainegarden.com/?ref=djyimnrn	{Keyword:Maine Garden}	Garden Supplies Online	Raised Bed Garden Kits	Organic Gardening Tools	Shop Garden Products	Cedar Raised Beds	Maine Garden Official	Grow Your Own Food	Durable Garden Beds	Compost & Soil Mixes	Gardening Made Easy	Sustainable Gardening	Shop Planters & Beds	Quality Garden Gear	Start Gardening Today	Maine Garden Products offers raised bed kits and gardening supplies. Grow your own.	Shop cedar raised beds and organic gardening tools. Maine Garden quality products.	Maine Garden makes gardening easy. Durable raised beds and garden supplies.	Start your garden with Maine Garden. Quality beds, planters, and soil mixes.			Responsive search ad				
+Callout	Add		Maine Garden Products																																			Instant Delivery			
+Callout	Add		Maine Garden Products																																			4.8 Star Rating			
+Callout	Add		Maine Garden Products																																			HD & Ultra HD Quality			
+Callout	Add		Maine Garden Products																																			Secure Payment			
+Sitelink	Add		Maine Garden Products												https://stores.mainegarden.com/?ref=djyimnrn#1																	Cedar raised garden beds							Create new	Raised Beds	Durable and natural
+Sitelink	Add		Maine Garden Products												https://stores.mainegarden.com/?ref=djyimnrn#2																	Quality gardening tools							Create new	Garden Tools	For every gardener
+Sitelink	Add		Maine Garden Products												https://stores.mainegarden.com/?ref=djyimnrn#3																	Organic soil and compost							Create new	Soil & Compost	Nourish your garden
+Sitelink	Add		Maine Garden Products												https://stores.mainegarden.com/?ref=djyimnrn#4																	Latest garden supplies							Create new	New Products	Fresh arrivals

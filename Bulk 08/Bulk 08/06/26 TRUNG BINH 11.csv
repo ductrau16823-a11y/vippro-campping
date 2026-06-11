@@ -1,0 +1,29 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Card-Addiction.com	Search	Google search; Search partners	100	Manual CPC		United States; France; Canada	No																															
+Ad Group	Add		Card-Addiction.com								Ad group 1		0.60																												
+Keyword	Add		Card-Addiction.com								Ad group 1	card addiction		Exact																											
+Keyword	Add		Card-Addiction.com								Ad group 1	card-addiction		Exact																											
+Keyword	Add		Card-Addiction.com								Ad group 1	card addiction shop		Exact																											
+Ad	Add		Card-Addiction.com								Ad group 1				https://card-addiction.com/?ref=huugqiwr	{Keyword:Card Addiction}	Trading Card Shop	Pokemon Cards & Packs	Sports Cards Online	Sealed Boxes & Cases	Collectible Card Games	Card Addiction Official	Rare & Vintage Cards	Booster Packs & Sets	Graded Cards Available	Yu-Gi-Oh & Magic Cards	Shop TCG Products	New Releases In Stock	Collector's Paradise	Shop Cards Now	Card Addiction is your trading card shop. Pokemon, sports, and TCG products.	Shop sealed boxes, booster packs, and rare cards. Card Addiction official store.	Card Addiction offers graded cards and new releases. Collector's paradise.	Pokemon, Yu-Gi-Oh, and sports cards online. Shop Card Addiction today.			Responsive search ad				
+Callout	Add		Card-Addiction.com																																			Instant Delivery			
+Callout	Add		Card-Addiction.com																																			4.8 Star Rating			
+Callout	Add		Card-Addiction.com																																			HD & Ultra HD Quality			
+Callout	Add		Card-Addiction.com																																			Secure Payment			
+Sitelink	Add		Card-Addiction.com												https://card-addiction.com/?ref=huugqiwr#1																	Pokemon packs and boxes							Create new	Pokemon Cards	Catch them all
+Sitelink	Add		Card-Addiction.com												https://card-addiction.com/?ref=huugqiwr#2																	Baseball football cards							Create new	Sports Cards	Sealed and singles
+Sitelink	Add		Card-Addiction.com												https://card-addiction.com/?ref=huugqiwr#3																	Latest TCG releases							Create new	New Releases	Just arrived in stock
+Sitelink	Add		Card-Addiction.com												https://card-addiction.com/?ref=huugqiwr#4																	PSA graded cards							Create new	Graded Cards	Certified collectibles
+Campaign	Add	Enabled	marshydrode	Search	Google search; Search partners	100	Manual CPC		Germany; United States; France; Italy; United Kingdom; Spain; Australia; Netherlands; Finland; Austria	No																															
+Ad Group	Add		marshydrode								Ad group 1		0.20																												
+Keyword	Add		marshydrode								Ad group 1	mars hydro		Exact																											
+Keyword	Add		marshydrode								Ad group 1	marshydro		Exact																											
+Keyword	Add		marshydrode								Ad group 1	mars hydro grow light		Exact																											
+Ad	Add		marshydrode								Ad group 1				https://marshydro.eu/?ref=udztwbpk	{Keyword:Mars Hydro}	LED Grow Lights	Indoor Growing Systems	Grow Tents & Fans	Full Spectrum LED	Energy Efficient Lights	Mars Hydro EU Official	High PPFD Grow Lights	Silent Inline Fans	Complete Grow Kits	For All Growth Stages	Commercial Grade LEDs	Smart Grow Technology	Shop Grow Lights Now	Grow Better With LED	Mars Hydro offers LED grow lights and indoor growing systems. Full spectrum.	Shop Mars Hydro EU for grow tents, fans, and energy efficient LED lights.	Mars Hydro official store. High PPFD commercial grade grow lights on sale.	Grow better with Mars Hydro LED. Complete grow kits for all plant stages.			Responsive search ad				
+Callout	Add		marshydrode																																			Instant Delivery			
+Callout	Add		marshydrode																																			4.8 Star Rating			
+Callout	Add		marshydrode																																			HD & Ultra HD Quality			
+Callout	Add		marshydrode																																			Secure Payment			
+Sitelink	Add		marshydrode												https://marshydro.eu/?ref=udztwbpk#1																	Full spectrum LED lights							Create new	LED Grow Lights	Energy efficient growing
+Sitelink	Add		marshydrode												https://marshydro.eu/?ref=udztwbpk#2																	Indoor grow tent kits							Create new	Grow Tents	Complete setup ready
+Sitelink	Add		marshydrode												https://marshydro.eu/?ref=udztwbpk#3																	Silent ventilation fans							Create new	Inline Fans	Climate control
+Sitelink	Add		marshydrode												https://marshydro.eu/?ref=udztwbpk#4																	Full grow setup kits							Create new	Complete Kits	Everything included

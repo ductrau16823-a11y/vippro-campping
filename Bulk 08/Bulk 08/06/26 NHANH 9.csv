@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Floyd	Search	Google search; Search partners	100	Manual CPC		United States; Norway; Germany; United Kingdom; Canada; France; Italy; Spain; Australia; Sweden	No																															
+Ad Group	Add		Floyd								Ad group 1		1.00																												
+Keyword	Add		Floyd								Ad group 1	floyd furniture		Exact																											
+Keyword	Add		Floyd								Ad group 1	floyd		Exact																											
+Keyword	Add		Floyd								Ad group 1	floyd home		Exact																											
+Ad	Add		Floyd								Ad group 1				https://floyd.one/?ref=vyvgmxkw	{Keyword:Floyd}	Modern Home Furniture	Platform Beds & Sofas	Minimalist Design	Built To Last Furniture	Modular & Movable	Floyd Official Store	Sustainable Materials	Easy Assembly Furniture	Tables & Shelving	Designed In Detroit	Quality Craftsmanship	Clean Modern Aesthetic	Shop Furniture Now	Live Modern With Floyd	Floyd makes modern, durable furniture. Platform beds, sofas, and tables.	Shop Floyd for minimalist modular furniture. Easy assembly, built to last.	Floyd official store. Sustainable furniture designed in Detroit. Shop now.	Live modern with Floyd. Clean aesthetic furniture with quality materials.			Responsive search ad				
+Callout	Add		Floyd																																			Instant Delivery			
+Callout	Add		Floyd																																			4.8 Star Rating			
+Callout	Add		Floyd																																			HD & Ultra HD Quality			
+Callout	Add		Floyd																																			Secure Payment			
+Sitelink	Add		Floyd												https://floyd.one/?ref=vyvgmxkw#1																	Platform beds and frames							Create new	Beds	Minimalist sleep design
+Sitelink	Add		Floyd												https://floyd.one/?ref=vyvgmxkw#2																	Modern modular sofas							Create new	Sofas	Comfortable and stylish
+Sitelink	Add		Floyd												https://floyd.one/?ref=vyvgmxkw#3																	Dining and side tables							Create new	Tables	Clean modern design
+Sitelink	Add		Floyd												https://floyd.one/?ref=vyvgmxkw#4																	Wall and floor shelves							Create new	Shelving	Organize with style

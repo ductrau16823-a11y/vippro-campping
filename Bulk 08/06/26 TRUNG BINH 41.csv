@@ -1,0 +1,29 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	CANNI Official	Search	Google search; Search partners	154553	Manual CPC		France; United States; United Kingdom; Spain; Italy; Canada; Australia; Netherlands; New Zealand; Sweden	No																															
+Ad Group	Add		CANNI Official								Ad group 1		618.21																												
+Keyword	Add		CANNI Official								Ad group 1	canni		Exact																											
+Keyword	Add		CANNI Official								Ad group 1	canni gel polish		Exact																											
+Keyword	Add		CANNI Official								Ad group 1	canni nails		Exact																											
+Ad	Add		CANNI Official								Ad group 1				https://www.canni.com/?ref=cblsqscy	{Keyword:CANNI}	Professional Gel Polish	UV LED Nail Products	Long-Lasting Gel Color	300+ Color Options	Salon Quality At Home	CANNI Official Store	Nail Art Supplies	Base & Top Coat Gel	Easy Soak-Off Formula	Nail Tools & Kits	Vibrant Gel Colors	Professional Nail Gear	Shop Gel Polish Now	Perfect Nails At Home	CANNI offers professional gel polish. UV LED cure, 300+ colors, salon quality.	Shop CANNI for long-lasting gel nail products. Easy soak-off formula at home.	CANNI official store. Nail art supplies, base coats, and vibrant gel colors.	Perfect nails at home with CANNI. Professional gel polish and nail tools.			Responsive search ad				
+Callout	Add		CANNI Official																																			Instant Delivery			
+Callout	Add		CANNI Official																																			4.8 Star Rating			
+Callout	Add		CANNI Official																																			HD & Ultra HD Quality			
+Callout	Add		CANNI Official																																			Secure Payment			
+Sitelink	Add		CANNI Official												https://www.canni.com/?ref=cblsqscy#1																	300+ gel polish colors							Create new	Gel Polish	Long-lasting vibrant nails
+Sitelink	Add		CANNI Official												https://www.canni.com/?ref=cblsqscy#2																	Complete gel nail kits							Create new	Nail Kits	Everything you need
+Sitelink	Add		CANNI Official												https://www.canni.com/?ref=cblsqscy#3																	Professional base coats							Create new	Base & Top Coat	Perfect gel finish
+Sitelink	Add		CANNI Official												https://www.canni.com/?ref=cblsqscy#4																	Creative nail art tools							Create new	Nail Art	Design your nails
+Campaign	Add	Enabled	Yose Power	Search	Google search; Search partners	154553	Manual CPC		Germany; France; United Kingdom; Spain; Italy; Finland; Netherlands; Ireland; Denmark; Sweden	No																															
+Ad Group	Add		Yose Power								Ad group 1		618.21																												
+Keyword	Add		Yose Power								Ad group 1	yose power		Exact																											
+Keyword	Add		Yose Power								Ad group 1	yosepower		Exact																											
+Keyword	Add		Yose Power								Ad group 1	yose power ebike		Exact																											
+Ad	Add		Yose Power								Ad group 1				https://yosepower.com/?ref=tuatawlv	{Keyword:Yose Power}	E-Bike Conversion Kits	Electric Bike Batteries	Hub Motor Kits	Affordable E-Bike Parts	DIY E-Bike Conversion	Yose Power Official	36V & 48V Batteries	Rear & Front Hub Motors	Long Range E-Bike Power	Pedal Assist Systems	LCD Display Controllers	E-Bike Accessories	Shop E-Bike Parts Now	Electrify Your Ride	Yose Power offers e-bike conversion kits and batteries. DIY electric bike parts.	Shop Yose Power for hub motor kits. 36V and 48V battery options available.	Yose Power official store. Affordable e-bike conversion for any bicycle.	Electrify your ride with Yose Power. E-bike motors, batteries, and kits.			Responsive search ad				
+Callout	Add		Yose Power																																			Instant Delivery			
+Callout	Add		Yose Power																																			4.8 Star Rating			
+Callout	Add		Yose Power																																			HD & Ultra HD Quality			
+Callout	Add		Yose Power																																			Secure Payment			
+Sitelink	Add		Yose Power												https://yosepower.com/?ref=tuatawlv#1																	DIY e-bike motor kits							Create new	Conversion Kits	Electrify any bike
+Sitelink	Add		Yose Power												https://yosepower.com/?ref=tuatawlv#2																	36V and 48V batteries							Create new	Batteries	Long range power
+Sitelink	Add		Yose Power												https://yosepower.com/?ref=tuatawlv#3																	Rear and front motors							Create new	Hub Motors	Powerful and quiet
+Sitelink	Add		Yose Power												https://yosepower.com/?ref=tuatawlv#4																	Controllers and displays							Create new	Accessories	Complete your build

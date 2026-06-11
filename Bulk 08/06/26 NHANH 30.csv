@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	WOLFBOX	Search	Google search; Search partners	154553	Manual CPC		United States; United Kingdom; Germany; Australia; Canada; France; Netherlands; Spain; Italy; Belgium	No																															
+Ad Group	Add		WOLFBOX								Ad group 1		1236.42																												
+Keyword	Add		WOLFBOX								Ad group 1	wolfbox		Exact																											
+Keyword	Add		WOLFBOX								Ad group 1	wolfbox dash cam		Exact																											
+Keyword	Add		WOLFBOX								Ad group 1	wolfbox mirror cam		Exact																											
+Ad	Add		WOLFBOX								Ad group 1				https://wolfbox.com/?ref=pvnfmoxt	{Keyword:WOLFBOX}	Mirror Dash Cameras	4K Front & Rear Cam	Smart Mirror Dash Cam	Parking Monitor Built-In	GPS Tracking Dash Cam	WOLFBOX Official Store	Full Screen Mirror Cam	Night Vision Recording	Wide Angle Lens	Loop Recording	Easy Install Dash Cam	Voice Control Enabled	Shop Dash Cams Now	Drive Safe With WOLFBOX	WOLFBOX mirror dash cams with 4K front and rear recording. Smart mirror.	Shop WOLFBOX for GPS tracking dash cams. Night vision, parking monitor.	WOLFBOX official store. Full screen mirror cams with voice control.	Drive safe with WOLFBOX. Easy install dash cams with wide angle lens.			Responsive search ad				
+Callout	Add		WOLFBOX																																			Instant Delivery			
+Callout	Add		WOLFBOX																																			4.8 Star Rating			
+Callout	Add		WOLFBOX																																			HD & Ultra HD Quality			
+Callout	Add		WOLFBOX																																			Secure Payment			
+Sitelink	Add		WOLFBOX												https://wolfbox.com/?ref=pvnfmoxt#1																	4K smart mirror cams							Create new	Mirror Dash Cams	Full screen display
+Sitelink	Add		WOLFBOX												https://wolfbox.com/?ref=pvnfmoxt#2																	Ultra HD recording							Create new	4K Dash Cams	Crystal clear footage
+Sitelink	Add		WOLFBOX												https://wolfbox.com/?ref=pvnfmoxt#3																	Mounts cables and cards							Create new	Accessories	Complete your setup
+Sitelink	Add		WOLFBOX												https://wolfbox.com/?ref=pvnfmoxt#4																	Save on WOLFBOX cams							Create new	Sale	Special deals today

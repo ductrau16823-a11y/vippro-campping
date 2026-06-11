@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Arzopa Official Store	Search	Google search; Search partners	100	Manual CPC		United States; Germany; France; Spain; Italy; United Kingdom; Portugal; Australia; Sweden; Belgium	No																															
+Ad Group	Add		Arzopa Official Store								Ad group 1		0.70																												
+Keyword	Add		Arzopa Official Store								Ad group 1	arzopa		Exact																											
+Keyword	Add		Arzopa Official Store								Ad group 1	arzopa monitor		Exact																											
+Keyword	Add		Arzopa Official Store								Ad group 1	arzopa portable monitor		Exact																											
+Ad	Add		Arzopa Official Store								Ad group 1				https://www.arzopa.com/?ref=NGUYENDINHKHANH	{Keyword:Arzopa}	Portable Monitors	USB-C Travel Displays	15.6 & 17.3 Inch	Full HD IPS Screens	Extend Your Display	Arzopa Official Store	Slim & Lightweight	Plug And Play Setup	Gaming Portable Screen	Work From Anywhere	Dual Screen Anywhere	Second Monitor To Go	HDR Display Quality	Shop Monitors Now	Arzopa portable monitors. USB-C plug and play, full HD IPS, slim and light.	Shop Arzopa for travel monitors. 15.6 and 17.3 inch displays to extend screen.	Arzopa official store. Portable second monitor for work, gaming, and travel.	Work from anywhere with Arzopa. Dual screen portable monitors on sale.			Responsive search ad				
+Callout	Add		Arzopa Official Store																																			Instant Delivery			
+Callout	Add		Arzopa Official Store																																			4.8 Star Rating			
+Callout	Add		Arzopa Official Store																																			HD & Ultra HD Quality			
+Callout	Add		Arzopa Official Store																																			Secure Payment			
+Sitelink	Add		Arzopa Official Store												https://www.arzopa.com/?ref=NGUYENDINHKHANH#1																	Compact portable monitor							Create new	15.6 Inch	Perfect travel size
+Sitelink	Add		Arzopa Official Store												https://www.arzopa.com/?ref=NGUYENDINHKHANH#2																	Large portable display							Create new	17.3 Inch	More screen space
+Sitelink	Add		Arzopa Official Store												https://www.arzopa.com/?ref=NGUYENDINHKHANH#3																	High refresh monitors							Create new	Gaming Monitors	Portable gaming screen
+Sitelink	Add		Arzopa Official Store												https://www.arzopa.com/?ref=NGUYENDINHKHANH#4																	Stands and cables							Create new	Accessories	Complete your setup

@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Nilight	Search	Google search; Search partners	154553	Manual CPC		United States; Canada; Germany; Austria; France	No																															
+Ad Group	Add		Nilight								Ad group 1		1236.42																												
+Keyword	Add		Nilight								Ad group 1	nilight		Exact																											
+Keyword	Add		Nilight								Ad group 1	nilight led		Exact																											
+Keyword	Add		Nilight								Ad group 1	nilight light bar		Exact																											
+Ad	Add		Nilight								Ad group 1				https://www.nilight.com/?ref=pfzbykdj	{Keyword:Nilight}	LED Light Bars & Pods	Off-Road LED Lighting	Truck & Jeep Lights	Affordable LED Bars	Waterproof LED Lights	Nilight Official Store	Wiring Harness Kits	Roof & Bumper Lights	Bright Spot & Flood	12V Auto LED Lights	Durable Aluminum Build	Easy Installation	Shop LED Lights Now	Light Up The Road	Nilight offers LED light bars and pods for trucks and off-road vehicles.	Shop Nilight for waterproof LED lights. Affordable, bright, and durable.	Nilight official store. Off-road LED lighting with easy installation kits.	Light up the road with Nilight. LED bars, pods, and wiring harness kits.			Responsive search ad				
+Callout	Add		Nilight																																			Instant Delivery			
+Callout	Add		Nilight																																			4.8 Star Rating			
+Callout	Add		Nilight																																			HD & Ultra HD Quality			
+Callout	Add		Nilight																																			Secure Payment			
+Sitelink	Add		Nilight												https://www.nilight.com/?ref=pfzbykdj#1																	Off-road LED light bars							Create new	LED Light Bars	Bright and durable
+Sitelink	Add		Nilight												https://www.nilight.com/?ref=pfzbykdj#2																	Compact LED light pods							Create new	LED Pods	Spot and flood beams
+Sitelink	Add		Nilight												https://www.nilight.com/?ref=pfzbykdj#3																	Easy install wiring kits							Create new	Wiring Harness	Plug and play
+Sitelink	Add		Nilight												https://www.nilight.com/?ref=pfzbykdj#4																	Save on LED lights							Create new	Sale	Special offers today

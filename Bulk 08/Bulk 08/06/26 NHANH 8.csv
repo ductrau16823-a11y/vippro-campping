@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Comfier	Search	Google search; Search partners	100	Manual CPC		United States; United Kingdom; Canada; Australia; France; Italy; Spain; New Zealand; Switzerland; Austria	No																															
+Ad Group	Add		Comfier								Ad group 1		1.00																												
+Keyword	Add		Comfier								Ad group 1	comfier		Exact																											
+Keyword	Add		Comfier								Ad group 1	comfier massager		Exact																											
+Keyword	Add		Comfier								Ad group 1	comfier heating pad		Exact																											
+Ad	Add		Comfier								Ad group 1				https://www.comfier.com/?ref=wxhzeqlb	{Keyword:Comfier}	Massage & Comfort Gear	Back & Neck Massagers	Heating Pads & Wraps	Relax At Home Devices	Shiatsu Massage Pillows	Comfier Official Store	Foot & Leg Massagers	Portable Massage Gear	Pain Relief Products	Heat Therapy Devices	Gifts For Relaxation	Ergonomic Seat Cushions	Shop Massagers Now	Feel Better With Comfier	Comfier offers massage and comfort products. Back, neck, and foot massagers.	Shop Comfier for heating pads and shiatsu massage pillows. Relax at home.	Comfier official store. Portable massage devices and heat therapy products.	Feel better with Comfier. Pain relief massagers and ergonomic seat cushions.			Responsive search ad				
+Callout	Add		Comfier																																			Instant Delivery			
+Callout	Add		Comfier																																			4.8 Star Rating			
+Callout	Add		Comfier																																			HD & Ultra HD Quality			
+Callout	Add		Comfier																																			Secure Payment			
+Sitelink	Add		Comfier												https://www.comfier.com/?ref=wxhzeqlb#1																	Shiatsu back massage							Create new	Back Massagers	Relieve back pain
+Sitelink	Add		Comfier												https://www.comfier.com/?ref=wxhzeqlb#2																	Neck and shoulder relief							Create new	Neck Massagers	Portable and easy
+Sitelink	Add		Comfier												https://www.comfier.com/?ref=wxhzeqlb#3																	Soothing heat therapy							Create new	Heating Pads	Pain relief wraps
+Sitelink	Add		Comfier												https://www.comfier.com/?ref=wxhzeqlb#4																	Relaxing foot massage							Create new	Foot Massagers	Comfort at home

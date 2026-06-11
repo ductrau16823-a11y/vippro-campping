@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Aoocci	Search	Google search; Search partners	154553	Manual CPC		United Kingdom; France; Italy; Spain; United States; Germany; Australia; Ireland; Sweden; Portugal	No																															
+Ad Group	Add		Aoocci								Ad group 1		618.21																												
+Keyword	Add		Aoocci								Ad group 1	aoocci		Exact																											
+Keyword	Add		Aoocci								Ad group 1	aoocci cookware		Exact																											
+Keyword	Add		Aoocci								Ad group 1	aoocci kitchen		Exact																											
+Ad	Add		Aoocci								Ad group 1				https://aoocci.com/?ref=gzgtgdgf	{Keyword:Aoocci}	Premium Cookware Sets	Non-Stick Pots & Pans	Stylish Kitchen Cookware	Healthy Cooking Made Easy	Granite Stone Coating	Aoocci Official Store	Durable Kitchen Sets	Induction Compatible	Dishwasher Safe Cookware	Modern Kitchen Essentials	Cook With Confidence	Affordable Premium Pans	Shop Cookware Sets	Upgrade Your Kitchen	Aoocci offers premium non-stick cookware sets. Granite stone coating, stylish design.	Shop Aoocci for healthy cooking cookware. Induction compatible, dishwasher safe.	Aoocci cookware sets are durable and affordable. Upgrade your kitchen today.	Cook with confidence using Aoocci. Premium non-stick pots and pans for less.			Responsive search ad				
+Callout	Add		Aoocci																																			Instant Delivery			
+Callout	Add		Aoocci																																			4.8 Star Rating			
+Callout	Add		Aoocci																																			HD & Ultra HD Quality			
+Callout	Add		Aoocci																																			Secure Payment			
+Sitelink	Add		Aoocci												https://aoocci.com/?ref=gzgtgdgf#1																	Complete kitchen sets							Create new	Cookware Sets	Everything you need
+Sitelink	Add		Aoocci												https://aoocci.com/?ref=gzgtgdgf#2																	Granite coated pans							Create new	Non-Stick Pans	Easy cooking and cleanup
+Sitelink	Add		Aoocci												https://aoocci.com/?ref=gzgtgdgf#3																	Durable cooking pots							Create new	Pots & Stockpots	For soups and stews
+Sitelink	Add		Aoocci												https://aoocci.com/?ref=gzgtgdgf#4																	Save on Aoocci cookware							Create new	Sale	Special offers today

@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	willow.ie	Search	Google search; Search partners	154553	Manual CPC		United States; United Kingdom; Canada; France; Germany; Spain; Australia; Italy; Netherlands; Sweden	No																															
+Ad Group	Add		willow.ie								Ad group 1		927.32																												
+Keyword	Add		willow.ie								Ad group 1	willow ie		Exact																											
+Keyword	Add		willow.ie								Ad group 1	willow ireland		Exact																											
+Keyword	Add		willow.ie								Ad group 1	willow shop ireland		Exact																											
+Ad	Add		willow.ie								Ad group 1				https://www.willow.ie/?ref=wrtomqzi	{Keyword:Willow}	Irish Home & Gift Shop	Beautiful Homewares	Unique Irish Gifts	Candles & Fragrance	Home Decor & Living	Willow Official Store	Irish Artisan Products	Kitchenware & Dining	Gifts For Every Occasion	Free Irish Delivery	Personalised Gifts	Seasonal Collections	Shop Homeware Online	Discover Willow Today	Willow.ie offers beautiful homewares and unique Irish gifts. Shop online today.	Shop Willow for candles, home decor, and kitchenware. Free Irish delivery.	Willow official Irish store. Artisan products and gifts for every occasion.	Discover unique gifts and homewares at Willow.ie. Personalised options too.			Responsive search ad				
+Callout	Add		willow.ie																																			Instant Delivery			
+Callout	Add		willow.ie																																			4.8 Star Rating			
+Callout	Add		willow.ie																																			HD & Ultra HD Quality			
+Callout	Add		willow.ie																																			Secure Payment			
+Sitelink	Add		willow.ie												https://www.willow.ie/?ref=wrtomqzi#1																	Beautiful home accessories							Create new	Home Decor	Irish style living
+Sitelink	Add		willow.ie												https://www.willow.ie/?ref=wrtomqzi#2																	Unique gift ideas							Create new	Gifts	For every occasion
+Sitelink	Add		willow.ie												https://www.willow.ie/?ref=wrtomqzi#3																	Premium scented candles							Create new	Candles	Irish fragrance
+Sitelink	Add		willow.ie												https://www.willow.ie/?ref=wrtomqzi#4																	Quality kitchen items							Create new	Kitchenware	Dining essentials

@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	KugooEU Scooter	Search	Google search; Search partners	154553	Manual CPC		United States; Germany; Canada; France; United Kingdom; Ireland; Sweden; Italy; Australia; Denmark	No																															
+Ad Group	Add		KugooEU Scooter								Ad group 1		1236.42																												
+Keyword	Add		KugooEU Scooter								Ad group 1	kugoo		Exact																											
+Keyword	Add		KugooEU Scooter								Ad group 1	kugoo scooter		Exact																											
+Keyword	Add		KugooEU Scooter								Ad group 1	kugoo eu		Exact																											
+Ad	Add		KugooEU Scooter								Ad group 1				https://kugoo.eu/?ref=skijdfua	{Keyword:Kugoo}	Electric Scooters EU	Powerful E-Scooters	Adult Electric Scooters	Foldable & Portable	Long Range Scooters	Kugoo EU Official	Off-Road E-Scooters	Fast Urban Commute	Dual Motor Scooters	Safe Disc Brakes	LED Display Dashboard	Free EU Delivery	Shop E-Scooters Now	Ride Electric Today	Kugoo offers powerful electric scooters in EU. Foldable, long range, fast.	Shop Kugoo EU for adult e-scooters. Off-road and urban commute models.	Kugoo EU official store. Dual motor electric scooters with free delivery.	Ride electric today with Kugoo. Safe disc brakes, long range, foldable.			Responsive search ad				
+Callout	Add		KugooEU Scooter																																			Instant Delivery			
+Callout	Add		KugooEU Scooter																																			4.8 Star Rating			
+Callout	Add		KugooEU Scooter																																			HD & Ultra HD Quality			
+Callout	Add		KugooEU Scooter																																			Secure Payment			
+Sitelink	Add		KugooEU Scooter												https://kugoo.eu/?ref=skijdfua#1																	City commute e-scooters							Create new	Urban Scooters	Fast and foldable
+Sitelink	Add		KugooEU Scooter												https://kugoo.eu/?ref=skijdfua#2																	All-terrain scooters							Create new	Off-Road Scooters	Powerful dual motors
+Sitelink	Add		KugooEU Scooter												https://kugoo.eu/?ref=skijdfua#3																	Scooter parts and gear							Create new	Accessories	Protect and upgrade
+Sitelink	Add		KugooEU Scooter												https://kugoo.eu/?ref=skijdfua#4																	Save on e-scooters							Create new	Sale	Special EU offers

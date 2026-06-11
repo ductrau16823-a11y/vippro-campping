@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	ECO-WORTHY	Search	Google search; Search partners	154553	Manual CPC		United States; Germany; France; United Kingdom; Canada; Italy; Spain; Sweden; Netherlands; Australia	No																															
+Ad Group	Add		ECO-WORTHY								Ad group 1		1081.87																												
+Keyword	Add		ECO-WORTHY								Ad group 1	eco worthy		Exact																											
+Keyword	Add		ECO-WORTHY								Ad group 1	eco-worthy		Exact																											
+Keyword	Add		ECO-WORTHY								Ad group 1	eco worthy solar		Exact																											
+Ad	Add		ECO-WORTHY								Ad group 1				https://www.eco-worthy.com/?ref=ifobbrni	{Keyword:ECO-WORTHY}	Solar Panels & Kits	Off-Grid Solar Systems	LiFePO4 Batteries	Affordable Solar Energy	Complete Solar Kits	ECO-WORTHY Official	Solar Charge Controllers	Inverters & Batteries	RV & Home Solar Power	12V & 24V Solar Panels	Clean Energy Solutions	DIY Solar Installation	Save On Energy Bills	Go Solar Today	ECO-WORTHY offers affordable solar panels and kits. Off-grid solar energy.	Shop ECO-WORTHY for complete solar systems. LiFePO4 batteries and panels.	ECO-WORTHY official store. DIY solar for RV, home, and off-grid living.	Go solar today with ECO-WORTHY. Save on energy bills with clean power.			Responsive search ad				
+Callout	Add		ECO-WORTHY																																			Instant Delivery			
+Callout	Add		ECO-WORTHY																																			4.8 Star Rating			
+Callout	Add		ECO-WORTHY																																			HD & Ultra HD Quality			
+Callout	Add		ECO-WORTHY																																			Secure Payment			
+Sitelink	Add		ECO-WORTHY												https://www.eco-worthy.com/?ref=ifobbrni#1																	12V and 24V panels							Create new	Solar Panels	Affordable solar power
+Sitelink	Add		ECO-WORTHY												https://www.eco-worthy.com/?ref=ifobbrni#2																	Complete solar systems							Create new	Solar Kits	Everything included
+Sitelink	Add		ECO-WORTHY												https://www.eco-worthy.com/?ref=ifobbrni#3																	LiFePO4 battery packs							Create new	Batteries	Reliable energy storage
+Sitelink	Add		ECO-WORTHY												https://www.eco-worthy.com/?ref=ifobbrni#4																	Controllers and inverters							Create new	Accessories	Complete your system

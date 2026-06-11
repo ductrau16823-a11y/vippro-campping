@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Youxernet	Search	Google search; Search partners	100	Manual CPC		United States; Spain; United Kingdom; France; Canada; Italy; Australia; Germany; Netherlands; Ireland	No																															
+Ad Group	Add		Youxernet								Ad group 1		0.50																												
+Keyword	Add		Youxernet								Ad group 1	youxernet		Exact																											
+Keyword	Add		Youxernet								Ad group 1	youxer net		Exact																											
+Keyword	Add		Youxernet								Ad group 1	youxernet org		Exact																											
+Ad	Add		Youxernet								Ad group 1				https://sites.google.com/youxernet.com/youxernet-org?ref=evqvfqso	{Keyword:Youxernet}	Digital Tech Services	Online Solutions Hub	Tech Support & Tools	Digital Marketing Help	Web Solutions Provider	Youxernet Official Site	Affordable Tech Help	Business Digital Tools	Professional Services	Grow Your Business	Reliable Tech Partner	Online Presence Tools	Get Started Today	Shop Services Now	Youxernet offers digital tech services and online solutions for businesses.	Shop Youxernet for affordable tech support and digital marketing tools.	Youxernet official site. Professional web solutions and business tools.	Grow your business with Youxernet. Reliable digital tech partner.			Responsive search ad				
+Callout	Add		Youxernet																																			Instant Delivery			
+Callout	Add		Youxernet																																			4.8 Star Rating			
+Callout	Add		Youxernet																																			HD & Ultra HD Quality			
+Callout	Add		Youxernet																																			Secure Payment			
+Sitelink	Add		Youxernet												https://sites.google.com/youxernet.com/youxernet-org?ref=evqvfqso#1																	Digital tech services							Create new	Services	Professional solutions
+Sitelink	Add		Youxernet												https://sites.google.com/youxernet.com/youxernet-org?ref=evqvfqso#2																	Business digital tools							Create new	Tools	Grow your presence
+Sitelink	Add		Youxernet												https://sites.google.com/youxernet.com/youxernet-org?ref=evqvfqso#3																	Tech support help							Create new	Support	Reliable assistance
+Sitelink	Add		Youxernet												https://sites.google.com/youxernet.com/youxernet-org?ref=evqvfqso#4																	Get in touch today							Create new	Contact	Start your project

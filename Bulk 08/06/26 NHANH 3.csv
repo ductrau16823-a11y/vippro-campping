@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Sportdirect.ca	Search	Google search; Search partners	154553	Manual CPC		United Kingdom; Ireland; France; Belgium; United States; Spain; Portugal; Austria; Germany; Italy	No																															
+Ad Group	Add		Sportdirect.ca								Ad group 1		772.76																												
+Keyword	Add		Sportdirect.ca								Ad group 1	sportdirect		Exact																											
+Keyword	Add		Sportdirect.ca								Ad group 1	sport direct ca		Exact																											
+Keyword	Add		Sportdirect.ca								Ad group 1	sportdirect canada		Exact																											
+Ad	Add		Sportdirect.ca								Ad group 1				https://www.sportdirect.ca?sca_ref=11112749.1XMyp0ssgZ	{Keyword:SportDirect}	Sports Gear & Apparel	Shop Sports Equipment	Top Brands Low Prices	Running Shoes & Gear	Fitness & Training Wear	SportDirect Official	Footwear & Clothing	Outdoor Sports Gear	Free Shipping Deals	Shop Men & Women	Athletic Accessories	Gym & Workout Gear	Shop Best Deals Now	Save On Sports Gear	SportDirect offers sports gear and apparel at low prices. Top brands available.	Shop SportDirect for running shoes, fitness wear, and sports equipment online.	SportDirect Canada has athletic gear for men and women. Free shipping deals.	Save on sports gear at SportDirect. Footwear, clothing, and accessories.			Responsive search ad				
+Callout	Add		Sportdirect.ca																																			Instant Delivery			
+Callout	Add		Sportdirect.ca																																			4.8 Star Rating			
+Callout	Add		Sportdirect.ca																																			HD & Ultra HD Quality			
+Callout	Add		Sportdirect.ca																																			Secure Payment			
+Sitelink	Add		Sportdirect.ca												https://www.sportdirect.ca?sca_ref=11112749.1XMyp0ssgZ#1																	Running and training shoes							Create new	Shop Footwear	Top brands low prices
+Sitelink	Add		Sportdirect.ca												https://www.sportdirect.ca?sca_ref=11112749.1XMyp0ssgZ#2																	Men's athletic clothing							Create new	Men's Sports	Gear for every sport
+Sitelink	Add		Sportdirect.ca												https://www.sportdirect.ca?sca_ref=11112749.1XMyp0ssgZ#3																	Women's fitness apparel							Create new	Women's Sports	Stylish and functional
+Sitelink	Add		Sportdirect.ca												https://www.sportdirect.ca?sca_ref=11112749.1XMyp0ssgZ#4																	Best deals on sports gear							Create new	Sale	Save big today

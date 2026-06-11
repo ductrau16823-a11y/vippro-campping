@@ -1,0 +1,29 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	Frizzlife	Search	Google search; Search partners	154553	Manual CPC		United States; Germany; United Kingdom; France; Canada; Italy; Spain; Netherlands; Australia; Austria	No																															
+Ad Group	Add		Frizzlife								Ad group 1		309.11																												
+Keyword	Add		Frizzlife								Ad group 1	frizzlife		Exact																											
+Keyword	Add		Frizzlife								Ad group 1	frizzlife water filter		Exact																											
+Keyword	Add		Frizzlife								Ad group 1	frizzlife ro system		Exact																											
+Ad	Add		Frizzlife								Ad group 1				https://www.frizzlife.com/?ref=rsubhaxc&utm_source=affiliate	{Keyword:Frizzlife}	Water Filtration Systems	Under Sink Water Filters	Reverse Osmosis Systems	Clean Drinking Water	Easy DIY Installation	Frizzlife Official Store	Whole House Filters	Remove 99.99% Impurities	Tankless RO Systems	NSF Certified Filters	Affordable Water Filters	Replacement Cartridges	Pure Water At Home	Shop Filters Now	Frizzlife water filtration systems remove 99.99% impurities. Clean drinking water.	Shop Frizzlife for under sink and reverse osmosis water filters. Easy DIY install.	Frizzlife NSF certified water filters. Tankless RO systems for your home.	Pure water at home with Frizzlife. Affordable filtration systems and cartridges.			Responsive search ad				
+Callout	Add		Frizzlife																																			Instant Delivery			
+Callout	Add		Frizzlife																																			4.8 Star Rating			
+Callout	Add		Frizzlife																																			HD & Ultra HD Quality			
+Callout	Add		Frizzlife																																			Secure Payment			
+Sitelink	Add		Frizzlife												https://www.frizzlife.com/?ref=rsubhaxc&utm_source=affiliate#1																	Easy install filters							Create new	Under Sink Filters	Clean water fast
+Sitelink	Add		Frizzlife												https://www.frizzlife.com/?ref=rsubhaxc&utm_source=affiliate#2																	Reverse osmosis systems							Create new	RO Systems	Remove 99.99% impurities
+Sitelink	Add		Frizzlife												https://www.frizzlife.com/?ref=rsubhaxc&utm_source=affiliate#3																	Filter cartridge refills							Create new	Replacement Filters	Keep water pure
+Sitelink	Add		Frizzlife												https://www.frizzlife.com/?ref=rsubhaxc&utm_source=affiliate#4																	Whole house filtration							Create new	Whole House	Clean water everywhere
+Campaign	Add	Enabled	Procase	Search	Google search; Search partners	154553	Manual CPC		Germany; United States; France; Canada; Australia; United Kingdom; Italy; Spain; Switzerland; Austria	No																															
+Ad Group	Add		Procase								Ad group 1		309.11																												
+Keyword	Add		Procase								Ad group 1	procase		Exact																											
+Keyword	Add		Procase								Ad group 1	procase cover		Exact																											
+Keyword	Add		Procase								Ad group 1	procase tablet case		Exact																											
+Ad	Add		Procase								Ad group 1				https://procase.com/?ref=jrgynmfl	{Keyword:Procase}	Tablet & Phone Cases	Protective Device Cases	iPad Cases & Covers	Samsung Tablet Cases	Slim Folio Book Covers	Procase Official Store	Screen Protectors	Laptop Sleeves & Bags	Kindle Case Covers	Shop By Device Brand	Durable & Lightweight	Affordable Protection	Shop Cases On Sale	Protect Your Devices	Procase offers tablet and phone cases. iPad, Samsung, Kindle covers and more.	Shop Procase for slim folio cases and screen protectors. Affordable protection.	Procase official store. Durable lightweight cases for tablets and phones.	Protect your devices with Procase. Laptop sleeves, tablet cases, and covers.			Responsive search ad				
+Callout	Add		Procase																																			Instant Delivery			
+Callout	Add		Procase																																			4.8 Star Rating			
+Callout	Add		Procase																																			HD & Ultra HD Quality			
+Callout	Add		Procase																																			Secure Payment			
+Sitelink	Add		Procase												https://procase.com/?ref=jrgynmfl#1																	Folio and smart covers							Create new	iPad Cases	For all iPad models
+Sitelink	Add		Procase												https://procase.com/?ref=jrgynmfl#2																	Galaxy tablet covers							Create new	Samsung Cases	Slim protective design
+Sitelink	Add		Procase												https://procase.com/?ref=jrgynmfl#3																	Padded laptop bags							Create new	Laptop Sleeves	Lightweight protection
+Sitelink	Add		Procase												https://procase.com/?ref=jrgynmfl#4																	Tempered glass protectors							Create new	Screen Protectors	Crystal clear protection

@@ -1,0 +1,15 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	carpuride	Search	Google search; Search partners	154553	Manual CPC		France; Spain; Germany; Italy; United States; Netherlands; United Kingdom; Portugal; Belgium; Canada	No																															
+Ad Group	Add		carpuride								Ad group 1		927.32																												
+Keyword	Add		carpuride								Ad group 1	carpuride		Exact																											
+Keyword	Add		carpuride								Ad group 1	carpuride display		Exact																											
+Keyword	Add		carpuride								Ad group 1	carpuride car screen		Exact																											
+Ad	Add		carpuride								Ad group 1				https://carpuride.com/?ref=sdhljckv	{Keyword:Carpuride}	Car Display Screens	Portable Car Stereos	Apple CarPlay Display	Android Auto Screens	Touch Screen Car Unit	Carpuride Official Store	Wireless CarPlay Ready	Dash Mount Displays	7 & 9 Inch Screens	Bluetooth Car Audio	Easy Install Car Screen	GPS Navigation Display	Shop Car Screens Now	Upgrade Your Drive	Carpuride portable car displays with Apple CarPlay and Android Auto support.	Shop Carpuride for wireless CarPlay screens. 7 and 9 inch touch displays.	Carpuride official store. Easy install car screens with GPS and Bluetooth.	Upgrade your drive with Carpuride. Portable car stereos and dash displays.			Responsive search ad				
+Callout	Add		carpuride																																			Instant Delivery			
+Callout	Add		carpuride																																			4.8 Star Rating			
+Callout	Add		carpuride																																			HD & Ultra HD Quality			
+Callout	Add		carpuride																																			Secure Payment			
+Sitelink	Add		carpuride												https://carpuride.com/?ref=sdhljckv#1																	Wireless Apple CarPlay							Create new	CarPlay Screens	Touch screen displays
+Sitelink	Add		carpuride												https://carpuride.com/?ref=sdhljckv#2																	Android Auto displays							Create new	Android Auto	Smart car screens
+Sitelink	Add		carpuride												https://carpuride.com/?ref=sdhljckv#3																	Compact car displays							Create new	7 Inch Screens	Perfect dash fit
+Sitelink	Add		carpuride												https://carpuride.com/?ref=sdhljckv#4																	Large touch displays							Create new	9 Inch Screens	More screen space
