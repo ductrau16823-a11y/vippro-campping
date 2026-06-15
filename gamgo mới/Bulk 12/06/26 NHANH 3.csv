@@ -1,0 +1,26 @@
+Row Type	Action	Campaign status	Campaign	Campaign type	Networks	Budget	Bid strategy type	Campaign start date	Location	EU political ads	Ad Group	Keyword	Default max. CPC	Keyword type	Final URL	Headline 1	Headline 2	Headline 3	Headline 4	Headline 5	Headline 6	Headline 7	Headline 8	Headline 9	Headline 10	Headline 11	Headline 12	Headline 13	Headline 14	Headline 15	Description 1	Description 2	Description 3	Description 4	Path 1	Path 2	Ad type	Callout text	Asset action	Sitelink text	Description
+Campaign	Add	Enabled	GamsGo	Search	Google search; Search partners	152251	Manual CPC		France; Germany; Italy; Spain; Switzerland; United States; Belgium; Austria; Netherlands; United Kingdom	No																															
+Ad Group	Add		GamsGo								Ad group 1		121.80																												
+Keyword	Add		GamsGo								Ad group 1	gamsgo		Exact																											
+Keyword	Add		GamsGo								Ad group 1	gamsgo netflix		Exact																											
+Keyword	Add		GamsGo								Ad group 1	gamsgo streaming accounts		Exact																											
+Ad	Add		GamsGo								Ad group 1				https://www.gamsgo.com/partner/4E9Eq	{Keyword:GamsGo}	Cheap Streaming Accounts	Netflix Premium For Less	Instant Account Delivery	HD & Ultra HD Streaming	4.8 Star Customer Rating	Save On Subscriptions	Trusted By Thousands	Affordable Entertainment	Stream Movies & Shows	Best Streaming Deals	Secure Account Purchase	Automatic Delivery System	Watch Anywhere Anytime	Budget-Friendly Plans	Get Netflix Premium accounts at unbeatable prices on GamsGo. Instant automatic delivery.	Save big on streaming subscriptions. HD and Ultra HD quality. 4.8-star rated by customers.	GamsGo offers affordable streaming accounts with automatic delivery and secure payments.	Join thousands of satisfied customers. Stream your favorite shows and movies for less.			Responsive search ad				
+Callout	Add		GamsGo																																			Instant Delivery			
+Callout	Add		GamsGo																																			4.8 Star Rating			
+Callout	Add		GamsGo																																			HD & Ultra HD Quality			
+Callout	Add		GamsGo																																			Secure Payment			
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#1																								Create new	Netflix Premium	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#2																								Create new	Get Netflix Premium at	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#3																								Create new	the lowest price online	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#4																								Create new	How It Works	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#5																								Create new	Simple purchase process	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#6																								Create new	with instant delivery	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#7																								Create new	Customer Reviews	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#8																								Create new	4.8-star rating from	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#9																								Create new	over 3600 happy users	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#10																								Create new	Pricing Plans	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#11																								Create new	Affordable streaming plans	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#12																								Create new	for every budget	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#13																								Create new	Support Center	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#14																								Create new	Get help with your	
+Sitelink	Add		GamsGo												https://www.gamsgo.com/partner/4E9Eq#15																								Create new	account anytime 24/7	
